@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1990-01-11
+Version Consolidée au 1990-09-26
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -16930,6 +16930,10 @@ entre le fournisseur de services et l'administration des télécommunications ;
 Il peut être saisi, pour avis, par un fournisseur de service auquel a été refusé le bénéfice de l'un des kiosques
 télématiques ou téléphoniques.
 
+Le comité consultatif des kiosques télématiques et téléphoniques peut être également saisi par l'un de ses membres de toute
+question relative à l'accès ou au maintien d'un fournisseur de services au kiosque télématique ou téléphonique, ou au respect
+par un fournisseur de services des engagements résultant de la convention conclue en application de l'article R. 54-1.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -16940,15 +16944,9 @@ _Codifié par_:
 
   - Décret n°62-275 1962-03-12
 
-_Créé par_:
-
-  - Décret n°87-860 1987-10-24 art. 1 JORF 27 octobre 1987
-
 _Modifié par_:
 
-  - Décret n°87-1156 1987-12-31 art. 1 JORF 3 janvier 1988
-  - Décret n°88-687 1988-05-06 art. 3 JORF 8 mai 1988
-  - Décret n°88-1140 1988-12-21 art. 1 JORF 22 décembre 1988
+  - Décret n°90-855 du 24 septembre 1990 - art. 1 () JORF 26 septembre 1990
 
 
 ###### Article D406-3
