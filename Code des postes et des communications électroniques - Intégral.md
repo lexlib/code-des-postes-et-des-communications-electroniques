@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1996-12-29
+Version Consolidée au 1996-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L126)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -8349,8 +8349,8 @@ tarif réduit.
 
 La location des fils utilisés par les journaux et agences de presse bénéficie également d'une réduction.
 
-Une subvention annuelle est inscrite, au profit de l'exploitant public, au budget général en compensation des réductions
-tarifaires accordées en application des articles R. 15 à R. 20.
+Une subvention annuelle est inscrite, au profit des opérateurs, au budget général en compensation des réductions tarifaires
+accordées en application des articles R. 15 à R. 20.
 
 **Nota:**
 
@@ -8368,7 +8368,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+  - Décret n°96-1225 du 27 décembre 1996 - art. 1 (Ab) JORF 31 décembre 1996
 
 _Codifié par_:
 
@@ -8409,8 +8409,8 @@ _Codifié par_:
 Les journaux et agences intéressés doivent adresser au secrétariat de la commission prévue à l'article R. 19, [*délai*] au
 plus tard le dernier jour du mois suivant chaque période de deux mois, le relevé des dépenses qu'ils ont supportées au cours
 de cette période au titre des communications visées à l'article R. 16. Ce relevé doit faire apparaître séparément le montant
-des communications remboursées à chaque correspondant de presse et le montant de celles payées à l'exploitant public au titre
-de communications payables à l'arrivée. Il doit être certifié conforme par le directeur du journal ou de l'agence.
+des communications remboursées à chaque correspondant de presse et le montant de celles payées aux opérateurs au titre de
+communications payables à l'arrivée. Il doit être certifié conforme par le directeur du journal ou de l'agence.
 
 **Nota:**
 
@@ -8428,7 +8428,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+  - Décret n°96-1225 du 27 décembre 1996 - art. 1 (Ab) JORF 31 décembre 1996
 
 _Codifié par_:
 
