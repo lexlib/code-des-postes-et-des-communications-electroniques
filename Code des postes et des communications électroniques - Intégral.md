@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1998-05-16
+Version Consolidée au 1999-01-09
 ## Contenu: 
   - [Partie législative (art. L1 à L126)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -232,7 +232,7 @@ Version Consolidée au 1998-05-16
         - [CHAPITRE II : Installations et réseaux radioélectriques indépendants. (art. D459 à D463)](#229)
         - [CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs. (art. D473)](#230)
         - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#231)
-    - [LIVRE II : Les télécommunications (art. D98-1 à D456)](#232)
+    - [LIVRE II : Les télécommunications (art. D98-1 à D406-3)](#232)
       - [TITRE Ier : Dispositions générales (art. D98-1 à D406-3)](#233)
         - [Chapitre II : Régime juridique (art. D98-1 à D99-22)](#234)
           - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-1 à D98-2)](#235)
@@ -245,17 +245,13 @@ Version Consolidée au 1998-05-16
         - [CHAPITRE  V : Services particuliers des télécommunications (art. D369 à D379)](#242)
           - [SECTION 2 : Liaisons louées (art. D369 à D379)](#243)
         - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1-1 à D406-3)](#244)
-      - [TITRE II : Etablissement des lignes (art. D440 à D455)](#245)
-        - [CHAPITRE III : Fourniture et entretien des installations de télécommunications. (art. D440 à D455)](#246)
-      - [TITRE IV : Police des liaisons et des installations du réseau de télécommunications (art. D456)](#247)
-        - [CHAPITRE Ier : Dispositions générales. (art. D456)](#248)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#249)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#250)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#251)
-      - [TITRE II : Mandats. (art. D523 à D548)](#252)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#253)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#254)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#255)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#245)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#246)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#247)
+      - [TITRE II : Mandats. (art. D523 à D548)](#248)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#249)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#250)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#251)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -22451,451 +22447,9 @@ _Modifié par_:
   - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
 
 
-### TITRE II : Etablissement des lignes<a id=245></a>
+## LIVRE III : Les services financiers<a id=245></a>
 
-#### CHAPITRE III : Fourniture et entretien des installations de télécommunications.<a id=246></a>
-
-###### Article D440
-
-Les appareils et installations de télécommunications desservant une ligne d'abonnement, une voie radioélectrique, une liaison
-spécialisée ou une ligne d'intérêt privé peuvent être fournis soit par l'administration des postes et télécommunications,
-soit par l'usager. Toutefois, les appareils installés dans les centres de télécommunications sont obligatoirement fournis par
-l'administration des postes et télécommunications.
-
-L'abonné doit accorder aux agents de l'administration des postes et télécommunications, qui justifient de leur qualité,
-l'accès à des heures convenables des locaux où sont installés lesdits appareils et installations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D277 (Ab)
-
-
-###### Article D441
-
-Les appareils et installations fournis par l'administration des postes et télécommunications sont obligatoirement mis en
-place et entretenus par elle et restent sa propriété.
-
-L'administration des postes et télécommunications peut vendre des matériels de télécommunications.
-
-Les matériels vendus par l'administration des postes et télécommunications sont considérés, au sens du présent code, comme
-étant fournis par l'usager.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-
-###### Article D442
-
-Les appareils et installations de télécommunications fournis par l'utilisateur sont soumis à une autorisation préalable de
-mise en service donnée par la direction générale des télécommunications.
-
-Toutefois, cette autorisation n'est pas exigée pour les matériels de péritéléphonie répondant aux conditions définies par la
-direction générale des télécommunications. Elle peut être donnée, a posteriori, dans des conditions fixées par arrêté, pour
-les installations téléphoniques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-
-###### Article D443
-
-Les appareils et installations télégraphiques fournis par l'utilisateur sont installés et entretenus aux frais de celui-ci
-par un installateur admis par la direction générale des télécommunications, à l'exception des appareils téléimprimeurs
-desservant une ligne d'abonnement télex qui doivent être installés par la direction générale des télécommunications et
-entretenus soit par celle-ci, soit par un installateur admis.
-
-Les appareils et installations télégraphiques et télex, fournis par l'utilisateur, doivent être d'un type agréé par la
-direction générale des télécommunications et estampillés par celle-ci avant mise en service.
-
-Ils peuvent être assujettis à un contrôle périodique effectué par la direction générale des télécommunications aux frais de
-l'utilisateur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°90-18 1990-01-04 art. 3
-
-_Abrogé par_:
-
-  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-
-###### Article D444
-
-Les postes, appareils et installations téléphoniques fournis par l'abonné sont, suivant le type et la capacité du matériel
-choisi, mis en place et entretenus, soit par l'administration chargée des télécommunications, soit par un installateur admis
-par elle, soit par l'usager.
-
-L'entretien par l'administration des postes et télécommunications est exclusif de la fourniture de pièces de rechange et des
-générateurs d'électricité. Toutefois, l'administration fournit gratuitement les générateurs d'électricité nécessaires au
-fonctionnement des postes simples, principaux et supplémentaires, à condition que ces postes ne puissent être utilisés que
-pour des communications avec le réseau général, à l'exclusion de toute communication intérieure.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°90-18 1990-01-04 art. 3
-
-_Abrogé par_:
-
-  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-
-###### Article D445
-
-Les postes radiotéléphoniques visés à l'article D. 330 fournis par l'usager sont installés et entretenus aux frais de celui-
-ci par un installateur admis par l'administration des postes et télécommunications.
-
-Ils doivent être conformes aux prototypes agréés par l'administration des postes et télécommunications et être plombés avant
-mise en service. Ils peuvent être assujettis à un contrôle périodique effectué par l'administration des postes et
-télécommunications aux frais de l'usager.
-
-Les matériels de radiocommunications des stations radioélectriques privées subordonnées à l'autorisation administrative
-prévue à l'article L. 89 (1er alinéa) du présent code sont installés et entretenus aux frais de l'usager par un installateur
-admis par l'administration des postes et télécommunications. Cette obligation ne s'applique pas aux stations radioélectriques
-privées des 2e et 3e catégories définies à l'article D. 464.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L89, D330 et D464
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-
-###### Article D446
-
-L'abonné est responsable du matériel mis à sa disposition. En cas de mise hors d'usage, provenant de son fait, ou en cas de
-perte pour quelque cause que ce soit, l'abonné doit rembourser le prix de remplacement de ce matériel, au cours en vigueur au
-moment du remplacement, y compris les majorations forfaitaires pour dépenses annexes.
-
-L'abonné est responsable des accidents qui résulteraient pendant ou après l'exécution des travaux de pose de son
-installation, de contacts avec les canalisations dissimulées de toute nature (gaz, eau, électricité, etc.) ou de la proximité
-de ces canalisations dont il n'aurait pas, au préalable, fait connaître le parcours ou même la simple existence aux
-représentants de l'administration des postes et télécommunications.
-
-L'abonné supporte les risques de toute nature inhérents aux installations et assume personnellement, vis-à-vis des tiers la
-responsabilité des dommages qui pourraient provenir du fonctionnement de ces installations.
-
-De même, la réparation des dérangements ou des détériorations qui ne sont pas le fait de l'usage normal des appareils est à
-la charge de l'abonné qui doit rembourser le montant des dépenses faites en matériel et en main-d'oeuvre, y compris les
-majorations forfaitaires pour dépenses annexes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-
-###### Article D447
-
-L'abonné qui fournit un appareil ou une installation prend l'engagement de les faire remplacer ou modifier à ses frais et
-selon les indications de l'exploitant public si les changements apportés par ce dernier dans les conditions d'exploitation du
-réseau rendent nécessaire ce remplacement ou cette modification. Toutefois, lorsqu'un changement dans les conditions
-d'exploitation du réseau rend nécessaire le remplacement d'une installation, l'exploitant public informe l'abonné de ce
-changement dix-huit mois à l'avance [*délai*], faute de quoi il ne peut être mis à la charge définitive de l'abonné qu'une
-partie des frais proportionnelle à la durée effective du préavis.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°94-891 du 13 octobre 1994 - art. 1 () JORF 18 octobre 1994
-
-_Abrogé par_:
-
-  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-
-###### Article D448
-
-Le ou les postes ou installations de télécommunications sont établis à l'endroit désigné par le titulaire dans les locaux
-qu'il occupe.
-
-Ce dernier doit prendre à sa charge les diverses réparations qu'entraînerait l'établissement ou la suppression des
-installations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-
-###### Article D449
-
-Dans le cas où l'installation est mise en place par l'administration des postes et télécommunications, le titulaire ne peut
-obtenir, à partir du moment où les travaux sont commencés, l'installation du ou des postes en un endroit autre que celui
-primitivement désigné, s'il ne s'engage à acquitter les frais qu'exigerait ce changement aux conditions fixées par l'article
-D. 453.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D453
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-
-###### Article D451
-
-Lorsque le contrôle des installations de télécommunications exige un matériel spécial, l'usager est tenu de pourvoir aux
-frais d'acquisition, d'installation et d'entretien des appareils nécessaires pour assurer ce contrôle.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-
-###### Article D452
-
-Dans les réseaux où les prix des communications téléphoniques sont imputés au compteur de l'abonné demandeur et si
-l'équipement du centre de rattachement le permet, les abonnés sont autorisés à faire équiper leurs lignes téléphoniques de
-compteurs d'impulsions installés près des postes d'abonnement. Ces compteurs sont fournis et entretenus par l'industrie
-privée et doivent être d'un modèle agréé par l'administration des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-
-###### Article D453
-
-Les changements d'installation effectués par l'administration des postes et télécommunications à la demande des abonnés,
-ainsi que les réparations et remplacements de pièces intéressant des installations entretenues par elle et non consécutifs à
-l'usure normale des appareils, donnent lieu, soit au versement des taxes forfaitaires fixées par décret, soit au
-remboursement des dépenses faites y compris la majoration forfaitaire pour dépenses annexes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-
-###### Article D454
-
-Lorsque des organes sont ajoutés à une installation de télécommunications à la demande d'un abonné, les lignes associées à
-ces organes sont établies et entretenues contre remboursement des dépenses faites, y compris les majorations forfaitaires
-pour dépenses annexes. Il en est de même en ce qui concerne les lignes nécessaires pour les communications internes dans les
-installations d'intercommunication.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-
-###### Article D455
-
-Les abonnements relatifs à la location-entretien des appareils, postes et installations téléphoniques ont une durée minimum
-de six mois, exceptions faites :
-
-- des matériels fournis à titre temporaire ;
-
-- et des installations téléphoniques complexes ; pour ces dernières, la durée minimale variable selon le type de matériel,
-est fixée par arrêté du ministre chargé des télécommunications.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-
-### TITRE IV : Police des liaisons et des installations du réseau de télécommunications<a id=247></a>
-
-#### CHAPITRE Ier : Dispositions générales.<a id=248></a>
-
-###### Article D456
-
-Il est interdit à un abonné au téléphone ou concessionnaire ou locataire de liaisons de télécommunications :
-
-1° De modifier en quoi que ce soit, sans autorisation de l'administration, son installation, qu'elle ait été effectuée par
-l'administration ou agréée par elle ;
-
-2° De mettre en service, avant autorisation de l'administration ou avant vérification par ses agents, une installation de
-télécommunications réalisée par l'industrie privée ;
-
-3° De greffer aucun fil sur l'installation qui lui a été concédée.
-
-L'inobservation de ces dispositions entraîne l'application à l'usager intéressé de surtaxes fixées par décret.
-
-Toutefois, après examen des circonstances, l'administration des postes et télécommunications est autorisée à admettre des
-détaxes qu'elle fixera dans chaque cas particulier.
-
-Ces surtaxes sont indépendantes du reversement à l'Etat du montant des redevances non perçues. Il est procédé, le cas
-échéant, à la signature des engagements réglementaires dont la date de mise en vigueur est reportée à la date présumée de
-mise en service de l'installation modifiée.
-
-Il est également procédé, aux frais de l'abonné, à la régularisation matérielle de l'installation.
-
-En cas de récidive, les surtaxes précitées sont doublées.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L134
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-
-## LIVRE III : Les services financiers<a id=249></a>
-
-### TITRE Ier : Chèques postaux.<a id=250></a>
+### TITRE Ier : Chèques postaux.<a id=246></a>
 
 ###### Article D488
 
@@ -23240,7 +22794,7 @@ _Cite_:
   - Code des postes et des communications électroniques L109 al. 1
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=251></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=247></a>
 
 ###### Article D489
 
@@ -23747,7 +23301,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE II : Mandats.<a id=252></a>
+### TITRE II : Mandats.<a id=248></a>
 
 ###### Article D523
 
@@ -24022,7 +23576,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D540 (Ab)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=253></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=249></a>
 
 ###### Article D525
 
@@ -24436,7 +23990,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=254></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=250></a>
 
 ###### Article D549
 
@@ -24622,7 +24176,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=255></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=251></a>
 
 ###### Article D553
 
