@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1993-12-02
+Version Consolidée au 1994-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L126)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -1805,19 +1805,24 @@ k) la durée, les conditions de cessation et de renouvellement de l'autorisation
 
 II. - Sous réserve des engagements internationaux souscrits par la France comportant une clause de réciprocité applicable au
 secteur des télécommunications, l'autorisation visée au présent article ne peut être accordée à une société dans laquelle
-plus de 20 p. 100 du capital social ou des droits de vote sont détenus, directement ou indirectement, par des personnes de
+plus de 20 % du capital social ou des droits de vote sont détenus, directement ou indirectement, par des personnes de
 nationalité étrangère.
 
 De même, aucune personne de nationalité étrangère ne peut procéder à une acquisition ayant pour effet de porter, directement
-ou indirectement, la part détenue par des personnes de nationalité étrangère à plus de 20 p. 100 du capital social ou des
-droits de vote dans les assemblées générales d'une société titulaire d'une autorisation.
+ou indirectement, la part détenue par des personnes de nationalité étrangère à plus de 20 % du capital social ou des droits
+de vote dans les assemblées générales d'une société titulaire d'une autorisation.
 
 Est considérée comme personne de nationalité étrangère, pour l'application du présent article, toute personne physique de
 nationalité étrangère, toute société dont la majorité du capital social n'est pas détenue, directement ou indirectement, par
 des personnes physiques ou morales de nationalité française.
 
 Les dispositions du présent paragraphe ne sont pas applicables aux personnes, physiques ou morales, ressortissant d'un Etat
-membre des Communautés européennes.
+membre des Communautés européennes ou d'un aute Etat partie à l'accord sur l'Espace économique européen.
+
+**Nota:**
+
+NOTA : Entrée en vigueur des articles 1 à 9 de la loi 93-1420 du 31 décembre 1993 à la date d'entrée en vigueur de l'accord
+sur l'Espace économique européen.
 
 **Liens relatifs à cet article**
 
@@ -1916,10 +1921,13 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R9-9 (Ab)
   - Code général des impôts, CGI. - art. 302 bis KH (V)
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°90-1170 1990-12-29 art. 1, 3 et 4 JORF 30 décembre 1990
-  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
+  - SPEC_APPLI: Loi n°93-1420 1993-12-31 art. 10
+
+_Modifié par_:
+
+  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
 
 _Codifié par_:
 
@@ -2495,16 +2503,25 @@ en télécommunications et en radiocommunications des personnes appelées à rac
 équipements ou installations.
 
 Les équipements terminaux ou installations soumis à l'agrément mentionné ci-dessus ne peuvent être fabriqués pour le marché
-intérieur, importés, pour la mise à la consommation, de pays n'appartenant pas aux Communautés européennes, détenus en vue de
-la vente, mis en vente, distribués à titre gratuit ou onéreux, connectés à un réseau ouvert au public ou faire l'objet de
-publicité que s'ils ont fait l'objet de cet agrément et sont à tout moment conformes à celui-ci.
+intérieur, importés, pour la mise à la consommation, de pays n'appartenant pas aux Communautés européennes ou à l'espace
+économique européen, détenus en vue de la vente, mis en vente, distribués à titre gratuit ou onéreux, connectés à un réseau
+ouvert au public ou faire l'objet de publicité que s'ils ont fait l'objet de cet agrément et sont à tout moment conformes à
+celui-ci.
+
+**Nota:**
+
+NOTA : Entrée en vigueur des articles 1 à 9 de la loi 93-1420 du 31 décembre 1993 à la date d'entrée en vigueur de l'accord
+sur l'Espace économique européen.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°90-1170 1990-12-29 art. 1, 3 et 6 JORF 30 décembre 1990
-  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
+  - SPEC_APPLI: Loi n°93-1420 1993-12-31 art. 10
+
+_Modifié par_:
+
+  - Loi n°93-1420 du 31 décembre 1993 - art. 2 () JORF 1er janvier 1994
 
 _Cité par_:
 
@@ -2519,6 +2536,11 @@ _Cité par_:
   - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
   - Arrêté du 22 octobre 1997 - art. ANNEXE (V)
   - Arrêté du 28 juillet 1998 - art. ANNEXE (V)
+  - Décret n°2006-1278 du 18 octobre 2006 - art. 2 (VT)
+  - Loi n°2010-788 du 12 juillet 2010 - art. 184 (V)
+  - Décret n°2015-1084 du 27 août 2015 - art. 1 (V)
+  - Ordonnance n°2016-493 du 21 avril 2016 - art. 6 (VD)
+  - Décret n°2017-599 du 21 avril 2017 - art. 4
   - Code des postes et des communications électroni... - art. D406-11 (V)
   - Code des postes et des communications électroni... - art. L36-7 (V)
   - Code des postes et des communications électroni... - art. L39-1 (V)
@@ -2528,19 +2550,14 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. L65-1 (V)
   - Code des postes et des communications électroni... - art. R20-44-11 (V)
   - Code des postes et des communications électronique - art. D485 (T)
-  - Décret n°2006-1278 du 18 octobre 2006 - art. 2 (VT)
-  - Loi n°2010-788 du 12 juillet 2010 - art. 184 (V)
-  - Décret n°2015-1084 du 27 août 2015 - art. 1 (V)
-  - Ordonnance n°2016-493 du 21 avril 2016 - art. 6 (VD)
-  - Décret n°2017-599 du 21 avril 2017 - art. 4
-
-_Cite_:
-
-  - Code des postes et télécommunications L32, L33
 
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
+
+_Cite_:
+
+  - Code des postes et télécommunications L32, L33
 
 
 ##### SECTION 4 : Dispositions diverses.<a id=20></a>
