@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1965-05-26
+Version Consolidée au 1965-06-13
 ## Contenu: 
   - [Partie législative (art. L1 à L125)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -74,7 +74,7 @@ Version Consolidée au 1965-05-26
         - [CHAPITRE II : Excédents de recettes et de dépenses - Disponibilités de caisse. (art. R*91 à R*92)](#71)
       - [TITRE V : Fonds spéciaux. (art. R*93 à R*104)](#72)
   - [Partie réglementaire - Décrets simples (art. D1 à D579)](#73)
-    - [LIVRE Ier : Le service postal (art. D1 à D96)](#74)
+    - [LIVRE Ier : Le service postal (art. D1 à D95-3)](#74)
       - [TITRE Ier : Dispositions générales (art. D1 à D36)](#75)
         - [Chapitre Ier : Le monopole postal. (art. D1 à D2)](#76)
         - [Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances. (art. D3)](#77)
@@ -100,7 +100,7 @@ Version Consolidée au 1965-05-26
       - [TITRE VI : Distribution postale (art. D92 à D93)](#97)
         - [Chapitre Ier : Distribution à domicile. (art. D92)](#98)
         - [Chapitre II : Distribution au guichet. (art. D93)](#99)
-      - [TITRE VII : Poste maritime. (art. D94-1 à D96)](#100)
+      - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#100)
     - [LIVRE II : Le service des télécommunications (art. D98 à D487)](#101)
       - [TITRE Ier : Dispositions générales (art. D98 à D406)](#102)
         - [CHAPITRE III : Télégraphe (art. D98 à D287)](#103)
@@ -9023,31 +9023,6 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-###### Article D96
-
-**Nota:**
-
-[*(Abrogé par le décret n° 65-444 du 8 juin 1965)*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L59 al. 1er à 4
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°65-444 1965-06-08 art. 1 JORF 13 juin 1965
 
 
 ## LIVRE II : Le service des télécommunications<a id=101></a>
