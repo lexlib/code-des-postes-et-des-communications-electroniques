@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1993-07-29
+Version Consolidée au 1993-08-05
 ## Contenu: 
   - [Partie législative (art. L1 à L126)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -88,8 +88,8 @@ Version Consolidée au 1993-07-29
             - [PARAGRAPHE II : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#85)
       - [TITRE VI : Services radioélectriques (art. R*52-1)](#86)
         - [CHAPITRE Ier : Dispositions générales. (art. R*52-1)](#87)
-    - [LIVRE III : Les services financiers (art. R52-10)](#88)
-      - [TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005). (art. R52-10)](#89)
+    - [LIVRE III : Les services financiers (art. R52-10 à R52-11)](#88)
+      - [TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005). (art. R52-10 à R52-11)](#89)
     - [LIVRE IV : L'organisation financière (art. R*53 à R*104)](#90)
       - [TITRE Ier : Constitution du budget annexe. (art. R*53 à R54-3)](#91)
       - [TITRE II : Dispositions budgétaires (art. R*56 à R*71)](#92)
@@ -9677,6 +9677,32 @@ _Abrogé par_:
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
+
+
+###### Article R52-11
+
+Les actes relatifs aux cessions, aux saisies conservatoires et aux saisies-attribution pratiquées à l'encontre des titulaires
+de comptes courants postaux sont notifiés au centre de chèques postaux où sont tenus les comptes faisant l'objet de ces
+actes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°93-977 du 31 juillet 1993 - art. 12 () JORF 5 août 1993
+
+_Abrogé par_:
+
+  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. R652-2 (T)
+  - Code rural et de la pêche maritime - art. R725-12 (M)
 
 
 ## LIVRE IV : L'organisation financière<a id=90></a>
@@ -22129,35 +22155,6 @@ _Modifié par_:
 _Abrogé par_:
 
   - Décret n°96-199 du 13 mars 1996 - art. 1 () JORF 15 mars 1996 en vigueur le 31 mars 1996
-
-
-###### Article D522
-
-Les règles des saisies-arrêts et oppositions ès mains des fonctionnaires publics s'appliquent au service des chèques postaux.
-Les exploits doivent être signifiés au chef de centre de chèques postaux où sont tenus les comptes courants.
-
-**Nota:**
-
-[* Les mots " chef d'établissement " sont substitués à ceux de : " receveur " ou " chef de centre ", par l'article 1er du
-décret n° 91-70 du 17 janvier 1991. *]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L178
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°93-977 1993-07-31 art. 5 JORF 5 août 1993
 
 
 #### (en vigueur jusqu'au 31 décembre 2005).<a id=265></a>
