@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1994-10-18
+Version Consolidée au 1994-10-22
 ## Contenu: 
   - [Partie législative (art. L1 à L126)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -222,63 +222,56 @@ Version Consolidée au 1994-10-18
       - [TITRE VI : Les services radioélectriques (art. D457 à D487)](#219)
         - [CHAPITRE Ier : Dispositions générales. (art. D457 à D458)](#220)
         - [CHAPITRE II : Installations et réseaux radioélectriques indépendants. (art. D459 à D463)](#221)
-        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#222)
-    - [LIVRE II : Les télécommunications (art. D96-1 à D482-10)](#223)
-      - [TITRE Ier : Dispositions générales (art. D96-1 à D406-3)](#224)
-        - [CHAPITRE Ier : Principes et définitions (art. D96-1 à D96-3)](#225)
-          - [Paragraphe 1 : Commission consultative des radiocommunications. (art. D96-1)](#226)
-          - [Paragraphe 2 : Commission consultative des services de télécommunications. (art. D96-2)](#227)
-          - [Paragraphe 3 : Organisation et fonctionnement des commissions consultatives. (art. D96-3)](#228)
-        - [CHAPITRE III : Télégraphe (art. D97 à D99)](#229)
-          - [SECTION 1 : Service télégraphique (art. D97 à D99)](#230)
-            - [Paragraphe 1 : Ouverture des bureaux télégraphiques. (art. D97 à D99)](#231)
-        - [CHAPITRE IV : Téléphone (art. D365)](#232)
-          - [SECTION 4 : Dispositions particulières au service international. (art. D365)](#233)
-        - [CHAPITRE  V : Services particuliers des télécommunications (art. D369 à D406)](#234)
-          - [SECTION 2 : Liaisons louées (art. D369 à D379)](#235)
-          - [SECTION 3 : Lignes d'intérêt privé (art. D386 à D397)](#236)
-            - [1. : Lignes permanentes. (art. D386 à D397)](#237)
-          - [SECTION 4 : Réseaux spéciaux. (art. D401 à D406)](#238)
-        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1-1 à D406-3)](#239)
-      - [TITRE II : Etablissement des lignes (art. D407 à D455)](#240)
-        - [CHAPITRE Ier : Etablissement des lignes (art. D407 à D427)](#241)
-          - [SECTION 1 : Dispositions générales. (art. D407 à D419)](#242)
-          - [SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées). (art. D420 à D425)](#243)
-          - [SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé". (art. D427)](#244)
-        - [CHAPITRE II : Entretien des lignes (art. D431)](#245)
-          - [SECTION 1 : Dispositions générales. (art. D431)](#246)
-        - [CHAPITRE III : Fourniture et entretien des installations de télécommunications. (art. D440 à D455)](#247)
-      - [TITRE IV : Police des liaisons et des installations du réseau de télécommunications (art. D456)](#248)
-        - [CHAPITRE Ier : Dispositions générales. (art. D456)](#249)
-      - [TITRE VI : Les services radioélectriques (art. D473 à D482-10)](#250)
-        - [CHAPITRE IV : Radiocommunications du service aérien (art. D473 à D482-10)](#251)
-          - [SECTION 1 : Généralités. (art. D473 à D474-1)](#252)
-          - [SECTION 2 : Stations installées par les services officiels de l'aéronautique civile. (art. D474-2 à D474-3)](#253)
-          - [SECTION 3 : Stations aéronautiques des aéro-clubs. (art. D474-4 à D474-9)](#254)
-          - [SECTION 4 : Stations aéronautiques, stations fixes aéronautiques, stations de radiophare installées par des entreprises de transport aérien ou des particuliers. (art. D475 à D477)](#255)
-          - [SECTION 5 : Stations installées à bord des aéronefs. (art. D478 à D482-8)](#256)
-          - [SECTION 6 : Dispositions diverses. (art. D482-9 à D482-10)](#257)
-    - [LIVRE II : Le service des télécommunications (art. D376)](#258)
-      - [TITRE Ier : Dispositions générales (art. D376)](#259)
-        - [CHAPITRE  V : Services particuliers des télécommunications (art. D376)](#260)
-          - [SECTION 2 : Liaisons louées (art. D376)](#261)
-            - [Paragraphe 1er : Régime général. (art. D376)](#262)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#263)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#264)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#265)
-      - [TITRE II : Mandats. (art. D523 à D548)](#266)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#267)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#268)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#269)
-    - [LIVRE IV : L'organisation financière (art. D570 à D579)](#270)
-      - [TITRE II : Dispositions budgétaires (art. D570 à D572)](#271)
-        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. D570)](#272)
-        - [CHAPITRE IV : Comptabilité administrative. (art. D571 à D572)](#273)
-      - [TITRE V : Fonds spéciaux. (art. D573 à D579)](#274)
-  - [Annexes (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#275)
-    - [LIVRE IV : L'organisation financière (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#276)
-      - [TITRE II : Dispositions budgétaires (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#277)
-        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#278)
+        - [CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs. (art. D473)](#222)
+        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#223)
+    - [LIVRE II : Les télécommunications (art. D96-1 à D456)](#224)
+      - [TITRE Ier : Dispositions générales (art. D96-1 à D406-3)](#225)
+        - [CHAPITRE Ier : Principes et définitions (art. D96-1 à D96-3)](#226)
+          - [Paragraphe 1 : Commission consultative des radiocommunications. (art. D96-1)](#227)
+          - [Paragraphe 2 : Commission consultative des services de télécommunications. (art. D96-2)](#228)
+          - [Paragraphe 3 : Organisation et fonctionnement des commissions consultatives. (art. D96-3)](#229)
+        - [CHAPITRE III : Télégraphe (art. D97 à D99)](#230)
+          - [SECTION 1 : Service télégraphique (art. D97 à D99)](#231)
+            - [Paragraphe 1 : Ouverture des bureaux télégraphiques. (art. D97 à D99)](#232)
+        - [CHAPITRE IV : Téléphone (art. D365)](#233)
+          - [SECTION 4 : Dispositions particulières au service international. (art. D365)](#234)
+        - [CHAPITRE  V : Services particuliers des télécommunications (art. D369 à D406)](#235)
+          - [SECTION 2 : Liaisons louées (art. D369 à D379)](#236)
+          - [SECTION 3 : Lignes d'intérêt privé (art. D386 à D397)](#237)
+            - [1. : Lignes permanentes. (art. D386 à D397)](#238)
+          - [SECTION 4 : Réseaux spéciaux. (art. D401 à D406)](#239)
+        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1-1 à D406-3)](#240)
+      - [TITRE II : Etablissement des lignes (art. D407 à D455)](#241)
+        - [CHAPITRE Ier : Etablissement des lignes (art. D407 à D427)](#242)
+          - [SECTION 1 : Dispositions générales. (art. D407 à D419)](#243)
+          - [SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées). (art. D420 à D425)](#244)
+          - [SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé". (art. D427)](#245)
+        - [CHAPITRE II : Entretien des lignes (art. D431)](#246)
+          - [SECTION 1 : Dispositions générales. (art. D431)](#247)
+        - [CHAPITRE III : Fourniture et entretien des installations de télécommunications. (art. D440 à D455)](#248)
+      - [TITRE IV : Police des liaisons et des installations du réseau de télécommunications (art. D456)](#249)
+        - [CHAPITRE Ier : Dispositions générales. (art. D456)](#250)
+    - [LIVRE II : Le service des télécommunications (art. D376)](#251)
+      - [TITRE Ier : Dispositions générales (art. D376)](#252)
+        - [CHAPITRE  V : Services particuliers des télécommunications (art. D376)](#253)
+          - [SECTION 2 : Liaisons louées (art. D376)](#254)
+            - [Paragraphe 1er : Régime général. (art. D376)](#255)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#256)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#257)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#258)
+      - [TITRE II : Mandats. (art. D523 à D548)](#259)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#260)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#261)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#262)
+    - [LIVRE IV : L'organisation financière (art. D570 à D579)](#263)
+      - [TITRE II : Dispositions budgétaires (art. D570 à D572)](#264)
+        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. D570)](#265)
+        - [CHAPITRE IV : Comptabilité administrative. (art. D571 à D572)](#266)
+      - [TITRE V : Fonds spéciaux. (art. D573 à D579)](#267)
+  - [Annexes (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#268)
+    - [LIVRE IV : L'organisation financière (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#269)
+      - [TITRE II : Dispositions budgétaires (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#270)
+        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#271)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -18787,7 +18780,48 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 9 () JORF 30 avril 2005
 
 
-#### CHAPITRE V : Radiocommunications du service maritime.<a id=222></a>
+#### CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs.<a id=222></a>
+
+###### Article D473
+
+Les stations des services radioélectriques, lorsqu'elles assurent des communications relatives à la sécurité, à la régularité
+du trafic aérien et à la facilitation des vols ou des essais concernant le matériel employé, sont soumises aux dispositions
+des articles D. 133-19 à D. 133-19-10 du code de l'aviation civile. Lorsqu'elles assurent des communications autres que
+celles visées ci-dessus, l'établissement du réseau et la fourniture du service de communications électroniques correspondant
+sont autorisés par le ministre chargé des communications électroniques, conformément au présent code. Dans ce cas, les
+caractéristiques techniques d'installation des stations sont fixées par le ministre chargé de l'aviation civile.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des postes et des communications électronique - art. D406-8 (V)
+  - Code des postes et télécommunications électroniques D406-8
+
+_Cite_:
+
+  - Code de l'aviation civile D133-19 à D133-19-10
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
+
+_Transféré par_:
+
+  - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
+
+
+#### CHAPITRE V : Radiocommunications du service maritime.<a id=223></a>
 
 ###### Article D483
 
@@ -18959,13 +18993,13 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-## LIVRE II : Les télécommunications<a id=223></a>
+## LIVRE II : Les télécommunications<a id=224></a>
 
-### TITRE Ier : Dispositions générales<a id=224></a>
+### TITRE Ier : Dispositions générales<a id=225></a>
 
-#### CHAPITRE Ier : Principes et définitions<a id=225></a>
+#### CHAPITRE Ier : Principes et définitions<a id=226></a>
 
-##### Paragraphe 1 : Commission consultative des radiocommunications.<a id=226></a>
+##### Paragraphe 1 : Commission consultative des radiocommunications.<a id=227></a>
 
 ###### Article D96-1
 
@@ -19035,7 +19069,7 @@ _Nouveaux textes_:
   - Code des postes et des communications électronique - art. D570 (V)
 
 
-##### Paragraphe 2 : Commission consultative des services de télécommunications.<a id=227></a>
+##### Paragraphe 2 : Commission consultative des services de télécommunications.<a id=228></a>
 
 ###### Article D96-2
 
@@ -19109,7 +19143,7 @@ _Nouveaux textes_:
   - Code des postes et des communications électronique - art. D571 (V)
 
 
-##### Paragraphe 3 : Organisation et fonctionnement des commissions consultatives.<a id=228></a>
+##### Paragraphe 3 : Organisation et fonctionnement des commissions consultatives.<a id=229></a>
 
 ###### Article D96-3
 
@@ -19156,11 +19190,11 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D96-6 (T)
 
 
-#### CHAPITRE III : Télégraphe<a id=229></a>
+#### CHAPITRE III : Télégraphe<a id=230></a>
 
-##### SECTION 1 : Service télégraphique<a id=230></a>
+##### SECTION 1 : Service télégraphique<a id=231></a>
 
-##### Paragraphe 1 : Ouverture des bureaux télégraphiques.<a id=231></a>
+##### Paragraphe 1 : Ouverture des bureaux télégraphiques.<a id=232></a>
 
 ###### Article D97
 
@@ -19211,9 +19245,9 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D99-3 (M)
 
 
-#### CHAPITRE IV : Téléphone<a id=232></a>
+#### CHAPITRE IV : Téléphone<a id=233></a>
 
-##### SECTION 4 : Dispositions particulières au service international.<a id=233></a>
+##### SECTION 4 : Dispositions particulières au service international.<a id=234></a>
 
 ###### Article D365
 
@@ -19235,9 +19269,9 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-#### CHAPITRE  V : Services particuliers des télécommunications<a id=234></a>
+#### CHAPITRE  V : Services particuliers des télécommunications<a id=235></a>
 
-##### SECTION 2 : Liaisons louées<a id=235></a>
+##### SECTION 2 : Liaisons louées<a id=236></a>
 
 ###### Article D369
 
@@ -19555,9 +19589,9 @@ _Modifié par_:
   - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
 
 
-##### SECTION 3 : Lignes d'intérêt privé<a id=236></a>
+##### SECTION 3 : Lignes d'intérêt privé<a id=237></a>
 
-##### 1. : Lignes permanentes.<a id=237></a>
+##### 1. : Lignes permanentes.<a id=238></a>
 
 ###### Article D386
 
@@ -19782,7 +19816,7 @@ _Abrogé par_:
   - Décret n°96-1176 du 27 décembre 1996 - art. 2 (V) JORF 29 décembre 1996
 
 
-##### SECTION 4 : Réseaux spéciaux.<a id=238></a>
+##### SECTION 4 : Réseaux spéciaux.<a id=239></a>
 
 ###### Article D401
 
@@ -19941,7 +19975,7 @@ _Abrogé par_:
   - Décret n°96-1176 du 27 décembre 1996 - art. 2 (V) JORF 29 décembre 1996
 
 
-#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=239></a>
+#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=240></a>
 
 ###### Article D406-1-1
 
@@ -20077,11 +20111,11 @@ _Modifié par_:
   - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
 
 
-### TITRE II : Etablissement des lignes<a id=240></a>
+### TITRE II : Etablissement des lignes<a id=241></a>
 
-#### CHAPITRE Ier : Etablissement des lignes<a id=241></a>
+#### CHAPITRE Ier : Etablissement des lignes<a id=242></a>
 
-##### SECTION 1 : Dispositions générales.<a id=242></a>
+##### SECTION 1 : Dispositions générales.<a id=243></a>
 
 ###### Article D407
 
@@ -20433,7 +20467,7 @@ _Abrogé par_:
   - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
 
 
-##### SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées).<a id=243></a>
+##### SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées).<a id=244></a>
 
 ###### Article D420
 
@@ -20491,7 +20525,7 @@ _Abrogé par_:
   - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
 
 
-##### SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé".<a id=244></a>
+##### SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé".<a id=245></a>
 
 ###### Article D427
 
@@ -20531,9 +20565,9 @@ _Abrogé par_:
   - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
 
 
-#### CHAPITRE II : Entretien des lignes<a id=245></a>
+#### CHAPITRE II : Entretien des lignes<a id=246></a>
 
-##### SECTION 1 : Dispositions générales.<a id=246></a>
+##### SECTION 1 : Dispositions générales.<a id=247></a>
 
 ###### Article D431
 
@@ -20565,7 +20599,7 @@ _Abrogé par_:
   - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
 
 
-#### CHAPITRE III : Fourniture et entretien des installations de télécommunications.<a id=247></a>
+#### CHAPITRE III : Fourniture et entretien des installations de télécommunications.<a id=248></a>
 
 ###### Article D440
 
@@ -20957,9 +20991,9 @@ _Abrogé par_:
   - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
 
 
-### TITRE IV : Police des liaisons et des installations du réseau de télécommunications<a id=248></a>
+### TITRE IV : Police des liaisons et des installations du réseau de télécommunications<a id=249></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=249></a>
+#### CHAPITRE Ier : Dispositions générales.<a id=250></a>
 
 ###### Article D456
 
@@ -21005,721 +21039,15 @@ _Abrogé par_:
   - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
 
 
-### TITRE VI : Les services radioélectriques<a id=250></a>
+## LIVRE II : Le service des télécommunications<a id=251></a>
 
-#### CHAPITRE IV : Radiocommunications du service aérien<a id=251></a>
+### TITRE Ier : Dispositions générales<a id=252></a>
 
-##### SECTION 1 : Généralités.<a id=252></a>
+#### CHAPITRE  V : Services particuliers des télécommunications<a id=253></a>
 
-###### Article D473
+##### SECTION 2 : Liaisons louées<a id=254></a>
 
-Les dispositions du présent chapitre s'appliquent aux stations radio-électriques appartenant aux catégories suivantes :
-
-1. Stations installées par les services officiels de l'aéronautique civile pour les besoins de la navigation aérienne
-(exploitation ou expérimentation) ;
-
-2. Stations aéronautiques des aéro-clubs ;
-
-3. Stations aéronautiques, stations fixes aéronautiques, stations de radiophare installées par les entreprises de transport
-aérien ou par des particuliers pour assurer les communications nécessaires à l'utilisation d'aéronefs ;
-
-4. Stations installées à bord des aéronefs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Nouveaux textes_:
-
-  - Code des postes et des communications électronique - art. D406-8 (V)
-
-
-###### Article D474-1
-
-Les radiocommunications entre les différentes stations visées à l'article D. 473 doivent être limitées à la sécurité et à la
-régularité du trafic aérien ou à des expériences pour l'amélioration et la mise au point du matériel employé.
-
-Toute correspondance à caractère privé ou commercial est interdite auxdites stations sauf dérogation apportée par décision
-concertée du ministre chargé de l'aviation civile et du ministre des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D473
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-##### SECTION 2 : Stations installées par les services officiels de l'aéronautique civile.<a id=253></a>
-
-###### Article D474-2
-
-Le ministre chargé de l'aviation civile installe et exploite directement toutes les stations émettrices et réceptrices qui
-lui sont nécessaires pour assurer la sécurité, la rapidité, la régularité et la précision des vols.
-
-Il fixe les caractéristiques techniques et les conditions d'exploitation de ces stations (emplacements, puissances,
-fréquences, etc.) d'après les conventions et règlements internationaux ou intérieurs sur la navigation aérienne et les
-radiocommunications.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D474-3
-
-Le ministre chargé de l'aviation civile peut installer et exploiter sur les aéronefs d'Etat des stations émettrices et
-réceptrices destinées à des essais ou expériences d'ordre technique ou relatifs à l'exploitation.
-
-Des ententes préalables entre le ministre chargé de l'aviation civile et le ministre des postes et télécommunications doivent
-tendre à éviter, dans la mesure du possible, toute perturbation en dehors des bandes attribuées en exclusivité aux services
-aéronautiques (services mobile et de radionavigation) pouvant résulter de la mise en service de ces stations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-##### SECTION 3 : Stations aéronautiques des aéro-clubs.<a id=254></a>
-
-###### Article D474-4
-
-Sur proposition du ministre chargé de l'aviation civile, le ministre des postes et télécommunications peut, compte tenu des
-caractéristiques techniques et des conditions d'exploitation établies suivant les modalités précisées aux articles D. 474-5
-et 474-6, autoriser des organismes de sports aériens agréés à installer des stations aéronautiques d'émission.
-
-Ces stations sont destinées à faciliter, dans les conditions fixées par le ministre chargé de l'aviation civile, l'exercice
-des sports aériens. Les messages échangés seront strictement limités aux expressions, phraséologie et terminologie
-aéronautiques.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications 474-5 et 474-6
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D474-5
-
-Le ministre chargé de l'aviation civile fixe les caractéristiques techniques et d'installation des matériels composant les
-stations visées à l'article D. 474-4. Il communique au ministre des postes et télécommunications les caractéristiques
-techniques des appareils d'émission des stations.
-
-Les conditions d'exploitation de ces stations sont déterminées par le ministre chargé de l'aviation civile.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications 474-4
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D474-6
-
-Les fréquences, puissances, classes d'émission, indicatifs d'appel et heures de service des stations sont déterminés par le
-ministre chargé de l'aviation civile qui les communique au ministre des postes et télécommunications. Les fréquences sont
-choisies dans la bande des ondes métriques réservées pour les besoins de l'aéronautique civile.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D474-7
-
-Sur l'initiative de l'organisme de sports aériens intéressé, une personne responsable de la station sera désignée, mais sa
-qualité ne sera reconnue qu'à l'issue d'une enquête administrative.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D474-8
-
-Les stations visées à l'article D. 474-4 ne peuvent être ouvertes qu'à l'issue d'un contrôle exercé par les agents du
-ministre chargé de l'aviation civile [*condition*], qui sont habilités à exercer un contrôle permanent de ces stations,
-portant notamment sur les conditions techniques d'exploitation.
-
-Les propriétaires de ces stations sont tenus d'admettre les agents contrôleurs définis ci-dessus pour effectuer toutes
-visites ou essais de contrôle de tous ordres postérieurs à la mise en service.
-
-Le ministre des postes et télécommunications pourra également faire procéder par ses agents à des visites de contrôle
-lorsqu'il l'estimera nécessaire.
-
-Pour chaque station, la taxe de contrôle réglementaire est perçue par le ministre des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D474-4
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D474-9
-
-Ces stations peuvent être astreintes à l'exécution gratuite de certains services généraux relatifs à la sécurité et à
-l'exécution des vols par décision du ministre chargé de l'aviation civile.
-
-Elles peuvent, selon les circonstances et temporairement, être utilisées gratuitement, après accord avec les propriétaires de
-ces stations, par les agents du ministre chargé de l'aviation civile habilités à exécuter les essais techniques ou
-d'exploitation des matériels aéronautiques. Les liaisons ainsi établies sont d'ordre exclusivement technique et peuvent, le
-cas échéant, servir de valeurs de référence dont le ministre chargé de l'aviation civile dispose à son gré aux fins qu'il
-juge utiles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-##### SECTION 4 : Stations aéronautiques, stations fixes aéronautiques, stations de radiophare installées par des entreprises de transport aérien ou des particuliers.<a id=255></a>
-
-###### Article D475
-
-Des stations radioélectriques privées aéronautiques, fixes aéronautiques ou de radiophare peuvent être installées à terre par
-des entreprises de transport aérien ou des particuliers dans les conditions d'autorisation prévues à l'article L. 89, en vue
-d'assurer les communications nécessaires à l'exploitation des aéronefs.
-
-L'examen préalable et la transmission des demandes sont faits par le ministre chargé de l'aviation civile. La transmission ne
-peut d'ailleurs comporter avis favorable qu'autant que les installations projetées ne font pas double emploi avec celles du
-ministère chargé de l'aviation civile et qu'elles sont justifiées par des nécessités du trafic aérien ou par des raisons
-particulières [*condition*].
-
-Les caractéristiques techniques, les conditions d'exploitation et les indicatifs d'appel relatifs à ces stations sont fixés
-par le ministre chargé de l'aviation civile après entente avec le ministre des postes et télécommunications. Un règlement
-d'exploitation est fixé par le ministre chargé de l'aviation civile pour chaque station émettrice et réceptrice.
-
-Les taxes réglementaires applicables sont perçues par le ministre des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L89
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D476
-
-Ces stations peuvent être astreintes, par décision du ministre chargé de l'aviation civile, à l'exécution gratuite de
-certains services généraux relatifs à la sécurité et à l'exploitation des aéronefs. Le ministre des postes et
-télécommunications en est alors informé.
-
-Elles doivent être obligatoirement exploitées par un personnel pourvu de l'un des certificats institués par les règlements
-internationaux, et délivrés par le ministre des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D477
-
-Les permissionnaires de ces stations sont tenus d'admettre les fonctionnaires du ministre chargé de l'aviation civile et du
-ministre des postes et télécommunications chargés d'effectuer toutes visites ou essais de contrôle jugés nécessaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-##### SECTION 5 : Stations installées à bord des aéronefs.<a id=256></a>
-
-###### Article D478
-
-Compte tenu des accords internationaux sur l'aviation civile, le ministre chargé de l'aviation civile précise les conditions
-selon lesquelles les aéronefs doivent être pourvus d'une station mobile d'émission à titre obligatoire.
-
-Il donne son agrément à l'installation des stations d'émission à bord des aéronefs non visés à l'alinéa ci-dessus.
-
-Les caractéristiques techniques des appareils constituant les stations d'aéronef, à l'exception des appareils récepteurs de
-radionavigation, sont fixées par un arrêté du ministre chargé de l'aviation civile et du ministre des postes et
-télécommunications.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D479
-
-Les fréquences et les classes d'émission à utiliser sont fixées par le ministre chargé de l'aviation civile qui prend accord
-du ministre des postes et télécommunications si les fréquences ne sont pas exclusivement réservées à l'aéronautique civile ;
-elles figurent sur les manuels d'exploitation des aéronefs exigés par la réglementation en vigueur.
-
-Le manuel d'exploitation précise si la station d'aéronef est susceptible d'être utilisée pour le trafic de détresse sur les
-fréquences 500 ou 2 182 kHz.
-
-Des arrêtés du ministre chargé de l'aviation civile fixent :
-
-Les cas et les conditions de veille à bord des stations d'aéronefs ;
-
-Les itinéraires sur lesquels l'enregistrement des communications est obligatoire à bord des stations d'aéronef.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D480
-
-Les appareils utilisés pour la radiotélégraphie en code Morse doivent normalement être mis en oeuvre par un membre de
-l'équipage titulaire du certificat d'aptitude professionnelle à l'emploi de radiotélégraphiste de première ou de deuxième
-classe à bord des stations mobiles, délivré par le ministre des postes et télécommunications et d'une licence de
-radionavigant, délivrée par le ministre chargé de l'aviation civile.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D481
-
-Les membres d'équipage de conduite susceptibles de mettre en oeuvre les appareils utilisés pour la radiotéléphonie doivent
-être titulaires selon la réglementation en vigueur, en plus des brevets, licences et qualifications délivrés par le ministre
-chargé de l'aviation civile, de l'un des certificats ci-après délivrés par le ministre des postes et télécommunications :
-
-Certificat restreint de radiotéléphoniste ;
-
-Certificat général de radiotéléphoniste ;
-
-Certificat de radiotélégraphiste de 1re ou 2e classe valable pour la radiotéléphonie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D482-1
-
-La station d'engin de sauvetage, lorsqu'elle est exigée par la réglementation en vigueur, doit pouvoir être utilisée par des
-personnes non spécialisées et pouvoir fonctionner après atterrissage ou amerrissage.
-
-En outre, en fonction des parcours précisés par le ministre chargé de l'aviation civile, les embarcations de sauvetage
-emportées par un aéronef survolant la mer doivent être munies d'un équipement radioélectrique portatif de survivance pouvant
-être utilisé par des personnes non spécialisées et pouvant fonctionner après amerrissage.
-
-Les caractéristiques techniques de ces équipements sont fixées comme il est dit à l'article D. 478.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D478
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D482-2
-
-Des équipements d'émission et de réception réservés spécifiquement à la correspondance publique par l'intermédiaire de
-stations côtières ou de stations terrestres spéciales peuvent être installés à bord des aéronefs.
-
-Dans le cas où les communications sont échangées par l'intermédiaire de stations côtières, les fréquences, classes d'émission
-et procédures utilisées sont celles du service mobile maritime.
-
-Le ministre des postes et télécommunications et le ministre chargé de l'aviation civile fixent les conditions d'installation
-desdits équipements.
-
-Des licences particulières afférentes à ces équipements seront délivrées par le ministre des postes et télécommunications
-après accord du ministre chargé de l'aviation civile.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D482-3
-
-Conformément aux dispositions du règlement des radiocommunications, aucune station d'émission ne peut être installée et
-utilisée à bord d'un aéronef sans une licence.
-
-Cette licence est délivrée par le ministre des postes et télécommunications sur la proposition et par l'intermédiaire du
-ministre chargé de l'aviation civile.
-
-Le modèle de licence est fixé par arrêté du ministre chargé de l'aviation civile et du ministre des postes et
-télécommunications.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D482-4
-
-Les autorisations d'installation et les licences consécutives ne sont délivrées que pour les appareils de type agréé par le
-ministre chargé de l'aviation civile et dont l'installation à bord est conforme aux conditions générales fixées par lui.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D482-5
-
-Les appareils constituant la station mobile d'émission pour laquelle il a été délivré une licence peuvent être installés
-successivement sur différents aéronefs à condition que chaque installation satisfasse aux règles générales et particulières
-fixées par le ministre chargé de l'aviation civile pour chaque type d'aéronef.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D482-6
-
-Les agents du ministre chargé de l'aviation civile et du ministre des postes et télécommunications ou des organismes
-habilités à cet effet exercent le contrôle des installations en service par des visites effectuées soit à terre soit en vol.
-
-L'exploitant de tout aéronef doit admettre à bord, gratuitement, ces agents pendant le temps nécessaire au contrôle.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D482-7
-
-Pour obtenir une autorisation d'installation en vue de la délivrance de la licence, le demandeur doit adresser au ministre
-chargé de l'aviation civile :
-
-1. Une demande d'autorisation d'installation ;
-
-2. Deux exemplaires du schéma d'installation de la station mobile d'émission.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D482-8
-
-Les taxes réglementaires applicables sont perçues par le ministre des postes et télécommunications.
-
-Les licences relatives aux stations dont les appareils seraient inutilisés ou détruits et pour lesquelles les titulaires
-désirent ne plus payer la taxe de contrôle devront être retournées au ministre chargé de l'aviation civile pour suspension ou
-annulation. Lorsque la licence aura été détruite en même temps que les appareils, une déclaration de perte devra être
-adressée au ministre chargé de l'aviation civile.
-
-Ces documents seront transmis au ministre des postes et télécommunications par le ministre chargé de l'aviation civile.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-##### SECTION 6 : Dispositions diverses.<a id=257></a>
-
-###### Article D482-9
-
-En dehors des règles internationales, les stations visées aux sections 3, 4 et 5 doivent se conformer aux règles
-particulières d'exploitation et de procédure radiotélégraphique et radiotéléphonique fixées par le ministre chargé de
-l'aviation civile.
-
-Elles ne peuvent ni accepter ni échanger d'autres communications que celles pour lesquelles elles ont été autorisées.
-
-Les autorisations accordées peuvent être retirées en cas d'infraction aux dispositions du présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-###### Article D482-10
-
-La délivrance par le ministre des postes et télécommunications de licences pour l'établissement et l'utilisation de stations
-radioélectriques privées à l'intérieur des aérodromes est subordonnée à l'accord préalable du ministre chargé de l'aviation
-civile même lorsqu'il s'agit de stations autres que les stations visées dans le présent chapitre. Les taxes réglementaires
-applicables sont perçues par le ministre des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-_Abrogé par_:
-
-  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
-
-
-## LIVRE II : Le service des télécommunications<a id=258></a>
-
-### TITRE Ier : Dispositions générales<a id=259></a>
-
-#### CHAPITRE  V : Services particuliers des télécommunications<a id=260></a>
-
-##### SECTION 2 : Liaisons louées<a id=261></a>
-
-##### Paragraphe 1er : Régime général.<a id=262></a>
+##### Paragraphe 1er : Régime général.<a id=255></a>
 
 ###### Article D376
 
@@ -21741,9 +21069,9 @@ _Modifié par_:
   - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
 
 
-## LIVRE III : Les services financiers<a id=263></a>
+## LIVRE III : Les services financiers<a id=256></a>
 
-### TITRE Ier : Chèques postaux.<a id=264></a>
+### TITRE Ier : Chèques postaux.<a id=257></a>
 
 ###### Article D488
 
@@ -22135,7 +21463,7 @@ _Abrogé par_:
   - Décret n°96-199 du 13 mars 1996 - art. 1 () JORF 15 mars 1996 en vigueur le 31 mars 1996
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=265></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=258></a>
 
 ###### Article D489
 
@@ -22619,7 +21947,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE II : Mandats.<a id=266></a>
+### TITRE II : Mandats.<a id=259></a>
 
 ###### Article D523
 
@@ -22894,7 +22222,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D540 (Ab)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=267></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=260></a>
 
 ###### Article D525
 
@@ -23308,7 +22636,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=268></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=261></a>
 
 ###### Article D549
 
@@ -23494,7 +22822,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=269></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=262></a>
 
 ###### Article D553
 
@@ -23870,11 +23198,11 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-## LIVRE IV : L'organisation financière<a id=270></a>
+## LIVRE IV : L'organisation financière<a id=263></a>
 
-### TITRE II : Dispositions budgétaires<a id=271></a>
+### TITRE II : Dispositions budgétaires<a id=264></a>
 
-#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=272></a>
+#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=265></a>
 
 ###### Article D570
 
@@ -23903,7 +23231,7 @@ _Abrogé par_:
   - Décret n°97-290 du 24 mars 1997 - art. 2 (V) JORF 29 mars 1997
 
 
-#### CHAPITRE IV : Comptabilité administrative.<a id=273></a>
+#### CHAPITRE IV : Comptabilité administrative.<a id=266></a>
 
 ###### Article D571
 
@@ -24001,7 +23329,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D575 (V)
 
 
-### TITRE V : Fonds spéciaux.<a id=274></a>
+### TITRE V : Fonds spéciaux.<a id=267></a>
 
 ###### Article D573
 
@@ -24193,13 +23521,13 @@ _Abrogé par_:
   - Décret n°97-290 du 24 mars 1997 - art. 2 (V) JORF 29 mars 1997
 
 
-# Annexes<a id=275></a>
+# Annexes<a id=268></a>
 
-## LIVRE IV : L'organisation financière<a id=276></a>
+## LIVRE IV : L'organisation financière<a id=269></a>
 
-### TITRE II : Dispositions budgétaires<a id=277></a>
+### TITRE II : Dispositions budgétaires<a id=270></a>
 
-#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=278></a>
+#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=271></a>
 
 ###### Article Annexe II à l'article D570
 
