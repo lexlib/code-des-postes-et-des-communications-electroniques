@@ -1,13 +1,13 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1990-12-30
+Version Consolidée au 1991-01-01
 ## Contenu: 
-  - [Partie législative (art. L1 à L127)](#1)
+  - [Partie législative (art. L1 à L126)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
       - [TITRE Ier : Dispositions générales (art. L1 à L6)](#3)
         - [CHAPITRE Ier : Le monopole postal. (art. L1 à L4)](#4)
           - [(en vigueur jusqu'au 1er novembre 2005). (art. L4)](#5)
         - [CHAPITRE II : Dérogations à l'inviolabilité et au secret des correspondances. (art. L5 à L6)](#6)
-      - [TITRE III : Responsabilité de l'administration. (art. L7 à L13-1)](#7)
+      - [TITRE III : Responsabilité de l'exploitant public. (art. L7 à L13-1)](#7)
       - [TITRE VI : Distribution postale (art. L14 à L15)](#8)
         - [CHAPITRE Ier : Distribution à domicile. (art. L14)](#9)
         - [CHAPITRE II : Distribution au guichet. (art. L15)](#10)
@@ -41,216 +41,215 @@ Version Consolidée au 1990-12-30
       - [TITRE VI : Services radioélectriques (art. L89 à L97)](#38)
         - [CHAPITRE Ier : Dispositions générales. (art. L89 à L96)](#39)
         - [CHAPITRE II : Dispositions pénales. (art. L97)](#40)
-    - [LIVRE III : Les services financiers (art. L98 à L124)](#41)
-      - [TITRE Ier : Chèques postaux. (art. L98 à L106-1)](#42)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. L100 à L106-1)](#43)
+    - [LIVRE III : Les services financiers (art. L102 à L124)](#41)
+      - [TITRE Ier : Chèques postaux. (art. L102 à L108)](#42)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. L98 à L108)](#43)
       - [TITRE II : Mandats. (art. L110 à L116)](#44)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. L116)](#45)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement (art. L119 à L124)](#46)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. L110 à L116)](#45)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement (art. L117 à L124)](#46)
         - [(en vigueur jusqu'au 31 décembre 2005). (art. L117 à L124)](#47)
     - [LIVRE IV : Dispositions communes et finales (art. L128)](#48)
       - [(en vigueur jusqu'au 31 décembre 2005). (art. L128)](#49)
-    - [LIVRE IV : L'organisation financière (art. L125 à L127)](#50)
+    - [LIVRE IV : L'organisation financière (art. L125 à L126)](#50)
       - [TITRE Ier : Constitution du budget annexe. (art. L125)](#51)
       - [TITRE II : Dispositions budgétaires (art. L126)](#52)
         - [CHAPITRE V : Dispositions particulières. (art. L126)](#53)
-      - [TITRE IV : Dispositions financières (art. L127)](#54)
-        - [CHAPITRE Ier : Emprunts. (art. L127)](#55)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R*104)](#56)
-    - [LIVRE Ier : Le service postal (art. R1 à R8)](#57)
-      - [TITRE VIII : Dispositions pénales. (art. R1 à R8)](#58)
-    - [LIVRE II : Le service des télécommunications (art. R10 à R*52-2)](#59)
-      - [TITRE Ier : Dispositions générales (art. R10 à R*20)](#60)
-        - [CHAPITRE II : Dispositions pénales. (art. R10 à R11)](#61)
-        - [CHAPITRE IV : Téléphone. (art. R*12 à R*20)](#62)
-      - [TITRE III : Servitudes radio-électriques (art. R*21 à R41)](#63)
-        - [CHAPITRE Ier : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. R*21 à R*26)](#64)
-        - [CHAPITRE II : Servitudes de protection des centres de réception radio-électriques contre les perturbations électromagnétiques. (art. R*28 à R27)](#65)
-        - [CHAPITRE III : Dispositions pénales. (art. R*42 à R41)](#66)
-      - [TITRE  IV : Police des liaisons et des installations du réseau de télécommunications (art. R43 à R44-2)](#67)
-        - [CHAPITRE II : Dispositions pénales. (art. R43 à R44-2)](#68)
-      - [TITRE V : Protection des câbles sous-marins (art. R45 à R52)](#69)
-        - [CHAPITRE II : Dispositions pénales (art. R45 à R52)](#70)
-          - [SECTION 1 : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#71)
-          - [SECTION 2 : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#72)
-      - [TITRE VI : Services radioélectriques (art. R*52-1 à R*52-2)](#73)
-        - [CHAPITRE Ier : Dispositions générales. (art. R*52-1 à R*52-2)](#74)
-          - [TITRE VII : Agence nationale des fréquences (art. R*52-2)](#75)
-            - [Chapitre Ier : Dispositions générales et missions (art. R*52-2)](#76)
-    - [LIVRE III : Les services financiers (art. R52-10)](#77)
-      - [TITRE Ier : Chèques postaux. (art. R52-10)](#78)
-    - [LIVRE IV : L'organisation financière (art. R*53 à R*104)](#79)
-      - [TITRE Ier : Constitution du budget annexe. (art. R*53 à R54-3)](#80)
-      - [TITRE II : Dispositions budgétaires (art. R*56 à R*71)](#81)
-        - [CHAPITRE Ier : Fixation des taxes. (art. R*56 à R*57)](#82)
-        - [CHAPITRE II : Rémunération des services rendus. (art. R*59 à R60)](#83)
-        - [CHAPITRE III : Remboursement des frais de travaux, fournitures et cessions - Fonds de concours. (art. R*63 à R62)](#84)
-        - [CHAPITRE IV : Comptabilité administrative. (art. R*65 à R*69)](#85)
-        - [CHAPITRE V : Dispositions particulières. (art. R*70 à R*71)](#86)
-      - [TITRE III : Comptabilité générale (art. R*72 à R*87)](#87)
-        - [CHAPITRE Ier : Dispositions générales. (art. R*72 à R80-1)](#88)
-        - [CHAPITRE II : Agence comptable. (art. R*81 à R*87)](#89)
-      - [TITRE IV : Dispositions financières (art. R*88 à R*92)](#90)
-        - [CHAPITRE Ier : Emprunts. (art. R*88 à R*90)](#91)
-        - [CHAPITRE II : Excédents de recettes et de dépenses - Disponibilités de caisse. (art. R*91 à R*92)](#92)
-      - [TITRE V : Fonds spéciaux. (art. R*93 à R*104)](#93)
-  - [Partie réglementaire - Décrets simples (art. D1 à D579)](#94)
-    - [LIVRE Ier : Le service postal (art. D1 à D95-3)](#95)
-      - [TITRE Ier : Dispositions générales (art. D1 à D36)](#96)
-        - [Chapitre Ier : Le monopole postal. (art. D1 à D2)](#97)
-        - [Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances. (art. D3)](#98)
-        - [Chapitre III : Création des bureaux de poste. (art. D4 à D5)](#99)
-        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D6 à D33)](#100)
-          - [Section 1 : Généralités. (art. D6 à D8)](#101)
-          - [Section 2 : Lettres missives, cartes postales et paquets-poste. (art. D9 à D12)](#102)
-          - [Section 3 : Imprimés et échantillons. (art. D13 à D17)](#103)
-          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#104)
-          - [Section 5 : Magazines sonores. (art. D29 à D31)](#105)
-          - [Section 6 : Dispositions particulières. (art. D32 à D33)](#106)
-        - [Chapitre V : Conditions d'admission des objets de correspondance dans le régime international. (art. D34 à D36)](#107)
-      - [TITRE II : Affranchissement, recommandation et chargement (art. D37 à D57)](#108)
-        - [Chapitre Ier : Affranchissement. (art. D37 à D46)](#109)
-        - [Chapitre II : Recommandation et chargement. (art. D47 à D57)](#110)
-      - [TITRE IV : Franchise postale et dispense d'affranchissement (art. D58 à D79)](#111)
-        - [CHAPITRE Ier : Courrier officiel. (art. D58 à D74)](#112)
-        - [CHAPITRE II : Correspondance des militaires. (art. D76)](#113)
-        - [CHAPITRE III : Sécurité sociale et mutualité sociale agricole. (art. D77 à D78)](#114)
-        - [CHAPITRE IV : Avis et avertissements des administrations financières. (art. D79)](#115)
-      - [TITRE V : Colis postaux. (art. D81 à D89)](#116)
-      - [TITRE VI : Distribution postale (art. D90 à D93)](#117)
-        - [Chapitre Ier : Distribution à domicile. (art. D90 à D92)](#118)
-        - [Chapitre II : Distribution au guichet. (art. D93)](#119)
-      - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#120)
-    - [LIVRE II : Le service des télécommunications (art. D97 à D487)](#121)
-      - [TITRE Ier : Dispositions générales (art. D97 à D406-4)](#122)
-        - [CHAPITRE III : Télégraphe (art. D97 à D287)](#123)
-          - [SECTION 1 : Service télégraphique (art. D97 à D267)](#124)
-            - [Paragraphe 1 : Ouverture des bureaux télégraphiques. (art. D97 à D99)](#125)
-            - [Paragraphe 2 : Dépôt des télégrammes. (art. D100)](#126)
-            - [Paragraphe 3 : Rédaction des télégrammes (art. D104 à D110)](#127)
-              - [1. : Dispositions générales. (art. D104 à D105)](#128)
-              - [3. : Adresse. (art. D107 à D110)](#129)
-            - [Paragraphe 4 : Compte des mots. (art. D116)](#130)
-            - [Paragraphe 5 : Remise des télégrammes. (art. D117 à D122)](#131)
-            - [Paragraphe 6 : Perception des tarifs. (art. D126 à D128)](#132)
-            - [Paragraphe 7 : Télégrammes spéciaux. (art. D129)](#133)
-            - [Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux (art. D130 à D219-2)](#134)
-              - [1. : Télégrammes relatifs à la sécurité de la vie humaine. (art. D130 à D133)](#135)
-              - [2. : Télégrammes de presse. (art. D134 à D135)](#136)
-              - [3. : Télégrammes des services postaux financiers. (art. D139)](#137)
-              - [4. : Phototélégrammes. (art. D142 à D144)](#138)
-              - [5. : Télégrammes urgents du régime international. (art. D146)](#139)
-              - [20. : Télégrammes illustrés. (art. D182 à D185)](#140)
-              - [22. : Télégrammes avec accusé de réception. (art. D192)](#141)
-              - [24. : Télégrammes sur un compte télécommunications. (art. D196)](#142)
-              - [28. : Télégrammes R.C.T. du régime international. (art. D213)](#143)
-              - [29. : Radiotélégrammes. (art. D218 à D219-2)](#144)
-            - [Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers (art. D228)](#145)
-              - [1. : Communication au guichet de l'original d'un télégramme. (art. D228)](#146)
-            - [Paragraphe 10 : Télégrammes officiels (art. D234 à D246)](#147)
-              - [1. : Définition. (art. D234)](#148)
-              - [2. : Rédaction. (art. D235)](#149)
-              - [3. : Dépôt et remise. (art. D237)](#150)
-              - [4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels. (art. D241)](#151)
-              - [5. : Circulaires. (art. D243)](#152)
-              - [6. : Application et perception des taxes. (art. D244)](#153)
-              - [7. : Annulation des télégrammes officiels. (art. D246)](#154)
-            - [Paragraphe 11 : Télégrammes d'Etat (art. D247 à D259)](#155)
-              - [1. : Définition. (art. D247 à D248)](#156)
-              - [2. : Rédaction. (art. D250 à D252)](#157)
-              - [3. : Dépôt. (art. D253 à D254)](#158)
-              - [4. : Application des tarifs. (art. D256 à D257)](#159)
-              - [6. : Remise. (art. D259)](#160)
-            - [Paragraphe 13 : Remboursement. (art. D263 à D265)](#161)
-            - [Paragraphe 14 : Prescriptions diverses. (art. D267)](#162)
-          - [SECTION 3 : Service télex (art. D277 à D287)](#163)
-            - [Paragraphe 1er : Généralités. (art. D277 à D279)](#164)
-            - [Paragraphe 2 : Abonnement. (art. D280 à D284)](#165)
-            - [Paragraphe 3 : Communications. (art. D285 à D286)](#166)
-            - [Paragraphe 4 : Suspension d'une ligne d'abonnement télex. (art. D287)](#167)
-        - [CHAPITRE IV : Téléphone (art. D288 à D367)](#168)
-          - [SECTION 1 : Dispositions générales. (art. D288 à D289)](#169)
-          - [SECTION 2 : Des communications téléphoniques (art. D290 à D316)](#170)
-            - [Paragraphe 1er : Dispositions générales. (art. D290 à D293-1)](#171)
-            - [Paragraphe 2 : Communications ordinaires (art. D294 à D298)](#172)
-              - [1. : Définition. (art. D294)](#173)
-              - [2. : Limitation de durée. (art. D295)](#174)
-              - [4. : Communication refusée. (art. D297)](#175)
-              - [5. : Récépissé. (art. D298)](#176)
-            - [Paragraphe 3 : Communications spéciales (art. D300 à D307)](#177)
-              - [1. : Indication de durée. (art. D300)](#178)
-              - [2. : Avis d'appel. (art. D301)](#179)
-              - [4. : Communication non facturée par le demandeur ou à facturation différée. (art. D304 à D305)](#180)
-              - [6. : Communication avec un véhicule. (art. D307)](#181)
-            - [Paragraphe 4 : Services spéciaux (art. D308 à D316)](#182)
-              - [1. : Service de réception et de traitement d'appels. (art. D308)](#183)
-              - [2. : Service de la réunion-téléphone. (art. D309)](#184)
-              - [3. : Service du "Mémo-Appel". (art. D310)](#185)
-              - [5. : Renseignements. (art. D312)](#186)
-              - [7. : Communications en dehors des heures normales d'ouverture du service. (art. D315)](#187)
-              - [8. : Service des auditions téléphoniques. (art. D316)](#188)
-          - [SECTION 3 : Des abonnements (art. D317 à D359)](#189)
-            - [Paragraphe 1er : Généralités. (art. D317 à D319)](#190)
-            - [Paragraphe 2 : Abonnements principaux permanents (art. D320 à D331)](#191)
-              - [1. : Différentes catégories. (art. D320)](#192)
-              - [2. : Abonnements principaux ordinaires. (art. D321)](#193)
-              - [3. : Abonnements principaux d'extension. (art. D322 à D323)](#194)
-              - [5. : Abonnements spéciaux. (art. D328 à D331)](#195)
-            - [Paragraphe 3 : Abonnements complémentaires. (art. D332)](#196)
-            - [Paragraphe 4 : Abonnements supplémentaires permanents. (art. D333 à D334)](#197)
-            - [Paragraphe 5 : Abonnements temporaires. (art. D336)](#198)
-            - [Paragraphe 6 : Suspension et résiliation des abonnements. (art. D337 à D342)](#199)
-            - [Paragraphe 7 : Modification des conditions de concession d'un abonnement (art. D347 à D355)](#200)
-              - [2. : Transformation des abonnements. (art. D347 à D355)](#201)
-            - [Paragraphe 8 : Dispositions diverses (art. D359)](#202)
-              - [2. : Listes périodiques d'abonnés. (art. D359)](#203)
-          - [SECTION 4 : Dispositions particulières au service international. (art. D362 à D367)](#204)
-        - [CHAPITRE  V : Services particuliers des télécommunications (art. D368 à D406)](#205)
-          - [SECTION 1 : Dispositions générales. (art. D368)](#206)
-          - [SECTION 2 : Liaisons spécialisées (art. D369 à D385-14)](#207)
-            - [Paragraphe 1er : Régime général. (art. D369 à D382)](#208)
-            - [Paragraphe 2 : Régime des réseaux télématiques ouverts à des tiers. (art. D385-1 à D385-14)](#209)
-          - [SECTION 3 : Lignes d'intérêt privé (art. D386 à D397)](#210)
-            - [1. : Lignes permanentes. (art. D386 à D397)](#211)
-          - [SECTION 4 : Réseaux spéciaux. (art. D401 à D406)](#212)
-        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#213)
-      - [TITRE II : Etablissement des lignes (art. D407 à D455)](#214)
-        - [CHAPITRE Ier : Etablissement des lignes (art. D407 à D427)](#215)
-          - [SECTION 1 : Dispositions générales. (art. D407 à D419)](#216)
-          - [SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées). (art. D420 à D425)](#217)
-          - [SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé". (art. D427)](#218)
-        - [CHAPITRE II : Entretien des lignes (art. D431)](#219)
-          - [SECTION 1 : Dispositions générales. (art. D431)](#220)
-        - [CHAPITRE III : Fourniture et entretien des installations de télécommunications. (art. D440 à D455)](#221)
-      - [TITRE IV : Police des liaisons et des installations du réseau de télécommunications (art. D456)](#222)
-        - [CHAPITRE Ier : Dispositions générales. (art. D456)](#223)
-      - [TITRE VI : Services radioélectriques (art. D457 à D487)](#224)
-        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D462)](#225)
-        - [CHAPITRE III : Stations radioélectriques privées. (art. D463 à D472)](#226)
-        - [CHAPITRE IV : Radiocommunications du service aérien (art. D473 à D482-10)](#227)
-          - [SECTION 1 : Généralités. (art. D473 à D474-1)](#228)
-          - [SECTION 2 : Stations installées par les services officiels de l'aéronautique civile. (art. D474-2 à D474-3)](#229)
-          - [SECTION 3 : Stations aéronautiques des aéro-clubs. (art. D474-4 à D474-9)](#230)
-          - [SECTION 4 : Stations aéronautiques, stations fixes aéronautiques, stations de radiophare installées par des entreprises de transport aérien ou des particuliers. (art. D475 à D477)](#231)
-          - [SECTION 5 : Stations installées à bord des aéronefs. (art. D478 à D482-8)](#232)
-          - [SECTION 6 : Dispositions diverses. (art. D482-9 à D482-10)](#233)
-        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#234)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#235)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#236)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#237)
-      - [TITRE II : Mandats. (art. D523 à D548)](#238)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#239)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#240)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#241)
-    - [LIVRE IV : L'organisation financière (art. D570 à D579)](#242)
-      - [TITRE II : Dispositions budgétaires (art. D570 à D572)](#243)
-        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. D570)](#244)
-        - [CHAPITRE IV : Comptabilité administrative. (art. D571 à D572)](#245)
-      - [TITRE V : Fonds spéciaux. (art. D573 à D579)](#246)
-  - [Annexes (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#247)
-    - [LIVRE IV : L'organisation financière (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#248)
-      - [TITRE II : Dispositions budgétaires (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#249)
-        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#250)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R*104)](#54)
+    - [LIVRE Ier : Le service postal (art. R1 à R8)](#55)
+      - [TITRE VIII : Dispositions pénales. (art. R1 à R8)](#56)
+    - [LIVRE II : Le service des télécommunications (art. R10 à R*52-2)](#57)
+      - [TITRE Ier : Dispositions générales (art. R10 à R*20)](#58)
+        - [CHAPITRE II : Dispositions pénales. (art. R10 à R11)](#59)
+        - [CHAPITRE IV : Téléphone. (art. R*12 à R*20)](#60)
+      - [TITRE II : Prérogatives et servitudes (art. R*21 à R52)](#61)
+        - [CHAPITRE II : Servitudes radio-électriques (art. R*21 à R41)](#62)
+          - [SECTION 1 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. R*21 à R*26)](#63)
+          - [SECTION 2 : Servitudes de protection des centres de réception radio-électriques contre les perturbations électromagnétiques. (art. R*28 à R27)](#64)
+          - [SECTION 3 : Dispositions pénales. (art. R*42 à R41)](#65)
+        - [CHAPITRE III : Police des liaisons et des installations du réseau de télécommunications (art. R43 à R44-2)](#66)
+          - [SECTION 2 : Dispositions pénales. (art. R43 à R44-2)](#67)
+        - [CHAPITRE IV : Protection des câbles sous-marins (art. R45 à R52)](#68)
+          - [SECTION 2 : Dispositions pénales (art. R45 à R52)](#69)
+            - [PARAGRAPHE I : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#70)
+            - [PARAGRAPHE II : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#71)
+      - [TITRE VI : Services radioélectriques (art. R*52-1 à R*52-2)](#72)
+        - [CHAPITRE Ier : Dispositions générales. (art. R*52-1 à R*52-2)](#73)
+          - [TITRE VII : Agence nationale des fréquences (art. R*52-2)](#74)
+            - [Chapitre Ier : Dispositions générales et missions (art. R*52-2)](#75)
+    - [LIVRE III : Les services financiers (art. R52-10)](#76)
+      - [TITRE Ier : Chèques postaux. (art. R52-10)](#77)
+    - [LIVRE IV : L'organisation financière (art. R*53 à R*104)](#78)
+      - [TITRE Ier : Constitution du budget annexe. (art. R*53 à R54-3)](#79)
+      - [TITRE II : Dispositions budgétaires (art. R*56 à R*71)](#80)
+        - [CHAPITRE Ier : Fixation des taxes. (art. R*56 à R*57)](#81)
+        - [CHAPITRE II : Rémunération des services rendus. (art. R*59 à R60)](#82)
+        - [CHAPITRE III : Remboursement des frais de travaux, fournitures et cessions - Fonds de concours. (art. R*63 à R62)](#83)
+        - [CHAPITRE IV : Comptabilité administrative. (art. R*65 à R*69)](#84)
+        - [CHAPITRE V : Dispositions particulières. (art. R*70 à R*71)](#85)
+      - [TITRE III : Comptabilité générale (art. R*72 à R*87)](#86)
+        - [CHAPITRE Ier : Dispositions générales. (art. R*72 à R80-1)](#87)
+        - [CHAPITRE II : Agence comptable. (art. R*81 à R*87)](#88)
+      - [TITRE IV : Dispositions financières (art. R*88 à R*92)](#89)
+        - [CHAPITRE Ier : Emprunts. (art. R*88 à R*90)](#90)
+        - [CHAPITRE II : Excédents de recettes et de dépenses - Disponibilités de caisse. (art. R*91 à R*92)](#91)
+      - [TITRE V : Fonds spéciaux. (art. R*93 à R*104)](#92)
+  - [Partie réglementaire - Décrets simples (art. D1 à D579)](#93)
+    - [LIVRE Ier : Le service postal (art. D1 à D95-3)](#94)
+      - [TITRE Ier : Dispositions générales (art. D1 à D36)](#95)
+        - [Chapitre Ier : Le monopole postal. (art. D1 à D2)](#96)
+        - [Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances. (art. D3)](#97)
+        - [Chapitre III : Création des bureaux de poste. (art. D4 à D5)](#98)
+        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D6 à D33)](#99)
+          - [Section 1 : Généralités. (art. D6 à D8)](#100)
+          - [Section 2 : Lettres missives, cartes postales et paquets-poste. (art. D9 à D12)](#101)
+          - [Section 3 : Imprimés et échantillons. (art. D13 à D17)](#102)
+          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#103)
+          - [Section 5 : Magazines sonores. (art. D29 à D31)](#104)
+          - [Section 6 : Dispositions particulières. (art. D32 à D33)](#105)
+        - [Chapitre V : Conditions d'admission des objets de correspondance dans le régime international. (art. D34 à D36)](#106)
+      - [TITRE II : Affranchissement, recommandation et chargement (art. D37 à D57)](#107)
+        - [Chapitre Ier : Affranchissement. (art. D37 à D46)](#108)
+        - [Chapitre II : Recommandation et chargement. (art. D47 à D57)](#109)
+      - [TITRE IV : Franchise postale et dispense d'affranchissement (art. D58 à D79)](#110)
+        - [CHAPITRE Ier : Courrier officiel. (art. D58 à D74)](#111)
+        - [CHAPITRE II : Correspondance des militaires. (art. D76)](#112)
+        - [CHAPITRE III : Sécurité sociale et mutualité sociale agricole. (art. D77 à D78)](#113)
+        - [CHAPITRE IV : Avis et avertissements des administrations financières. (art. D79)](#114)
+      - [TITRE V : Colis postaux. (art. D81 à D89)](#115)
+      - [TITRE VI : Distribution postale (art. D90 à D93)](#116)
+        - [Chapitre Ier : Distribution à domicile. (art. D90 à D92)](#117)
+        - [Chapitre II : Distribution au guichet. (art. D93)](#118)
+      - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#119)
+    - [LIVRE II : Le service des télécommunications (art. D97 à D487)](#120)
+      - [TITRE Ier : Dispositions générales (art. D97 à D406-4)](#121)
+        - [CHAPITRE III : Télégraphe (art. D97 à D287)](#122)
+          - [SECTION 1 : Service télégraphique (art. D97 à D267)](#123)
+            - [Paragraphe 1 : Ouverture des bureaux télégraphiques. (art. D97 à D99)](#124)
+            - [Paragraphe 2 : Dépôt des télégrammes. (art. D100)](#125)
+            - [Paragraphe 3 : Rédaction des télégrammes (art. D104 à D110)](#126)
+              - [1. : Dispositions générales. (art. D104 à D105)](#127)
+              - [3. : Adresse. (art. D107 à D110)](#128)
+            - [Paragraphe 4 : Compte des mots. (art. D116)](#129)
+            - [Paragraphe 5 : Remise des télégrammes. (art. D117 à D122)](#130)
+            - [Paragraphe 6 : Perception des tarifs. (art. D126 à D128)](#131)
+            - [Paragraphe 7 : Télégrammes spéciaux. (art. D129)](#132)
+            - [Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux (art. D130 à D219-2)](#133)
+              - [1. : Télégrammes relatifs à la sécurité de la vie humaine. (art. D130 à D133)](#134)
+              - [2. : Télégrammes de presse. (art. D134 à D135)](#135)
+              - [3. : Télégrammes des services postaux financiers. (art. D139)](#136)
+              - [4. : Phototélégrammes. (art. D142 à D144)](#137)
+              - [5. : Télégrammes urgents du régime international. (art. D146)](#138)
+              - [20. : Télégrammes illustrés. (art. D182 à D185)](#139)
+              - [22. : Télégrammes avec accusé de réception. (art. D192)](#140)
+              - [24. : Télégrammes sur un compte télécommunications. (art. D196)](#141)
+              - [28. : Télégrammes R.C.T. du régime international. (art. D213)](#142)
+              - [29. : Radiotélégrammes. (art. D218 à D219-2)](#143)
+            - [Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers (art. D228)](#144)
+              - [1. : Communication au guichet de l'original d'un télégramme. (art. D228)](#145)
+            - [Paragraphe 10 : Télégrammes officiels (art. D234 à D246)](#146)
+              - [1. : Définition. (art. D234)](#147)
+              - [2. : Rédaction. (art. D235)](#148)
+              - [3. : Dépôt et remise. (art. D237)](#149)
+              - [4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels. (art. D241)](#150)
+              - [5. : Circulaires. (art. D243)](#151)
+              - [6. : Application et perception des taxes. (art. D244)](#152)
+              - [7. : Annulation des télégrammes officiels. (art. D246)](#153)
+            - [Paragraphe 11 : Télégrammes d'Etat (art. D247 à D259)](#154)
+              - [1. : Définition. (art. D247 à D248)](#155)
+              - [2. : Rédaction. (art. D250 à D252)](#156)
+              - [3. : Dépôt. (art. D253 à D254)](#157)
+              - [4. : Application des tarifs. (art. D256 à D257)](#158)
+              - [6. : Remise. (art. D259)](#159)
+            - [Paragraphe 13 : Remboursement. (art. D263 à D265)](#160)
+            - [Paragraphe 14 : Prescriptions diverses. (art. D267)](#161)
+          - [SECTION 3 : Service télex (art. D277 à D287)](#162)
+            - [Paragraphe 1er : Généralités. (art. D277 à D279)](#163)
+            - [Paragraphe 2 : Abonnement. (art. D280 à D284)](#164)
+            - [Paragraphe 3 : Communications. (art. D285 à D286)](#165)
+            - [Paragraphe 4 : Suspension d'une ligne d'abonnement télex. (art. D287)](#166)
+        - [CHAPITRE IV : Téléphone (art. D288 à D367)](#167)
+          - [SECTION 1 : Dispositions générales. (art. D288 à D289)](#168)
+          - [SECTION 2 : Des communications téléphoniques (art. D290 à D316)](#169)
+            - [Paragraphe 1er : Dispositions générales. (art. D290 à D293-1)](#170)
+            - [Paragraphe 2 : Communications ordinaires (art. D294 à D298)](#171)
+              - [1. : Définition. (art. D294)](#172)
+              - [2. : Limitation de durée. (art. D295)](#173)
+              - [4. : Communication refusée. (art. D297)](#174)
+              - [5. : Récépissé. (art. D298)](#175)
+            - [Paragraphe 3 : Communications spéciales (art. D300 à D307)](#176)
+              - [1. : Indication de durée. (art. D300)](#177)
+              - [2. : Avis d'appel. (art. D301)](#178)
+              - [4. : Communication non facturée par le demandeur ou à facturation différée. (art. D304 à D305)](#179)
+              - [6. : Communication avec un véhicule. (art. D307)](#180)
+            - [Paragraphe 4 : Services spéciaux (art. D308 à D316)](#181)
+              - [1. : Service de réception et de traitement d'appels. (art. D308)](#182)
+              - [2. : Service de la réunion-téléphone. (art. D309)](#183)
+              - [3. : Service du "Mémo-Appel". (art. D310)](#184)
+              - [5. : Renseignements. (art. D312)](#185)
+              - [7. : Communications en dehors des heures normales d'ouverture du service. (art. D315)](#186)
+              - [8. : Service des auditions téléphoniques. (art. D316)](#187)
+          - [SECTION 3 : Des abonnements (art. D317 à D359)](#188)
+            - [Paragraphe 1er : Généralités. (art. D317 à D319)](#189)
+            - [Paragraphe 2 : Abonnements principaux permanents (art. D320 à D331)](#190)
+              - [1. : Différentes catégories. (art. D320)](#191)
+              - [2. : Abonnements principaux ordinaires. (art. D321)](#192)
+              - [3. : Abonnements principaux d'extension. (art. D322 à D323)](#193)
+              - [5. : Abonnements spéciaux. (art. D328 à D331)](#194)
+            - [Paragraphe 3 : Abonnements complémentaires. (art. D332)](#195)
+            - [Paragraphe 4 : Abonnements supplémentaires permanents. (art. D333 à D334)](#196)
+            - [Paragraphe 5 : Abonnements temporaires. (art. D336)](#197)
+            - [Paragraphe 6 : Suspension et résiliation des abonnements. (art. D337 à D342)](#198)
+            - [Paragraphe 7 : Modification des conditions de concession d'un abonnement (art. D347 à D355)](#199)
+              - [2. : Transformation des abonnements. (art. D347 à D355)](#200)
+            - [Paragraphe 8 : Dispositions diverses (art. D359)](#201)
+              - [2. : Listes périodiques d'abonnés. (art. D359)](#202)
+          - [SECTION 4 : Dispositions particulières au service international. (art. D362 à D367)](#203)
+        - [CHAPITRE  V : Services particuliers des télécommunications (art. D368 à D406)](#204)
+          - [SECTION 1 : Dispositions générales. (art. D368)](#205)
+          - [SECTION 2 : Liaisons spécialisées (art. D369 à D385-14)](#206)
+            - [Paragraphe 1er : Régime général. (art. D369 à D382)](#207)
+            - [Paragraphe 2 : Régime des réseaux télématiques ouverts à des tiers. (art. D385-1 à D385-14)](#208)
+          - [SECTION 3 : Lignes d'intérêt privé (art. D386 à D397)](#209)
+            - [1. : Lignes permanentes. (art. D386 à D397)](#210)
+          - [SECTION 4 : Réseaux spéciaux. (art. D401 à D406)](#211)
+        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#212)
+      - [TITRE II : Etablissement des lignes (art. D407 à D455)](#213)
+        - [CHAPITRE Ier : Etablissement des lignes (art. D407 à D427)](#214)
+          - [SECTION 1 : Dispositions générales. (art. D407 à D419)](#215)
+          - [SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées). (art. D420 à D425)](#216)
+          - [SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé". (art. D427)](#217)
+        - [CHAPITRE II : Entretien des lignes (art. D431)](#218)
+          - [SECTION 1 : Dispositions générales. (art. D431)](#219)
+        - [CHAPITRE III : Fourniture et entretien des installations de télécommunications. (art. D440 à D455)](#220)
+      - [TITRE IV : Police des liaisons et des installations du réseau de télécommunications (art. D456)](#221)
+        - [CHAPITRE Ier : Dispositions générales. (art. D456)](#222)
+      - [TITRE VI : Services radioélectriques (art. D457 à D487)](#223)
+        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D462)](#224)
+        - [CHAPITRE III : Stations radioélectriques privées. (art. D463 à D472)](#225)
+        - [CHAPITRE IV : Radiocommunications du service aérien (art. D473 à D482-10)](#226)
+          - [SECTION 1 : Généralités. (art. D473 à D474-1)](#227)
+          - [SECTION 2 : Stations installées par les services officiels de l'aéronautique civile. (art. D474-2 à D474-3)](#228)
+          - [SECTION 3 : Stations aéronautiques des aéro-clubs. (art. D474-4 à D474-9)](#229)
+          - [SECTION 4 : Stations aéronautiques, stations fixes aéronautiques, stations de radiophare installées par des entreprises de transport aérien ou des particuliers. (art. D475 à D477)](#230)
+          - [SECTION 5 : Stations installées à bord des aéronefs. (art. D478 à D482-8)](#231)
+          - [SECTION 6 : Dispositions diverses. (art. D482-9 à D482-10)](#232)
+        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#233)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#234)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#235)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#236)
+      - [TITRE II : Mandats. (art. D523 à D548)](#237)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#238)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#239)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#240)
+    - [LIVRE IV : L'organisation financière (art. D570 à D579)](#241)
+      - [TITRE II : Dispositions budgétaires (art. D570 à D572)](#242)
+        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. D570)](#243)
+        - [CHAPITRE IV : Comptabilité administrative. (art. D571 à D572)](#244)
+      - [TITRE V : Fonds spéciaux. (art. D573 à D579)](#245)
+  - [Annexes (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#246)
+    - [LIVRE IV : L'organisation financière (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#247)
+      - [TITRE II : Dispositions budgétaires (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#248)
+        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#249)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -262,10 +261,10 @@ Version Consolidée au 1990-12-30
 ###### Article L1
 
 Le transport des lettres ainsi que des paquets et papiers n'excédant pas le poids de 1 kilogramme est exclusivement confié à
-l'administration des postes et télécommunications.
+La Poste.
 
-Il est en conséquence interdit à tout entrepreneur de transports, ainsi qu'à toute personne étrangère à cette administration,
-de s'immiscer dans ce transport.
+Il est en conséquence interdit à tout entrepreneur de transports, ainsi qu'à toute personne étrangère à La Poste, de
+s'immiscer dans ce transport.
 
 **Liens relatifs à cet article**
 
@@ -274,6 +273,10 @@ _Anciens textes_:
   - Arrêté 27 prairial an IX art. 1
   - Code des postes, télégraphes et téléphones L1
   - Loi n°1878-04-06 art. 8
+
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
 
 _Cité par_:
 
@@ -302,10 +305,6 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article L2
@@ -453,9 +452,8 @@ _Créé par_:
 
 ###### Article L5
 
-L'administration des postes et télécommunications communique aux autorités judiciaires qui en font la demande en matière
-pénale, au service des contributions directes ainsi qu'au régisseur du service de la redevance de l'audiovisuel les
-changements de domicile dont elle a connaissance.
+La Poste communique aux autorités judiciaires qui en font la demande en matière pénale, au service des contributions directes
+ainsi qu'au régisseur du service de la redevance de l'audiovisuel les changements de domicile dont elle a connaissance.
 
 **Liens relatifs à cet article**
 
@@ -464,13 +462,13 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L13
   - Loi n°1921-12-31 art. 11
 
-_Créé par_:
-
-  - Loi n°66-948 1966-12-22 art. 34 JORF 23 décembre 1966
-
 _Modifié par_:
 
-  - Loi n°85-1407 1985-12-30 art. 92 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Transféré par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005
 
 _Codifié par_:
 
@@ -478,19 +476,19 @@ _Codifié par_:
 
 _Nouveaux textes_:
 
+  - Code des postes et des communications électronique - art. L6 (M)
   - Code des postes et des communications électronique - art. L6 (V)
 
 
 ###### Article L6
 
-Ainsi qu'il est dit à l'article 66 du code des douanes, l'administration des postes et télécommunications est autorisée à
-soumettre au contrôle douanier, dans les conditions prévues par les conventions et arrangements de l'Union postale
-universelle, les envois frappés de prohibition à l'importation, passible de droits ou taxes perçus par le service des douanes
-ou soumis à des restrictions ou formalités à l'entrée.
+Ainsi qu'il est dit à l'article 66 du code des douanes, La Poste est autorisée à soumettre au contrôle douanier, dans les
+conditions prévues par les conventions et arrangements de l'Union postale universelle, les envois frappés de prohibition à
+l'importation, passibles de droits ou taxes perçus par le service des douanes ou soumis à des restrictions ou formalités à
+l'entrée.
 
-L'administration des postes et télécommunications est également autorisée à soumettre au contrôle douanier les envois frappés
-de prohibition à l'exportation, passibles de droits ou taxes perçus par le service des douanes ou soumis à des restrictions
-ou formalités à la sortie.
+La Poste est également autorisée à soumettre au contrôle douanier les envois frappés de prohibition à l'exportation,
+passibles de droits ou taxes perçus par le service des douanes ou soumis à des restrictions ou formalités à la sortie.
 
 Les fonctionnaires des douanes ont accès dans les bureaux de postes sédentaires ou ambulants, y compris les salles de tri, en
 correspondance directe avec l'extérieur pour y rechercher, en présence des agents des postes, les envois clos ou non
@@ -499,22 +497,26 @@ nature de ceux visés au présent article. Il ne peut, en aucun cas, être port�
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Transféré par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005 en vigueur le 1er novembre 2005
+
 _Cité par_:
 
   - Arrêté du 17 janvier 2008 - art. 4-1 (V)
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L14
-  - Code des postes et des communications électronique - art. L5 (T)
 
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+  - Code des postes et des communications électronique - art. L5 (T)
+  - Code des postes, télégraphes et téléphones L14
 
 _Nouveaux textes_:
 
@@ -525,22 +527,21 @@ _Cite_:
   - Code des douanes - art. 66 (M)
 
 
-### TITRE III : Responsabilité de l'administration.<a id=7></a>
+### TITRE III : Responsabilité de l'exploitant public.<a id=7></a>
 
 ###### Article L7
 
-L'administration des postes et télécommunications n'est tenue à aucune indemnité pour perte d'objet de correspondance
-ordinaire.
+La Poste n'est tenue à aucune indemnité pour perte d'objet de correspondance ordinaire.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
 
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 _Cité par_:
 
@@ -559,11 +560,15 @@ _Anciens textes_:
 
 ###### Article L8
 
-Elle n'est tenue à aucune indemnité soit pour détérioration, soit pour spoliation des objets recommandés. La perte, sauf le
-cas de force majeure, donne seule le droit, soit au profit de l'expéditeur, soit à défaut ou sur la demande de celui-ci, au
-profit du destinataire, à une indemnité dont le montant est fixé par décret.
+La perte, la détérioration, la spoliation des objets recommandés donnent droit, sauf le cas de force majeure, soit au profit
+de l'expéditeur, soit, à défaut ou sur la demande de celui-ci, au profit du destinataire, à une indemnité dont le montant est
+fixé par décret.
 
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R2-4 (V)
 
 _Anciens textes_:
 
@@ -575,13 +580,9 @@ _Codifié par_:
 
   - Décret n°62-273 1962-03-12
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R2-4 (V)
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
 
 
 ###### Article L9
@@ -598,13 +599,13 @@ _Anciens textes_:
   - Loi n°1873-01-25 art. 4
   - Loi n°1925-07-13 art. 162
 
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 _Cité par_:
 
@@ -619,17 +620,9 @@ valeurs insérées dans les lettres et régulièrement déclarées.
 Elle est déchargée de cette responsabilité par la remise des lettres dont le destinataire ou son fondé de pouvoir a donné
 reçu.
 
-En cas de contestation, l'action en responsabilité est portée devant les tribunaux d'instance.
+En cas de contestation, l'action en responsabilité est portée devant les tribunaux civils.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 _Cité par_:
 
@@ -640,24 +633,36 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L36
   - Loi n°1859-06-04 art. 3
 
+_Modifié par_:
 
-###### Article L11
-
-Les envois de bijoux et objets précieux sont assimilés aux lettres renfermant des valeurs déclarées quant à la responsabilité
-de l'administration.
-
-En cas de perte ou de détérioration résultant de la fracture des boîtes qui doivent renfermer ces envois et qui ne réunissent
-pas les conditions réglementaires, l'administration n'est tenue à aucune indemnité.
-
-**Liens relatifs à cet article**
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
 
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
 
-_Créé par_:
 
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+###### Article L11
+
+Les envois de bijoux et objets précieux sont assimilés aux lettres renfermant des valeurs déclarées quant à la responsabilité
+de La Poste.
+
+En cas de perte ou de détérioration résultant de la fracture des boîtes qui doivent renfermer ces envois et qui ne réunissent
+pas les conditions réglementaires, La Poste n'est tenue à aucune indemnité.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 19 () JORF 21 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
 
 _Anciens textes_:
 
@@ -668,10 +673,9 @@ _Anciens textes_:
 
 ###### Article L12
 
-L'administration des postes et télécommunications, lorsqu'elle a remboursé le montant des valeurs déclarées non parvenues à
-destination, est subrogée à tous les droits du propriétaire. Celui-ci est tenu de faire connaître à l'administration, au
-moment où elle effectue le remboursement, la nature des valeurs, ainsi que toutes les circonstances qui peuvent faciliter
-l'exercice utile de ses droits.
+La Poste, lorsqu'elle a remboursé le montant des valeurs déclarées non parvenues à destination, est subrogée à tous les
+droits du propriétaire. Celui-ci est tenu de faire connaître à La Poste, au moment où elle effectue le remboursement, la
+nature des valeurs, ainsi que toutes les circonstances qui peuvent faciliter l'exercice utile de ses droits.
 
 **Liens relatifs à cet article**
 
@@ -680,13 +684,17 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L38
   - Loi n°1859-06-04 art. 6
 
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 19 () JORF 21 mai 2005
+
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article L13
@@ -701,13 +709,17 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L39
   - Loi n°1892-01-26 art. 30 al. 3
 
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 19 () JORF 21 mai 2005
+
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article L13-1
@@ -716,6 +728,14 @@ Les réclamations concernant les objets de correspondances de toute nature ne so
 le motif, que dans le délai d'un an compté à partir du lendemain du jour de dépôt de l'envoi.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 19 () JORF 21 mai 2005
 
 _Codifié par_:
 
@@ -728,30 +748,36 @@ _Codifié par_:
 
 ###### Article L14
 
-Les directeurs d'hôtels ou d'agences de voyage ou leurs préposés agréés par l'administration peuvent, dans des conditions qui
-sont fixées par le ministre des postes et télécommunications, être autorisés à recevoir, s'il n'y a pas opposition écrite de
-l'expéditeur ou du destinataire, les lettres ou objets recommandés ou avec valeur déclarée adressés à leur clients.
+Les directeurs d'hôtels ou d'agences de voyage ou leurs préposés agréés par La Poste peuvent, dans des conditions qui sont
+fixées par le ministre des postes et communications électroniques, être autorisés à recevoir, s'il n'y a pas opposition
+écrite de l'expéditeur ou du destinataire, les lettres ou objets recommandés ou avec valeur déclarée adressés à leur clients.
 
 La décharge ainsi donnée a pour effet de substituer la responsabilité des directeurs d'hôtels ou d'agences de voyage à celle
-résultant, pour l'administration, des articles L. 9 et L. 10.
+résultant, pour La Poste, des articles L. 9 et L. 10.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L9 et L10
 
 _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L48
 
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 20 () JORF 21 mai 2005
+  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
+
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+  - Code des postes et des communications électronique - art. L10 (M)
+  - Code des postes et des communications électronique - art. L9 (M)
 
 
 #### CHAPITRE II : Distribution au guichet.<a id=10></a>
@@ -1077,9 +1103,8 @@ _Cite_:
 
 ###### Article L25
 
-La mise en service de machines à affranchir sans l'autorisation de l'administration des postes et télécommunications
-[*infraction*] , toute tentative de fraude dans l'emploi des machines sont punies conformément à l'article 144 du code pénal
-[*sanction*].
+La mise en service de machines à affranchir sans l'autorisation de La Poste [*infraction*], toute tentative de fraude dans
+l'emploi des machines sont punies conformément à l'article 144 du code pénal [*sanction*].
 
 **Liens relatifs à cet article**
 
@@ -1088,6 +1113,10 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L63
   - Loi n°1923-06-30 art. 91
 
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
 _Cite_:
 
   - Code pénal L144
@@ -1095,10 +1124,6 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article L26
@@ -4750,51 +4775,6 @@ _Codifié par_:
 
 ### TITRE Ier : Chèques postaux.<a id=42></a>
 
-###### Article L98
-
-Le service des chèques postaux est placé sous l'autorité du ministre des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L168
-  - Loi n°1941-11-17  art. 1
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-###### Article L99
-
-Peuvent se faire ouvrir des comptes courants postaux, sous réserve de l'agrément de l'administration des postes et
-télécommunications, les personnes physiques et les personnes morales administratives ou privées, ainsi que tous services
-publics et groupements d'intérêts de caractère public ou privé.
-
-Les demandes d'ouverture de comptes sont établies sur papier libre [*formalités*] ; les spécimens de la signature habituelle
-du titulaire et des personnes autorisées à tirer des chèques sont également recueillis sur papier libre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L170
-  - Loi n°1941-11-17 art. 3
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
 ###### Article L102
 
 Dans les cas et conditions déterminés par décret, la non-exécution d'un chèque postal présenté au paiement par le
@@ -4961,100 +4941,12 @@ _Créé par_:
   - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
-###### Article L107
-
-L'administration est responsable des sommes qu'elle a reçues pour être portées au crédit des comptes courants postaux.
-
-Lorsqu'il est fait usage de mandats ordinaires ou télégraphiques de versement, les dispositions de l'article L. 113 sont
-applicables.
-
-L'administration n'est pas responsable des retards qui peuvent se produire dans l'exécution du service.
-
-Aucune réclamation n'est admise concernant les opérations ayant plus d'un an de date [*forclusion - délai*].
-
-En cas de réclamation, les règles relatives à la perception et au remboursement des taxes prévues en matière de mandats sont
-applicables aux chèques postaux.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L113
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L175
-  - Loi n°48-1288 1948-08-18 art. 2
-  - Loi n°1941-11-17 art. 8
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-###### Article L107-1
-
-L'administration des postes et télécommunications est autorisée à accorder sa garantie aux bénéficiaires des paiements
-effectués par les porteurs de cartes de paiement émises par elle.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°82-1126 du 29 décembre 1982 - art. 105 () JORF 30 décembre 1982
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-
-###### Article L108
-
-En cas de changement dans la condition civile ou la situation légale du titulaire du compte courant postal *formalité*, avis
-doit en être donné au centre de chèques postaux détenteur de ce compte. L'administration ne peut être tenue responsable des
-conséquences pouvant résulter des modifications qui ne lui auraient pas été notifiées.
-
-Au regard de l'administration tout chèque de paiement régulièrement porté au débit du compte du tireur est considéré comme
-payé. A partir de la transformation du chèque en mandat, lorsque le paiement a lieu par ce moyen, la responsabilité
-pécuniaire encourue par l'administration est la même qu'en matière de mandat.
-
-Le titulaire d'un compte courant postal est seul responsable des conséquences résultant de l'emploi abusif, de la perte ou de
-la disparition des formules de chèques qui lui ont été remises par l'administration des postes et télécommunications.
-
-La responsabilité d'un faux paiement ou d'un faux virement résultant d'indications d'assignation ou d'un virement inexactes
-ou incomplètes incombe au tireur du chèque.
-
-La seule possession par l'administration des postes et télécommunications d'un chèque au porteur suffit pour valoir
-libération au regard du titulaire du compte.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L176
-  - Loi n°1941-11-17 art. 8
-  - Loi n°48-1288 1948-08-18 art. 2
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
 ###### Article L109
 
-Est acquis au budget annexe des postes et télécommunications le solde de tout compte courant postal sur lequel aucune
-opération n'a été faite depuis dix ans [*prescrition acquisitive - délai*].
+Est acquis à l'Etat le solde de tout compte courant postal sur lequel aucune opération n'a été faite depuis dix ans .
 
-L'administration peut prononcer d'office la clôture d'un compte courant, notamment pour utilisation abusive ou lorsqu'un ou
-plusieurs chèques postaux ont été tirés par le titulaire sans provision suffisante.
+La Poste peut prononcer d'office la clôture d'un compte courant, notamment pour utilisation abusive ou lorsqu'un ou plusieurs
+chèques postaux ont été tirés par le titulaire sans provision suffisante.
 
 En cas de décès du titulaire, le compte est clôturé à la date où le décès est porté à la connaissance du service détenteur du
 compte. Le remboursement du solde a lieu à la diligence du centre de chèques détenteur par mandat ou par virement postal au
@@ -5071,12 +4963,79 @@ _Codifié par_:
 
   - Décret n°62-273 1962-03-12
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
 
 
 #### (en vigueur jusqu'au 31 décembre 2005).<a id=43></a>
+
+###### Article L98
+
+Le service des chèques postaux est géré par l'exploitant public La Poste.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L168
+  - Loi n°1941-11-17  art. 1
+
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+
+###### Article L99
+
+Peuvent se faire ouvrir des comptes courants postaux, sous réserve de l'agrément de La Poste, les personnes physiques et les
+personnes morales administratives ou privées, ainsi que tous services publics et groupements d'intérêts de caractère public
+ou privé.
+
+Les demandes d'ouverture de comptes sont établies sur papier libre [*formalités*] ; les spécimens de la signature habituelle
+du titulaire et des personnes autorisées à tirer des chèques sont également recueillis sur papier libre.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L170
+  - Loi n°1941-11-17 art. 3
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
 
 ###### Article L100
 
@@ -5321,12 +5280,134 @@ _Codifié par_:
   - Décret n°62-273 1962-03-12
 
 
+###### Article L107
+
+La Poste est responsable des sommes qu'elle a reçues pour être portées au crédit des comptes courants postaux.
+
+Lorsqu'il est fait usage de mandats ordinaires ou télégraphiques de versement, les dispositions de l'article L. 113 sont
+applicables.
+
+La Poste n'est pas responsable des retards qui peuvent se produire dans l'exécution du service.
+
+Les réclamations relatives aux opérations sur comptes courants postaux sont admises dans les délais de prescription du droit
+commun.
+
+En cas de réclamation, les règles relatives à la perception et au remboursement des taxes prévues en matière de mandats sont
+applicables aux chèques postaux.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L175
+  - Loi n°1941-11-17 art. 8
+  - Loi n°48-1288 1948-08-18 art. 2
+
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L113 (M)
+
+
+###### Article L107-1
+
+La Poste est autorisée à accorder sa garantie aux bénéficiaires des paiements effectués par les porteurs de cartes de
+paiement émises par elle.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+
+###### Article L108
+
+En cas de changement dans la condition civile ou la situation légale du titulaire du compte courant postal, avis doit en être
+donné au centre de chèques postaux détenteur de ce compte. La Poste ne peut être tenue responsable des conséquences pouvant
+résulter des modifications qui ne lui auraient pas été notifiées.
+
+Au regard de La Poste tout chèque de paiement régulièrement porté au débit du compte du tireur est considéré comme payé. A
+partir de la transformation du chèque en mandat, lorsque le paiement a lieu par ce moyen, la responsabilité pécuniaire
+encourue par La Poste est la même qu'en matière de mandat.
+
+Le titulaire d'un compte courant postal est seul responsable des conséquences résultant de l'emploi abusif, de la perte ou de
+la disparition des formules de chèques qui lui ont été remises par La poste.
+
+La responsabilité d'un faux paiement ou d'un faux virement résultant d'indications d'assignation ou d'un virement inexactes
+ou incomplètes incombe au tireur du chèque.
+
+La seule possession par La Poste d'un chèque au porteur suffit pour valoir libération au regard du titulaire du compte.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L176
+  - Loi n°48-1288 1948-08-18 art. 2
+  - Loi n°1941-11-17 art. 8
+
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+
 ### TITRE II : Mandats.<a id=44></a>
+
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=45></a>
 
 ###### Article L110
 
-Dans le régime intérieur français, les envois de fonds peuvent être effectués [*modalités*] au moyen de mandats émis par
-l'administration des postes et télécommunications et tranmis par voie postale ou par voie télégraphique.
+Dans le régime intérieur français, les envois de fonds peuvent être effectués [*modalités*] au moyen de mandats émis par La
+Poste et transmis par voie postale ou par voie télégraphique.
 
 Les mandats acheminés par voie postale peuvent être, soit des mandats ordinaires transmis au bénéficiaire par les soins de
 l'expéditeur, soit des mandats-cartes acheminés directement du bureau de poste d'émission au bureau chargé du paiement.
@@ -5334,29 +5415,47 @@ l'expéditeur, soit des mandats-cartes acheminés directement du bureau de poste
 La transmission des mandats par voie télégraphique est soumise à toutes les règles applicables aux télégrammes privés et
 notamment à celles de l'article L. 37 sous réserve des dispositions de l'article L. 113.
 
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L37 et L113
 
 _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L179
   - Loi n°1943-06-29 art. 1
 
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+  - Code des postes et des communications éléctroniques L37 et L113
 
 
 ###### Article L111
 
-Les mandats émis et payés par l'administration des postes et télécommunications sont exemptés de tout droit de timbre.
+Les mandats émis et payés par La Poste sont exemptés de tout droit de timbre.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -5365,19 +5464,29 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L182
   - Loi n°1943-06-29 art. 4
 
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
 
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
 
 ###### Article L112
 
-Les taxes et droits de commission perçus au profit de l'administration des postes et télécommunications lui sont acquis alors
-même que les mandats demeurent impayés.
+Les taxes et droits de commission perçus au profit de La Poste lui sont acquis alors même que les mandats demeurent impayés.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -5386,56 +5495,76 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L185
   - Loi n°1943-06-29 art. 9
 
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
 
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
 
 ###### Article L113
 
-Sous réserve des dispositions des articles L. 115 et L. 116, l'administration des postes et télécommunications est
-responsable des sommes converties en mandats jusqu'au moment où elles ont été payées dans les conditions prévues par les
-règlements.
+Sous réserve des dispositions des articles L. 115 et L. 116, La Poste est responsable des sommes converties en mandats
+jusqu'au moment où elles ont été payées dans les conditions prévues par les règlements.
 
-Pour les mandats ordinaires au porteur, l'administration des postes et télécommunications est valablement libérée par le seul
-fait qu'elle est rentrée en possession du titre, sans qu'il ait été exigé de la personne qui l'a présenté au paiement ni
-acquit, ni justification d'identité, à moins que le titre n'ait été transformé en mandat nominatif par l'inscription du nom
-du bénéficiaire.
+Pour les mandats ordinaires au porteur, La Poste est valablement libérée par le seul fait qu'elle est rentrée en possession
+du titre, sans qu'il ait été exigé de la personne qui l'a présenté au paiement ni acquit, ni justification d'identité, à
+moins que le titre n'ait été transformé en mandat nominatif par l'inscription du nom du bénéficiaire.
 
-L'administration n'est pas responsable des retards qui peuvent se produire dans l'exécution du service.
+La Poste n'est pas responsable des retards qui peuvent se produire dans l'exécution du service.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. L107 (Ab)
+
 _Cite_:
 
-  - Code des postes et télécommunications L115 et L116
+  - Code des postes et des communications éléctroniques L115 et L116
 
 _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L189
   - Loi n°1943-06-29 art. 13
 
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. L107 (Ab)
-
 
 ###### Article L114
 
-L'administration des postes et télécommunications est valablement libérée par le paiement des mandats effectués entre les
-mains et contre décharge des vaguemestres civils ou militaires régulièrement accrédités auprès des receveurs des postes.
+La Poste est valablement libérée par le paiement des mandats effectués entre les mains et contre décharge des vaguemestres
+civils ou militaires régulièrement accrédités auprès des receveurs des postes.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -5448,16 +5577,26 @@ _Codifié par_:
 
   - Décret n°62-273 1962-03-12
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
 
 
 ###### Article L115
 
 Le montant des mandats de toute nature dont le paiement ou le remboursement n'a pas été réclamé par les ayants droit dans le
-délai de deux ans à partir du jour du versement des fonds est définitivement acquis à l'administration des postes et
-télécommunications [*prescription acquisitive*].
+délai de deux ans à partir du jour du versement des fonds est [*prescription acquisitive*] définitivement acquis à l'Etat.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -5466,16 +5605,18 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L191
   - Loi n°1943-06-29 art. 15
 
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
 
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=45></a>
 
 ###### Article L116
 
@@ -5510,119 +5651,6 @@ _Abrogé par_:
 
 
 ### TITRE III : Valeurs à recouvrer et envois contre remboursement<a id=46></a>
-
-###### Article L119
-
-Pour le recouvrement des chèques et des effets de commerce qui lui sont remis en exécution du présent titre, l'administration
-des postes et télécommunications ne peut, en aucun cas, se voir opposer les obligations incombant au porteur par la
-législation et la réglementation en vigueur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L195
-  - Loi n°53-26 1953-01-28 art. 3
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-###### Article L120
-
-Le montant des valeurs à recouvrer ou des sommes à percevoir sur le destinataire des envois contre remboursement doit être
-acquitté en une seule fois. Il n'est pas admis de paiement partiel.
-
-Un paiement effectué ne peut donner lieu à répétition contre l'administration de la part de celui qui a remis les fonds.
-
-L'administration des postes et télécommunications est dispensée de toute formalité touchant à la constatation du non-
-paiement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L196
-  - Loi n°53-26 1953-01-28 art. 5 et 6
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-###### Article L121
-
-A la condition d'être titulaire d'un compte courant postal, l'expéditeur peut demander que les chèques et effets non
-recouvrés soient remis, dans les conditions fixées par l'administration des postes et télécommunications, à un notaire ou à
-un huissier, en vue de l'établissement d'un protêt.
-
-L'expéditeur qui use de cette faculté autorise de ce fait le prélèvement du montant des frais de protêt et de la taxe postale
-de présentation perçue par l'administration sur l'avoir de son compte courant postal.
-
-L'expéditeur est tenu de maintenir au crédit de son compte courant postal une somme suffisante pour permettre le prélèvement
-de ces frais. Il conserve la faculté d'en demander le remboursement au débiteur protesté.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L198
-  - Loi n°53-26 1953-01-28 art. 7
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-###### Article L122
-
-Au cours des tranmissions postales et opérations préparatoires à la remise des valeurs ou objets aux intéressés, la
-responsabilité de l'administration des postes et télécommunications est la même qu'en matière de correspondance postale de la
-catégorie à laquelle appartiennent les envois, suivant qu'il s'agit d'objets ordinaires, recommandés ou avec valeur déclarée.
-
-A partir du moment où les valeurs ou objets ont été remis au débiteur ou au destinataire, l'administration des postes et
-télécommunications est responsable des sommes encaissées ou qui auraient dû l'être. Lorsque ces sommes ont été converties en
-mandats ou versées au crédit d'un compte courant postal, sa responsabilité est la même qu'en matière de mandats ou de titres
-du service des chèques postaux.
-
-En cas de refus de paiement à présentation d'une valeur soumise à protêt, l'administration est déchargée par la remise de
-cette valeur à un notaire ou à un huissier.
-
-L'administration n'est pas responsable des retards dans l'exécution du service, notamment en ce qui concerne la présentation
-à domicile des effets protestables et la remise des effets impayés au notaire ou à l'huissier chargé de dresser le protêt.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L200
-  - Loi n°53-26 1953-01-28 art. 9
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. L123 (Ab)
-
 
 #### (en vigueur jusqu'au 31 décembre 2005).<a id=47></a>
 
@@ -5696,6 +5724,160 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article L119
+
+Pour le recouvrement des chèques et des effets de commerce qui lui sont remis en exécution du présent titre, La Poste ne
+peut, en aucun cas, se voir opposer les obligations incombant au porteur par la législation et la réglementation en vigueur.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L195
+  - Loi n°53-26 1953-01-28 art. 3
+
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+
+###### Article L120
+
+Le montant des valeurs à recouvrer ou des sommes à percevoir sur le destinataire des envois contre remboursement doit être
+acquitté en une seule fois. Il n'est pas admis de paiement partiel.
+
+Un paiement effectué ne peut donner lieu à répétition contre La Poste de la part de celui qui a remis les fonds.
+
+La Poste est dispensée de toute formalité touchant à la constatation du non-paiement.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L196
+  - Loi n°53-26 1953-01-28 art. 5 et 6
+
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+
+###### Article L121
+
+A la condition d'être titulaire d'un compte courant postal, l'expéditeur peut demander que les chèques et effets non
+recouvrés soient remis, dans les conditions fixées par La Poste, à un notaire ou à un huissier, en vue de l'établissement
+d'un protêt.
+
+L'expéditeur qui use de cette faculté autorise de ce fait le prélèvement du montant des frais de protêt et de la taxe postale
+de présentation perçue par La Poste sur l'avoir de son compte courant postal.
+
+L'expéditeur est tenu de maintenir au crédit de son compte courant postal une somme suffisante pour permettre le prélèvement
+de ces frais. Il conserve la faculté d'en demander le remboursement au débiteur protesté.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L198
+  - Loi n°53-26 1953-01-28 art. 7
+
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+
+###### Article L122
+
+Au cours des transmissions postales et opérations préparatoires à la remise des valeurs ou objets aux intéressés, la
+responsabilité de La Poste est la même qu'en matière de correspondance postale de la catégorie à laquelle appartiennent les
+envois, suivant qu'il s'agit d'objets ordinaires, recommandés ou avec valeur déclarée.
+
+A partir du moment où les valeurs ou objets ont été remis au débiteur ou au destinataire, La Poste est responsable des sommes
+encaissées ou qui auraient dû l'être. Lorsque ces sommes ont été converties en mandats ou versées au crédit d'un compte
+courant postal, sa responsabilité est la même qu'en matière de mandats ou de titres du service des chèques postaux.
+
+En cas de refus de paiement à présentation d'une valeur soumise à protêt, La Poste est déchargée par la remise de cette
+valeur à un notaire ou à un huissier.
+
+La Poste n'est pas responsable des retards dans l'exécution du service, notamment en ce qui concerne la présentation à
+domicile des effets protestables et la remise des effets impayés au notaire ou à l'huissier chargé de dresser le protêt.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L200
+  - Loi n°53-26 1953-01-28 art. 9
+
+_Modifié par_:
+
+  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. L123 (Ab)
 
 
 ###### Article L123
@@ -6092,28 +6274,17 @@ _Créé par_:
 
 ###### Article L126
 
-Les dispositions législatives qui régissent le recouvrement et le contentieux du recouvrement des contributions indirectes
-sont applicables au recouvrement de toutes les recettes propres au budget annexe des postes et télécommunications qui sont
-perçues en application des tarifs légalement édictés.
+La prescription est acquise au profit de l'exploitant public pour toutes demandes en restitution du prix de ses prestations
+présentées après un délai d'un an à compter du jour du paiement.
 
-Le directeur départemental des postes et télécommunications exerce les attributions conférées au directeur départemental des
-impôts par les dispositions législatives visées ci-dessus (1).
-
-La prescription est acquise au profit de l'Etat pour toutes demandes en restitution présentées après un délai d'un an à
-compter du jour de paiement *computation*.
-
-La prescription est acquise au profit du redevable pour les sommes que l'administration n'a pas réclamées dans un délai d'un
-an courant à compter de la date de leur exigibilité.
-
-**Nota:**
-
-*(1) NOTA : Décret n° 72-682 du 18 juillet 1972 article 1er :
-
-"Le deuxième alinéa de l'article L. 126 du code des postes et télécommunications est abrogé en tant qu'il détermine le grade
-et la compétence territoriale du fonctionnaire des postes et télécommunications habilité à exercer les attributions définies
-audit alinéa."
+La prescription est acquise au profit de l'usager pour les sommes dues en paiement des prestations de l'exploitant public
+lorsque celui-ci ne les a pas réclamées dans un délai d'un an courant à compter de la date de leur exigibilité.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des postes et des communications électronique - art. L11 (V)
 
 _Anciens textes_:
 
@@ -6122,66 +6293,18 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°72-682 1972-07-18 art. 1 JORF 23 juillet 1972
-  - Loi n°66-948 1966-12-22 art. 35 JORF 23 décembre 1966
-  - Loi n°84-939 1984-10-23 art. 5 JORF 25 octobre 1984
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-_Nouveaux textes_:
-
-  - Code des postes et des communications électronique - art. L11 (V)
-
-
-### TITRE IV : Dispositions financières<a id=54></a>
-
-#### CHAPITRE Ier : Emprunts.<a id=55></a>
-
-###### Article L127
-
-Pour subvenir aux dépenses imputées sur la deuxième section du budget annexe des postes et télécommunications, le ministre
-des finances est autorisé à émettre, dans la limite fixée chaque année par la loi de finances, des bons ou obligations
-amortissables dans un délai maximum de trente ans.
-
-Le taux et l'époque des émissions, la nature, la forme et le mode de transfert des titres, le mode et les époques
-d'amortissement et de paiement des intérêts sont déterminés par arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L218
-  - Loi n°1923-06-30 art. 75, 77 al. 2
-  - Loi n°1929-12-29 art. 27
-
-_Modifié par_:
-
-  - Loi n°77-574 1977-06-07 art. 13 JORF 8 juin 1977 rectificatif JORF 21 juin 1977
-
-_Abrogé par_:
-
   - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
 
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
 
-_Créé par_:
 
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=54></a>
 
+## LIVRE Ier : Le service postal<a id=55></a>
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=56></a>
-
-## LIVRE Ier : Le service postal<a id=57></a>
-
-### TITRE VIII : Dispositions pénales.<a id=58></a>
+### TITRE VIII : Dispositions pénales.<a id=56></a>
 
 ###### Article R1
 
@@ -6424,9 +6547,8 @@ _Cite_:
 
 ###### Article R8
 
-Est interdit, pour toutes opérations effectuées sans l'intermédiaire de l'administration des postes et télécommunications,
-l'usage des formules mises à la disposition du public par cette administration ou d'imprimés reproduisant ou limitant
-lesdites formules [*infraction*].
+Est interdit pour toutes les opérations effectuées sans l'intermédiaire de La Poste l'usage des formules qu'elle met à la
+disposition du public ou d'imprimés reproduisant ou imitant lesdites formules.
 
 Est interdite également la distribution de tout document, de quelque nature qu'il soit, revêtu de vignettes, de timbres,
 d'empreintes ou de mentions lui donnant faussement l'apparence d'objet de correspondance ayant transité par le service
@@ -6447,23 +6569,18 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°63-238 1963-03-04 art. 1 JORF    mars 1963
-  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+  - Décret n°90-1214 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
 
-_Créé par_:
 
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+## LIVRE II : Le service des télécommunications<a id=57></a>
 
+### TITRE Ier : Dispositions générales<a id=58></a>
 
-## LIVRE II : Le service des télécommunications<a id=59></a>
-
-### TITRE Ier : Dispositions générales<a id=60></a>
-
-#### CHAPITRE II : Dispositions pénales.<a id=61></a>
+#### CHAPITRE II : Dispositions pénales.<a id=59></a>
 
 ###### Article R10
 
@@ -6471,10 +6588,10 @@ La publication de listes d'abonnés ou d'utilisateurs déclarés par les abonné
 autorisation préalable du ministre chargé des télécommunications.
 
 Cette autorisation peut être refusée lorsque la publication envisagée est de nature à nuire au bon fonctionnement du service
-public des télécommunications et des services autorisés en application des dispositions de l'article L. 33 du présent code.
+public des télécommunications et des services autorisés en application des dispositions du présent code.
 
 Elle peut, le cas échéant, être assortie de conditions visant, notamment, à éviter toute confusion entre ces publications et
-les annuaires de l'administration des télécommunications.
+les annuaires de l'exploitant public.
 
 Toute personne qui contreviendra aux dispositions qui précèdent sera punie, pour chaque exemplaire mis en circulation, de
 l'amende prévue pour les contraventions de la 1re classe [*première*] .
@@ -6483,7 +6600,7 @@ l'amende prévue pour les contraventions de la 1re classe [*première*] .
 
 _Modifié par_:
 
-  - Décret n°89-738 du 12 octobre 1989 - art. 1 () JORF 14 octobre 1989
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 _Cité par_:
 
@@ -6506,34 +6623,31 @@ _Codifié par_:
 
   - Décret n°62-274 1962-03-12
 
-_Cite_:
-
-  - Code des postes et télécommunications L33
-
 
 ###### Article R10-1
 
 Les personnes physiques ayant souscrit un abonnement dans les conditions prévues aux articles D. 317 et D. 284 peuvent, en
 application de l'article 26 de la loi n° 78-17 du 6 janvier 1978, demander, sans redevance supplémentaire, à ne pas figurer
-sur les listes extraites des annuaires et commercialisées par l'administration des télécommunications.
+sur les listes extraites des annuaires et commercialisées par l'exploitant public.
 
 Est interdit l'usage par quiconque, à des fins commerciales ou de diffusion dans le public, des informations nominatives
 extraites desdits annuaires concernant les personnes mentionnées à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1992-01-17
+  - SPEC_APPLI: Décret n°89-738 du 12 octobre 1989 - art. 4 (V)
+
 _Cite_:
 
   - Code des postes et télécommunications D284 et D317
   - Loi n°78-17 du 6 janvier 1978 - art. 26 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-738 du 12 octobre 1989 - art. 2 () JORF 14 octobre 1989
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°89-738 du 12 octobre 1989 - art. 4 (V)
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 _Codifié par_:
 
@@ -6549,12 +6663,11 @@ _Cité par_:
 
 ###### Article R11
 
-Est interdit l'usage de tout document imitant ceux utilisés par l'administration des télécommunications dans ses rapports
-avec ses abonnés, notamment les factures ;
+Est interdit l'usage de tout document imitant ceux utilisés par l'exploitant public dans ses rapports avec ses abonnés,
+notamment les factures ;
 
 Est également interdit l'usage de tout document imitant ceux utilisés par les concessionnaires de publicité dans les
-annuaires de l'administration des télécommunications, pour recueillir des souscriptions de publicité à insérer dans lesdits
-annuaires.
+annuaires de l'exploitant public, pour recueillir des souscriptions de publicité à insérer dans lesdits annuaires.
 
 Toute personne qui contreviendra aux dispositions qui précèdent sera punie, pour chaque exemplaire mis en circulation, de
 l'amende prévue pour les contraventions de la 3e classe [*troisième classe, sanction*].
@@ -6567,7 +6680,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°89-738 du 12 octobre 1989 - art. 3 () JORF 14 octobre 1989
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 _Codifié par_:
 
@@ -6578,7 +6691,7 @@ _Nouveaux textes_:
   - Code des postes et des communications électronique - art. R10-11 (V)
 
 
-#### CHAPITRE IV : Téléphone.<a id=62></a>
+#### CHAPITRE IV : Téléphone.<a id=60></a>
 
 ###### Article R*12
 
@@ -6673,10 +6786,9 @@ _Anciens textes_:
 
 ###### Article R*14
 
-Lorsque l'administration des postes et télécommunications estime que la mise en permanence de jour et de nuit d'un poste
-téléphonique d'abonnement à la disposition du public, dans des conditions préalablement fixées, présente un caractère
-d'intérêt général, elle peut accorder aux titulaires de ce poste une réduction de 50 p. 100 sur le montant de la redevance
-annuelle d'abonnement.
+Lorsque l'exploitant public estime que la mise en permanence de jour et de nuit d'un poste téléphonique d'abonnement à la
+disposition du public, dans des conditions préalablement fixées, présente un caractère d'intérêt général, il peut accorder
+aux titulaires de ce poste une réduction de 50 p. 100 sur le montant de la redevance annuelle d'abonnement.
 
 **Nota:**
 
@@ -6688,13 +6800,13 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L216
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R*15
@@ -6705,8 +6817,8 @@ tarif réduit.
 
 La location des fils utilisés par les journaux et agences de presse bénéficie également d'une réduction.
 
-Une subvention annuelle compensatrice au profit du budget annexe des postes et télécommunications est inscrite au budget
-général.
+Une subvention annuelle est inscrite, au profit de l'exploitant public, au budget général en compensation des réductions
+tarifaires accordées en application des articles R. 15 à R. 20.
 
 **Nota:**
 
@@ -6714,17 +6826,21 @@ général.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code des postes et télécommunications R15 à R20
+
 _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L215
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R*16
@@ -6761,8 +6877,8 @@ _Créé par_:
 Les journaux et agences intéressés doivent adresser au secrétariat de la commission prévue à l'article R. 19, [*délai*] au
 plus tard le dernier jour du mois suivant chaque période de deux mois, le relevé des dépenses qu'ils ont supportées au cours
 de cette période au titre des communications visées à l'article R. 16. Ce relevé doit faire apparaître séparément le montant
-des communications remboursées à chaque correspondant de presse et le montant de celles payées à l'administration au titre de
-communications payables à l'arrivée. Il doit être certifié conforme par le directeur du journal ou de l'agence.
+des communications remboursées à chaque correspondant de presse et le montant de celles payées à l'exploitant public au titre
+de communications payables à l'arrivée. Il doit être certifié conforme par le directeur du journal ou de l'agence.
 
 **Nota:**
 
@@ -6778,13 +6894,13 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones R46
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R*18
@@ -6922,9 +7038,11 @@ _Créé par_:
   - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
-### TITRE III : Servitudes radio-électriques<a id=63></a>
+### TITRE II : Prérogatives et servitudes<a id=61></a>
 
-#### CHAPITRE Ier : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.<a id=64></a>
+#### CHAPITRE II : Servitudes radio-électriques<a id=62></a>
+
+##### SECTION 1 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.<a id=63></a>
 
 ###### Article R*21
 
@@ -6962,13 +7080,13 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L98
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R*22
@@ -7008,13 +7126,13 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones R2
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R*23
@@ -7044,20 +7162,20 @@ _Nouveaux textes_:
 
   - Code des postes et des communications électroni... - art. R25 (V)
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R*24
 
 Dans toute zone primaire, secondaire ou spéciale de dégagement, ainsi que dans tout secteur de dégagement, il est interdit,
-sauf autorisation du ministre dont les services exploitent ou contrôlent le centre, de créer des obstacles fixes ou mobiles
-dont la partie la plus haute excède une cote fixée par le décret prévu à l'article R. 25.
+sauf autorisation du ministre dont les services exploitent le centre ou exercent la tutelle sur lui, de créer des obstacles
+fixes ou mobiles dont la partie la plus haute excède une cote fixée par le décret prévu à l'article R. 25.
 
 Lorsque la configuration du terrain le permet, les zones sont divisées en plusieurs parties, une cote particulière étant
 fixée pour chaque partie.
@@ -7079,14 +7197,14 @@ imposer.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code des postes et télécommunications R25
-
 _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L99
   - Code des postes et des communications électroni... - art. R*22 (T)
+
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 _Cité par_:
 
@@ -7101,13 +7219,13 @@ _Codifié par_:
 
   - Décret n°62-274 1962-03-12
 
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
 _Nouveaux textes_:
 
   - Code des postes et des communications électroni... - art. R26 (V)
+
+_Cite_:
+
+  - Code des postes et télécommunications R25
 
 
 ###### Article R*25
@@ -7117,14 +7235,14 @@ effectuée conformément aux dispositions qui sont de droit commun applicables a
 d'utilité publique. Toutefois, la mission dévolue par ces dispositions, soit à une commission d'enquête, soit à un
 commissaire enquêteur, est, dans tous les cas, confiée à un commissaire enquêteur.
 
-La préparation du dossier s'effectue comme suit : sur la demande du ministre intéressé, à laquelle est joint un projet de
-plan, le préfet désigne par arrêté les communes sur le territoire desquelles les agents qualifiés sont autorisés à procéder à
-une étude préliminaire. Ces agents ont la faculté de pénétrer dans les propriétés non closes de murs ou de clôtures
-équivalentes situées sur le territoire de ces communes.
+La préparation du dossier s'effectue comme suit : sur la demande du ministre intéressé ou de l'exploitant public de
+télécommunications, à laquelle est joint un projet de plan, le préfet désigne par arrêté les communes sur le territoire
+desquelles les agents qualifiés sont autorisés à procéder à une étude préliminaire. Ces agents ont la faculté de pénétrer
+dans les propriétés non closes de murs ou de clôtures équivalentes situées sur le territoire de ces communes.
 
 Après achèvement de l'enquête visée au premier alinéa du présent article, le plan des servitudes qui en résulte est approuvé
-par décret pris sous le contreseing du ministre dont les services doivent exploiter ou contrôler le centre, sur avis du
-comité de coordination des télécommunications ainsi que sous le contreseing du ministre de la construction.
+par décret pris sous le contreseing du ministre dont les services exploitent le centre ou exrcent la tutelle sur lui, sur
+avis du comité de coordination des télécommunications ainsi que sous le contreseing du ministre de la construction.
 
 L'accord préalable du ministre du développement industriel et scientifique et du ministre de l'agriculture est requis dans
 tous les cas. Si l'accord entre les ministres n'intervient pas, il est statué par décret en Conseil d'Etat.
@@ -7149,17 +7267,13 @@ _Cité par_:
 
   - Code des postes et des communications électroni... - art. R24 (V)
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-_Modifié par_:
-
-  - Décret n°70-1339 1970-12-23 art. 1 JORF 9 janvier 1971
 
 
 ###### Article R*26
@@ -7194,16 +7308,16 @@ _Cite_:
 
   - Code des postes et télécommunications R25
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
 
-_Créé par_:
 
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-#### CHAPITRE II : Servitudes de protection des centres de réception radio-électriques contre les perturbations électromagnétiques.<a id=65></a>
+##### SECTION 2 : Servitudes de protection des centres de réception radio-électriques contre les perturbations électromagnétiques.<a id=64></a>
 
 ###### Article R*28
 
@@ -7226,13 +7340,13 @@ _Cite_:
 
   - Code des postes et télécommunications R27
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R*29
@@ -7276,13 +7390,13 @@ _Nouveaux textes_:
 
   - Code des postes et des communications électroni... - art. R28 (V)
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R*30
@@ -7293,7 +7407,7 @@ présentant pour les appareils du centre un degré de gravité supérieur à la 
 
 En outre, dans la zone de garde radioélectrique, il est interdit de mettre en service du matériel électrique susceptible de
 perturber les réceptions radioélectriques du centre ou d'apporter des modifications à ce matériel, sans l'autorisation du
-ministre dont les services exploitent ou contrôlent le centre.
+ministre dont les services exploitent le centre ou exercent la tutelle sur lui.
 
 **Nota:**
 
@@ -7305,6 +7419,10 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L108
   - Code des postes et des communications électroni... - art. R40 (T)
+
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 _Cité par_:
 
@@ -7320,10 +7438,6 @@ _Codifié par_:
 
   - Décret n°62-274 1962-03-12
 
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
 _Nouveaux textes_:
 
   - Code des postes et des communications électroni... - art. R29 (V)
@@ -7338,13 +7452,14 @@ cas, confiée à un commissaire enquêteur.
 
 La préparation du dossier d'enquête s'effectue comme suit :
 
-Sur la demande du ministre intéressé, à laquelle est joint un projet de plan, le préfet désigne par arrêté les communes sur
-le territoire desquelles les agents qualifiés sont autorisés à procéder à une étude préliminaire. Ces agents ont la faculté
-de pénétrer dans les propriétés non closes de murs ou de clôtures équivalentes situées sur le territoire de ces communes,
-ainsi qu'à l'intérieur des propriétés même closes et des bâtiments, à condition, en ce qui concerne les propriétés closes et
-les bâtiments, qu'ils aient été expressément mentionnés dans ledit arrêté. Ainsi qu'il est dit à l'article L. 58, les
-propriétaires et usagers sont tenus de se prêter aux investigations nécessaires et, notamment, de faire fonctionner, à la
-demande des agents, les installations et appareils que ceux-ci considèrent comme susceptibles de produire des troubles.
+Sur la demande du ministre intéressé ou de l'exploitant public de télécommunications, à laquelle est joint un projet de plan,
+le préfet désigne par arrêté les communes sur le territoire desquelles les agents qualifiés sont autorisés à procéder à une
+étude préliminaire. Ces agents ont la faculté de pénétrer dans les propriétés non closes de murs ou de clôtures équivalentes
+situées sur le territoire de ces communes, ainsi qu'à l'intérieur des propriétés même closes et des bâtiments, à condition,
+en ce qui concerne les propriétés closes et les bâtiments, qu'ils aient été expressément mentionnés dans ledit arrêté. Ainsi
+qu'il est dit à l'article L. 58, les propriétaires et usagers sont tenus de se prêter aux investigations nécessaires et,
+notamment, de faire fonctionner, à la demande des agents, les installations et appareils que ceux-ci considèrent comme
+susceptibles de produire des troubles.
 
 Après achèvement de l'enquête, le plan des servitudes qui en résulte est approuvé par décret pris sous le contreseing du
 ministre intéressé et du ministre du développement industriel et scientifique, sur avis du comité de coordination des
@@ -7372,24 +7487,20 @@ _Cite_:
 
   - Code des postes et télécommunications L58
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
 
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-_Modifié par_:
-
-  - Décret n°70-1339 1970-12-23 art. 2 JORF 9 janvier 1971
-
 
 ###### Article R*32
 
-Les frais que motivent les modifications des installations préexistantes incombent à l'administration qui les prescrit dans
-la mesure où ces modifications excèdent la mise en conformité avec les lois, décrets et arrêtés en vigueur et, notamment, les
-textes concernant la protection de la radiodiffusion contre les troubles parasites industriels.
+Les frais que motivent les modifications des installations préexistantes incombent à l'administration ou à l'exploitant
+public qui les prescrit dans la mesure où ces modifications excèdent la mise en conformité avec les lois, décrets et arrêtés
+en vigueur et, notamment, les textes concernant la protection de la radiodiffusion contre les troubles parasites industriels.
 
 **Nota:**
 
@@ -7401,19 +7512,19 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L114 al. 1
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
 
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
 
 ###### Article R*33
 
-Lorsqu'un centre de réception radioélectrique dépend de plusieurs administrations, les pouvoirs conférés par le présent
-chapitre sont dévolus aux différents ministres intéressés et les décrets d'application portent leur contreseing.
+Pour les centres de réception visés à l'article R. 27 du présent code, les pouvoirs conférés par le présent chapitre sont
+dévolus aux différents ministres intéressés et les décrets d'application portent leur contreseing.
 
 **Nota:**
 
@@ -7421,17 +7532,21 @@ chapitre sont dévolus aux différents ministres intéressés et les décrets d'
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code des postes et télécommunications R27
+
 _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L115
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R*34
@@ -7454,20 +7569,20 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L117
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R*35
 
 Les autorisations prévues à l'article 2 de la loi du 15 juin 1906 ne seront accordées qu'avec l'assentiment du ou des
-ministres intéressés dans tous les cas où, en vertu des dispositions du présent chapitre, il y a lieu à autorisation
-préalable à la mise en service.
+ministres intéressés ou de l'exploitant public dans tous les cas où, en vertu des dispositions du présent chapitre, il y a
+lieu à autorisation préalable à la mise en service.
 
 **Nota:**
 
@@ -7479,13 +7594,13 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L118
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 _Cite_:
 
@@ -7494,8 +7609,8 @@ _Cite_:
 
 ###### Article R*36
 
-L'avis des ministres dont les services exploitent ou contrôlent des centres de réception radioélectriques est ajouté, le cas
-échéant, à ceux en conformité desquels sont accordées les autorisations prévues à l'article 4 de la loi du 15 juin 1906.
+L'avis des ministres intéressés est ajouté, le cas échéant, à ceux en conformité desquels sont accordées les autorisations
+prévues à l'article 4 de la loi du 15 juin 1906.
 
 **Nota:**
 
@@ -7507,13 +7622,13 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L119
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 _Cite_:
 
@@ -7523,7 +7638,7 @@ _Cite_:
 ###### Article R*37
 
 Aux conférences prévues à l'article 14 de la loi du 15 juin 1906 prennent part, le cas échéant, les représentants des
-ministres dont l'administration exploite ou contrôle des centres de réception radioélectriques.
+ministres intéressés ou de l'exploitant public.
 
 **Nota:**
 
@@ -7535,13 +7650,13 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L120
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 _Cite_:
 
@@ -7567,13 +7682,13 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L122
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R*39
@@ -7594,35 +7709,31 @@ _Cite_:
 
   - Code des postes et télécommunications R21 à R38
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R27
 
-Les centres de réception radioélectriques exploités ou contrôlés par les différents départements ministériels sont classés en
-trois catégories d'après leur importance, la nature du service qu'ils assurent et leur situation géographique. Le classement
-de tout centre est effectué sur avis du comité de coordination des télécommunications, par arrêté du ministre dont le
-département exploite ou contrôle le centre.
-
-**Nota:**
-
-
+Les centres de réception radioélectrique exploités par les différents départements ministériels ou se trouvant sous la
+tutelle de l'un d'eux sont classés en trois catégories d'après leur importance, la nature du service qu'ils assurent et leur
+situation géographique. Le classement de tout centre est effectué sur avis du comité de coordination des télécommunications
+par arrêté du ministre intéressé.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 _Cité par_:
 
@@ -7636,7 +7747,7 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L107
 
 
-#### CHAPITRE III : Dispositions pénales.<a id=66></a>
+##### SECTION 3 : Dispositions pénales.<a id=65></a>
 
 ###### Article R*42
 
@@ -7661,13 +7772,13 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L105 al. 7
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R40
@@ -7685,13 +7796,13 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L117
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 _Nouveaux textes_:
 
@@ -7724,28 +7835,28 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L121
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 _Cite_:
 
   - Loi n°1906-06-15 art. 24
 
 
-### TITRE  IV : Police des liaisons et des installations du réseau de télécommunications<a id=67></a>
+#### CHAPITRE III : Police des liaisons et des installations du réseau de télécommunications<a id=66></a>
 
-#### CHAPITRE II : Dispositions pénales.<a id=68></a>
+##### SECTION 2 : Dispositions pénales.<a id=67></a>
 
 ###### Article R43
 
 Sans préjudice de l'application des dispositions de l'article L. 66 du présent code, quiconque, de quelque manière que ce
-soit, détériore ou dégrade une installation du réseau aérien des télécommunications de l'Etat ou compromet le fonctionnement
-de ce réseau [*infraction*] sera puni [*sanction*] d'une amende de 160 à 2 000 F.
+soit, détériore ou dégrade une installation du réseau aérien des télécommunications de l'Etat ou de l'exploitant public ou
+compromet le fonctionnement de ce réseau [*infraction*] sera puni [*sanction*] d'une amende de 160 à 2 000 F.
 
 **Nota:**
 
@@ -7763,15 +7874,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°78-1249 1978-12-28 art. 1 JORF 30 décembre 1978
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R44
@@ -7788,13 +7895,13 @@ _Cite_:
 
   - Code des postes et télécommunications R43
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R44-1
@@ -7803,8 +7910,8 @@ Pour l'application des dispositions du troisième alinéa de l'article L. 69-1 d
 concernant l'emplacement des ouvrages souterrains de télécommunications pouvant exister dans l'emprise de travaux publics ou
 privés projetés sont présentées par le maître de l'ouvrage ou le maîre d'oeuvre dans les conditions ci-après.
 
-La demande est adressée par lettre recommandée en trois exemplaires ou par télex au directeur chargé des services régionaux
-des télécommunications, au plus tôt soixante jours et au plus tard vingt jours [*délai*] avant l'ouverture du chantier.
+La demande est adressée par lettre recommandée en trois exemplaires ou par télex au responsable territorial de l'exploitant
+public, au plus tôt soixante jours et au plus tard vingt jours [*délai*] avant l'ouverture du chantier.
 
 Elle doit comporter les indications suivantes :
 
@@ -7828,9 +7935,9 @@ _Cite_:
 
   - Code des postes et télécommunications L69-1 al. 3
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°78-1249 1978-12-28 art. 2 JORF 30 décembre 1978
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 _Codifié par_:
 
@@ -7839,8 +7946,8 @@ _Codifié par_:
 
 ###### Article R44-2
 
-L'administration des postes et télécommunications adresse, par lettre recommandée ou par télex, sa réponse aux entrepreneurs
-mentionnés à l'article précédent [*délai*] avant l'ouverture du chantier.
+L'exploitant public adresse, par lettre recommandée ou par télex, sa réponse aux entrepreneurs mentionnés à l'article
+précédent [*délai*] avant l'ouverture du chantier.
 
 Cette réponse peut revêtir une ou plusieurs des modalités suivantes :
 
@@ -7853,10 +7960,9 @@ consultation donne lieu à l'établissement en deux exemplaires d'un constat con
 Report des renseignements concernant les ouvrages souterrains des télécommunications sur les plans fournis par le demandeur.
 
 La réponse peut comporter, avec l'indication sommaire de l'emplacement des ouvrages, l'annonce de la visite en temps utile
-sur les lieux des travaux d'un agent de l'administration des postes et télécommunications chargé de préciser, par voie de
-piquetage, l'implantation de ces ouvrages et de donner à l'entrepreneur toutes indications complémentaires afin d'assurer
-leur préservation et leurs conditions de fonctionnement. Cette visite donne lieu à l'établissement en deux exemplaires d'un
-constat contradictoire.
+sur les lieux des travaux d'un agent de l'exploitant public chargé de préciser, par voie de piquetage, l'implantation de ces
+ouvrages et de donner à l'entrepreneur toutes indications complémentaires afin d'assurer leur préservation et leurs
+conditions de fonctionnement. Cette visite donne lieu à l'établissement en deux exemplaires d'un constat contradictoire.
 
 **Nota:**
 
@@ -7868,20 +7974,20 @@ _Cite_:
 
   - Code des postes et télécommunications R44-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°78-1249 1978-12-28 art. 2 JORF 30 décembre 1978
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
 
 
-### TITRE V : Protection des câbles sous-marins<a id=69></a>
+#### CHAPITRE IV : Protection des câbles sous-marins<a id=68></a>
 
-#### CHAPITRE II : Dispositions pénales<a id=70></a>
+##### SECTION 2 : Dispositions pénales<a id=69></a>
 
-##### SECTION 1 : Dispositions applicables aux eaux non territoriales.<a id=71></a>
+##### PARAGRAPHE I : Dispositions applicables aux eaux non territoriales.<a id=70></a>
 
 ###### Article R45
 
@@ -7905,15 +8011,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 _Cité par_:
 
@@ -7941,15 +8043,11 @@ des câbles, ne se tient pas éloigné de la ligne des bouées d'un quart de mil
 
 _Modifié par_:
 
-  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 _Cité par_:
 
@@ -7964,7 +8062,7 @@ _Anciens textes_:
 ###### Article R47
 
 Est puni [*sanction*] d'une amende de 3 000 à 6 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*] et peut être
-puni d'un emprisonnement de dix jours à un mois [*durée résultant du décret n° 80-567 du 18 juillet 1980*] :
+puni d'un emprisonnement de dix jours à un mois [*durée résultant du décret n° 80-569 du 18 juillet 1980*] :
 
 1° Le capitaine ou patron de tout bâtiment qui a jeté l'ancre à moins d'un quart de mille nautique d'un câble sous-marin,
 dont il est en mesure de connaître la position au moyen de lignes de bouées ou autrement, ou s'est amarré à une bouée
@@ -7990,24 +8088,20 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
 
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
 
 ###### Article R48
 
-Est puni d'une amende de 3 000 à 6 000 F et peut être puni d'un emprisonnement de dix jours à un mois :
+Est puni d'une amende de 3 000 à 6 000 F et peut être puni d'un emprisonnement de dix jours à un mois  :
 
 1° Toute personne qui, par négligence coupable et notamment dans les cas visés par les articles R. 46 et R. 47, rompt un
 câble sous-marin ou lui cause une détérioration qui peut avoir pour résultat d'interrompre ou d'entraver, en tout ou partie,
-les télécommunications [*infraction*] ;
+les télécommunications ;
 
 2° Le capitaine de tout bâtiment qui, occupé à la pose ou à la réparation d'un câble sous-marin, est cause, par
 l'inobservation des règles sur les signaux adoptés en vue de prévenir les abordages, de la rupture ou de la détérioration
@@ -8029,15 +8123,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R49
@@ -8062,18 +8152,14 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
 
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
 
-_Créé par_:
 
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-##### SECTION 2 : Dispositions spéciales aux eaux territoriales.<a id=72></a>
+##### PARAGRAPHE II : Dispositions spéciales aux eaux territoriales.<a id=71></a>
 
 ###### Article R50
 
@@ -8095,13 +8181,13 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L145
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R51
@@ -8116,6 +8202,18 @@ l'article L. 72.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R52 (V)
+
 _Cite_:
 
   - Code des postes et télécommunications L72 et L81 al. 3
@@ -8123,22 +8221,6 @@ _Cite_:
 _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L150 al. 3
-
-_Modifié par_:
-
-  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R52 (V)
 
 
 ###### Article R52
@@ -8163,18 +8245,18 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L151
 
+_Modifié par_:
+
+  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
 _Codifié par_:
 
   - Décret n°62-274 1962-03-12
 
-_Créé par_:
 
-  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+### TITRE VI : Services radioélectriques<a id=72></a>
 
-
-### TITRE VI : Services radioélectriques<a id=73></a>
-
-#### CHAPITRE Ier : Dispositions générales.<a id=74></a>
+#### CHAPITRE Ier : Dispositions générales.<a id=73></a>
 
 ###### Article R*52-1
 
@@ -8242,9 +8324,9 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### TITRE VII : Agence nationale des fréquences<a id=75></a>
+##### TITRE VII : Agence nationale des fréquences<a id=74></a>
 
-##### Chapitre Ier : Dispositions générales et missions<a id=76></a>
+##### Chapitre Ier : Dispositions générales et missions<a id=75></a>
 
 ###### Article R*52-2
 
@@ -8284,9 +8366,9 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-## LIVRE III : Les services financiers<a id=77></a>
+## LIVRE III : Les services financiers<a id=76></a>
 
-### TITRE Ier : Chèques postaux.<a id=78></a>
+### TITRE Ier : Chèques postaux.<a id=77></a>
 
 ###### Article R52-10
 
@@ -8308,9 +8390,9 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-## LIVRE IV : L'organisation financière<a id=79></a>
+## LIVRE IV : L'organisation financière<a id=78></a>
 
-### TITRE Ier : Constitution du budget annexe.<a id=80></a>
+### TITRE Ier : Constitution du budget annexe.<a id=79></a>
 
 ###### Article R*53
 
@@ -8592,9 +8674,9 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-### TITRE II : Dispositions budgétaires<a id=81></a>
+### TITRE II : Dispositions budgétaires<a id=80></a>
 
-#### CHAPITRE Ier : Fixation des taxes.<a id=82></a>
+#### CHAPITRE Ier : Fixation des taxes.<a id=81></a>
 
 ###### Article R*56
 
@@ -8672,7 +8754,7 @@ _Créé par_:
   - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
-#### CHAPITRE II : Rémunération des services rendus.<a id=83></a>
+#### CHAPITRE II : Rémunération des services rendus.<a id=82></a>
 
 ###### Article R*59
 
@@ -8837,7 +8919,7 @@ _Créé par_:
   - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
-#### CHAPITRE III : Remboursement des frais de travaux, fournitures et cessions - Fonds de concours.<a id=84></a>
+#### CHAPITRE III : Remboursement des frais de travaux, fournitures et cessions - Fonds de concours.<a id=83></a>
 
 ###### Article R*63
 
@@ -8979,7 +9061,7 @@ _Créé par_:
   - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
-#### CHAPITRE IV : Comptabilité administrative.<a id=85></a>
+#### CHAPITRE IV : Comptabilité administrative.<a id=84></a>
 
 ###### Article R*65
 
@@ -9149,7 +9231,7 @@ _Créé par_:
   - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
-#### CHAPITRE V : Dispositions particulières.<a id=86></a>
+#### CHAPITRE V : Dispositions particulières.<a id=85></a>
 
 ###### Article R*70
 
@@ -9320,9 +9402,9 @@ _Créé par_:
   - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
-### TITRE III : Comptabilité générale<a id=87></a>
+### TITRE III : Comptabilité générale<a id=86></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=88></a>
+#### CHAPITRE Ier : Dispositions générales.<a id=87></a>
 
 ###### Article R*72
 
@@ -9638,7 +9720,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-#### CHAPITRE II : Agence comptable.<a id=89></a>
+#### CHAPITRE II : Agence comptable.<a id=88></a>
 
 ###### Article R*81
 
@@ -9920,9 +10002,9 @@ _Créé par_:
   - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
-### TITRE IV : Dispositions financières<a id=90></a>
+### TITRE IV : Dispositions financières<a id=89></a>
 
-#### CHAPITRE Ier : Emprunts.<a id=91></a>
+#### CHAPITRE Ier : Emprunts.<a id=90></a>
 
 ###### Article R*88
 
@@ -10029,7 +10111,7 @@ _Créé par_:
   - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
-#### CHAPITRE II : Excédents de recettes et de dépenses - Disponibilités de caisse.<a id=92></a>
+#### CHAPITRE II : Excédents de recettes et de dépenses - Disponibilités de caisse.<a id=91></a>
 
 ###### Article R*91
 
@@ -10132,7 +10214,7 @@ _Créé par_:
   - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
-### TITRE V : Fonds spéciaux.<a id=93></a>
+### TITRE V : Fonds spéciaux.<a id=92></a>
 
 ###### Article R*93
 
@@ -10607,13 +10689,13 @@ _Créé par_:
   - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
-# Partie réglementaire - Décrets simples<a id=94></a>
+# Partie réglementaire - Décrets simples<a id=93></a>
 
-## LIVRE Ier : Le service postal<a id=95></a>
+## LIVRE Ier : Le service postal<a id=94></a>
 
-### TITRE Ier : Dispositions générales<a id=96></a>
+### TITRE Ier : Dispositions générales<a id=95></a>
 
-#### Chapitre Ier : Le monopole postal.<a id=97></a>
+#### Chapitre Ier : Le monopole postal.<a id=96></a>
 
 ###### Article D1
 
@@ -10666,7 +10748,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R613-25 (VD)
 
 
-#### Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances.<a id=98></a>
+#### Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances.<a id=97></a>
 
 ###### Article D3
 
@@ -10695,7 +10777,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### Chapitre III : Création des bureaux de poste.<a id=99></a>
+#### Chapitre III : Création des bureaux de poste.<a id=98></a>
 
 ###### Article D4
 
@@ -10743,9 +10825,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
-#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=100></a>
+#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=99></a>
 
-##### Section 1 : Généralités.<a id=101></a>
+##### Section 1 : Généralités.<a id=100></a>
 
 ###### Article D6
 
@@ -10817,7 +10899,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 2 : Lettres missives, cartes postales et paquets-poste.<a id=102></a>
+##### Section 2 : Lettres missives, cartes postales et paquets-poste.<a id=101></a>
 
 ###### Article D9
 
@@ -10924,7 +11006,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 3 : Imprimés et échantillons.<a id=103></a>
+##### Section 3 : Imprimés et échantillons.<a id=102></a>
 
 ###### Article D13
 
@@ -11075,7 +11157,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### Section 4 : Journaux et écrits périodiques.<a id=104></a>
+##### Section 4 : Journaux et écrits périodiques.<a id=103></a>
 
 ###### Article D18
 
@@ -11518,7 +11600,7 @@ _Modifié par_:
   - Décret n°68-1073 1968-11-22 art. 1 JORF 30 novembre 1968
 
 
-##### Section 5 : Magazines sonores.<a id=105></a>
+##### Section 5 : Magazines sonores.<a id=104></a>
 
 ###### Article D29
 
@@ -11626,7 +11708,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 6 : Dispositions particulières.<a id=106></a>
+##### Section 6 : Dispositions particulières.<a id=105></a>
 
 ###### Article D32
 
@@ -11669,7 +11751,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-#### Chapitre V : Conditions d'admission des objets de correspondance dans le régime international.<a id=107></a>
+#### Chapitre V : Conditions d'admission des objets de correspondance dans le régime international.<a id=106></a>
 
 ###### Article D34
 
@@ -11740,9 +11822,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
-### TITRE II : Affranchissement, recommandation et chargement<a id=108></a>
+### TITRE II : Affranchissement, recommandation et chargement<a id=107></a>
 
-#### Chapitre Ier : Affranchissement.<a id=109></a>
+#### Chapitre Ier : Affranchissement.<a id=108></a>
 
 ###### Article D37
 
@@ -12033,7 +12115,7 @@ _Cite_:
   - Code des postes et des communications éléctroniques D28 et D45
 
 
-#### Chapitre II : Recommandation et chargement.<a id=110></a>
+#### Chapitre II : Recommandation et chargement.<a id=109></a>
 
 ###### Article D47
 
@@ -12344,9 +12426,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 
-### TITRE IV : Franchise postale et dispense d'affranchissement<a id=111></a>
+### TITRE IV : Franchise postale et dispense d'affranchissement<a id=110></a>
 
-#### CHAPITRE Ier : Courrier officiel.<a id=112></a>
+#### CHAPITRE Ier : Courrier officiel.<a id=111></a>
 
 ###### Article D58
 
@@ -12761,7 +12843,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### CHAPITRE II : Correspondance des militaires.<a id=113></a>
+#### CHAPITRE II : Correspondance des militaires.<a id=112></a>
 
 ###### Article D76
 
@@ -12792,7 +12874,7 @@ _Modifié par_:
   - Décret n°81-256 1981-03-13 art. 2 JORF 20 mars 1981
 
 
-#### CHAPITRE III : Sécurité sociale et mutualité sociale agricole.<a id=114></a>
+#### CHAPITRE III : Sécurité sociale et mutualité sociale agricole.<a id=113></a>
 
 ###### Article D77
 
@@ -12836,7 +12918,7 @@ _Abrogé par_:
   - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
 
 
-#### CHAPITRE IV : Avis et avertissements des administrations financières.<a id=115></a>
+#### CHAPITRE IV : Avis et avertissements des administrations financières.<a id=114></a>
 
 ###### Article D79
 
@@ -12861,7 +12943,7 @@ _Abrogé par_:
   - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
 
 
-### TITRE V : Colis postaux.<a id=116></a>
+### TITRE V : Colis postaux.<a id=115></a>
 
 ###### Article D81
 
@@ -13168,9 +13250,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
-### TITRE VI : Distribution postale<a id=117></a>
+### TITRE VI : Distribution postale<a id=116></a>
 
-#### Chapitre Ier : Distribution à domicile.<a id=118></a>
+#### Chapitre Ier : Distribution à domicile.<a id=117></a>
 
 ###### Article D90
 
@@ -13271,7 +13353,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### Chapitre II : Distribution au guichet.<a id=119></a>
+#### Chapitre II : Distribution au guichet.<a id=118></a>
 
 ###### Article D93
 
@@ -13300,7 +13382,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-### TITRE VII : Poste maritime.<a id=120></a>
+### TITRE VII : Poste maritime.<a id=119></a>
 
 ###### Article D94-1
 
@@ -13502,15 +13584,15 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-## LIVRE II : Le service des télécommunications<a id=121></a>
+## LIVRE II : Le service des télécommunications<a id=120></a>
 
-### TITRE Ier : Dispositions générales<a id=122></a>
+### TITRE Ier : Dispositions générales<a id=121></a>
 
-#### CHAPITRE III : Télégraphe<a id=123></a>
+#### CHAPITRE III : Télégraphe<a id=122></a>
 
-##### SECTION 1 : Service télégraphique<a id=124></a>
+##### SECTION 1 : Service télégraphique<a id=123></a>
 
-##### Paragraphe 1 : Ouverture des bureaux télégraphiques.<a id=125></a>
+##### Paragraphe 1 : Ouverture des bureaux télégraphiques.<a id=124></a>
 
 ###### Article D97
 
@@ -13558,7 +13640,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D99-3 (M)
 
 
-##### Paragraphe 2 : Dépôt des télégrammes.<a id=126></a>
+##### Paragraphe 2 : Dépôt des télégrammes.<a id=125></a>
 
 ###### Article D100
 
@@ -13588,9 +13670,9 @@ _Cité par_:
   - Arrêté du 4 août 2006 - art. 2 (V)
 
 
-##### Paragraphe 3 : Rédaction des télégrammes<a id=127></a>
+##### Paragraphe 3 : Rédaction des télégrammes<a id=126></a>
 
-##### 1. : Dispositions générales.<a id=128></a>
+##### 1. : Dispositions générales.<a id=127></a>
 
 ###### Article D104
 
@@ -13662,7 +13744,7 @@ _Modifié par_:
   - Décret n°87-888 1987-10-30 art. 1 JORF 31 octobre 1987
 
 
-##### 3. : Adresse.<a id=129></a>
+##### 3. : Adresse.<a id=128></a>
 
 ###### Article D107
 
@@ -13780,7 +13862,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### Paragraphe 4 : Compte des mots.<a id=130></a>
+##### Paragraphe 4 : Compte des mots.<a id=129></a>
 
 ###### Article D116
 
@@ -13802,7 +13884,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### Paragraphe 5 : Remise des télégrammes.<a id=131></a>
+##### Paragraphe 5 : Remise des télégrammes.<a id=130></a>
 
 ###### Article D117
 
@@ -13890,7 +13972,7 @@ _Modifié par_:
   - Décret n°87-888 1987-10-30 art. 1 et 5 JORF 31 octobre 1987 en vigueur 1er novembre 1987
 
 
-##### Paragraphe 6 : Perception des tarifs.<a id=132></a>
+##### Paragraphe 6 : Perception des tarifs.<a id=131></a>
 
 ###### Article D126
 
@@ -13963,7 +14045,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### Paragraphe 7 : Télégrammes spéciaux.<a id=133></a>
+##### Paragraphe 7 : Télégrammes spéciaux.<a id=132></a>
 
 ###### Article D129
 
@@ -14004,9 +14086,9 @@ _Modifié par_:
   - Décret n°87-888 1987-10-30 art. 1 et 5 JORF 31 octobre 1987 en vigueur le 1er novembre 1987
 
 
-##### Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux<a id=134></a>
+##### Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux<a id=133></a>
 
-##### 1. : Télégrammes relatifs à la sécurité de la vie humaine.<a id=135></a>
+##### 1. : Télégrammes relatifs à la sécurité de la vie humaine.<a id=134></a>
 
 ###### Article D130
 
@@ -14093,7 +14175,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### 2. : Télégrammes de presse.<a id=136></a>
+##### 2. : Télégrammes de presse.<a id=135></a>
 
 ###### Article D134
 
@@ -14135,7 +14217,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### 3. : Télégrammes des services postaux financiers.<a id=137></a>
+##### 3. : Télégrammes des services postaux financiers.<a id=136></a>
 
 ###### Article D139
 
@@ -14155,7 +14237,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### 4. : Phototélégrammes.<a id=138></a>
+##### 4. : Phototélégrammes.<a id=137></a>
 
 ###### Article D142
 
@@ -14241,7 +14323,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### 5. : Télégrammes urgents du régime international.<a id=139></a>
+##### 5. : Télégrammes urgents du régime international.<a id=138></a>
 
 ###### Article D146
 
@@ -14266,7 +14348,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### 20. : Télégrammes illustrés.<a id=140></a>
+##### 20. : Télégrammes illustrés.<a id=139></a>
 
 ###### Article D182
 
@@ -14327,7 +14409,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### 22. : Télégrammes avec accusé de réception.<a id=141></a>
+##### 22. : Télégrammes avec accusé de réception.<a id=140></a>
 
 ###### Article D192
 
@@ -14355,7 +14437,7 @@ _Modifié par_:
   - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai en vigueur le 15 mai 1987
 
 
-##### 24. : Télégrammes sur un compte télécommunications.<a id=142></a>
+##### 24. : Télégrammes sur un compte télécommunications.<a id=141></a>
 
 ###### Article D196
 
@@ -14380,7 +14462,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### 28. : Télégrammes R.C.T. du régime international.<a id=143></a>
+##### 28. : Télégrammes R.C.T. du régime international.<a id=142></a>
 
 ###### Article D213
 
@@ -14406,7 +14488,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### 29. : Radiotélégrammes.<a id=144></a>
+##### 29. : Radiotélégrammes.<a id=143></a>
 
 ###### Article D218
 
@@ -14501,9 +14583,9 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 
-##### Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers<a id=145></a>
+##### Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers<a id=144></a>
 
-##### 1. : Communication au guichet de l'original d'un télégramme.<a id=146></a>
+##### 1. : Communication au guichet de l'original d'un télégramme.<a id=145></a>
 
 ###### Article D228
 
@@ -14532,9 +14614,9 @@ _Modifié par_:
   - Décret n°87-888 1987-10-30 art. 1 et 5 JORF 31 octobre 1987 en vigueur le 1er novembre 1987
 
 
-##### Paragraphe 10 : Télégrammes officiels<a id=147></a>
+##### Paragraphe 10 : Télégrammes officiels<a id=146></a>
 
-##### 1. : Définition.<a id=148></a>
+##### 1. : Définition.<a id=147></a>
 
 ###### Article D234
 
@@ -14559,7 +14641,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### 2. : Rédaction.<a id=149></a>
+##### 2. : Rédaction.<a id=148></a>
 
 ###### Article D235
 
@@ -14587,7 +14669,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### 3. : Dépôt et remise.<a id=150></a>
+##### 3. : Dépôt et remise.<a id=149></a>
 
 ###### Article D237
 
@@ -14613,7 +14695,7 @@ _Modifié par_:
   - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
 
 
-##### 4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels.<a id=151></a>
+##### 4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels.<a id=150></a>
 
 ###### Article D241
 
@@ -14636,7 +14718,7 @@ _Modifié par_:
   - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
 
 
-##### 5. : Circulaires.<a id=152></a>
+##### 5. : Circulaires.<a id=151></a>
 
 ###### Article D243
 
@@ -14660,7 +14742,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### 6. : Application et perception des taxes.<a id=153></a>
+##### 6. : Application et perception des taxes.<a id=152></a>
 
 ###### Article D244
 
@@ -14684,7 +14766,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### 7. : Annulation des télégrammes officiels.<a id=154></a>
+##### 7. : Annulation des télégrammes officiels.<a id=153></a>
 
 ###### Article D246
 
@@ -14705,9 +14787,9 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### Paragraphe 11 : Télégrammes d'Etat<a id=155></a>
+##### Paragraphe 11 : Télégrammes d'Etat<a id=154></a>
 
-##### 1. : Définition.<a id=156></a>
+##### 1. : Définition.<a id=155></a>
 
 ###### Article D247
 
@@ -14776,7 +14858,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### 2. : Rédaction.<a id=157></a>
+##### 2. : Rédaction.<a id=156></a>
 
 ###### Article D250
 
@@ -14834,7 +14916,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### 3. : Dépôt.<a id=158></a>
+##### 3. : Dépôt.<a id=157></a>
 
 ###### Article D253
 
@@ -14870,7 +14952,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### 4. : Application des tarifs.<a id=159></a>
+##### 4. : Application des tarifs.<a id=158></a>
 
 ###### Article D256
 
@@ -14919,7 +15001,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### 6. : Remise.<a id=160></a>
+##### 6. : Remise.<a id=159></a>
 
 ###### Article D259
 
@@ -14943,7 +15025,7 @@ _Modifié par_:
   - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
 
 
-##### Paragraphe 13 : Remboursement.<a id=161></a>
+##### Paragraphe 13 : Remboursement.<a id=160></a>
 
 ###### Article D263
 
@@ -15001,7 +15083,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### Paragraphe 14 : Prescriptions diverses.<a id=162></a>
+##### Paragraphe 14 : Prescriptions diverses.<a id=161></a>
 
 ###### Article D267
 
@@ -15026,9 +15108,9 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### SECTION 3 : Service télex<a id=163></a>
+##### SECTION 3 : Service télex<a id=162></a>
 
-##### Paragraphe 1er : Généralités.<a id=164></a>
+##### Paragraphe 1er : Généralités.<a id=163></a>
 
 ###### Article D277
 
@@ -15110,7 +15192,7 @@ _Modifié par_:
   - Décret n°70-23 1970-01-08 art. 1 JORF 10 janvier 1970
 
 
-##### Paragraphe 2 : Abonnement.<a id=165></a>
+##### Paragraphe 2 : Abonnement.<a id=164></a>
 
 ###### Article D280
 
@@ -15217,7 +15299,7 @@ _Modifié par_:
   - Décret n°66-560 1966-07-29 art. 1 JORF 30 juillet 1966
 
 
-##### Paragraphe 3 : Communications.<a id=166></a>
+##### Paragraphe 3 : Communications.<a id=165></a>
 
 ###### Article D285
 
@@ -15264,7 +15346,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### Paragraphe 4 : Suspension d'une ligne d'abonnement télex.<a id=167></a>
+##### Paragraphe 4 : Suspension d'une ligne d'abonnement télex.<a id=166></a>
 
 ###### Article D287
 
@@ -15292,9 +15374,9 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### CHAPITRE IV : Téléphone<a id=168></a>
+#### CHAPITRE IV : Téléphone<a id=167></a>
 
-##### SECTION 1 : Dispositions générales.<a id=169></a>
+##### SECTION 1 : Dispositions générales.<a id=168></a>
 
 ###### Article D288
 
@@ -15351,9 +15433,9 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 3 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### SECTION 2 : Des communications téléphoniques<a id=170></a>
+##### SECTION 2 : Des communications téléphoniques<a id=169></a>
 
-##### Paragraphe 1er : Dispositions générales.<a id=171></a>
+##### Paragraphe 1er : Dispositions générales.<a id=170></a>
 
 ###### Article D290
 
@@ -15484,9 +15566,9 @@ _Modifié par_:
   - SPEC_APPLI: Décret n°90-18 1990-01-04 art. 3
 
 
-##### Paragraphe 2 : Communications ordinaires<a id=172></a>
+##### Paragraphe 2 : Communications ordinaires<a id=171></a>
 
-##### 1. : Définition.<a id=173></a>
+##### 1. : Définition.<a id=172></a>
 
 ###### Article D294
 
@@ -15513,7 +15595,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D97-10 (T)
 
 
-##### 2. : Limitation de durée.<a id=174></a>
+##### 2. : Limitation de durée.<a id=173></a>
 
 ###### Article D295
 
@@ -15538,7 +15620,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 3 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### 4. : Communication refusée.<a id=175></a>
+##### 4. : Communication refusée.<a id=174></a>
 
 ###### Article D297
 
@@ -15571,7 +15653,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### 5. : Récépissé.<a id=176></a>
+##### 5. : Récépissé.<a id=175></a>
 
 ###### Article D298
 
@@ -15598,9 +15680,9 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### Paragraphe 3 : Communications spéciales<a id=177></a>
+##### Paragraphe 3 : Communications spéciales<a id=176></a>
 
-##### 1. : Indication de durée.<a id=178></a>
+##### 1. : Indication de durée.<a id=177></a>
 
 ###### Article D300
 
@@ -15640,7 +15722,7 @@ _Modifié par_:
   - SPEC_APPLI: Décret n°90-18 1990-01-04 art. 3
 
 
-##### 2. : Avis d'appel.<a id=179></a>
+##### 2. : Avis d'appel.<a id=178></a>
 
 ###### Article D301
 
@@ -15673,7 +15755,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D303 (V)
 
 
-##### 4. : Communication non facturée par le demandeur ou à facturation différée.<a id=180></a>
+##### 4. : Communication non facturée par le demandeur ou à facturation différée.<a id=179></a>
 
 ###### Article D304
 
@@ -15762,7 +15844,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D306 (V)
 
 
-##### 6. : Communication avec un véhicule.<a id=181></a>
+##### 6. : Communication avec un véhicule.<a id=180></a>
 
 ###### Article D307
 
@@ -15784,9 +15866,9 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### Paragraphe 4 : Services spéciaux<a id=182></a>
+##### Paragraphe 4 : Services spéciaux<a id=181></a>
 
-##### 1. : Service de réception et de traitement d'appels.<a id=183></a>
+##### 1. : Service de réception et de traitement d'appels.<a id=182></a>
 
 ###### Article D308
 
@@ -15815,7 +15897,7 @@ _Modifié par_:
   - Décret n°72-915 1972-09-26 art. 1 JORF 8 août 1975
 
 
-##### 2. : Service de la réunion-téléphone.<a id=184></a>
+##### 2. : Service de la réunion-téléphone.<a id=183></a>
 
 ###### Article D309
 
@@ -15847,7 +15929,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D307 (V)
 
 
-##### 3. : Service du "Mémo-Appel".<a id=185></a>
+##### 3. : Service du "Mémo-Appel".<a id=184></a>
 
 ###### Article D310
 
@@ -15874,7 +15956,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D308 (V)
 
 
-##### 5. : Renseignements.<a id=186></a>
+##### 5. : Renseignements.<a id=185></a>
 
 ###### Article D312
 
@@ -15903,7 +15985,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D314 (M)
 
 
-##### 7. : Communications en dehors des heures normales d'ouverture du service.<a id=187></a>
+##### 7. : Communications en dehors des heures normales d'ouverture du service.<a id=186></a>
 
 ###### Article D315
 
@@ -15943,7 +16025,7 @@ _Cité par_:
   - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
 
 
-##### 8. : Service des auditions téléphoniques.<a id=188></a>
+##### 8. : Service des auditions téléphoniques.<a id=187></a>
 
 ###### Article D316
 
@@ -15968,9 +16050,9 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### SECTION 3 : Des abonnements<a id=189></a>
+##### SECTION 3 : Des abonnements<a id=188></a>
 
-##### Paragraphe 1er : Généralités.<a id=190></a>
+##### Paragraphe 1er : Généralités.<a id=189></a>
 
 ###### Article D317
 
@@ -16065,9 +16147,9 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### Paragraphe 2 : Abonnements principaux permanents<a id=191></a>
+##### Paragraphe 2 : Abonnements principaux permanents<a id=190></a>
 
-##### 1. : Différentes catégories.<a id=192></a>
+##### 1. : Différentes catégories.<a id=191></a>
 
 ###### Article D320
 
@@ -16094,7 +16176,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### 2. : Abonnements principaux ordinaires.<a id=193></a>
+##### 2. : Abonnements principaux ordinaires.<a id=192></a>
 
 ###### Article D321
 
@@ -16116,7 +16198,7 @@ _Modifié par_:
   - Décret n°77-351 1977-03-28 art. 1 et 4 JORF 1er avril 1977
 
 
-##### 3. : Abonnements principaux d'extension.<a id=194></a>
+##### 3. : Abonnements principaux d'extension.<a id=193></a>
 
 ###### Article D322
 
@@ -16197,7 +16279,7 @@ _Modifié par_:
   - Décret n°79-440 1979-06-07 art. 1 JORF 8 juin 1979 rectificatif JORF 12 juillet 1979
 
 
-##### 5. : Abonnements spéciaux.<a id=195></a>
+##### 5. : Abonnements spéciaux.<a id=194></a>
 
 ###### Article D328
 
@@ -16304,7 +16386,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### Paragraphe 3 : Abonnements complémentaires.<a id=196></a>
+##### Paragraphe 3 : Abonnements complémentaires.<a id=195></a>
 
 ###### Article D332
 
@@ -16344,7 +16426,7 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### Paragraphe 4 : Abonnements supplémentaires permanents.<a id=197></a>
+##### Paragraphe 4 : Abonnements supplémentaires permanents.<a id=196></a>
 
 ###### Article D333
 
@@ -16468,7 +16550,7 @@ _Modifié par_:
   - Décret n°84-313 1984-04-26 art. 2 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
 
 
-##### Paragraphe 5 : Abonnements temporaires.<a id=198></a>
+##### Paragraphe 5 : Abonnements temporaires.<a id=197></a>
 
 ###### Article D336
 
@@ -16503,7 +16585,7 @@ _Modifié par_:
   - Décret n°88-1140 1988-12-21 art. 2 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
 
 
-##### Paragraphe 6 : Suspension et résiliation des abonnements.<a id=199></a>
+##### Paragraphe 6 : Suspension et résiliation des abonnements.<a id=198></a>
 
 ###### Article D337
 
@@ -16654,9 +16736,9 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### Paragraphe 7 : Modification des conditions de concession d'un abonnement<a id=200></a>
+##### Paragraphe 7 : Modification des conditions de concession d'un abonnement<a id=199></a>
 
-##### 2. : Transformation des abonnements.<a id=201></a>
+##### 2. : Transformation des abonnements.<a id=200></a>
 
 ###### Article D347
 
@@ -16725,9 +16807,9 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### Paragraphe 8 : Dispositions diverses<a id=202></a>
+##### Paragraphe 8 : Dispositions diverses<a id=201></a>
 
-##### 2. : Listes périodiques d'abonnés.<a id=203></a>
+##### 2. : Listes périodiques d'abonnés.<a id=202></a>
 
 ###### Article D359
 
@@ -16762,7 +16844,7 @@ _Modifié par_:
   - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
 
 
-##### SECTION 4 : Dispositions particulières au service international.<a id=204></a>
+##### SECTION 4 : Dispositions particulières au service international.<a id=203></a>
 
 ###### Article D362
 
@@ -16892,9 +16974,9 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### CHAPITRE  V : Services particuliers des télécommunications<a id=205></a>
+#### CHAPITRE  V : Services particuliers des télécommunications<a id=204></a>
 
-##### SECTION 1 : Dispositions générales.<a id=206></a>
+##### SECTION 1 : Dispositions générales.<a id=205></a>
 
 ###### Article D368
 
@@ -16926,9 +17008,9 @@ _Modifié par_:
   - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
 
 
-##### SECTION 2 : Liaisons spécialisées<a id=207></a>
+##### SECTION 2 : Liaisons spécialisées<a id=206></a>
 
-##### Paragraphe 1er : Régime général.<a id=208></a>
+##### Paragraphe 1er : Régime général.<a id=207></a>
 
 ###### Article D369
 
@@ -17321,7 +17403,7 @@ _Modifié par_:
   - Décret n°87-775 1987-09-24 art. 2 et 7 JORF 25 septembre 1987
 
 
-##### Paragraphe 2 : Régime des réseaux télématiques ouverts à des tiers.<a id=209></a>
+##### Paragraphe 2 : Régime des réseaux télématiques ouverts à des tiers.<a id=208></a>
 
 ###### Article D385-1
 
@@ -17715,9 +17797,9 @@ _Créé par_:
   - Décret n°87-775 1987-09-24 art. 9 JORF 25 septembre 1987
 
 
-##### SECTION 3 : Lignes d'intérêt privé<a id=210></a>
+##### SECTION 3 : Lignes d'intérêt privé<a id=209></a>
 
-##### 1. : Lignes permanentes.<a id=211></a>
+##### 1. : Lignes permanentes.<a id=210></a>
 
 ###### Article D386
 
@@ -17918,7 +18000,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### SECTION 4 : Réseaux spéciaux.<a id=212></a>
+##### SECTION 4 : Réseaux spéciaux.<a id=211></a>
 
 ###### Article D401
 
@@ -18053,7 +18135,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=213></a>
+#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=212></a>
 
 ###### Article D406-1
 
@@ -18239,11 +18321,11 @@ _Créé par_:
   - Décret n°88-1140 1988-12-21 art. 2 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
 
 
-### TITRE II : Etablissement des lignes<a id=214></a>
+### TITRE II : Etablissement des lignes<a id=213></a>
 
-#### CHAPITRE Ier : Etablissement des lignes<a id=215></a>
+#### CHAPITRE Ier : Etablissement des lignes<a id=214></a>
 
-##### SECTION 1 : Dispositions générales.<a id=216></a>
+##### SECTION 1 : Dispositions générales.<a id=215></a>
 
 ###### Article D407
 
@@ -18612,7 +18694,7 @@ _Modifié par_:
   - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
 
 
-##### SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées).<a id=217></a>
+##### SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées).<a id=216></a>
 
 ###### Article D420
 
@@ -18704,7 +18786,7 @@ _Modifié par_:
   - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
 
 
-##### SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé".<a id=218></a>
+##### SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé".<a id=217></a>
 
 ###### Article D427
 
@@ -18745,9 +18827,9 @@ _Modifié par_:
   - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
 
 
-#### CHAPITRE II : Entretien des lignes<a id=219></a>
+#### CHAPITRE II : Entretien des lignes<a id=218></a>
 
-##### SECTION 1 : Dispositions générales.<a id=220></a>
+##### SECTION 1 : Dispositions générales.<a id=219></a>
 
 ###### Article D431
 
@@ -18780,7 +18862,7 @@ _Modifié par_:
   - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
 
 
-#### CHAPITRE III : Fourniture et entretien des installations de télécommunications.<a id=221></a>
+#### CHAPITRE III : Fourniture et entretien des installations de télécommunications.<a id=220></a>
 
 ###### Article D440
 
@@ -19209,9 +19291,9 @@ _Modifié par_:
   - Décret n°88-1140 1988-12-21 art. 2 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
 
 
-### TITRE IV : Police des liaisons et des installations du réseau de télécommunications<a id=222></a>
+### TITRE IV : Police des liaisons et des installations du réseau de télécommunications<a id=221></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=223></a>
+#### CHAPITRE Ier : Dispositions générales.<a id=222></a>
 
 ###### Article D456
 
@@ -19253,9 +19335,9 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-### TITRE VI : Services radioélectriques<a id=224></a>
+### TITRE VI : Services radioélectriques<a id=223></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=225></a>
+#### CHAPITRE Ier : Dispositions générales.<a id=224></a>
 
 ###### Article D457
 
@@ -19423,7 +19505,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### CHAPITRE III : Stations radioélectriques privées.<a id=226></a>
+#### CHAPITRE III : Stations radioélectriques privées.<a id=225></a>
 
 ###### Article D463
 
@@ -19632,9 +19714,9 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### CHAPITRE IV : Radiocommunications du service aérien<a id=227></a>
+#### CHAPITRE IV : Radiocommunications du service aérien<a id=226></a>
 
-##### SECTION 1 : Généralités.<a id=228></a>
+##### SECTION 1 : Généralités.<a id=227></a>
 
 ###### Article D473
 
@@ -19692,7 +19774,7 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 
-##### SECTION 2 : Stations installées par les services officiels de l'aéronautique civile.<a id=229></a>
+##### SECTION 2 : Stations installées par les services officiels de l'aéronautique civile.<a id=228></a>
 
 ###### Article D474-2
 
@@ -19734,7 +19816,7 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 
-##### SECTION 3 : Stations aéronautiques des aéro-clubs.<a id=230></a>
+##### SECTION 3 : Stations aéronautiques des aéro-clubs.<a id=229></a>
 
 ###### Article D474-4
 
@@ -19868,7 +19950,7 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 
-##### SECTION 4 : Stations aéronautiques, stations fixes aéronautiques, stations de radiophare installées par des entreprises de transport aérien ou des particuliers.<a id=231></a>
+##### SECTION 4 : Stations aéronautiques, stations fixes aéronautiques, stations de radiophare installées par des entreprises de transport aérien ou des particuliers.<a id=230></a>
 
 ###### Article D475
 
@@ -19950,7 +20032,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### SECTION 5 : Stations installées à bord des aéronefs.<a id=232></a>
+##### SECTION 5 : Stations installées à bord des aéronefs.<a id=231></a>
 
 ###### Article D478
 
@@ -20223,7 +20305,7 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 
-##### SECTION 6 : Dispositions diverses.<a id=233></a>
+##### SECTION 6 : Dispositions diverses.<a id=232></a>
 
 ###### Article D482-9
 
@@ -20264,7 +20346,7 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 
-#### CHAPITRE V : Radiocommunications du service maritime.<a id=234></a>
+#### CHAPITRE V : Radiocommunications du service maritime.<a id=233></a>
 
 ###### Article D483
 
@@ -20387,9 +20469,9 @@ _Nouveaux textes_:
   - Code des postes et des communications électronique - art. D406-13 (V)
 
 
-## LIVRE III : Les services financiers<a id=235></a>
+## LIVRE III : Les services financiers<a id=234></a>
 
-### TITRE Ier : Chèques postaux.<a id=236></a>
+### TITRE Ier : Chèques postaux.<a id=235></a>
 
 ###### Article D488
 
@@ -20912,7 +20994,7 @@ _Abrogé par_:
   - Décret n°93-977 1993-07-31 art. 5 JORF 5 août 1993
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=237></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=236></a>
 
 ###### Article D489
 
@@ -21396,7 +21478,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE II : Mandats.<a id=238></a>
+### TITRE II : Mandats.<a id=237></a>
 
 ###### Article D523
 
@@ -21671,7 +21753,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D540 (Ab)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=239></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=238></a>
 
 ###### Article D525
 
@@ -22085,7 +22167,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=240></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=239></a>
 
 ###### Article D549
 
@@ -22271,7 +22353,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=241></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=240></a>
 
 ###### Article D553
 
@@ -22647,11 +22729,11 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-## LIVRE IV : L'organisation financière<a id=242></a>
+## LIVRE IV : L'organisation financière<a id=241></a>
 
-### TITRE II : Dispositions budgétaires<a id=243></a>
+### TITRE II : Dispositions budgétaires<a id=242></a>
 
-#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=244></a>
+#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=243></a>
 
 ###### Article D570
 
@@ -22684,7 +22766,7 @@ _Cite_:
   - Code des postes et télécommunications R64
 
 
-#### CHAPITRE IV : Comptabilité administrative.<a id=245></a>
+#### CHAPITRE IV : Comptabilité administrative.<a id=244></a>
 
 ###### Article D571
 
@@ -22790,7 +22872,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-3 (M)
 
 
-### TITRE V : Fonds spéciaux.<a id=246></a>
+### TITRE V : Fonds spéciaux.<a id=245></a>
 
 ###### Article D573
 
@@ -23004,13 +23086,13 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-10 (T)
 
 
-# Annexes<a id=247></a>
+# Annexes<a id=246></a>
 
-## LIVRE IV : L'organisation financière<a id=248></a>
+## LIVRE IV : L'organisation financière<a id=247></a>
 
-### TITRE II : Dispositions budgétaires<a id=249></a>
+### TITRE II : Dispositions budgétaires<a id=248></a>
 
-#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=250></a>
+#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=249></a>
 
 ###### Article Annexe II à l'article D570
 
