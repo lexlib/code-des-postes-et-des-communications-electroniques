@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1965-06-13
+Version Consolidée au 1966-07-10
 ## Contenu: 
   - [Partie législative (art. L1 à L125)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -12,7 +12,7 @@ Version Consolidée au 1965-06-13
         - [CHAPITRE Ier : Distribution à domicile. (art. L14)](#9)
       - [TITRE VII : Poste maritime. (art. L16)](#10)
       - [TITRE VIII : Dispositions pénales. (art. L18 à L31)](#11)
-    - [LIVRE II : Le service des télécommunications (art. L32 à L95)](#12)
+    - [LIVRE II : Le service des télécommunications (art. L32 à L96)](#12)
       - [TITRE Ier : Dispositions générales (art. L32 à L45)](#13)
         - [CHAPITRE Ier : Le monopole des télécommunications. (art. L32 à L38)](#14)
         - [CHAPITRE II : Dispositions pénales. (art. L40 à L45)](#15)
@@ -29,8 +29,8 @@ Version Consolidée au 1965-06-13
         - [CHAPITRE II : Dispositions pénales. (art. L74 à L86)](#26)
           - [SECTION 1 : Dispositions spéciales aux eaux non territoriales. (art. L77 à L80)](#27)
           - [SECTION 2 : Dispositions spéciales aux eaux territoriales. (art. L82 à L86)](#28)
-      - [TITRE VI : Services radioélectriques (art. L87 à L95)](#29)
-        - [CHAPITRE Ier : Dispositions générales. (art. L87 à L95)](#30)
+      - [TITRE VI : Services radioélectriques (art. L87 à L96)](#29)
+        - [CHAPITRE Ier : Dispositions générales. (art. L87 à L96)](#30)
     - [LIVRE III : Les services financiers (art. L98 à L124)](#31)
       - [TITRE Ier : Chèques postaux. (art. L98 à L100)](#32)
         - [(en vigueur jusqu'au 31 décembre 2005). (art. L100)](#33)
@@ -2713,6 +2713,39 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L165
   - Décret n°1926-12-28 art. 26
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article L96
+
+L'administration des postes et télécommunications exerce un contrôle permanent sur les conditions techniques et
+d'exploitation des stations radioélectriques privées de toutes catégories.
+
+Le ministre de l'intérieur et le ministre des postes et télécommunications sont chargés de contrôler la teneur des émissions.
+
+Le ministre des postes et télécommunications et le ministre de l'intérieur assurent, d'accord, la recherche des postes
+clandestins.
+
+Les fonctionnaires de l'administration des postes et télécommunications et du ministère de l'intérieur chargés du contrôle
+peuvent, à tout instant, pénétrer dans les stations.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L166
+  - Décret n°1926-12-28 art. 30
+
+_Modifié par_:
+
+  - Loi n°66-495 1966-07-09 art. 3 JORF 10 juillet 1966
 
 _Codifié par_:
 
