@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1975-12-30
+Version Consolidée au 1977-02-06
 ## Contenu: 
   - [Partie législative (art. L1 à L125)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -230,7 +230,7 @@ Version Consolidée au 1975-12-30
         - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#227)
     - [LIVRE III : Les services financiers (art. D488 à D569)](#228)
       - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#229)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D490 à D517)](#230)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#230)
       - [TITRE II : Mandats. (art. D523 à D548)](#231)
         - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#232)
       - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#233)
@@ -16233,6 +16233,39 @@ _Abrogé par_:
 
 
 #### (en vigueur jusqu'au 31 décembre 2005).<a id=230></a>
+
+###### Article D489
+
+La tenue des comptes courants postaux est assurée par des centres régionaux.
+
+Ces centres de chèques postaux sont ouverts dans les villes désignées ci-après : Ajaccio, Bordeaux, Châlons-sur-Marne,
+Clermont-Ferrand, Dijon, Grenoble, Lille, Limoges, Lyon, Marseille, Montpellier, Nancy, Nantes, Orléans, Paris, Rennes,
+Rouen, Strasbourg et Toulouse, Pointe-à-Pitre (Guadeloupe), Cayenne (Guyane), Fort-de-France  (Martinique), Saint-Denis
+(Réunion).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L169
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°70-1295 1970-12-23 art. 12 JORF 31 décembre 1970
+  - Décret n°77-110 1977-01-28 art. 1 JORF 6 février 1977
+
+_Abrogé par_:
+
+  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article D490
 
