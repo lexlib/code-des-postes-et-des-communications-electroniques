@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1988-05-08
+Version Consolidée au 1988-12-22
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -113,7 +113,7 @@ Version Consolidée au 1988-05-08
         - [Chapitre II : Distribution au guichet. (art. D93)](#110)
       - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#111)
     - [LIVRE II : Le service des télécommunications (art. D97 à D487)](#112)
-      - [TITRE Ier : Dispositions générales (art. D97 à D406)](#113)
+      - [TITRE Ier : Dispositions générales (art. D97 à D406-3)](#113)
         - [CHAPITRE III : Télégraphe (art. D97 à D287)](#114)
           - [SECTION 1 : Service télégraphique (art. D97 à D267)](#115)
             - [Paragraphe 1 : Ouverture des bureaux télégraphiques. (art. D97 à D99)](#116)
@@ -203,35 +203,36 @@ Version Consolidée au 1988-05-08
           - [SECTION 3 : Lignes d'intérêt privé (art. D386 à D397)](#200)
             - [1. : Lignes permanentes. (art. D386 à D397)](#201)
           - [SECTION 4 : Réseaux spéciaux. (art. D401 à D406)](#202)
-      - [TITRE IV : Police des liaisons et des installations du réseau de télécommunications (art. D456)](#203)
-        - [CHAPITRE Ier : Dispositions générales. (art. D456)](#204)
-      - [TITRE VI : Services radioélectriques (art. D457 à D487)](#205)
-        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D462)](#206)
-        - [CHAPITRE III : Stations radioélectriques privées. (art. D463 à D472)](#207)
-        - [CHAPITRE IV : Radiocommunications du service aérien (art. D473 à D482-10)](#208)
-          - [SECTION 1 : Généralités. (art. D473 à D474-1)](#209)
-          - [SECTION 2 : Stations installées par les services officiels de l'aéronautique civile. (art. D474-2 à D474-3)](#210)
-          - [SECTION 3 : Stations aéronautiques des aéro-clubs. (art. D474-4 à D474-9)](#211)
-          - [SECTION 4 : Stations aéronautiques, stations fixes aéronautiques, stations de radiophare installées par des entreprises de transport aérien ou des particuliers. (art. D475 à D477)](#212)
-          - [SECTION 5 : Stations installées à bord des aéronefs. (art. D478 à D482-8)](#213)
-          - [SECTION 6 : Dispositions diverses. (art. D482-9 à D482-10)](#214)
-        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#215)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#216)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#217)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#218)
-      - [TITRE II : Mandats. (art. D523 à D548)](#219)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#220)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#221)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#222)
-    - [LIVRE IV : L'organisation financière (art. D570 à D579)](#223)
-      - [TITRE II : Dispositions budgétaires (art. D570 à D572)](#224)
-        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. D570)](#225)
-        - [CHAPITRE IV : Comptabilité administrative. (art. D571 à D572)](#226)
-      - [TITRE V : Fonds spéciaux. (art. D573 à D579)](#227)
-  - [Annexes (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#228)
-    - [LIVRE IV : L'organisation financière (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#229)
-      - [TITRE II : Dispositions budgétaires (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#230)
-        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#231)
+        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-3)](#203)
+      - [TITRE IV : Police des liaisons et des installations du réseau de télécommunications (art. D456)](#204)
+        - [CHAPITRE Ier : Dispositions générales. (art. D456)](#205)
+      - [TITRE VI : Services radioélectriques (art. D457 à D487)](#206)
+        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D462)](#207)
+        - [CHAPITRE III : Stations radioélectriques privées. (art. D463 à D472)](#208)
+        - [CHAPITRE IV : Radiocommunications du service aérien (art. D473 à D482-10)](#209)
+          - [SECTION 1 : Généralités. (art. D473 à D474-1)](#210)
+          - [SECTION 2 : Stations installées par les services officiels de l'aéronautique civile. (art. D474-2 à D474-3)](#211)
+          - [SECTION 3 : Stations aéronautiques des aéro-clubs. (art. D474-4 à D474-9)](#212)
+          - [SECTION 4 : Stations aéronautiques, stations fixes aéronautiques, stations de radiophare installées par des entreprises de transport aérien ou des particuliers. (art. D475 à D477)](#213)
+          - [SECTION 5 : Stations installées à bord des aéronefs. (art. D478 à D482-8)](#214)
+          - [SECTION 6 : Dispositions diverses. (art. D482-9 à D482-10)](#215)
+        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#216)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#217)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#218)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#219)
+      - [TITRE II : Mandats. (art. D523 à D548)](#220)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#221)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#222)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#223)
+    - [LIVRE IV : L'organisation financière (art. D570 à D579)](#224)
+      - [TITRE II : Dispositions budgétaires (art. D570 à D572)](#225)
+        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. D570)](#226)
+        - [CHAPITRE IV : Comptabilité administrative. (art. D571 à D572)](#227)
+      - [TITRE V : Fonds spéciaux. (art. D573 à D579)](#228)
+  - [Annexes (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#229)
+    - [LIVRE IV : L'organisation financière (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#230)
+      - [TITRE II : Dispositions budgétaires (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#231)
+        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#232)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -16158,9 +16159,164 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-### TITRE IV : Police des liaisons et des installations du réseau de télécommunications<a id=203></a>
+#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=203></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=204></a>
+###### Article D406-1
+
+Il est créé auprès du ministre chargé des télécommunications un comité consultatif des kiosques télématiques et
+téléphoniques. Les membres de ce comité, présidé par un membre ou ancien membre du Conseil d'Etat ou des juridictions
+administratives ou judiciaires, sont nommés par arrêté du ministre chargé des télécommunications pour une durée [*mandat*] de
+deux ans.
+
+Le comité siège en deux formations. L'une est compétente pour les affaires concernant les kiosques télématiques ; l'autre est
+compétente pour les affaires concernant les kiosques téléphoniques.
+
+Le comité, dans sa formation Kiosque télématique comprend quatorze membres. Outre le président du comité consultatif, cette
+formation se compose de :
+
+1. Deux personnalités choisies en raison de leur compétence en matière de télématique ;
+
+2. Quatre représentants des organismes de presse ;
+
+3. Quatre représentants des associations, groupements ou syndicats d'éditeurs ou de fournisseurs de services télématiques ;
+
+4. Deux représentants des syndicats ou des associations d'utilisateurs de services télématiques ;
+
+5. Un représentant des associations de fournisseurs de moyens télématiques.
+
+Les personnalités prévues aux 2, 3, 4 et 5 sont proposées par les organismes ou les institutions auxquels elles
+appartiennent. La liste de ces organismes ou institutions est arrêtée par le ministre chargé des télécommunications.
+
+Le comité, dans sa formation Kiosque téléphonique, comprend douze membres. Outre le président du comité consultatif, cette
+formation se compose de :
+
+1. Deux personnalités choisies en raison de leur compétence en matière de télécommunications ;
+
+2. Trois représentants des organismes de presse ;
+
+3. Trois représentants de fournisseurs offrant des services sur les kiosques téléphoniques ;
+
+4. Trois représentants des syndicats ou des associations d'utilisateurs de services kiosques téléphoniques.
+
+Les personnalités prévues aux 2, 3 et 4 sont proposées par les organismes ou les institutions auxquels elles appartiennent.
+La liste de ces organismes ou institutions est arrêtée par le ministre chargé des télécommunications.
+
+Un suppléant de chacun des membres du comité est désigné dans les mêmes conditions que les membres titulaires.
+
+En cas de partage égal des voix, la voix du président est prépondérante.
+
+L'administration des télécommunications désigne auprès du comité son représentant qui assure les fonctions de rapporteur des
+dossiers sans voix délibérative.
+
+Le comité consultatif peut recourir au conseil de personnalités extérieures, qui peuvent être invitées à participer aux
+travaux sans voix délibérative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°87-860 1987-10-24 art. 1 JORF 27 octobre 1987
+
+_Modifié par_:
+
+  - Décret n°88-687 1988-05-06 art. 1 et 2 JORF 8 mai 1988
+  - Décret n°88-1140 1988-12-21 art. 1 JORF 22 décembre 1988
+
+
+###### Article D406-2
+
+Le comité consultatif des kiosques télématiques et téléphoniques a pour mission de veiller au respect, par les fournisseurs
+offrant des services sur les kiosques télématiques et téléphoniques, des engagements souscrits dans les conventions qu'ils
+concluent en application de l'article R. 54-1 avec l'administration des télécommunications.
+
+Il garantit notamment :
+
+- le caractère professionnel ou d'information spécialisée des services télématiques interactifs offerts sur les kiosques
+télématiques professionnels ;
+
+- le respect des conditions d'accès au kiosque télématique grand public par les fournisseurs de service ;
+
+- le respect des conditions d'accès aux kiosques téléphoniques par les fournisseurs de service.
+
+Il est consulté par l'administration des télécommunications :
+
+- avant toute décision de résiliation d'une convention passée avec un fournisseur des services télématiques et éventuellement
+un centre serveur, sauf dans le cas où cette résiliation résulte du non-paiement, par le fournisseur de services ou
+éventuellement le centre serveur, des factures dues à l'administration des télécommunications ;
+
+- avant toute décision de résiliation d'une convention passée avec un fournisseur offrant des services sur les kiosques
+téléphoniques, sauf dans le cas où cette résiliation résulte du non-paiement, par le fournisseur de services, des factures
+dues à l'administration des télécommunications, de l'emploi de matériel non agréé, ou du non-respect des fonctions pour
+lesquelles les matériels sont prévus ;
+
+- avant toute décision suspendant l'exécution de la convention passée avec un fournisseur de services et éventuellement un
+centre serveur, sauf dans le cas où cette décision est prononcée à titre provisoire à l'invitation de l'autorité judiciaire.
+
+Il peut être consulté par l'administration des télécommunications pour l'accès ou le maintien d'un service aux kiosques
+télématiques ou téléphoniques ; à cet effet, il examine notamment :
+
+- le caractère professionnel ou d'information spécialisée du service proposé par un fournisseur de services demandant le
+bénéfice d'un kiosque professionnel ou l'incidence sur ce caractère des demandes de modifications de la convention passée
+entre le fournisseur de services et l'administration des télécommunications ;
+
+- le respect des conditions permettant de bénéficier du kiosque télématique grand public ;
+
+- le respect des conditions permettant de bénéficier d'un kiosque téléphonique.
+
+Il peut être saisi, pour avis, par un fournisseur de service auquel a été refusé le bénéfice de l'un des kiosques
+télématiques ou téléphoniques.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications R54-1
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°87-860 1987-10-24 art. 1 JORF 27 octobre 1987
+
+_Modifié par_:
+
+  - Décret n°87-1156 1987-12-31 art. 1 JORF 3 janvier 1988
+  - Décret n°88-687 1988-05-06 art. 3 JORF 8 mai 1988
+  - Décret n°88-1140 1988-12-21 art. 1 JORF 22 décembre 1988
+
+
+###### Article D406-3
+
+Le comité consultatif émet son avis dans un délai de deux mois à compter de la date de sa saisine.
+
+L'avis est notifié au ministre chargé des télécommunications. Une copie est également notifiée au fournisseur de services
+concerné.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°87-860 1987-10-24 art. 1 JORF 27 octobre 1987
+
+_Modifié par_:
+
+  - Décret n°88-687 1988-05-06 art. 1 et 2 JORF 8 mai 1988
+  - Décret n°88-1140 1988-12-21 art. 1 JORF 22 décembre 1988
+
+
+### TITRE IV : Police des liaisons et des installations du réseau de télécommunications<a id=204></a>
+
+#### CHAPITRE Ier : Dispositions générales.<a id=205></a>
 
 ###### Article D456
 
@@ -16202,9 +16358,9 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-### TITRE VI : Services radioélectriques<a id=205></a>
+### TITRE VI : Services radioélectriques<a id=206></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=206></a>
+#### CHAPITRE Ier : Dispositions générales.<a id=207></a>
 
 ###### Article D457
 
@@ -16372,7 +16528,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### CHAPITRE III : Stations radioélectriques privées.<a id=207></a>
+#### CHAPITRE III : Stations radioélectriques privées.<a id=208></a>
 
 ###### Article D463
 
@@ -16581,9 +16737,9 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### CHAPITRE IV : Radiocommunications du service aérien<a id=208></a>
+#### CHAPITRE IV : Radiocommunications du service aérien<a id=209></a>
 
-##### SECTION 1 : Généralités.<a id=209></a>
+##### SECTION 1 : Généralités.<a id=210></a>
 
 ###### Article D473
 
@@ -16641,7 +16797,7 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 
-##### SECTION 2 : Stations installées par les services officiels de l'aéronautique civile.<a id=210></a>
+##### SECTION 2 : Stations installées par les services officiels de l'aéronautique civile.<a id=211></a>
 
 ###### Article D474-2
 
@@ -16683,7 +16839,7 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 
-##### SECTION 3 : Stations aéronautiques des aéro-clubs.<a id=211></a>
+##### SECTION 3 : Stations aéronautiques des aéro-clubs.<a id=212></a>
 
 ###### Article D474-4
 
@@ -16817,7 +16973,7 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 
-##### SECTION 4 : Stations aéronautiques, stations fixes aéronautiques, stations de radiophare installées par des entreprises de transport aérien ou des particuliers.<a id=212></a>
+##### SECTION 4 : Stations aéronautiques, stations fixes aéronautiques, stations de radiophare installées par des entreprises de transport aérien ou des particuliers.<a id=213></a>
 
 ###### Article D475
 
@@ -16899,7 +17055,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### SECTION 5 : Stations installées à bord des aéronefs.<a id=213></a>
+##### SECTION 5 : Stations installées à bord des aéronefs.<a id=214></a>
 
 ###### Article D478
 
@@ -17172,7 +17328,7 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 
-##### SECTION 6 : Dispositions diverses.<a id=214></a>
+##### SECTION 6 : Dispositions diverses.<a id=215></a>
 
 ###### Article D482-9
 
@@ -17213,7 +17369,7 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 
-#### CHAPITRE V : Radiocommunications du service maritime.<a id=215></a>
+#### CHAPITRE V : Radiocommunications du service maritime.<a id=216></a>
 
 ###### Article D483
 
@@ -17336,9 +17492,9 @@ _Nouveaux textes_:
   - Code des postes et des communications électronique - art. D406-13 (V)
 
 
-## LIVRE III : Les services financiers<a id=216></a>
+## LIVRE III : Les services financiers<a id=217></a>
 
-### TITRE Ier : Chèques postaux.<a id=217></a>
+### TITRE Ier : Chèques postaux.<a id=218></a>
 
 ###### Article D488
 
@@ -17861,7 +18017,7 @@ _Abrogé par_:
   - Décret n°93-977 1993-07-31 art. 5 JORF 5 août 1993
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=218></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=219></a>
 
 ###### Article D489
 
@@ -18345,7 +18501,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE II : Mandats.<a id=219></a>
+### TITRE II : Mandats.<a id=220></a>
 
 ###### Article D523
 
@@ -18620,7 +18776,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D540 (Ab)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=220></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=221></a>
 
 ###### Article D525
 
@@ -19034,7 +19190,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=221></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=222></a>
 
 ###### Article D549
 
@@ -19220,7 +19376,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=222></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=223></a>
 
 ###### Article D553
 
@@ -19596,11 +19752,11 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-## LIVRE IV : L'organisation financière<a id=223></a>
+## LIVRE IV : L'organisation financière<a id=224></a>
 
-### TITRE II : Dispositions budgétaires<a id=224></a>
+### TITRE II : Dispositions budgétaires<a id=225></a>
 
-#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=225></a>
+#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=226></a>
 
 ###### Article D570
 
@@ -19629,7 +19785,7 @@ _Abrogé par_:
   - Décret n°97-290 du 24 mars 1997 - art. 2 (V) JORF 29 mars 1997
 
 
-#### CHAPITRE IV : Comptabilité administrative.<a id=226></a>
+#### CHAPITRE IV : Comptabilité administrative.<a id=227></a>
 
 ###### Article D571
 
@@ -19727,7 +19883,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D575 (V)
 
 
-### TITRE V : Fonds spéciaux.<a id=227></a>
+### TITRE V : Fonds spéciaux.<a id=228></a>
 
 ###### Article D573
 
@@ -19919,13 +20075,13 @@ _Abrogé par_:
   - Décret n°97-290 du 24 mars 1997 - art. 2 (V) JORF 29 mars 1997
 
 
-# Annexes<a id=228></a>
+# Annexes<a id=229></a>
 
-## LIVRE IV : L'organisation financière<a id=229></a>
+## LIVRE IV : L'organisation financière<a id=230></a>
 
-### TITRE II : Dispositions budgétaires<a id=230></a>
+### TITRE II : Dispositions budgétaires<a id=231></a>
 
-#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=231></a>
+#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=232></a>
 
 ###### Article Annexe II à l'article D570
 
