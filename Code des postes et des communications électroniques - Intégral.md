@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1979-09-29
+Version Consolidée au 1980-07-23
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -51,7 +51,7 @@ Version Consolidée au 1979-09-29
       - [TITRE VIII : Dispositions pénales. (art. R2 à R7)](#48)
     - [LIVRE II : Le service des télécommunications (art. R10 à R*52-2)](#49)
       - [TITRE Ier : Dispositions générales (art. R10 à R*20)](#50)
-        - [CHAPITRE II : Dispositions pénales. (art. R10)](#51)
+        - [CHAPITRE II : Dispositions pénales. (art. R10 à R11)](#51)
         - [CHAPITRE IV : Téléphone. (art. R*12 à R*20)](#52)
       - [TITRE III : Servitudes radio-électriques (art. R*21 à R41)](#53)
         - [CHAPITRE Ier : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. R*21 à R*26)](#54)
@@ -4588,6 +4588,37 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article R11
+
+Est interdit l'usage de prospectus, affiches, tracts, etc., imitant les formules d'arrivée des télégrammes et les cartes
+pneumatiques utilisées par l'administration des postes et télécommunications [*infraction*].
+
+Toute personne qui contrevient aux dispositions qui précèdent est punie [*sanction*] d'une amende [*taux*] de 300 à 600 F par
+exemplaire mis en circulation, en contravention aux dispositions du présent article.
+
+**Nota:**
+
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L78
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+_Nouveaux textes_:
+
+  - Code des postes et des communications électronique - art. R10-11 (V)
 
 
 #### CHAPITRE IV : Téléphone.<a id=52></a>
