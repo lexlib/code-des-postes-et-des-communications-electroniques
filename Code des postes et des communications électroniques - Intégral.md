@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1968-11-30
+Version Consolidée au 1969-01-09
 ## Contenu: 
   - [Partie législative (art. L1 à L125)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -82,7 +82,7 @@ Version Consolidée au 1968-11-30
         - [Chapitre III : Création des bureaux de poste. (art. D4 à D5)](#79)
         - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D6 à D33)](#80)
           - [Section 1 : Généralités. (art. D6 à D8)](#81)
-          - [Section 2 : Lettres missives, cartes postales et paquets-poste. (art. D9 à D11)](#82)
+          - [Section 2 : Lettres missives, cartes postales et paquets-poste. (art. D9 à D12)](#82)
           - [Section 3 : Imprimés et échantillons. (art. D13 à D17)](#83)
           - [Section 4 : Journaux et écrits périodiques. (art. D20 à D28)](#84)
           - [Section 5 : Magazines sonores. (art. D29 à D31)](#85)
@@ -7281,6 +7281,37 @@ _Créé par_:
 _Codifié par_:
 
   - Décret n°62-275 du 12 mars 1962
+
+_Abrogé par_:
+
+  - Décret n°2013-417 du 21 mai 2013 - art. 8
+
+
+###### Article D12
+
+Les paquets-poste bénéficient d'un tarif spécial à condition d'être affranchis à la machine à affranchir, triés et ensachés
+par bureaux centralisateurs et grandes villes et déposés en nombre au moins égal à 1 000 aux lieux, jours et heures arrêtés
+en accord avec le service postal.
+
+Un tarif spécial encore plus réduit peut en outre être consenti aux usagers déposant un minimum de 500 000 paquets-poste par
+an, en contrepartie de la collaboration que lesdits usagers apportent au service postal. Les modalités de cette collaboration
+font l'objet d'un accord particulier entre l'administration et chaque usager intéressé.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°62-1248 1962-10-20 art. 1 JORF 26 octobre 1962 rectificatif JORF 19 décembre 1962
+  - Décret n°65-18 1965-01-12 art. 1 JORF 13 janvier 1965
+  - Décret n°69-22 1969-01-08 art. 2 JORF 9 janvier 1969
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars et JORF 8 avril 1962
 
 _Abrogé par_:
 
