@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2003-09-27
+Version Consolidée au 2003-10-09
 ## Contenu: 
   - [Partie législative (art. L1 à L129)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -71,185 +71,186 @@ Version Consolidée au 2003-09-27
         - [CHAPITRE II : Le Médiateur du service universel postal (art. R1-1 à R1-11)](#68)
           - [SECTION 1 : Modalités de désignation, compétences et moyens du Médiateur (art. R1-1 à R1-7)](#69)
           - [SECTION 2 : Les procédures suivies par le Médiateur (art. R1-8 à R1-11)](#70)
-    - [LIVRE II : Les communications électroniques (art. R*9-1 à R*52-2-14)](#71)
-      - [TITRE Ier : Dispositions générales (art. R*9-1 à R11-9)](#72)
-        - [Chapitre II : Régime juridique. (art. R*9-1 à R11-9)](#73)
-          - [SECTION 2 : Services (art. R*9-1 à R*9-4)](#74)
-          - [SECTION 3 : Procédure et dispositions communes (art. R9-5 à R9-12)](#75)
-          - [SECTION 3 bis : Annuaires universels et services universels de renseignements. (art. R10 à R10-10)](#76)
-          - [SECTION 3 bis : Annuaires universels et services universels de renseignement. (art. R11)](#77)
-          - [SECTION 4 : De l'interconnexion. (art. R11-1 à R11-9)](#78)
-      - [TITRE VI : Services radioélectriques (art. R*52-1)](#79)
-        - [CHAPITRE Ier : Dispositions générales. (art. R*52-1)](#80)
-      - [TITRE VII : Agence nationale des fréquences (art. R*52-2 à R*52-2-14)](#81)
-        - [Chapitre Ier : Dispositions générales et missions (art. R*52-2 à R*52-2-1)](#82)
-        - [Chapitre II : Organisation et fonctionnement (art. R*52-2-2 à R*52-2-9)](#83)
-        - [Chapitre III : Dispositions financières (art. R*52-2-10 à R*52-2-14)](#84)
-    - [LIVRE II : Les télécommunications (art. R*9 à R52)](#85)
-      - [TITRE Ier : Dispositions générales (art. R*9 à R*14)](#86)
-        - [CHAPITRE Ier : Définitions et principes. (art. R*9)](#87)
-        - [CHAPITRE II : Régime juridique (art. R11-10 à R11-13)](#88)
-          - [SECTION 5 : Contrôles. (art. R11-10 à R11-13)](#89)
-        - [CHAPITRE III : Téléphone. (art. R*12 à R*14)](#90)
-      - [TITRE II : Prérogatives et servitudes (art. R20-1 à R52)](#91)
-        - [CHAPITRE Ier : Equipements terminaux de télécommunications (art. R20-1 à R20-30-2)](#92)
-          - [SECTION 1 : Définitions. (art. R20-1)](#93)
-          - [SECTION 2 : Evaluation de la conformité des équipements terminaux aux exigences essentielles. (art. R20-2 à R20-16)](#94)
-          - [SECTION 3 : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant l'Espace économique européen. (art. R20-17 à R20-21)](#95)
-          - [SECTION 4 : Raccordement des équipements terminaux aux réseaux ouverts au public. (art. R20-22)](#96)
-          - [SECTION 5 : Admission des installateurs. (art. R20-23 à R20-25)](#97)
-          - [SECTION 6 : Dispositions pénales. (art. R20-26 à R20-30-2)](#98)
-        - [CHAPITRE Ier BIS : Le service public des télécommunications (art. R20-31 à R20-44)](#99)
-          - [SECTION 1 : Le financement du service universel des télécommunications. (art. R20-31 à R20-44)](#100)
-        - [CHAPITRE II : Droits de passage sur le domaine public routier et servitudes (art. R*20-60 à R41)](#101)
-          - [SECTION 2 : Servitudes. (art. R*20-60 à R20-59)](#102)
-          - [SECTION 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. R*21 à R*26)](#103)
-          - [SECTION 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. R*28 à R27)](#104)
-          - [SECTION 5 : Dispositions pénales. (art. R*42 à R41)](#105)
-        - [CHAPITRE III : Police des liaisons et des installations du réseau de télécommunications (art. R42-1)](#106)
-        - [CHAPITRE IV : Protection des câbles sous-marins (art. R45 à R52)](#107)
-          - [SECTION 2 : Dispositions pénales (art. R45 à R52)](#108)
-            - [PARAGRAPHE I : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#109)
-            - [PARAGRAPHE II : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#110)
-    - [LIVRE III : Les services financiers (art. R52-10 à R52-11)](#111)
-      - [TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005). (art. R52-10 à R52-11)](#112)
-  - [Partie réglementaire - Décrets simples (art. D1 à D569)](#113)
-    - [LIVRE Ier : Le service postal (art. D1 à D95-3)](#114)
-      - [TITRE Ier : Dispositions générales (art. D1 à D36)](#115)
-        - [Chapitre Ier : Le monopole postal. (art. D1 à D2)](#116)
-        - [Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances. (art. D3)](#117)
-        - [Chapitre III : Création des bureaux de poste. (art. D4 à D5)](#118)
-        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D6 à D33)](#119)
-          - [Section 1 : Généralités. (art. D6 à D8)](#120)
-          - [Section 2 : Lettres missives, cartes postales et paquets-poste. (art. D9 à D12)](#121)
-          - [Section 3 : Imprimés et échantillons. (art. D13 à D17)](#122)
-          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#123)
-          - [Section 5 : Magazines sonores. (art. D29 à D31)](#124)
-          - [Section 6 : Dispositions particulières. (art. D32 à D33)](#125)
-        - [Chapitre V : Conditions d'admission des objets de correspondance dans le régime international. (art. D34 à D36)](#126)
-      - [TITRE II : Affranchissement, recommandation et chargement (art. D38 à D57)](#127)
-        - [Chapitre Ier : Affranchissement. (art. D38 à D46)](#128)
-        - [Chapitre II : Recommandation et chargement. (art. D47 à D57)](#129)
-      - [TITRE IV : Franchise postale (art. D73 à D77)](#130)
-      - [TITRE V : Colis postaux. (art. D81 à D89)](#131)
-      - [TITRE VI : Distribution postale (art. D90 à D93)](#132)
-        - [Chapitre Ier : Distribution à domicile. (art. D90 à D92)](#133)
-        - [Chapitre II : Distribution au guichet. (art. D93)](#134)
-      - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#135)
-    - [LIVRE II : Les communications électroniques (art. D96-1 à D487)](#136)
-      - [TITRE Ier : Dispositions générales (art. D96-1 à D406-4)](#137)
-        - [Chapitre Ier : Principes et définitions. (art. D96-1 à D97-11)](#138)
-          - [Paragraphe 1 : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D96-1 à D96-6)](#139)
-          - [Paragraphe 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D96-7 à D96-17)](#140)
-          - [Paragraphe 3 : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D96-18 à D96-24)](#141)
-          - [Paragraphe 4 : Commission consultative des radiocommunications. (art. D97-1)](#142)
-          - [Paragraphe 5 : Commission consultative des réseaux et services de communications électroniques. (art. D97-2)](#143)
-          - [Paragraphe 6 : Organisation et fonctionnement des commissions consultatives. (art. D97-3)](#144)
-          - [Paragraphe 7 : Autorité de régulation des télécommunications (art. D97-4 à D97-11)](#145)
-        - [Chapitre II : Régime juridique (art. D98-1 à D99-26)](#146)
-          - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-1 à D98-2-1)](#147)
-          - [Section 2 : Réseaux indépendants (art. D98-3 à D99-5)](#148)
-          - [SECTION 3 : Interconnexion (art. D99-6 à D99-22)](#149)
-            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-6 à D99-10)](#150)
-            - [Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur les listes établies en application du 7° de l'article L. 36-7. (art. D99-11 à D99-22)](#151)
-          - [SECTION 4 : Accès à la boucle locale (art. D99-23 à D99-26)](#152)
-        - [CHAPITRE III : Télégraphe (art. D100 à D287)](#153)
-          - [SECTION 1 : Service télégraphique (art. D100 à D267)](#154)
-            - [Paragraphe 2 : Dépôt des télégrammes. (art. D100)](#155)
-            - [Paragraphe 3 : Rédaction des télégrammes (art. D104 à D110)](#156)
-              - [1. : Dispositions générales. (art. D104 à D105)](#157)
-              - [3. : Adresse. (art. D107 à D110)](#158)
-            - [Paragraphe 4 : Compte des mots. (art. D116)](#159)
-            - [Paragraphe 5 : Remise des télégrammes. (art. D117 à D122)](#160)
-            - [Paragraphe 6 : Perception des tarifs. (art. D126 à D128)](#161)
-            - [Paragraphe 7 : Télégrammes spéciaux. (art. D129)](#162)
-            - [Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux (art. D130 à D219-2)](#163)
-              - [1. : Télégrammes relatifs à la sécurité de la vie humaine. (art. D130 à D133)](#164)
-              - [2. : Télégrammes de presse. (art. D134 à D135)](#165)
-              - [3. : Télégrammes des services postaux financiers. (art. D139)](#166)
-              - [4. : Phototélégrammes. (art. D142 à D144)](#167)
-              - [5. : Télégrammes urgents du régime international. (art. D146)](#168)
-              - [20. : Télégrammes illustrés. (art. D182 à D185)](#169)
-              - [22. : Télégrammes avec accusé de réception. (art. D192)](#170)
-              - [24. : Télégrammes sur un compte communications électroniques. (art. D196)](#171)
-              - [28. : Télégrammes R.C.T. du régime international. (art. D213)](#172)
-              - [29. : Radiotélégrammes. (art. D218 à D219-2)](#173)
-            - [Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers (art. D228)](#174)
-              - [1. : Communication au guichet de l'original d'un télégramme. (art. D228)](#175)
-            - [Paragraphe 10 : Télégrammes officiels (art. D234 à D246)](#176)
-              - [1. : Définition. (art. D234)](#177)
-              - [2. : Rédaction. (art. D235)](#178)
-              - [3. : Dépôt. (art. D237)](#179)
-              - [4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels. (art. D241)](#180)
-              - [5. : Circulaires. (art. D243)](#181)
-              - [6. : Application et perception des tarifs. (art. D244)](#182)
-              - [7. : Annulation des télégrammes officiels. (art. D246)](#183)
-            - [Paragraphe 11 : Télégrammes d'Etat (art. D247 à D259)](#184)
-              - [1. : Définition. (art. D247 à D248)](#185)
-              - [2. : Rédaction. (art. D250 à D252)](#186)
-              - [3. : Dépôt. (art. D253 à D254)](#187)
-              - [4. : Application des tarifs. (art. D256 à D257)](#188)
-              - [6. : Remise. (art. D259)](#189)
-            - [Paragraphe 13 : Remboursement. (art. D263 à D265)](#190)
-            - [Paragraphe 14 : Prescriptions diverses. (art. D267)](#191)
-          - [SECTION 3 : Service télex (art. D277 à D287)](#192)
-            - [Paragraphe 1er : Généralités. (art. D277 à D279)](#193)
-            - [Paragraphe 2 : Abonnements. (art. D280 à D284)](#194)
-            - [Paragraphe 3 : Communications. (art. D285 à D286)](#195)
-            - [Paragraphe 4 : Suspension d'une ligne d'abonnement télex. (art. D287)](#196)
-        - [CHAPITRE IV : Téléphone (art. D288 à D367)](#197)
-          - [SECTION 1 : Dispositions générales. (art. D288 à D289)](#198)
-          - [SECTION 2 : Des communications téléphoniques (art. D291-1 à D316)](#199)
-            - [Paragraphe 1er : Dispositions générales. (art. D291-1 à D293-1)](#200)
-            - [Paragraphe 2 : Communications ordinaires (art. D294 à D298)](#201)
-              - [1. : Définition. (art. D294)](#202)
-              - [2. : Limitation de durée. (art. D295)](#203)
-              - [4. : Communication refusée. (art. D297)](#204)
-              - [5. : Récépissé. (art. D298)](#205)
-            - [Paragraphe 3 : Communications spéciales (art. D300 à D307)](#206)
-              - [1. : Indication de durée. (art. D300)](#207)
-              - [2. : Avis d'appel. (art. D301)](#208)
-              - [4. : Communication non facturée par le demandeur ou à facturation différée. (art. D304 à D305)](#209)
-              - [6. : Communication avec un véhicule. (art. D307)](#210)
-            - [Paragraphe 4 : Services spéciaux (art. D308 à D316)](#211)
-              - [1. : Service de réception et de traitement d'appels. (art. D308)](#212)
-              - [2. : Service de la réunion-téléphone. (art. D309)](#213)
-              - [3. : Service du "Mémo-Appel". (art. D310)](#214)
-              - [5. : Renseignements. (art. D312)](#215)
-              - [7. : Communications en dehors des heures normales d'ouverture du service. (art. D315)](#216)
-              - [8. : Service des auditions téléphoniques. (art. D316)](#217)
-          - [SECTION 3 : Des abonnements (art. D317 à D355)](#218)
-            - [Paragraphe 1er : Généralités. (art. D317 à D319)](#219)
-            - [Paragraphe 2 : Abonnements principaux permanents (art. D320 à D331)](#220)
-              - [1. : Différentes catégories. (art. D320)](#221)
-              - [2. : Abonnements principaux ordinaires. (art. D321)](#222)
-              - [3. : Abonnements principaux d'extension. (art. D322 à D323)](#223)
-              - [5. : Abonnements spéciaux. (art. D328 à D331)](#224)
-            - [Paragraphe 3 : Abonnements complémentaires. (art. D332)](#225)
-            - [Paragraphe 4 : Abonnements supplémentaires permanents. (art. D333 à D334)](#226)
-            - [Paragraphe 5 : Abonnements temporaires. (art. D336)](#227)
-            - [Paragraphe 6 : Suspension et résiliation des abonnements. (art. D337 à D342)](#228)
-            - [Paragraphe 7 : Modification des conditions de concession d'un abonnement (art. D347 à D355)](#229)
-              - [3. : Transformation des abonnements. (art. D347 à D355)](#230)
-          - [SECTION 4 : Dispositions particulières au service international. (art. D362 à D367)](#231)
-        - [CHAPITRE  V : Services particuliers des communications électroniques (art. D369 à D379)](#232)
-          - [SECTION 2 : Liaisons louées (art. D369 à D379)](#233)
-        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#234)
-      - [TITRE II : Etablissement des lignes (art. D407-1 à D407-3)](#235)
-        - [CHAPITRE Ier : Etablissement des lignes (art. D407-1 à D407-3)](#236)
-          - [SECTION 1 : Dispositions générales. (art. D407-1 à D407-3)](#237)
-      - [TITRE VI : Les services radioélectriques (art. D457 à D487)](#238)
-        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D458)](#239)
-        - [CHAPITRE II : Installations et réseaux radioélectriques indépendants. (art. D459 à D463)](#240)
-        - [CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs. (art. D473)](#241)
-        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#242)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#243)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#244)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#245)
-      - [TITRE II : Mandats. (art. D523 à D548)](#246)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#247)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#248)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#249)
+    - [LIVRE II : Les communications électroniques (art. R*9 à R*52-2-14)](#71)
+      - [TITRE Ier : Dispositions générales (art. R*9 à R20-44-4)](#72)
+        - [Chapitre Ier : Définitions et principes. (art. R*9)](#73)
+        - [Chapitre II : Régime juridique. (art. R*9-1 à R20-28)](#74)
+          - [SECTION 2 : Services (art. R*9-1 à R*9-4)](#75)
+          - [SECTION 3 : Procédure et dispositions communes (art. R9-5 à R9-12)](#76)
+          - [SECTION 3 bis : Annuaires universels et services universels de renseignements. (art. R10 à R10-10)](#77)
+          - [SECTION 3 bis : Annuaires universels et services universels de renseignement. (art. R11)](#78)
+          - [SECTION 4 : De l'interconnexion. (art. R11-1 à R11-9)](#79)
+          - [Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques. (art. R20-1 à R20-28)](#80)
+            - [Paragraphe I : Dispositions générales. (art. R20-1 à R20-3)](#81)
+            - [Paragraphe II : Evaluation de la conformité des équipements. (art. R20-4 à R20-13)](#82)
+            - [Paragraphe III : Compétences de l'Autorité de régulation des télécommunications en matière d'évaluation de conformité. (art. R20-14 à R20-16)](#83)
+            - [Paragraphe IV : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats. (art. R20-17 à R20-18)](#84)
+            - [Paragraphe V : Conditions de mise en service, de raccordement et d'utilisation des équipements. (art. R20-19 à R20-24-1)](#85)
+            - [Paragraphe VI : Dispositions pénales. (art. R20-25 à R20-27)](#86)
+            - [Paragraphe VII : Equipements utilisés dans certaines activités de l'Etat. (art. R20-28)](#87)
+        - [CHAPITRE III : Service public des communications électroniques (art. R20-30 à R20-44)](#88)
+          - [SECTION 1 : Dispositions particulières. (art. R20-30 à R20-30-1)](#89)
+          - [SECTION 2 : Financement du service universel des communications électroniques. (art. R20-31 à R20-44)](#90)
+        - [Chapitre V : Dispositions pénales. (art. R20-44-1 à R20-44-4)](#91)
+      - [TITRE II : Etablissement des réseaux de communications électroniques (art. R*20-60 à R52)](#92)
+        - [CHAPITRE Ier : Droits de passage sur le domaine public routier et servitudes (art. R*20-60 à R41)](#93)
+          - [SECTION 2 : Servitudes. (art. R*20-60 à R20-59)](#94)
+          - [SECTION 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. R*21 à R*26)](#95)
+          - [SECTION 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. R*28 à R27)](#96)
+          - [SECTION 5 : Dispositions pénales. (art. R*42 à R41)](#97)
+        - [CHAPITRE II : Police des liaisons et des installations du réseau de communications électroniques (art. R42-1)](#98)
+        - [CHAPITRE III : Protection des câbles sous-marins (art. R45 à R52)](#99)
+          - [SECTION 2 : Dispositions pénales (art. R45 à R52)](#100)
+            - [PARAGRAPHE I : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#101)
+            - [PARAGRAPHE II : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#102)
+      - [TITRE VI : Services radioélectriques (art. R*52-1)](#103)
+        - [CHAPITRE Ier : Dispositions générales. (art. R*52-1)](#104)
+      - [TITRE VII : Agence nationale des fréquences (art. R*52-2 à R*52-2-14)](#105)
+        - [Chapitre Ier : Dispositions générales et missions (art. R*52-2 à R*52-2-1)](#106)
+        - [Chapitre II : Organisation et fonctionnement (art. R*52-2-2 à R*52-2-9)](#107)
+        - [Chapitre III : Dispositions financières (art. R*52-2-10 à R*52-2-14)](#108)
+    - [LIVRE II : Les télécommunications (art.  à R*52-2-14)](#109)
+      - [TITRE II : Prérogatives et servitudes (art.  à R*52-2-14)](#110)
+        - [CHAPITRE II : Droits de passage sur le domaine public routier et servitudes (art.  à R*52-2-14)](#111)
+    - [LIVRE III : Les services financiers (art. R52-10 à R52-11)](#112)
+      - [TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005). (art. R52-10 à R52-11)](#113)
+  - [Partie réglementaire - Décrets simples (art. D1 à D569)](#114)
+    - [LIVRE Ier : Le service postal (art. D1 à D95-3)](#115)
+      - [TITRE Ier : Dispositions générales (art. D1 à D36)](#116)
+        - [Chapitre Ier : Le monopole postal. (art. D1 à D2)](#117)
+        - [Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances. (art. D3)](#118)
+        - [Chapitre III : Création des bureaux de poste. (art. D4 à D5)](#119)
+        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D6 à D33)](#120)
+          - [Section 1 : Généralités. (art. D6 à D8)](#121)
+          - [Section 2 : Lettres missives, cartes postales et paquets-poste. (art. D9 à D12)](#122)
+          - [Section 3 : Imprimés et échantillons. (art. D13 à D17)](#123)
+          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#124)
+          - [Section 5 : Magazines sonores. (art. D29 à D31)](#125)
+          - [Section 6 : Dispositions particulières. (art. D32 à D33)](#126)
+        - [Chapitre V : Conditions d'admission des objets de correspondance dans le régime international. (art. D34 à D36)](#127)
+      - [TITRE II : Affranchissement, recommandation et chargement (art. D38 à D57)](#128)
+        - [Chapitre Ier : Affranchissement. (art. D38 à D46)](#129)
+        - [Chapitre II : Recommandation et chargement. (art. D47 à D57)](#130)
+      - [TITRE IV : Franchise postale (art. D73 à D77)](#131)
+      - [TITRE V : Colis postaux. (art. D81 à D89)](#132)
+      - [TITRE VI : Distribution postale (art. D90 à D93)](#133)
+        - [Chapitre Ier : Distribution à domicile. (art. D90 à D92)](#134)
+        - [Chapitre II : Distribution au guichet. (art. D93)](#135)
+      - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#136)
+    - [LIVRE II : Les communications électroniques (art. D96-1 à D487)](#137)
+      - [TITRE Ier : Dispositions générales (art. D96-1 à D406-4)](#138)
+        - [Chapitre Ier : Principes et définitions. (art. D96-1 à D97-11)](#139)
+          - [Paragraphe 1 : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D96-1 à D96-6)](#140)
+          - [Paragraphe 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D96-7 à D96-17)](#141)
+          - [Paragraphe 3 : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D96-18 à D96-24)](#142)
+          - [Paragraphe 4 : Commission consultative des radiocommunications. (art. D97-1)](#143)
+          - [Paragraphe 5 : Commission consultative des réseaux et services de communications électroniques. (art. D97-2)](#144)
+          - [Paragraphe 6 : Organisation et fonctionnement des commissions consultatives. (art. D97-3)](#145)
+          - [Paragraphe 7 : Autorité de régulation des télécommunications (art. D97-4 à D97-11)](#146)
+        - [Chapitre II : Régime juridique (art. D98-1 à D99-26)](#147)
+          - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-1 à D98-2-1)](#148)
+          - [Section 2 : Réseaux indépendants (art. D98-3 à D99-5)](#149)
+          - [SECTION 3 : Interconnexion (art. D99-6 à D99-22)](#150)
+            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-6 à D99-10)](#151)
+            - [Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur les listes établies en application du 7° de l'article L. 36-7. (art. D99-11 à D99-22)](#152)
+          - [SECTION 4 : Accès à la boucle locale (art. D99-23 à D99-26)](#153)
+        - [CHAPITRE III : Télégraphe (art. D100 à D287)](#154)
+          - [SECTION 1 : Service télégraphique (art. D100 à D267)](#155)
+            - [Paragraphe 2 : Dépôt des télégrammes. (art. D100)](#156)
+            - [Paragraphe 3 : Rédaction des télégrammes (art. D104 à D110)](#157)
+              - [1. : Dispositions générales. (art. D104 à D105)](#158)
+              - [3. : Adresse. (art. D107 à D110)](#159)
+            - [Paragraphe 4 : Compte des mots. (art. D116)](#160)
+            - [Paragraphe 5 : Remise des télégrammes. (art. D117 à D122)](#161)
+            - [Paragraphe 6 : Perception des tarifs. (art. D126 à D128)](#162)
+            - [Paragraphe 7 : Télégrammes spéciaux. (art. D129)](#163)
+            - [Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux (art. D130 à D219-2)](#164)
+              - [1. : Télégrammes relatifs à la sécurité de la vie humaine. (art. D130 à D133)](#165)
+              - [2. : Télégrammes de presse. (art. D134 à D135)](#166)
+              - [3. : Télégrammes des services postaux financiers. (art. D139)](#167)
+              - [4. : Phototélégrammes. (art. D142 à D144)](#168)
+              - [5. : Télégrammes urgents du régime international. (art. D146)](#169)
+              - [20. : Télégrammes illustrés. (art. D182 à D185)](#170)
+              - [22. : Télégrammes avec accusé de réception. (art. D192)](#171)
+              - [24. : Télégrammes sur un compte communications électroniques. (art. D196)](#172)
+              - [28. : Télégrammes R.C.T. du régime international. (art. D213)](#173)
+              - [29. : Radiotélégrammes. (art. D218 à D219-2)](#174)
+            - [Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers (art. D228)](#175)
+              - [1. : Communication au guichet de l'original d'un télégramme. (art. D228)](#176)
+            - [Paragraphe 10 : Télégrammes officiels (art. D234 à D246)](#177)
+              - [1. : Définition. (art. D234)](#178)
+              - [2. : Rédaction. (art. D235)](#179)
+              - [3. : Dépôt. (art. D237)](#180)
+              - [4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels. (art. D241)](#181)
+              - [5. : Circulaires. (art. D243)](#182)
+              - [6. : Application et perception des tarifs. (art. D244)](#183)
+              - [7. : Annulation des télégrammes officiels. (art. D246)](#184)
+            - [Paragraphe 11 : Télégrammes d'Etat (art. D247 à D259)](#185)
+              - [1. : Définition. (art. D247 à D248)](#186)
+              - [2. : Rédaction. (art. D250 à D252)](#187)
+              - [3. : Dépôt. (art. D253 à D254)](#188)
+              - [4. : Application des tarifs. (art. D256 à D257)](#189)
+              - [6. : Remise. (art. D259)](#190)
+            - [Paragraphe 13 : Remboursement. (art. D263 à D265)](#191)
+            - [Paragraphe 14 : Prescriptions diverses. (art. D267)](#192)
+          - [SECTION 3 : Service télex (art. D277 à D287)](#193)
+            - [Paragraphe 1er : Généralités. (art. D277 à D279)](#194)
+            - [Paragraphe 2 : Abonnements. (art. D280 à D284)](#195)
+            - [Paragraphe 3 : Communications. (art. D285 à D286)](#196)
+            - [Paragraphe 4 : Suspension d'une ligne d'abonnement télex. (art. D287)](#197)
+        - [CHAPITRE IV : Téléphone (art. D288 à D367)](#198)
+          - [SECTION 1 : Dispositions générales. (art. D288 à D289)](#199)
+          - [SECTION 2 : Des communications téléphoniques (art. D291-1 à D316)](#200)
+            - [Paragraphe 1er : Dispositions générales. (art. D291-1 à D293-1)](#201)
+            - [Paragraphe 2 : Communications ordinaires (art. D294 à D298)](#202)
+              - [1. : Définition. (art. D294)](#203)
+              - [2. : Limitation de durée. (art. D295)](#204)
+              - [4. : Communication refusée. (art. D297)](#205)
+              - [5. : Récépissé. (art. D298)](#206)
+            - [Paragraphe 3 : Communications spéciales (art. D300 à D307)](#207)
+              - [1. : Indication de durée. (art. D300)](#208)
+              - [2. : Avis d'appel. (art. D301)](#209)
+              - [4. : Communication non facturée par le demandeur ou à facturation différée. (art. D304 à D305)](#210)
+              - [6. : Communication avec un véhicule. (art. D307)](#211)
+            - [Paragraphe 4 : Services spéciaux (art. D308 à D316)](#212)
+              - [1. : Service de réception et de traitement d'appels. (art. D308)](#213)
+              - [2. : Service de la réunion-téléphone. (art. D309)](#214)
+              - [3. : Service du "Mémo-Appel". (art. D310)](#215)
+              - [5. : Renseignements. (art. D312)](#216)
+              - [7. : Communications en dehors des heures normales d'ouverture du service. (art. D315)](#217)
+              - [8. : Service des auditions téléphoniques. (art. D316)](#218)
+          - [SECTION 3 : Des abonnements (art. D317 à D355)](#219)
+            - [Paragraphe 1er : Généralités. (art. D317 à D319)](#220)
+            - [Paragraphe 2 : Abonnements principaux permanents (art. D320 à D331)](#221)
+              - [1. : Différentes catégories. (art. D320)](#222)
+              - [2. : Abonnements principaux ordinaires. (art. D321)](#223)
+              - [3. : Abonnements principaux d'extension. (art. D322 à D323)](#224)
+              - [5. : Abonnements spéciaux. (art. D328 à D331)](#225)
+            - [Paragraphe 3 : Abonnements complémentaires. (art. D332)](#226)
+            - [Paragraphe 4 : Abonnements supplémentaires permanents. (art. D333 à D334)](#227)
+            - [Paragraphe 5 : Abonnements temporaires. (art. D336)](#228)
+            - [Paragraphe 6 : Suspension et résiliation des abonnements. (art. D337 à D342)](#229)
+            - [Paragraphe 7 : Modification des conditions de concession d'un abonnement (art. D347 à D355)](#230)
+              - [3. : Transformation des abonnements. (art. D347 à D355)](#231)
+          - [SECTION 4 : Dispositions particulières au service international. (art. D362 à D367)](#232)
+        - [CHAPITRE  V : Services particuliers des communications électroniques (art. D369 à D379)](#233)
+          - [SECTION 2 : Liaisons louées (art. D369 à D379)](#234)
+        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#235)
+      - [TITRE II : Etablissement des lignes (art. D407-1 à D407-3)](#236)
+        - [CHAPITRE Ier : Etablissement des lignes (art. D407-1 à D407-3)](#237)
+          - [SECTION 1 : Dispositions générales. (art. D407-1 à D407-3)](#238)
+      - [TITRE VI : Les services radioélectriques (art. D457 à D487)](#239)
+        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D458)](#240)
+        - [CHAPITRE II : Installations et réseaux radioélectriques indépendants. (art. D459 à D463)](#241)
+        - [CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs. (art. D473)](#242)
+        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#243)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#244)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#245)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#246)
+      - [TITRE II : Mandats. (art. D523 à D548)](#247)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#248)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#249)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#250)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -8614,9 +8615,60 @@ _Cite_:
 
 ### TITRE Ier : Dispositions générales<a id=72></a>
 
-#### Chapitre II : Régime juridique.<a id=73></a>
+#### Chapitre Ier : Définitions et principes.<a id=73></a>
 
-##### SECTION 2 : Services<a id=74></a>
+###### Article R*9
+
+1. On entend par "liaison louée" la mise à disposition par un opérateur d'une capacité de transmission entre des points de
+terminaison déterminés d'un réseau ouvert au public, au profit d'un utilisateur, à l'exclusion de toute commutation contrôlée
+par cet utilisateur.
+
+2. On entend par "spécifications techniques" la définition des caractéristiques requises d'un équipement, telles que les
+niveaux de qualité ou de propriété d'emploi, la sécurité, les dimensions, y compris les prescriptions applicables à
+l'équipement en ce qui concerne la terminologie, les symboles, les essais et méthodes d'essai, l'emballage, le marquage et
+l'étiquetage.
+
+3. On entend par "norme harmonisée" une spécification technique adoptée par un organisme européen de normalisation désigné
+dans le cadre d'un mandat délivré par la Commission européenne, dont l'observation n'est pas obligatoire mais dont le respect
+vaut présomption de conformité aux exigences essentielles. Les références de ces normes sont publiées au Journal officiel des
+Communautés européennes.
+
+4. On entend par "débit d'absorption spécifique" de l'énergie (DAS) le débit avec lequel l'énergie produite par un équipement
+est absorbée par une unité de masse du tissu du corps et exprimée en watts par kilogramme (W/kg), mesuré sur l'ensemble du
+corps ou sur une de ses parties.
+
+5. On entend par "mise sur le marché" l'importation, en vue de leur mise à la consommation, de pays n'appartenant pas à
+l'Espace économique européen, la détention, en vue de la vente, la mise en vente, la distribution à titre gratuit ou onéreux
+d'équipements.
+
+6. On entend par "organisme notifié" un organisme établi dans la Communauté européenne ou dans l'Espace économique européen,
+désigné par un des Etats membres de la Communauté européenne ou par tout autre Etat partie à l'accord instituant l'Espace
+économique européen pour participer à l'évaluation de la conformité aux exigences essentielles des équipements terminaux et
+des équipements radioélectriques, figurant sur la liste des organismes notifiés publiée au Journal officiel des Communautés
+européennes.
+
+7. On entend par "personne responsable" la personne physique ou morale fabricant de l'équipement, ou son mandataire établi
+dans la Communauté européenne ou dans l'Espace économique européen ou, à défaut, le responsable de la mise sur le marché
+communautaire. La "personne responsable" a la personnalité juridique.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 2 () JORF 9 octobre 2003
+
+_Cité par_:
+
+  - Décret n°2010-1207 du 12 octobre 2010 - art. 1 (V)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+#### Chapitre II : Régime juridique.<a id=74></a>
+
+##### SECTION 2 : Services<a id=75></a>
 
 ###### Article R*9-1
 
@@ -8763,7 +8815,7 @@ _Cite_:
   - Code des postes et des communications électroniques L34-3, R9-1, L34-4, R9-2
 
 
-##### SECTION 3 : Procédure et dispositions communes<a id=75></a>
+##### SECTION 3 : Procédure et dispositions communes<a id=76></a>
 
 ###### Article R9-5
 
@@ -9117,7 +9169,7 @@ _Créé par_:
   - Décret n°2001907 2001-10-03 art. 3 JORF 6 octobre 2001
 
 
-##### SECTION 3 bis : Annuaires universels et services universels de renseignements.<a id=76></a>
+##### SECTION 3 bis : Annuaires universels et services universels de renseignements.<a id=77></a>
 
 ###### Article R10
 
@@ -9597,7 +9649,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### SECTION 3 bis : Annuaires universels et services universels de renseignement.<a id=77></a>
+##### SECTION 3 bis : Annuaires universels et services universels de renseignement.<a id=78></a>
 
 ###### Article R11
 
@@ -9633,7 +9685,7 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L78
 
 
-##### SECTION 4 : De l'interconnexion.<a id=78></a>
+##### SECTION 4 : De l'interconnexion.<a id=79></a>
 
 ###### Article R11-1
 
@@ -9839,9 +9891,3150 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R1-2-13 (M)
 
 
-### TITRE VI : Services radioélectriques<a id=79></a>
+##### Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques.<a id=80></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=80></a>
+##### Paragraphe I : Dispositions générales.<a id=81></a>
+
+###### Article R20-1
+
+Pour l'application de la présente section, les exigences essentielles applicables, parmi celles que mentionne le 12° de
+l'article L. 32, sont celles relatives à la santé et à la sécurité des personnes, à la compatibilité électromagnétique et à
+la bonne utilisation du spectre des fréquences radioélectriques, appréciée notamment en fonction de l'utilisation efficace de
+la ressource orbitale.
+
+Sont également applicables, lorsque la Commission européenne a pris une décision en ce sens, les autres exigences mentionnées
+au 3 de l'article 3 de la directive 1999/5/CE du Parlement européen et du Conseil du 9 mars 1999 concernant les équipements
+hertziens et les équipements terminaux de communications électroniques et la reconnaissance mutuelle de leur conformité.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. D133-19-10 (V)
+  - Code des postes et des communications électroni... - art. D406-11 (V)
+  - Code des postes et des communications électroni... - art. R20-13 (M)
+  - Code des postes et des communications électroni... - art. R20-13-1 (V)
+  - Code des postes et des communications électroni... - art. R20-21 (V)
+  - Code des postes et des communications électroni... - art. R20-5 (V)
+  - Code des postes et des communications électroni... - art. R20-6 (V)
+  - Code des postes et des communications électroni... - art. R20-7 (V)
+  - Code des postes et des communications électroni... - art. R20-8 (V)
+  - Code des postes et des communications électroni... - art. R20-9 (V)
+  - Code des postes et des communications électronique - art. D485 (T)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L32 (M)
+  - Directive 99-5 CE 1999-03-09
+
+
+###### Article R20-2
+
+I. - Les normes prévues par les directives 73/23/CEE du Conseil du 19 février 1973 concernant le rapprochement des
+législations des Etats membres relatives au matériel électrique destiné à être employé dans certaines limites de tension et
+89/336/CEE du Conseil du 3 mai 1989 modifiée concernant le rapprochement des législations des Etats membres relatives à la
+compatibilité électromagnétique, dont les références ont été publiées au Journal officiel des Communautés européennes,
+peuvent être utilisées pour présumer respectivement la conformité d'un équipement aux exigences de santé et de sécurité des
+personnes, d'une part, de compatibilité électromagnétique, d'autre part.
+
+II. - Les réglementations techniques communes peuvent être utilisées pour présumer la conformité d'un équipement aux
+exigences essentielles. On entend par réglementations techniques communes les spécifications techniques communautaires
+mettant en oeuvre certaines exigences essentielles adoptées en application des articles 7 et 18 de la directive 98/13/CE du
+Parlement européen et du Conseil concernant les équipements terminaux de communications électroniques et les équipements de
+stations terrestres de communications par satellites, incluant la reconnaissance mutuelle de leur conformité, dont les
+références sont publiées au Journal officiel des Communautés européennes.
+
+**Nota:**
+
+Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et télécommunications
+devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication" et
+"télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D375 (Ab)
+
+_Cite_:
+
+  - Directive 73-23 CEE 1973-02-19
+  - Directive 98-13 CE 1998-02-12 art 7 et 18
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-3
+
+Les dispositions des paragraphes II à VI de la présente section, à l'exception de celles figurant à l'article R. 20-19 et au
+2° du II de l'article R. 20-25, ne s'appliquent pas : 
+
+a) Aux équipements radioélectriques utilisés par des radioamateurs au sens de l'article 1er, définition 53, du règlement des
+radiocommunications de l'Union internationale des télécommunications, non disponibles dans le commerce ; les ensembles de
+pièces détachées à assembler par des radioamateurs, pour leur usage, et les équipements modifiés par eux ne sont pas
+considérés comme des équipements disponibles dans le commerce ; 
+
+b) Aux équipements relevant de la directive 96/98/ CE du Conseil du 20 décembre 1996 relative aux équipements marins ; 
+
+c) Aux fils et câbles ; 
+
+d) Aux équipements radioélectriques destinés à être utilisés exclusivement pour la réception de services de radiodiffusion
+sonore et télévisuelle ; 
+
+e) Aux équipements, produits ou éléments au sens de l'article 2 du règlement (CEE) n° 3922/91 du Conseil du 16 décembre 1991
+relatif à l'harmonisation de règles techniques et de procédures administratives dans le domaine de l'aviation civile ; 
+
+f) Aux équipements et systèmes pour la gestion du trafic aérien au sens de l'article 1er de la directive 93/65/ CEE du
+Conseil du 19 septembre 1993 relatif à la définition et à l'utilisation de spécifications techniques compatibles pour
+l'acquisition d'équipements et de systèmes pour la gestion du trafic aérien ; 
+
+g) Aux équipements utilisés exclusivement dans les activités ayant trait à la défense nationale, à la sécurité publique, à la
+sécurité de l'Etat et aux fonctions de l'Etat dans le domaine du droit pénal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. R20-19 (V)
+  - Code des postes et des communications électroni... - art. R20-25 (V)
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-28 (M)
+
+
+##### Paragraphe II : Evaluation de la conformité des équipements.<a id=82></a>
+
+###### Article R20-4
+
+Sans préjudice des dispositions de l'article R. 20-19, ne peuvent être mis sur le marché, connectés à un réseau ouvert au
+public, mis en service ou utilisés que si leur conformité aux exigences essentielles a été évaluée selon l'une des procédures
+prévues à l'article R. 20-5 et s'ils sont conformes aux dispositions de l'article R. 20-10 les équipements suivants, ainsi
+que leurs composants pertinents : 
+
+1° Equipements terminaux, mentionnés au 10° de l'article L. 32, autres que radioélectriques ; 
+
+2° Equipements radioélectriques mentionnés au 11° de l'article L. 32, quelle que soit leur destination.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. L32 (V)
+  - Code des postes et des communications électroni... - art. R20-10 (V)
+  - Code des postes et des communications électroni... - art. R20-19 (V)
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-17 (M)
+  - Code des postes et des communications électroni... - art. R20-18 (V)
+  - Code des postes et des communications électroni... - art. R20-20 (V)
+  - Code des postes et des communications électroni... - art. R20-21 (V)
+  - Code des postes et des communications électroni... - art. R20-5 (V)
+
+
+###### Article R20-5
+
+I.-La conformité des équipements mentionnés à l'article R. 20-4 est évaluée selon l'une des procédures suivantes : 
+
+a) Pour les équipements mentionnées au 1° de l'article R. 20-4 et pour les éléments récepteurs d'équipements
+radioélectriques, selon une procédure de contrôle interne de la fabrication décrite à l'article R. 20-6 ; 
+
+b) Pour les équipements mentionnés au 2° de l'article R. 20-4, lorsque le fabricant a appliqué les normes harmonisées, une
+procédure de contrôle interne de la fabrication assorti d'essais spécifiques de l'équipement décrite à l'article R. 20-7 ; 
+
+II.-La personne responsable peut en outre choisir d'évaluer la conformité des équipements selon l'une des procédures
+suivantes : 
+
+a) Une procédure d'établissement d'un dossier de construction technique décrite à l'article R. 20-8 ; 
+
+b) Une procédure de certification de la conformité du processus de conception et de fabrication à un système d'assurance de
+qualité complète décrite à l'article R. 20-9.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. L43 (VD)
+  - Code des postes et des communications électroni... - art. R20-10 (V)
+  - Code des postes et des communications électroni... - art. R20-13 (V)
+  - Code des postes et des communications électroni... - art. R20-21 (M)
+  - Code des postes et des communications électroni... - art. R20-25 (V)
+  - Code des postes et des communications électroni... - art. R20-4 (M)
+  - Code des postes et des communications électroni... - art. R20-6 (M)
+  - Code des postes et des communications électroni... - art. R20-7 (M)
+  - Code des postes et des communications électroni... - art. R20-8 (M)
+  - Code des postes et des communications électroni... - art. R20-9 (V)
+
+
+###### Article R20-6
+
+Lorsque la conformité d'un équipement est évaluée selon la procédure prévue au a du I de l'article R. 20-5, la personne
+responsable constitue un dossier d'évaluation qui comporte :
+
+- la documentation technique permettant l'évaluation de la conformité de l'équipement aux exigences essentielles. A cette
+fin, cette documentation décrit les conditions de conception, de fabrication et de fonctionnement de cet équipement ;
+
+- une déclaration de conformité établie sous sa responsabilité. 
+
+La personne responsable s'assure que le fabricant prend les mesures nécessaires pour que le procédé de fabrication assure la
+conformité des équipements à la documentation technique et aux dispositions du présent paragraphe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-20 (V)
+  - Code des postes et des communications électroni... - art. R20-21 (M)
+  - Code des postes et des communications électroni... - art. R20-5 (V)
+  - Code des postes et des communications électroni... - art. R20-7 (M)
+  - Code des postes et des communications électroni... - art. R20-8 (M)
+  - Code des postes et des communications électroni... - art. R20-9-1 (V)
+
+
+###### Article R20-7
+
+Lorsque la conformité d'un équipement est évaluée selon la procédure prévue au b du I de l'article R. 20-5, la personne
+responsable :
+
+- constitue le dossier d'évaluation mentionné à l'article R. 20-6 ;
+
+- effectue ou fait effectuer les " séries d'essais radio essentielles " définies dans les normes harmonisées ou, à défaut,
+fixées par un organisme notifié choisi par la personne responsable ;
+
+- établit une déclaration attestant que les essais ont été effectués ;
+
+- la personne responsable s'assure que le fabricant prend les mesures nécessaires pour que le procédé de fabrication assure
+la conformité des équipements à la documentation technique et aux dispositions du présent paragraphe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-5 (V)
+  - Code des postes et des communications électroni... - art. R20-8 (M)
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. R20-6 (V)
+
+
+###### Article R20-8
+
+Lorsque la conformité d'un équipement est évaluée selon la procédure prévue au a du II de l'article R. 20-5, la personne
+responsable :
+
+- établit un dossier de construction technique qui comporte la documentation technique mentionnée à l'article R. 20-6 et,
+pour les équipements radioélectriques, la déclaration de conformité aux séries d'essais radio établie en application de
+l'article R. 20-7 ;
+
+- soumet ce dossier à un ou plusieurs organismes notifiés et informe chacun d'eux de la saisine des autres organismes. 
+
+Chaque organisme notifié examine le dossier au regard des exigences essentielles mentionnées à l'article R. 20-1. Lorsque le
+respect de ces exigences n'est pas établi, l'organisme peut adresser un avis à la personne responsable, dans un délai de
+quatre semaines à compter de la réception du dossier mentionné au deuxième alinéa. Copie de cet avis est adressé aux autres
+organismes notifiés auxquels le dossier a été soumis. 
+
+L'équipement ne peut être mis sur le marché qu'au terme du délai de quatre semaines mentionné à l'alinéa précédent ou après
+réception, par la personne responsable, de l'avis de l'ensemble des organismes notifiés saisis, sans préjudice de
+l'application des articles R. 20-10 et R. 20-19.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. R20-1 (V)
+  - Code des postes et des communications électroni... - art. R20-10 (V)
+  - Code des postes et des communications électroni... - art. R20-19 (V)
+  - Code des postes et des communications électroni... - art. R20-6 (V)
+  - Code des postes et des communications électroni... - art. R20-7 (V)
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-5 (V)
+
+
+###### Article R20-9
+
+Lorsque la conformité d'un équipement est évaluée selon la procédure prévue au b du II de l'article R. 20-5, la personne
+responsable présente à l'organisme notifié de son choix une demande d'évaluation du système d'assurance de qualité complète
+que le fabricant met en oeuvre pour garantir la conformité de ses produits aux exigences essentielles qui leur sont
+applicables. 
+
+Cette demande comporte les informations appropriées sur les équipements concernés ainsi qu'une documentation complète
+permettant d'apprécier la qualité de la conception, de la fabrication et du contrôle de celle-ci. Lorsque la demande émane du
+mandataire du fabricant, elle comporte également l'accord du fabricant sur le choix de la procédure. 
+
+Après un examen sur pièces et sur place, l'organisme notifié prend une décision motivée d'évaluation qui approuve le système
+d'assurance de qualité complète lorsqu'il estime que ce système garantit la conformité des équipements aux exigences
+essentielles. 
+
+Le fabricant s'engage auprès de l'organisme notifié à remplir les obligations découlant du système d'assurance de qualité
+complète approuvé et à en maintenir l'efficacité. L'organisme notifié procède à des vérifications régulières et peut
+effectuer des visites inopinées chez le fabricant afin de vérifier, notamment au moyen d'essais des équipements, que le
+système d'assurance de qualité est maintenu. Le fabricant autorise l'organisme notifié à accéder, à des fins d'inspection,
+aux lieux de conception, de fabrication, d'inspection, d'essais et de stockage des équipements. L'organisme notifié informe
+le fabricant des conclusions de ses contrôles. 
+
+Le fabricant informe l'organisme notifié de tout projet d'adaptation du système d'assurance qualité complète. Ce dernier fait
+connaître au fabricant s'il y a lieu ou non de procéder à une nouvelle évaluation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-12 (V)
+  - Code des postes et des communications électroni... - art. R20-24 (M)
+  - Code des postes et des communications électroni... - art. R20-5 (M)
+  - Code des postes et des communications électroni... - art. R20-6 (V)
+  - Code des postes et des communications électroni... - art. R20-7 (V)
+
+
+###### Article R20-10
+
+I. - Tout équipement dont la conformité a été évaluée en application des dispositions de l'article R. 20-5 doit faire
+l'objet, préalablement à sa mise sur le marché :
+
+a) D'un marquage indiquant le modèle, lot ou numéro de série, ainsi que l'identité du fabricant ou de la personne
+responsable ;
+
+b) D'un marquage CE lorsque l'équipement est conforme à toutes les exigences essentielles applicables.
+
+Les équipements ayant fait l'objet d'une évaluation de leur conformité en application du II et, le cas échéant, du b du I de
+l'article R. 20-5 doivent en outre comporter le numéro d'identification de l'organisme notifié et, pour les équipements
+radioélectriques, l'identificateur de la catégorie d'équipements qui, le cas échéant, indique l'existence de restrictions ou
+de conditions particulières à l'utilisation de l'équipement dans certains Etats membres de la Communauté européenne.
+
+Ces marquages, apposés sous la responsabilité de la personne responsable, respectent les modèles définis par l'Autorité de
+régulation des télécommunications, en conformité, pour le marquage CE mentionné au b ci-dessus, avec le modèle figurant à
+l'annexe VII de la directive 1999/5/CE du Parlement européen et du Conseil du 9 mars 1999.
+
+II. - Chaque exemplaire de l'équipement mis sur le marché doit être accompagné d'une déclaration de conformité aux exigences
+essentielles et des informations sur l'usage auquel l'équipement est destiné. Ces informations indiquent ou permettent
+d'identifier :
+
+a) Lorsqu'il s'agit d'un équipement radioélectrique, sur l'emballage et la notice d'utilisation, la zone géographique ou les
+Etats membres à l'intérieur desquels l'équipement est destiné à être utilisé et, le cas échéant, l'existence et la nature des
+conditions particulières auxquelles l'utilisation de l'équipement est soumise ;
+
+b) Lorsqu'il s'agit d'un équipement terminal, les réseaux auxquels il est destiné à être connecté ;
+
+c) Lorsque l'équipement est destiné à être utilisé en France, les précautions d'usage de l'équipement au regard, notamment,
+de l'exposition de l'utilisateur au champ électromagnétique et le débit d'absorption spécifique (DAS) mesuré dans la tête
+pour les équipements terminaux radioélectriques.
+
+La déclaration et les informations prévues au II du présent article sont rédigées en langue française. Elles sont conformes
+aux prescriptions fixées par l'Autorité de régulation des télécommunications en application de l'article L. 36-6.
+
+La nature des informations prévues au c ci-dessus est définie par arrêté conjoint du ministre chargé des communications
+électroniques, du ministre chargé de la santé et du ministre chargé de la consommation.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. L43 (VD)
+  - Code des postes et des communications électroni... - art. R20-13 (V)
+  - Code des postes et des communications électroni... - art. R20-17 (V)
+  - Code des postes et des communications électroni... - art. R20-18 (V)
+  - Code des postes et des communications électroni... - art. R20-22 (V)
+  - Code des postes et des communications électroni... - art. R20-25 (V)
+  - Code des postes et des communications électroni... - art. R20-4 (V)
+  - Code des postes et des communications électroni... - art. R20-6 (V)
+  - Code des postes et des communications électroni... - art. R20-7-1 (V)
+  - Code des postes et des communications électroni... - art. R20-8 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L36-6 (M)
+  - Code des postes et des communications électronique - art. R20-5 (M)
+  - Directive 1999-5 CE 1999-03-09
+
+
+###### Article R20-11
+
+Quatre semaines au moins avant la mise sur le marché d'équipements radioélectriques utilisant des bandes de fréquences dont
+l'utilisation n'est pas harmonisée dans l'ensemble de la Communauté européenne, la personne responsable de la mise sur le
+marché en informe l'Agence nationale des fréquences selon des modalités fixées par un arrêté du ministre chargé des
+communications électroniques sur proposition de l'Agence nationale des fréquences. L'Agence nationale des fréquences met à la
+disposition des administrations et autorités affectataires concernées les informations sur cette mise sur le marché.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. L43 (VD)
+  - Code des postes et des communications électroni... - art. R20-25 (V)
+  - Code des postes et des communications électroni... - art. R20-44-11 (V)
+
+
+###### Article R20-12
+
+Les dossiers et la correspondance se rapportant aux procédures visées au présent paragraphe sont rédigés en langue française
+ou dans une langue acceptée par l'organisme notifié saisi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-13 (V)
+  - Code des postes et des communications électroni... - art. R20-13-1 (V)
+  - Code des postes et des communications électroni... - art. R20-9 (V)
+
+
+###### Article R20-13
+
+I.-La conformité aux exigences essentielles relatives à la santé, à la sécurité et à la compatibilité électromagnétique des
+équipements mentionnés aux articles 1er et 2 du décret n° 92-587 du 26 juin 1992 modifié relatif à la compatibilité
+électromagnétique des appareils électriques et électroniques et à l'article 1er du décret n° 95-1081 du 3 octobre 1995
+relatif à la sécurité des personnes, des animaux et des biens lors de l'emploi des matériels électriques destinés à être
+employés dans certaines limites de tension peut être évaluée, au choix de la personne responsable, selon les procédures
+prévues par le présent paragraphe ou selon les procédures prévues par les deux décrets précités. 
+
+II.-Les règles prévues par le présent paragraphe sont applicables à ces équipements pour l'évaluation de leur conformité aux
+règles de bonne utilisation du spectre des fréquences radioélectriques ou lorsque la Commission européenne a étendu
+l'application de certaines exigences essentielles, dans les conditions prévues au deuxième alinéa de l'article R. 20-1.
+
+**Nota:**
+
+Le décret n° 92-587 a été abrogé par l'article 18 du décret n° 2006-1278 du 18 octobre 2006.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°92-587 du 26 juin 1992 - art. 1 (Ab)
+  - Décret n°95-1081 du 3 octobre 1995 - art. 1 (V)
+  - Code des postes et des communications électroni... - art. R20-1 (V)
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+##### Paragraphe III : Compétences de l'Autorité de régulation des télécommunications en matière d'évaluation de conformité.<a id=83></a>
+
+###### Article R20-14
+
+Lorsqu'elle envisage de désigner un organisme notifié, en application du 2° de l'article L. 36-7, l'Autorité de régulation
+des télécommunications s'assure qu'il présente des garanties suffisantes d'indépendance, de compétence et d'impartialité, en
+fonction des critères mentionnés à l'annexe VI de la directive 1999/5/CE du Parlement européen et du Conseil du 9 mars 1999,
+ou qu'ils satisfont aux critères prévus par les normes harmonisées applicables. Elle procède à l'abrogation de la désignation
+des organismes qui ne répondent plus à ces critères. Elle saisit le ministre chargé des communications électroniques en vue
+de la notification à la Commission européenne de ces décisions.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Directive 1999-5 CE 1999-03-09
+  - Code des postes et des communications électronique - art. L36-7 (M)
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Cité par_:
+
+  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+  - Code des postes et des communications électroni... - art. R20-20 (M)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-15
+
+L'Autorité de régulation des télécommunications précise, dans les conditions prévues à l'article L. 36-6, les modalités
+d'application des articles R. 20-6 à R. 20-9, et notamment le contenu de la documentation technique prévue à l'article R.
+20-6.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L36-6 (M)
+  - Code des postes et des communications électroniques L36-6, R20-6 à R20-9
+
+
+###### Article R20-16
+
+Lorsqu'elle constate que les normes harmonisées sont insuffisantes pour assurer le respect des exigences essentielles ou
+excèdent ce qui est nécessaire à cette fin, l'Autorité de régulation des télécommunications demande au ministre chargé des
+communications électroniques de saisir le comité mentionné à l'article 13 de la directive 1999/5/CE du Parlement européen et
+du Conseil du 9 mars 1999.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Directive 1999-5 CE 1999-03-09 art 13
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+##### Paragraphe IV : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats.<a id=84></a>
+
+###### Article R20-17
+
+Les équipements mentionnés à l'article R. 20-4 qui ont fait l'objet d'une évaluation de conformité dans un autre Etat membre
+de la Communauté européenne ou dans un autre Etat partie à l'accord instituant l'Espace économique européen peuvent être mis
+sur le marché dès lors qu'ils sont conformes aux dispositions de l'article R. 20-10.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-18 (M)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R20-10 (M)
+  - Code des postes et des communications électronique - art. R20-4 (M)
+
+
+###### Article R20-18
+
+Lorsqu'un accord entre la Communauté européenne et un Etat non mentionné à l'article R. 20-17 a été conclu à cet effet, les
+équipements mentionnés à l'article R. 20-4 qui ont fait l'objet d'une évaluation de conformité par un organisme compétent de
+cet Etat peuvent être mis sur le marché dès lors qu'ils sont conformes aux dispositions de l'article R. 20-10.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R20-10 (M)
+  - Code des postes et des communications électronique - art. R20-17 (M)
+  - Code des postes et des communications électronique - art. R20-4 (M)
+
+
+##### Paragraphe V : Conditions de mise en service, de raccordement et d'utilisation des équipements.<a id=85></a>
+
+###### Article R20-19
+
+La mise en service des équipements est subordonnée au respect par ces équipements de spécifications techniques :
+
+a) Arrêtées par le ministre chargé des communications électroniques, pour des raisons liées à l'utilisation du spectre
+radioélectrique ou à la nécessité d'éviter des interférences dommageables ou, conjointement avec le ministre chargé de la
+santé, pour des raisons de santé publique ;
+
+b) Fixées, en application du 12° de l'article L. 32, s'agissant des valeurs limites que ne doivent pas dépasser les champs
+électromagnétiques émis par les équipements utilisés dans les réseaux de communications électroniques ou par les
+installations radioélectriques, lorsque le public y est exposé.
+
+Pour les mêmes motifs et dans les mêmes conditions, un équipement peut faire l'objet de restrictions quant aux lieux et aux
+conditions de son utilisation.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. L43 (VD)
+  - Code des postes et des communications électroni... - art. R20-20 (V)
+  - Code des postes et des communications électroni... - art. R20-21 (V)
+  - Code des postes et des communications électroni... - art. R20-3 (V)
+  - Code des postes et des communications électroni... - art. R20-4 (V)
+  - Code des postes et des communications électroni... - art. R20-8 (M)
+  - Code des postes et des communications électronique - art. R20-25 (M)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L32 (M)
+
+
+###### Article R20-20
+
+Les contrôles effectués en vue de rechercher et de constater les infractions aux dispositions des articles R. 20-4, R. 20-6 à
+R. 20-9 et R. 20-19, réalisés par les agents mentionnés aux articles L. 40 et L. 40-1, peuvent donner lieu à prélèvement des
+équipements. En cas de non-conformité d'un équipement, le coût des contrôles est à la charge du contrevenant. 
+
+Le nombre d'exemplaires prélevés doit être limité aux nécessités du contrôle. Les prélèvements réalisés par les agents
+mentionnés à l'article L. 40 sont effectués dans les conditions prévues aux articles R. 215-5, R. 215-6, R. 215-8 et R. 215-9
+du code de la consommation. Un exemplaire est laissé au propriétaire ou détenteur du produit. Si celui-ci refuse de conserver
+cet exemplaire en dépôt, ce refus est mentionné au procès-verbal du contrôle. 
+
+Les essais sont effectués par un laboratoire désigné par le ministre chargé des communications électroniques. Les critères de
+désignation sont ceux prévus à l'article R. 20-14.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Modifié par_:
+
+  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+_Cite_:
+
+  - Code de la consommation - art. R215-5 (V)
+  - Code de la consommation - art. R215-8 (V)
+  - Code des postes et des communications électroni... - art. L40 (V)
+  - Code des postes et des communications électroni... - art. R20-14 (V)
+  - Code des postes et des communications électroni... - art. R20-19 (V)
+  - Code des postes et des communications électroni... - art. R20-4 (V)
+  - Code des postes et des communications électroni... - art. R20-6 (V)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-21
+
+I. - Lorsqu'un équipement n'est pas conforme aux exigences essentielles qui lui sont applicables ou aux dispositions des
+articles R. 20-4, R. 20-6 à R. 20-10 et R. 20-19, le ministre chargé des communications électroniques prend un arrêté
+restreignant la liberté de circulation, interdisant la mise sur le marché ou la mise en service de l'équipement ou le
+retirant du marché ou du service.
+
+II. - Lorsque l'Agence nationale des fréquences constate qu'un équipement radioélectrique, mentionné au 2° de l'article R.
+20-4, ayant fait l'objet d'une des procédures d'évaluation de conformité mentionnées à l'article R. 20-5 et qui remplit les
+conditions fixées à l'article R. 20-10, a provoqué ou est susceptible de provoquer des perturbations radioélectriques, elle
+en informe le ministre chargé des communications électroniques, qui peut, par arrêté, restreindre ou interdire la mise sur le
+marché de cet équipement ou de ce type d'équipement ou exiger son retrait du marché.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. L43 (VD)
+  - Code des postes et des communications électronique - art. R20-25 (M)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R20-19 (M)
+  - Code des postes et des communications électronique - art. R20-4 (M)
+  - Code des postes et des communications électronique - art. R20-5 (M)
+  - Code des postes et des communications électroniques R20-4, R20-6 à R20-10, R20-19, R20-5
+
+
+###### Article R20-22
+
+L'exploitant d'un réseau ouvert au public ne peut s'opposer au raccordement à son réseau des équipements terminaux conformes
+aux dispositions de l'article R. 20-10 et destinés à un usage adapté aux caractéristiques de son réseau.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. R20-10 (V)
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D375 (Ab)
+
+
+###### Article R20-23
+
+Lorsqu'un équipement conforme aux dispositions de la présente section et connecté à un réseau ouvert au public occasionne un
+dommage grave à un réseau ou des perturbations radioélectriques, ou une atteinte au réseau ou à son fonctionnement,
+l'Autorité de régulation des télécommunications peut autoriser l'exploitant du réseau à refuser la connexion de l'équipement,
+à le déconnecter ou à le retirer du service. Elle en informe sans délai le ministre chargé des communications électroniques.
+
+Pour préserver l'intégrité du réseau et le bon fonctionnement des services, l'Autorité de régulation des télécommunications
+peut adresser une mise en demeure à l'utilisateur de l'équipement en l'invitant à prendre toutes mesures pour mettre fin aux
+perturbations dans un délai déterminé.
+
+Si, à l'expiration de ce délai, l'utilisateur ne s'est pas conformé à la mise en demeure, l'Autorité de régulation des
+télécommunications demande à l'exploitant du réseau de suspendre la fourniture du service qu'utilise l'équipement à l'origine
+des perturbations.
+
+En cas d'urgence, et à condition qu'une solution de rechange soit offerte sans délai à l'utilisateur et sans frais pour ce
+dernier, l'exploitant peut déconnecter un équipement lorsque la protection du réseau rend nécessaire cette déconnexion.
+L'exploitant en informe sans délai l'Autorité de régulation des télécommunications.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-24
+
+Lorsque les contrôles opérés par l'organisme notifié en application de l'avant-dernier alinéa de l'article R. 20-9 font
+apparaître que le système d'assurance de qualité ne garantit plus le respect des exigences essentielles, la décision
+d'approbation du système est suspendue par l'organisme notifié. Cette décision est motivée et notifiée à l'intéressé, qui est
+invité à prendre les mesures de mise en conformité des équipements existants jugées nécessaires dans un délai qui ne peut
+être inférieur à trente jours. 
+
+S'il n'est pas satisfait à cette demande dans le délai fixé, l'organisme notifié peut abroger la décision d'approbation du
+système par une décision motivée, notifiée à l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. R20-9 (V)
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. R20-30 (M)
+
+
+###### Article R20-24-1
+
+Les organisations professionnelles représentant les installateurs en communications électroniques et en radiocommunications
+peuvent gérer une liste d'identification desdits installateurs et délivrer un numéro d'identification aux entreprises qui
+s'inscrivent sur une telle liste. Ces entreprises peuvent produire ce numéro d'identification à leurs clients, lorsqu'elles
+procèdent au raccordement et à la mise en service d'installations et équipements de communications électroniques ou de
+radiocommunications, en vue de faciliter la traçabilité de leur intervention.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+##### Paragraphe VI : Dispositions pénales.<a id=86></a>
+
+###### Article R20-25
+
+I. - Est puni de la peine d'amende prévue pour les contraventions de la quatrième classe le fait de connecter à un réseau
+ouvert au public un équipement terminal non conforme aux dispositions de l'article R. 20-10 ou de l'article R. 20-19 ou en
+infraction avec les mesures prises en application de l'article R. 20-21.
+
+II. - Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe :
+
+1° Le fait de mettre sur le marché et de mettre en service un équipement n'ayant pas fait l'objet d'une des procédures
+d'évaluation de conformité mentionnées à l'article R. 20-5 ou non conforme aux exigences essentielles, aux dispositions de
+l'article R. 20-10 ou en infraction avec les dispositions de l'article R. 20-11 ou avec les mesures prises en application de
+l'article R. 20-21 ;
+
+2° Le fait de mettre en service un équipement non conforme aux dispositions de l'article R. 20-19 ;
+
+3° Le fait d'effectuer ou de faire effectuer une publicité portant sur un équipement n'ayant pas fait l'objet d'une des
+procédures d'évaluation de conformité mentionnées à l'article R. 20-5 ou non conforme aux exigences essentielles, aux
+dispositions de l'article R. 20-10 ou en infraction avec les dispositions de l'article R. 20-21.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-26 (V)
+  - Code des postes et des communications électroni... - art. R20-27 (V)
+  - Code des postes et des communications électroni... - art. R20-3 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R20-10 (M)
+  - Code des postes et des communications électronique - art. R20-11 (M)
+  - Code des postes et des communications électronique - art. R20-19 (M)
+  - Code des postes et des communications électronique - art. R20-21 (M)
+  - Code des postes et des communications électronique - art. R20-5 (M)
+
+
+###### Article R20-26
+
+Les personnes coupables des contraventions prévues au I et aux 1° et 2° du II de l'article R. 20-25 encourent également la
+peine complémentaire de confiscation des équipements qui ont servi à commettre l'infraction, suivant les modalités prévues
+par l'article 131-21 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Cite_:
+
+  - Code pénal - art. 131-21 (V)
+  - Code des postes et des communications électroni... - art. R20-25 (V)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. R20-30-1 (M)
+
+
+###### Article R20-27
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
+pénal, des contraventions définies à l'article R. 20-25.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-41 du code pénal ;
+
+2° La confiscation des équipements, dans les cas prévus au I et aux 1° et 2° du II de l'article R. 20-25.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Modifié par_:
+
+  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+_Cite_:
+
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-41 (V)
+  - Code des postes et des communications électronique - art. R20-25 (M)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. R20-30-1 (M)
+
+
+##### Paragraphe VII : Equipements utilisés dans certaines activités de l'Etat.<a id=87></a>
+
+###### Article R20-28
+
+Les ministres intéressés, chacun pour ce qui le concerne, s'assurent que les équipements mentionnés au g de l'article R. 20-3
+et utilisés par les services placés sous leur autorité respectent les exigences essentielles relatives à la santé, à la
+sécurité, à la compatibilité électromagnétique et à la bonne utilisation du spectre radioélectrique.
+
+Les mesures prises par chaque ministre pour la protection du spectre radioélectrique sont communiquées au ministre chargé des
+communications électroniques et à l'Agence nationale des fréquences.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R20-3 (M)
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. R20-30-1 (M)
+
+
+#### CHAPITRE III : Service public des communications électroniques<a id=88></a>
+
+##### SECTION 1 : Dispositions particulières.<a id=89></a>
+
+###### Article R20-30
+
+Un régime forfaitaire est applicable aux abonnements téléphoniques souscrits :
+
+Par les questures de l'Assemblée nationale et du Sénat pour le compte des services et des membres de ces assemblées ;
+
+Par les ministres et les secrétaires d'Etat.
+
+Ce régime donne aux bénéficiaires, contre paiement de la redevance d'abonnement applicable aux abonnements principaux
+ordinaires, le droit à l'exonération des taxes afférentes à l'utilisation du poste jusqu'à concurrence de :
+
+Pour les postes installés dans la circonscription de taxe téléphonique de Paris, 250 taxes de base par mois ;
+
+Pour les postes installés dans la première zone de taxation périphérique de la circonscription de taxe téléphonique de Paris,
+275 taxes de base par mois ;
+
+Pour les postes installés dans la deuxième zone de taxation périphérique de la circonscription de taxe téléphonique de Paris,
+350 taxes de base par mois ;
+
+Pour les autres postes, selon la distance à vol d'oiseau entre Paris et le chef-lieu du département où ils sont installés :
+
+De 25 à 50 kilomètres : 375 taxes de base par mois ;
+
+De 50 à 100 kilomètres : 450 taxes de base par mois ;
+
+De 100 à 200 kilomètres : 550 taxes de base par mois ;
+
+Plus de 200 kilomètres : 625 taxes de base par mois.
+
+Ledit régime est applicable, au choix de chaque membre des assemblées, de chaque ministre ou secrétaire d'Etat, au poste
+téléphonique installé à sa résidence de Paris, d'un département de la métropole ou d'un département d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Cité par_:
+
+  - Arrêté du 18 novembre 2009 (V)
+  - Code des postes et des communications électroni... - art. R20-30-1 (V)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R20-24 (M)
+
+_Anciens textes_:
+
+  - Code des postes et télécommunications R12
+
+
+###### Article R20-30-1
+
+Lorsque l'exploitant public estime que la mise en permanence de jour et de nuit d'un poste téléphonique d'abonnement à la
+disposition du public, dans des conditions préalablement fixées, présente un caractère d'intérêt général, il peut accorder
+aux titulaires de ce poste une réduction de 50 p. 100 sur le montant de la redevance annuelle d'abonnement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-34 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R20-26 (M)
+  - Code des postes et des communications électronique - art. R20-27 (M)
+  - Code des postes et des communications électronique - art. R20-28 (M)
+
+_Anciens textes_:
+
+  - Code des postes et télécommunications R14
+
+
+##### SECTION 2 : Financement du service universel des communications électroniques.<a id=90></a>
+
+###### Article R20-31
+
+Les coûts imputables aux obligations de service universel et faisant l'objet d'une compensation sont composés :
+
+a) Du coût net des obligations tarifaires correspondant aux obligations de péréquation géographique mentionnées au 1° du II
+de l'article L. 35-3, évalué selon la méthode définie à l'article R. 20-33 ;
+
+b) Des coûts nets de l'offre et des obligations mentionnées au deuxième alinéa du 2° du II de l'article L. 35-3. Ces coûts
+sont évalués selon les méthodes définies aux articles R. 20-34, R. 20-35 et R. 20-36.
+
+L'évaluation de ces coûts comprend la rémunération du capital utilisé au titre du service universel, calculée selon la
+méthode définie à l'article R. 20-37. Elle prend en compte, dans les conditions fixées à l'article R. 20-37-1, l'avantage sur
+le marché que les opérateurs retirent, le cas échéant, des obligations de service universel.
+
+L'obligation mentionnée à l'article L. 35-1, alinéa 1, d'acheminer gratuitement les appels d'urgence ne fait pas l'objet
+d'une compensation, l'ensemble des fournisseurs de services téléphoniques au public y étant soumis.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Cité par_:
+
+  - Décret n°2004-408 du 13 mai 2004 - art. 1 (V)
+  - Décret n°2007-563 du 16 avril 2007 - art. 1 (V)
+  - Arrêté du 18 novembre 2009 - art. Annexe (V)
+  - Arrêté du 14 février 2012 - art. (V)
+  - Arrêté du 6 décembre 2012 - art. (V)
+  - Arrêté du 31 octobre 2013 - art. (V)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L35-1 (M)
+  - Code des postes et des communications électronique - art. L35-3 (M)
+  - Code des postes et des communications électronique - art. R20-33 (M)
+  - Code des postes et des communications électronique - art. R20-34 (M)
+  - Code des postes et des communications électronique - art. R20-35 (M)
+  - Code des postes et des communications électronique - art. R20-36 (M)
+  - Code des postes et des communications électronique - art. R20-37 (M)
+  - Code des postes et des communications électronique - art. R20-37-1 (M)
+
+
+###### Article R20-33
+
+I. - Le coût net des obligations tarifaires correspondant aux obligations de péréquation géographique est la somme, d'une
+part, des coûts nets pertinents dans les zones non rentables, c'est-à-dire les zones qui, en raison des coûts élevés de
+fonctionnement et d'investissement du réseau local et de l'obligation de fournir à tous un service téléphonique de qualité à
+un prix abordable, ne seraient pas desservies par un opérateur agissant dans les conditions du marché et, d'autre part, des
+coûts nets pertinents des abonnés situés dans les zones rentables qui, en raison des coûts élevés d'investissement et de
+fonctionnement des lignes de ces abonnés et de l'obligation de fournir à tous un service téléphonique de qualité à un prix
+abordable, ne seraient pas desservies par un opérateur agissant dans les conditions du marché.
+
+La dimension des zones est fondée sur l'organisation technique du réseau téléphonique de l'opérateur de service universel et
+prend en compte les décisions d'investissement et l'activité commerciale d'un opérateur qui ne serait pas soumis aux
+obligations de service universel. Les zones retenues ont une taille au plus égale à celle des zones de répartition locale au
+sein desquelles elles sont définies.
+
+II. - Le coût net pertinent dans chacune des zones non rentables est égal au solde des recettes qui seraient perdues par
+l'opérateur et des coûts d'investissement et de fonctionnement qui ne seraient pas encourus par l'opérateur, si la zone
+n'était pas desservie, évalués à partir de la comptabilité analytique des recettes et des dépenses auditée dans les
+conditions prévues au I de l'article L. 35-3. Ce solde prend en compte les bénéfices mentionnés aux a, b et c de l'article R.
+20-37-1.
+
+Les recettes pertinentes comprennent les recettes fixes du réseau, les recettes tirées des communications sur le réseau
+téléphonique émises ou reçues par les abonnés de la zone et l'ensemble des recettes indirectes tirées des communications
+émises ou reçues par les abonnés de la zone, notamment les recettes des services facturés entièrement ou partiellement à
+l'appelé ainsi que les recettes résultant de la faculté de ne pas figurer sur les listes publiées d'abonnés ou d'utilisateurs
+prévue à l'article L. 33-4.
+
+Les coûts pertinents d'investissements et de fonctionnement comprennent, d'une part, les coûts de desserte et de gestion des
+abonnés de la zone considérée et, d'autre part, les coûts de réseau de commutation et de transmission correspondant à
+l'écoulement du trafic entrant et sortant relatif à cette zone. Les coûts d'investissement sont fondés sur les coûts de
+remplacement calculés sur la base des meilleures technologies industriellement disponibles.
+
+III. - Le coût net pertinent des abonnés situés dans les zones rentables qui ne seraient pas desservies par un opérateur
+agissant dans les conditions du marché est évalué en utilisant la même méthode que celle décrite au II.
+
+IV. - L'Autorité de régulation des télécommunications précise et publie les règles d'imputation comptable des coûts et des
+recettes nécessaires aux calculs prévus au II et au III et contrôle les modèles utilisés pour évaluer les coûts nets, et
+délimiter les zones considérées.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Cité par_:
+
+  - Décret n°2007-563 du 16 avril 2007 - art. 1 (V)
+  - Code des postes et des communications électroni... - art. R20-31 (V)
+  - Code des postes et des communications électroni... - art. R20-37 (V)
+  - Code des postes et des communications électroni... - art. R20-40 (V)
+  - Code des postes et des communications électronique - art. R20-39 (M)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L33-4 (M)
+  - Code des postes et des communications électronique - art. L35-3 (M)
+  - Code des postes et des communications électronique - art. R20-37-1 (M)
+
+
+###### Article R20-34
+
+I. - Les personnes physiques qui ont droit au revenu minimum d'insertion ou qui perçoivent l'allocation de solidarité
+spécifique ou l'allocation aux adultes handicapés et qui ont souscrit un abonnement au service téléphonique fixe auprès de
+l'opérateur qui les dessert, autorisé selon les conditions fixées au III, bénéficient, sur leur demande, d'une réduction de
+leur facture téléphonique. A cette fin, l'organisme gestionnaire de la prestation au titre de laquelle le droit à réduction
+tarifaire est ouvert leur délivre chaque année une attestation. L'intéressé transmet ladite attestation accompagnée du nom de
+l'opérateur qui le dessert et du numéro de sa ligne téléphonique au prestataire, chargé par les opérateurs de la gestion du
+dispositif de réduction tarifaire, et autorise ce prestataire à communiquer les informations suivantes aux opérateurs
+concernés : nom, prénom, adresse et numéro de téléphone.
+
+Peuvent également bénéficier de cette même réduction, majorée de 4 euros hors taxes par mois, les invalides de guerre
+cumulant le bénéfice des articles L. 16 et L. 18 du code des pensions militaires d'invalidité et des victimes de la guerre
+dont les invalidités supplémentaires sont évaluées à 10 % pour le calcul du complément de pension prévu à l'article L. 16
+dudit code, les aveugles de guerre bénéficiaires de l'article L. 18 du code précité et les aveugles de la Résistance
+bénéficiaires de l'article L. 189 du même code.
+
+Le ministre chargé des communications électroniques fixe au 1er novembre de chaque année pour l'année suivante, par arrêté,
+pris après avis de l'Autorité de régulation des télécommunications, le montant mensuel de la réduction tarifaire accordée.
+
+Le montant de la compensation versée à chaque opérateur par le fonds de service universel des communications électroniques
+est égal au coût net de l'offre tarifaire auquel s'ajoutent les coûts de gestion exposés par les organismes gestionnaires et
+par le prestataire chargé de la gestion du dispositif de réduction tarifaire pour le compte des opérateurs. Le coût net de
+l'offre tarifaire est égal au produit du montant des réductions tarifaires accordées par le nombre des abonnés de l'opérateur
+qui en bénéficient.
+
+II. - Les personnes physiques utilisant, au lieu de leur résidence principale, un service téléphonique fixe d'un opérateur
+autorisé selon les conditions fixées au III peuvent demander une aide pour assurer le paiement de leur dette téléphonique.
+Les dépenses prises en charge comprennent exclusivement l'abonnement au service téléphonique fixe et les communications
+nationales vers des abonnés au service téléphonique fixe ou mobile, à l'exclusion des communications mettant en oeuvre des
+mécanismes de reversement au destinataire final de la communication.
+
+La décision de prise en charge de tout ou partie des dépenses mentionnées à l'alinéa précédent est prise par le préfet du
+département dans lequel est située la résidence principale du demandeur, après avis d'une commission. Cette commission, dont
+la composition est fixée par arrêté préfectoral, est présidée par le préfet et comprend notamment des représentants des
+services de l'Etat concernés, des organismes de protection sociale et des opérateurs de communications électroniques.
+
+La demande de prise en charge de la dette téléphonique doit être adressée au secrétariat de la commission au plus tard trente
+jours après que l'opérateur a mis en demeure l'abonné de s'acquitter de celle-ci. Le secrétariat de la commission informe
+l'opérateur de cette saisine dans un délai de huit jours à compter de la réception de la demande. Le préfet statue sur la
+demande au plus tard soixante jours après que le secrétariat de la commission a été saisi, en prenant notamment en compte le
+niveau de revenu, la situation sociale et familiale du demandeur et les justifications apportées à l'appui de la demande. La
+décision est notifiée au demandeur et à l'opérateur concerné.
+
+Les personnes qui saisissent le secrétariat de la commission mentionnée à l'alinéa précédent bénéficient, à partir du moment
+où ce secrétariat a avisé l'opérateur, d'un accès restreint au service téléphonique, comportant la possibilité de recevoir
+des appels ainsi que d'acheminer les appels aux services gratuits et d'urgence. L'obligation d'assurer cet accès restreint
+cesse après que le préfet a statué sur la demande et, au plus tard, quatre-vingt dix jours après la date de réception par
+l'abonné de la mise en demeure de payer mentionnée au précédent alinéa.
+
+Un arrêté du ministre chargé des communications électroniques fixe, dans chaque département, en tenant compte de la
+population et du nombre de bénéficiaires du revenu minimum d'insertion de ce département, le montant des crédits disponibles
+pour la prise en charge des dettes téléphoniques. Le montant total des aides est au plus égal à 0,15 % du chiffre d'affaires
+du service téléphonique au public.
+
+Le fonds de service universel des communications électroniques assure la compensation, au profit de chaque opérateur, des
+dettes téléphoniques prises en charge. Le préfet constate trimestriellement, pour chacun des opérateurs concernés, le montant
+de ces dettes. Il communique à chaque opérateur le montant qui le concerne et à l'Autorité de régulation des
+télécommunications l'ensemble des montants constatés.
+
+III. - Les opérateurs qui souhaitent offrir à leurs clients la possibilité de bénéficier des dispositions du I ou du II
+transmettent leur demande simultanément au ministre chargé des communications électroniques et à l'Autorité de régulation des
+télécommunications. Le ministre se prononce dans un délai de deux mois suivant la réception de la demande, après avis de
+l'Autorité de régulation des télécommunications. Si l'Autorité de régulation des télécommunications ne se prononce pas dans
+le délai d'un mois à compter de la réception de la demande, son avis est réputé positif. A défaut de réponse du ministre dans
+le délai de deux mois, la demande est considérée comme acceptée.
+
+Le montant total des aides accordées au titre du I et du II ainsi que des frais de gestion considérés au I est au plus égal à
+0,8 % du chiffre d'affaires du service téléphonique au public.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Cité par_:
+
+  - Arrêté du 19 février 2010 - art. 1 (V)
+  - Arrêté du 31 octobre 2013 - art. (V)
+  - Code des postes et des communications électroni... - art. R20-30-1 (V)
+  - Code des postes et des communications électroni... - art. R20-40 (V)
+  - Code des postes et des communications électronique - art. R20-31 (M)
+  - Code des postes et des communications électronique - art. R20-36 (M)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L16 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L18 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L189 (V)
+
+
+###### Article R20-35
+
+Lorsque les obligations relatives à la publiphonie définies dans le cahier des charges de l'opérateur chargé du service
+universel sont satisfaites, le coût net de l'obligation d'assurer la desserte du territoire en cabines téléphoniques
+installées sur le domaine public est évalué pour chaque commune du territoire par la différence entre, d'une part, les coûts
+supportés par l'opérateur pour l'installation et l'entretien de ses cabines installées dans cette commune et pour le trafic
+émis et reçu par ces cabines et, d'autre part, les recettes générées directement et indirectement par ces cabines. Lorsque
+ces recettes sont supérieures aux coûts, ou lorsque le nombre de cabines installées sur le domaine public dans la commune est
+supérieur au nombre de cabines tel que résultant des obligations de service universel, aucune compensation n'est due.
+
+L'opérateur de service universel fournit à l'Autorité de régulation des télécommunications les éléments permettant de
+réaliser l'évaluation décrite à l'alinéa précédent.
+
+Les recettes prises en compte dans ce calcul comprennent en particulier une affectation aux cabines des recettes suivantes :
+
+vente de cartes téléphoniques prépayées, publicité sur les cabines publiques et les cartes téléphoniques prépayées ainsi que
+les recettes générées par les autres cartes utilisables dans les cabines téléphoniques. Cette affectation est faite au
+prorata du trafic des cabines.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-31 (M)
+  - Code des postes et des communications électroni... - art. R20-37 (V)
+
+
+###### Article R20-36
+
+Le coût net des obligations correspondant à la fourniture du service universel de renseignements et de l'annuaire universel
+d'abonnés sous formes imprimée et électronique fourni par l'opérateur en charge du service universel est égal à la différence
+des coûts et des recettes imputables à ces obligations.
+
+Les coûts pris en compte concernent : les coûts d'achat des listes d'abonnés tels que prévus à l'article L. 33-4, les coûts
+directement affectables à l'édition, à l'impression et à la distribution des annuaires, ainsi que les coûts directement
+entraînés par la fourniture d'un service de renseignements et d'annuaire universel sous forme électronique, notamment les
+coûts relatifs aux centres de renseignements, aux équipements dédiés au service d'annuaire électronique, à l'accès au réseau
+téléphonique.
+
+Les recettes prises en compte concernent : les recettes tirées de la vente et de la publicité dans les annuaires imprimés, y
+compris la publicité pour les produits d'un opérateur en charge du service universel ; les recettes tirées des services de
+renseignements et d'annuaire électronique, y compris la publicité ; les recettes nettes résultant du trafic induit par la
+consultation des services d'annuaires et de renseignements ; les recettes nettes des produits dérivés, notamment celles
+provenant des ventes de fichiers.
+
+Lorsque les recettes sont supérieures aux coûts, aucune compensation n'est due.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Cité par_:
+
+  - Décret n°2007-563 du 16 avril 2007 - art. 1 (V)
+  - Code des postes et des communications électroni... - art. R20-31 (V)
+  - Code des postes et des communications électronique - art. R20-37 (M)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L33-4 (M)
+
+
+###### Article R20-37
+
+Pour évaluer les coûts mentionnés aux articles R. 20-33, R. 20-35 et R. 20-36, le taux de rémunération du capital utilisé est
+fixé par arrêté du ministre chargé des communications électroniques sur proposition de l'Autorité de régulation des
+télécommunications, en tenant compte du coût moyen pondéré des capitaux permanents pour l'opérateur chargé du service
+universel et de celui que supporterait un investisseur dans les activités de communications électroniques en France.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-31 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R20-33 (M)
+  - Code des postes et des communications électronique - art. R20-35 (M)
+  - Code des postes et des communications électronique - art. R20-36 (M)
+
+
+###### Article R20-37-1
+
+L'avantage mentionné au I de l'article L. 35-3 que retirent, le cas échéant, les opérateurs des obligations de service
+universel qui leur incombent comprend :
+
+a) Le bénéfice technique et commercial résultant de l'étendue du réseau, par rapport à un opérateur agissant dans les
+conditions du marché, pour le raccordement de nouveaux abonnés ;
+
+b) Le bénéfice lié à l'amélioration dans le temps des capacités économiques d'abonnés bénéficiant du service universel ;
+
+c) Le bénéfice tiré de l'exploitation des données relatives aux abonnés, pour la connaissance du marché ;
+
+d) Le bénéfice tiré de l'image de marque associée à la position d'opérateur de service universel.
+
+L'avantage mentionné au d du présent article est réparti entre les composantes de coûts mentionnés aux articles R. 20-33 à R.
+20-36, au prorata du coût net de ces composantes.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Cité par_:
+
+  - Décret n°2007-563 du 16 avril 2007 - art. 1 (V)
+  - Décret n°2007-563 du 16 avril 2007 - art. 2 (V)
+  - Code des postes et des communications électroni... - art. R20-31 (V)
+  - Code des postes et des communications électronique - art. R20-33 (M)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L35-3 (M)
+  - Code des postes et des communications électroniques L35-3, R20-33 à R20-36
+
+
+###### Article R20-39
+
+Les opérateurs qui contribuent au fonds de service universel créé par l'article L. 35-3 sont les exploitants de réseaux
+ouverts au public et les fournisseurs de services téléphoniques au public. La contribution de chaque opérateur est calculée
+au prorata de son volume de trafic. Pour chaque opérateur, le trafic considéré est égal à la somme des trafics au départ et à
+l'arrivée de tous les terminaux connectés à ses réseaux ouverts au public. La contribution mentionnée à l'article R. 20-33
+est calculée au prorata du trafic téléphonique.
+
+Est porté au crédit du compte d'un opérateur donné le coût net éventuel relatif aux prestations de service universel rendues
+par cet opérateur.
+
+Est portée au débit du compte d'un opérateur donné la part des coûts nets relatifs aux prestations de service universel due
+par cet opérateur ainsi que sa part des frais de gestion de la Caisse des dépôts et consignations mentionnés au deuxième
+alinéa de l'article R. 20-42.
+
+Si, pour la dernière année pour laquelle ce solde a été constaté, le solde définitif d'un opérateur est débiteur, cet
+opérateur verse une contribution provisionnelle du montant correspondant au fonds. Si ce solde est créditeur, le fonds lui
+verse le montant correspondant dans les conditions prévues à l'article R. 20-42. Le cas échéant, les montants sont augmentés
+ou diminués des montants résultant de l'application de l'alinéa suivant. Les versements des opérateurs sont effectués au
+cours de l'année considérée, en deux versements d'un montant égal à la moitié des sommes dues, le 15 janvier et le 15
+septembre.
+
+Si un nouvel opérateur fournit le service universel, l'Autorité de régulation des télécommunications évalue le coût
+prévisionnel de ce service à partir d'informations concernant l'année précédant l'année de fourniture du service,
+communiquées par le nouvel opérateur, au plus tard le 31 octobre de l'année précédant l'année en cause.
+
+L'Autorité de régulation des télécommunications notifie le montant des contributions provisionnelles à la Caisse des dépôts
+et consignations et à chaque opérateur au plus tard le 15 décembre de l'année précédant l'année considérée. La Caisse des
+dépôts et consignations traite ces informations de manière confidentielle.
+
+Les soldes définitifs relatifs à l'année considérée sont constatés et rendus publics par le ministre chargé des
+communications électroniques au plus tard le 31 mai de la deuxième année suivant l'année considérée sur proposition de
+l'Autorité de régulation des télécommunications, exprimée au plus tard le 30 avril de la deuxième année suivant l'année
+considérée. L'Autorité de régulation des télécommunications notifie ces valeurs à chaque opérateur et à la Caisse des dépôts
+et consignations au plus tard le 30 juin de la deuxième année suivant l'année considérée. Elle évalue ces soldes notamment
+sur la base des résultats de la comptabilité auditée des opérateurs relative à l'année considérée, mentionnée au I de
+l'article L. 35-3, et des volumes constatés pour cette même année. Les versements de la régulation des contributions
+interviennent au plus tard le 20 septembre de la deuxième année suivant l'année considérée. Ceux-ci comprennent le versement
+d'un intérêt au taux de l'Euribor 12 mois qui court des dates d'échéance à la date de régularisation.
+
+En cas de défaillance d'un opérateur, et si les sommes dues par cet opérateur ne sont pas recouvrées dans un délai d'un an à
+compter de la défaillance telle que mentionnée à l'article R. 20-43, elles sont imputées lors de l'exercice suivant cette
+constatation sur les comptes des autres opérateurs au prorata de la part de chacun calculée de la manière décrite ci-dessus
+et payées en même temps que le solde définitif suivant.
+
+Les reversements du fonds aux opérateurs créditeurs sont effectués selon les modalités prévues à l'article R. 20-42.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 19 décembre 1997 - art. ANNEXE (V)
+  - Arrêté du 23 décembre 2010 - art. (V)
+  - Décret n°2016-1870 du 26 décembre 2016 - art. 6 (V)
+  - Code des postes et des communications électroni... - art. R20-40 (V)
+  - Code des postes et des communications électroni... - art. R20-42 (V)
+
+_Modifié par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L35-3 (M)
+  - Code des postes et des communications électronique - art. R20-33 (M)
+  - Code des postes et des communications électronique - art. R20-43 (M)
+
+
+###### Article R20-40
+
+Les opérateurs soumis à des obligations de service universel adressent des données constatées relatives aux tarifs et aux
+conditions d'offre concernant l'année considérée au ministre chargé des communications électroniques et à l'Autorité de
+régulation des télécommunications au plus tard le 15 juillet de l'année suivant l'année considérée.
+
+L'opérateur chargé du service universel fournit ses données constatées portant notamment sur les coûts, les recettes, les
+volumes de trafic et le nombre d'abonnés, notamment ceux bénéficiant des dispositions de l'article R. 20-34.
+
+Les autres opérateurs mentionnés aux articles L. 33-1 et L. 34-1 fournissent leurs données constatées de volume de trafic.
+Ceux d'entre eux qui appliquent les dispositions de l'article R. 20-34 précisent le nombre d'abonnés correspondants.
+
+L'Autorité de régulation des télécommunications évalue chaque année les coûts, les bénéfices et le taux de rémunération du
+capital mentionnés aux articles R. 20-33 à R. 20-37-1 ; elle publie les règles employées pour l'application des méthodes
+mentionnées dans ces articles ainsi que pour celles de l'article R. 20-39.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L33-1 (M)
+  - Code des postes et des communications électronique - art. L34-1 (M)
+  - Code des postes et des communications électronique - art. R20-34 (M)
+  - Code des postes et des communications électronique - art. R20-39 (M)
+  - Code des postes et des communications électroniques R20-34, L33-1, L34-1, R20-33 à R20-37-1, R20-39
+
+
+###### Article R20-41
+
+La Caisse des dépôts et consignations assure la gestion comptable et financière du fonds de service universel créé au 2° du
+II de l'article L. 35-3, dans un compte spécifique créé à cet effet. Elle est chargée :
+
+1° D'effectuer les opérations de recouvrement et de reversement afférent à chacun des opérateurs et de tenir pour chaque
+année la comptabilité les retraçant ;
+
+2° De constater les retards de paiement ou les défaillances des opérateurs et d'engager éventuellement les actions
+contentieuses nécessaires aux recouvrements ;
+
+3° D'informer l'Autorité de régulation des télécommunications des retards de paiement, des défaillances et de l'évolution des
+procédures contentieuses engagées ; elle lui adresse en outre un rapport annuel d'exécution sur la gestion comptable et
+financière du fonds de service universel.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Cité par_:
+
+  - Arrêté du 23 décembre 2010 - art. (V)
+  - Code des postes et des communications électroni... - art. R20-42 (V)
+  - Code des postes et des communications électroni... - art. R20-43 (V)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L35-3 (M)
+
+
+###### Article R20-42
+
+Le compte spécifique mentionné à l'article R. 20-41 est géré par la Caisse des dépôts et consignations sous le contrôle d'un
+comité de trois membres présidé par un magistrat de la Cour des comptes et comprenant un membre de l'Autorité de régulation
+des télécommunications et un représentant de la Caisse des dépôts et consignations.
+
+Le compte spécifique retrace en charge les frais de gestion exposés par la Caisse des dépôts et consignations au titre des
+missions mentionnées à l'article R. 20-41. La Caisse des dépôts et consignations évalue au 15 décembre de l'année précédente
+le montant prévisionnel des frais de gestion à facturer pour l'année en cours. Ce montant doit ensuite faire l'objet d'une
+approbation du comité mentionné au premier alinéa au plus tard le 15 janvier de l'année considérée.
+
+Le compte est alimenté par virements effectués par les opérateurs débiteurs aux échéances fixées par l'article R. 20-39.
+L'opérateur débiteur prend toutes dispositions pour que les fonds parviennent à bonne date à la Caisse des dépôts et
+consignations. Les reversements au profit des opérateurs créditeurs sont effectués dans les dix jours suivant la date
+d'échéance.
+
+A chaque échéance, le montant global des reversements effectués au profit des opérateurs créditeurs est égal aux sommes
+effectivement recouvrées par le fonds géré par la Caisse des dépôts et consignations, minorées d'une somme correspondant à la
+moitié des frais prévisionnels de gestion visés au 2e alinéa du présent article. Les sommes non réglées au jour de l'échéance
+portent intérêt de droit au taux de l'Euribor 12 mois du jour de l'échéance.
+
+Dans le cas où l'ensemble des sommes dues ne sont pas recouvrées, le montant reversé à chacun des opérateurs créditeurs est
+fixé au prorata du montant qu'il aurait dû percevoir en l'absence de défaillance d'un contributeur au fonds, le solde étant
+reporté sur l'exercice suivant.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 19 décembre 1997 - art. ANNEXE (V)
+  - Code des postes et des communications électroni... - art. R20-39 (V)
+
+_Modifié par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R20-41 (M)
+
+
+###### Article R20-43
+
+La défaillance de l'opérateur est valablement constatée en cas de non-paiement, pour quelque cause que ce soit, des sommes
+dues par celui-ci à l'échéance prévue lorsque la mise en demeure, adressée par la Caisse des dépôts et consignations, par
+lettre recommandée avec accusé de réception, dans un délai de trois semaines suivant l'échéance est demeurée infructueuse
+après un délai de trois semaines. La Caisse des dépôts et consignations procède au recouvrement contentieux des sommes
+restées impayées dans les délais mentionnés ci-dessus et reverse les sommes recouvrées minorées des frais liés à ces
+contentieux sur le compte spécifique mentionné à l'article R. 20-41, dans un délai de deux semaines suivant leur
+recouvrement.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 19 décembre 1997 - art. ANNEXE (V)
+  - Arrêté du 23 décembre 2010 - art. (V)
+  - Code des postes et des communications électroni... - art. R20-39 (V)
+
+_Modifié par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R20-41 (M)
+
+
+###### Article R20-44
+
+Une convention entre la Caisse des dépôts et consignations et l'Autorité de régulation des télécommunications, approuvée par
+arrêté du ministre chargé des communications électroniques précise :
+
+1° Les modalités selon lesquelles les opérateurs débiteurs effectuent les versements au compte spécifique et les modalités
+selon lesquelles sont effectués les reversements aux opérateurs créditeurs ;
+
+2° Les modalités de calcul des frais de gestion et notamment les règles retenues pour l'établissement de la comptabilité
+analytique permettant d'évaluer les charges supportées par la Caisse des dépôts et consignations ;
+
+3° Les modalités d'information de l'Autorité de régulation des télécommunications en cas de retard de paiement d'un opérateur
+ou de notification à cette Autorité en cas de défaillance d'un opérateur.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Cité par_:
+
+  - Arrêté du 27 mars 2015 (V)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+#### Chapitre V : Dispositions pénales.<a id=91></a>
+
+###### Article R20-44-1
+
+Un arrêté du ministre chargé des communications électroniques habilite, parmi les fonctionnaires et agents placés sous son
+autorité, celle du président de l'Autorité de régulation des télécommunications ou celle du directeur général de l'Agence
+nationale des fréquences, ayant les connaissances techniques et juridiques nécessaires, après avis du procureur de la
+République auprès du tribunal de grande instance de leur résidence administrative, les personnes qui peuvent rechercher et
+constater par procès-verbal les infractions entrant dans le champ d'application de l'article L. 40 du code des postes et
+communications électroniques.
+
+Le président de l'Autorité de régulation des télécommunications et le directeur général de l'Agence nationale des fréquences
+désignent, à cet effet, les personnes placées sous leur autorité qu'ils souhaitent faire habiliter.
+
+L'arrêté mentionné au premier alinéa précise l'objet de l'habilitation et la durée pendant laquelle le fonctionnaire ou
+l'agent a vocation à rechercher et constater les infractions.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes et télécommunications R11-10
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R*9-1 (Ab)
+  - Code des postes et des communications électroni... - art. R20-44-2 (V)
+  - Code des postes et des communications électroni... - art. R20-44-3 (V)
+  - Code des postes et des communications électroni... - art. R20-44-4 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L40 (M)
+
+
+###### Article R20-44-2
+
+Les fonctionnaires et agents habilités par arrêté du ministre chargé des communications électroniques au titre de l'article
+R. 20-44-1 prêtent serment devant le tribunal de grande instance de leur résidence administrative. 
+
+La formule du serment est la suivante : 
+
+" Je jure et promets de bien et loyalement remplir mes fonctions et d'observer en tout les devoirs qu'elles m'imposent. Je
+jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes
+fonctions. "
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes et télécommunications R11-11
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Modifié par_:
+
+  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. R20-44-1 (V)
+
+
+###### Article R20-44-3
+
+L'habilitation prévue à l'article R. 20-44-1 est retirée par arrêté du ministre chargé des communications électroniques, le
+cas échéant à la demande du président de l'Autorité de régulation des télécommunications ou du directeur général de l'Agence
+nationale des fréquences, pour les personnes placées sous leur autorité, lorsque cette mesure est justifiée par les
+nécessités du service ou compte tenu du comportement du fonctionnaire ou de l'agent dans l'exercice de ses fonctions, après,
+dans ce dernier cas, que l'intéressé a été mis à même de présenter ses observations.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes et télécommunications R11-12
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R20-44-1 (M)
+
+
+###### Article R20-44-4
+
+Une carte professionnelle portant mention de l'habilitation, de son objet et de sa durée est délivrée, ou son renouvellement
+assuré, par le ministre chargé des communications électroniques, par le président de l'Autorité de régulation des
+télécommunications ou par le directeur général de l'Agence nationale des fréquences, chacun pour ce qui le concerne, aux
+fonctionnaires et agents placés sous leur autorité mentionnés à l'article R. 20-44-1.
+
+Mention de la prestation de serment est portée sur cette carte par les soins du greffier du tribunal de grande instance.
+
+Le modèle de la carte professionnelle est établi par les autorités susmentionnées, chacune pour ce qui la concerne.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes et télécommunications R11-13
+
+_Créé par_:
+
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R20-44-1 (M)
+
+
+### TITRE II : Etablissement des réseaux de communications électroniques<a id=92></a>
+
+#### CHAPITRE Ier : Droits de passage sur le domaine public routier et servitudes<a id=93></a>
+
+##### SECTION 2 : Servitudes.<a id=94></a>
+
+###### Article R*20-60
+
+L'identité des agents mandatés par l'opérateur autorisé ou par une société mandatée par celui-ci pour l'exécution des travaux
+et la date de commencement des travaux sont indiqués sur une liste portée à la connaissance du propriétaire ou de son
+mandataire ou, en cas de copropriété, du syndic par le bénéficiaire de la servitude huit jours au moins avant la date prévue
+de la première intervention. Elle est établie par le bénéficiaire de la servitude et transmise au propriétaire.
+
+Toute modification de la liste des agents mandatés est notifiée par le bénéficiaire de la servitude au propriétaire ou à son
+mandataire ou, en cas de copropriété, au syndic.
+
+Les agents des opérateurs autorisés doivent être munis d'une attestation signée par le bénéficiaire de la servitude et de
+l'entreprise à laquelle appartient cet agent pour accéder à l'immeuble, au lotissement ou à la propriété non bâtie.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R*20-61
+
+L'arrêté instituant la servitude est périmé de plein droit si l'exécution des travaux n'a pas commencé dans les douze mois
+suivant sa publication.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R*20-62
+
+Le schéma des installations après la réalisation des travaux est adressé par le bénéficiaire de la servitude au propriétaire
+ou à son mandataire ou, en cas de copropriété, au syndicat représenté par le syndic.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-55
+
+Lorsqu'il demande l'institution de la servitude prévue à l'article L. 45-1, l'opérateur autorisé en vertu de l'article L.
+33-1 adresse au maire de la commune dans laquelle est située la propriété sur laquelle il envisage d'établir l'ouvrage, en
+autant d'exemplaires qu'il y a de propriétaires ou, en cas de copropriété, de syndics concernés plus trois, un dossier
+indiquant :
+
+1° La localisation cadastrale de l'immeuble, du groupe d'immeubles ou de la propriété non bâtie, accompagnée de la liste des
+propriétaires concernés ;
+
+2° Les motifs qui justifient le recours à la servitude ;
+
+3° L'emplacement des installations, à l'aide notamment d'un schéma. Une notice précise les raisons pour lesquelles, en vue de
+respecter la qualité esthétique des lieux et d'éviter d'éventuelles conséquences dommageables pour la propriété, ces
+modalités ont été retenues ; elle précise éventuellement si l'utilisation d'installations existantes est souhaitée ou, à
+défaut, les raisons pour lesquelles il a été jugé préférable de ne pas utiliser ou emprunter les infrastructures existantes.
+Un échéancier prévisionnel de réalisation indique la date de commencement des travaux et leur durée prévisible.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-56 (VD)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L33-1 (M)
+  - Code des postes et des communications électronique - art. L45-1 (MMN)
+
+
+###### Article R20-56
+
+Le maire notifie dans un délai d'un mois au propriétaire ou, en cas de copropriété, au syndic identifié, en tant que de
+besoin, dans les conditions prévues par l'article R. 11-19 du code de l'expropriation pour cause d'utilité publique, ou à
+toute personne habilitée à recevoir la notification au nom des propriétaires, le nom ou la raison sociale de l'opérateur qui
+sollicite le bénéfice de la servitude. Cette notification est accompagnée du dossier constitué par le demandeur de la
+servitude prévu à l'article R. 20-55.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R20-55 (M)
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-19 (V)
+
+
+###### Article R20-57
+
+Dans le mois à compter de la réception de la demande, le maire invite, le cas échéant, le demandeur à se rapprocher du
+propriétaire d'installations existantes, auquel il notifie cette invitation simultanément.
+
+En cas d'échec des négociations de partage des installations constaté par une partie, l'opérateur peut confirmer au maire sa
+demande initiale dans un délai maximal de trois mois, le cas échéant prolongé jusqu'à la décision de l'Autorité de régulation
+des télécommunications si cette dernière est saisie, à compter de l'invitation à partager les installations prévues, en
+précisant les raisons pour lesquelles il n'a pas été possible d'utiliser les installations existantes.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-58
+
+Dans le mois suivant l'expiration du délai mentionné au deuxième alinéa de l'article L. 48 du code des postes et des
+communications électroniques, qui ne peut être supérieur à quatre mois, et au vu des observations qui ont été présentées, le
+maire agissant au nom de l'Etat institue la servitude. Cet arrêté spécifie les opérations que comportent la réalisation et
+l'exploitation des installations et mentionne les motifs qui justifient l'institution de la servitude et le choix de
+l'emplacement.
+
+Aux frais du pétitionnaire, l'arrêté du maire est notifié au propriétaire ou, en cas de copropriété, au syndic et affiché à
+la mairie.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Cité par_:
+
+  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+  - Code des postes et des communications électronique - art. R20-59 (V)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L48 (M)
+
+
+###### Article R20-59
+
+Les travaux ne peuvent commencer qu'après que l'arrêté du maire a été notifié et publié dans les conditions prévues à
+l'article précédent.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R20-58 (M)
+
+
+##### SECTION 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.<a id=95></a>
+
+###### Article R*21
+
+Autour de chaque station émettrice ou réceptrice d'ondes radioélectriques utilisant des aériens directifs, ainsi qu'autour
+des laboratoires et centres de recherches radioélectriques, il peut être créé deux zones de servitudes respectivement dites
+"zone primaire de dégagement" et "zone secondaire de dégagement".
+
+Entre deux centres assurant une liaison radioélectrique par ondes de fréquence supérieure à 30 mégahertz (c'est-à-dire de
+longueur d'onde inférieure à 10 mètres), il peut être créé une zone de servitudes dite "zone spéciale de dégagement".
+
+Il peut également être créé une zone de servitudes dite "secteur de dégagement" autour des stations de radiorepérage ou de
+radionavigation d'émission ou de réception.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. (VD)
+  - Code de la défense. - art. D5131-13 (V)
+  - Code de la défense. - art. R5113-1 (V)
+  - Code des transports - art. L6350-1 (V)
+  - Code des transports - art. L6763-7 (V)
+  - Code des transports - art. L6773-8 (V)
+  - Code des transports - art. L6783-9 (V)
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L98
+
+
+###### Article R*22
+
+La distance séparant la limite d'un centre radioélectrique de toute nature et le périmètre des zones de servitudes ne peut
+excéder :
+
+- 2 000 mètres dans le cas d'une zone secondaire de dégagement ;
+
+- 400 mètres dans le cas d'une zone primaire de dégagement entourant une installation de sécurité aéronautique ou un centre
+radiogoniométrique ;
+
+- 200 mètres dans le cas d'une zone primaire de dégagement entourant un centre autre que ceux précités ;
+
+- 5 000 mètres dans le cas d'un secteur de dégagement.
+
+La limite d'un centre [*définition*] est définie comme étant le contour du polygone de surface minimum englobant tous les
+éléments rayonnants ou collecteurs existants ou projetés. Toutefois, lorsque la distance entre deux points quelconques de ce
+contour excède 2 000 mètres, l'ensemble des éléments rayonnants ou collecteurs doit être fractionné en plusieurs îlots dont
+les limites particulières répondent à la définition ci-dessus ; les zones de servitudes sont alors déterminées à partir de la
+limite de chacun de ces îlots.
+
+Les différentes zones ainsi déterminées peuvent faire l'objet d'un seul décret de servitudes même lorsqu'elles ne se
+recoupent pas mutuellement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones R2
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R*23
+
+La largeur d'une zone spéciale de dégagement protégeant une liaison radioélectrique entre deux points fixes comptée
+perpendiculairement à la projection horizontale du trajet des ondes radioélectriques ne peut excéder 50 mètres de part et
+d'autre de cette projection. Les constructions et obstacles situés dans la zone de dégagement définie au présent alinéa
+doivent se trouver à 10 mètres au-dessous de la ligne droite joignant les aériens d'émission et de réception, sans cependant
+que la limitation de hauteur imposée à une construction puisse être inférieure à 25 mètres.
+
+La largeur d'un secteur de dégagement protégeant une station de radiorepérage ou de radionavigation ne peut excéder la
+largeur du secteur angulaire exploré par la station, augmenté, s'il y a lieu, d'une marge de sécurité d'un degré au plus au-
+delà des deux limites de ce secteur.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones R3
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R*24
+
+Dans toute zone primaire, secondaire ou spéciale de dégagement, ainsi que dans tout secteur de dégagement, il est interdit,
+sauf autorisation du ministre dont les services exploitent le centre ou exercent la tutelle sur lui, de créer des obstacles
+fixes ou mobiles dont la partie la plus haute excède une cote fixée par le décret prévu à l'article R. 25.
+
+Lorsque la configuration du terrain le permet, les zones sont divisées en plusieurs parties, une cote particulière étant
+fixée pour chaque partie.
+
+Dans la zone primaire de dégagement d'une station de sécurité aéronautique ou d'un centre radiogoniométrique, il est en outre
+interdit de créer ou de conserver tout ouvrage métallique fixe ou mobile, des étendues d'eau ou de liquides de toute nature
+pouvant perturber le fonctionnement de cette installation ou de cette station.
+
+Dans la zone primaire de dégagement d'une station de sécurité aéronautique, il est également interdit de créer ou de
+conserver des excavations artificielles pouvant perturber le fonctionnement de cette station.
+
+Dans les zones boisées, l'établissement des centres projetés est subordonné à une décision préalable du ministre de
+l'agriculture constatant que le maintien de l'état boisé n'est pas reconnu indispensable dans le périmètre des servitudes à
+imposer.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L99
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Cité par_:
+
+  - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
+  - Code des transports - art. L6350-1 (V)
+  - Code des transports - art. L6763-7 (V)
+  - Code des transports - art. L6773-8 (V)
+  - Code des transports - art. L6783-9 (V)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroniques R25
+
+
+###### Article R*25
+
+Les zones qui sont soumises à servitudes sont fixées par un plan d'établissement des servitudes après une enquête publique
+effectuée conformément aux dispositions qui sont de droit commun applicables aux enquêtes précédant les déclarations
+d'utilité publique. Toutefois, la mission dévolue par ces dispositions, soit à une commission d'enquête, soit à un
+commissaire enquêteur, est, dans tous les cas, confiée à un commissaire enquêteur.
+
+La préparation du dossier s'effectue comme suit : sur la demande du ministre intéressé ou de l'exploitant public de
+communications électroniques, à laquelle est joint un projet de plan, le préfet désigne par arrêté les communes sur le
+territoire desquelles les agents qualifiés sont autorisés à procéder à une étude préliminaire. Ces agents ont la faculté de
+pénétrer dans les propriétés non closes de murs ou de clôtures équivalentes situées sur le territoire de ces communes.
+
+Après achèvement de l'enquête visée au premier alinéa du présent article, le plan des servitudes qui en résulte est approuvé
+par décret pris sous le contreseing du ministre dont les services exploitent le centre ou exercent la tutelle sur lui, sur
+avis de l'Agence nationale des fréquences ainsi que sous le contreseing du ministre de la construction.
+
+L'accord préalable du ministre du développement industriel et scientifique et du ministre de l'agriculture est requis dans
+tous les cas. Si l'accord entre les ministres n'intervient pas, il est statué par décret en Conseil d'Etat.
+
+Les servitudes portées au plan sont instituées à dater du jour de la publication du décret. Elles sont modifiées suivant la
+procédure prévue aux alinéas précédents du présent article lorsque la modification projetée entraîne un changement d'assiette
+de la servitude ou son aggravation. Elles sont réduites ou supprimées par décret sans qu'il y ait lieu de procéder à
+l'enquête.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L100
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R*24 (V)
+
+
+###### Article R*26
+
+Le décret de servitudes visé à l'article précédent fixe :
+
+- le ou les points de repère matérialisant la cote que ne doit pas excéder la partie la plus haute des obstacles fixes ou
+mobiles, dans les zones primaires et secondaires de dégagement ;
+
+- les cotes rapportées au nivellement général que ne doit pas excéder la partie la plus haute des obstacles fixes ou mobiles
+en chaque partie d'une zone spéciale de dégagement ;
+
+- le ou les points de repère matérialisant la cote que ne doit pas excéder la partie la plus haute des obstacles fixes ou
+mobiles dans un secteur de dégagement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L101
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroniques R25
+
+
+##### SECTION 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.<a id=96></a>
+
+###### Article R*28
+
+Aux abords de tout centre de réception classé comme il vient d'être dit à l'article R. 27, il est institué une zone de
+protection radioélectrique. De plus, pour les centres de première et de deuxième catégories, il est institué, à l'intérieur
+de la zone de protection, une zone de garde radioélectrique.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L108
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R27 (M)
+
+
+###### Article R*29
+
+La distance séparant les limites d'un centre de réception radioélectrique et le périmètre des zones de servitudes ne peut
+excéder :
+
+- dans le cas d'un centre de 3e catégorie : 200 mètres ;
+
+- dans le cas d'un centre de 2e catégorie : 500 mètres pour la zone de garde et 1 500 mètres pour la zone de protection ;
+
+- dans le cas d'un centre de 1re catégorie : 1 000 mètres pour la zone de garde et 3 000 mètres pour la zone de protection.
+
+La limite d'un centre de réception est définie comme étant le contour du polygone de surface minimum englobant toutes les
+installations techniques existantes ou projetées. Toutefois, lorsque la distance entre deux points quelconques de ce contour
+excède :
+
+- 2 000 mètres pour un centre de 1re catégorie ;
+
+- 1 000 mètres pour un centre de 2e catégorie ;
+
+-  100 mètres pour un centre de 3e catégorie,
+
+l'ensemble des installations techniques doit être fractionné en plusieurs îlots dont les limites répondent à la définition
+ci-dessus ; les zones de servitudes sont alors déterminées à partir de la limite de chacun de ces îlots. Les différentes
+zones ainsi déterminées peuvent faire l'objet d'un seul décret de servitudes même lorsqu'elles ne se recoupent pas
+mutuellement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones R4
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R*30
+
+Dans la zone de protection radioélectrique, il est interdit aux propriétaires ou usagers d'installations électriques de
+produire ou de propager des perturbations se plaçant dans la gamme d'ondes radioélectriques reçues par le centre et
+présentant pour les appareils du centre un degré de gravité supérieur à la valeur compatible avec l'exploitation du centre.
+
+En outre, dans la zone de garde radioélectrique, il est interdit de mettre en service du matériel électrique susceptible de
+perturber les réceptions radioélectriques du centre ou d'apporter des modifications à ce matériel, sans l'autorisation du
+ministre dont les services exploitent le centre ou exercent la tutelle sur lui.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L108
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Cité par_:
+
+  - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
+  - Code des postes et des communications électroni... - art. R*34 (V)
+  - Code des transports - art. L6350-1 (V)
+  - Code des transports - art. L6763-7 (V)
+  - Code des transports - art. L6773-8 (V)
+  - Code des transports - art. L6783-9 (V)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R*31
+
+Les zones qui sont soumises à servitudes sont fixées par un plan de servitudes après enquête publique effectuée conformément
+aux dispositions qui sont de droit commun applicables aux enquêtes précédant les déclarations d'utilité publique. Toutefois,
+la mission dévolue par ces dispositions soit à une commission d'enquête, soit à un commissaire enquêteur est, dans tous les
+cas, confiée à un commissaire enquêteur.
+
+La préparation du dossier d'enquête s'effectue comme suit :
+
+Sur la demande du ministre intéressé ou de l'exploitant public de communications électroniques, à laquelle est joint un
+projet de plan, le préfet désigne par arrêté les communes sur le territoire desquelles les agents qualifiés sont autorisés à
+procéder à une étude préliminaire. Ces agents ont la faculté de pénétrer dans les propriétés non closes de murs ou de
+clôtures équivalentes situées sur le territoire de ces communes, ainsi qu'à l'intérieur des propriétés même closes et des
+bâtiments, à condition, en ce qui concerne les propriétés closes et les bâtiments, qu'ils aient été expressément mentionnés
+dans ledit arrêté. Ainsi qu'il est dit à l'article L. 58, les propriétaires et usagers sont tenus de se prêter aux
+investigations nécessaires et, notamment, de faire fonctionner, à la demande des agents, les installations et appareils que
+ceux-ci considèrent comme susceptibles de produire des troubles.
+
+Après achèvement de l'enquête, le plan des servitudes qui en résulte est approuvé par décret pris sous le contreseing du
+ministre intéressé et du ministre du développement industriel et scientifique, sur avis de l'Agence nationale des fréquences.
+
+En cas d'avis défavorable de ce comité [*caduc*], il est statué par décret en Conseil d'Etat.
+
+Les servitudes portées au plan sont instituées à dater du jour de la publication du décret. Elles sont modifiées suivant la
+procédure prévue aux alinéas précédents du présent article lorsque la modification projetée entraîne un changement d'assiette
+de la servitude ou son aggravation. Elles sont réduites ou supprimées par décret sans qu'il y ait lieu de procéder à
+l'enquête.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L109 et R5
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L58 (M)
+
+
+###### Article R*32
+
+Les frais que motivent les modifications des installations préexistantes incombent à l'administration ou à l'exploitant
+public qui les prescrit dans la mesure où ces modifications excèdent la mise en conformité avec les lois, décrets et arrêtés
+en vigueur et, notamment, les textes concernant la protection de la radiodiffusion contre les troubles parasites industriels.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L114 al. 1
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R*33
+
+Pour les centres de réception visés à l'article R. 27 du présent code, les pouvoirs conférés par le présent chapitre sont
+dévolus aux différents ministres intéressés et les décrets d'application portent leur contreseing.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L115
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R27 (M)
+
+
+###### Article R*34
+
+Les modalités de contrôle des servitudes et obligations résultant des articles L. 60, L. 61 et R. 30, les conditions dans
+lesquelles interviennent les autorisations prévues aux articles L. 60 et R. 30 sont celles fixées par la loi du 15 juin 1906.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L117
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L60 (M)
+  - Code des postes et des communications électroniques L60, L61 et R30
+  - Loi n°1906-06-15
+
+
+###### Article R*35
+
+Les autorisations prévues à l'article 2 de la loi du 15 juin 1906 ne seront accordées qu'avec l'assentiment du ou des
+ministres intéressés ou de l'exploitant public dans tous les cas où, en vertu des dispositions du présent chapitre, il y a
+lieu à autorisation préalable à la mise en service.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L118
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Loi n°1906-06-15 art. 2
+
+
+###### Article R*36
+
+L'avis des ministres intéressés est ajouté, le cas échéant, à ceux en conformité desquels sont accordées les autorisations
+prévues à l'article 4 de la loi du 15 juin 1906.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L119
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Loi n°1906-06-15 art. 4
+
+
+###### Article R*37
+
+Aux conférences prévues à l'article 14 de la loi du 15 juin 1906 prennent part, le cas échéant, les représentants des
+ministres intéressés ou de l'exploitant public.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L120
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Loi n°1906-06-15 art. 14
+
+
+###### Article R*38
+
+Des arrêtés interministériels pris après avis de l'Agence nationale des fréquences et du comité technique de l'électricité,
+déterminent la liste et les caractéristiques du matériel électrique qui ne peut sans autorisation préalable :
+
+a) Etre mis en service, modifié ou transformé dans une zone de protection ou de garde radioélectriques ;
+
+b) Etre mis en service sur l'ensemble du territoire même hors des zones de servitudes.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L122
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R*39
+
+L'exécution des dispositions des articles R. 21 à R. 38 ci-dessus relève d'une action concertée des ministres des armées, des
+postes et communications électroniques, des travaux publics et des transports, de l'intérieur, de l'information, de
+l'industrie, de la construction et de l'agriculture.
+
+Les modalités de cette action sont établies par l'Agence nationale des fréquences.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroniques R21 à R38
+
+
+###### Article R27
+
+Les centres de réception radioélectrique exploités par les différents départements ministériels ou se trouvant sous la
+tutelle de l'un d'eux sont classés en trois catégories d'après leur importance, la nature du service qu'ils assurent et leur
+situation géographique. Le classement de tout centre est effectué sur avis de l'Agence nationale des fréquences par arrêté du
+ministre intéressé.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. (VD)
+  - Code des postes et des communications électroni... - art. R*28 (V)
+  - Code des postes et des communications électroni... - art. R*33 (V)
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L107
+
+
+##### SECTION 5 : Dispositions pénales.<a id=97></a>
+
+###### Article R*42
+
+Les astreintes prévues à l'article L. 63 sont recouvrées par les comptables directs du Trésor, sur réquisition du ministre
+intéressé ou de son délégué.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L105 al. 7
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L63 (M)
+
+
+###### Article R40
+
+Les pénalités encourues en cas d'infraction aux dispositions du chapitre II sont celles fixées par les articles 23 et 24 de
+la loi du 15 juin 1906.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L117
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Cité par_:
+
+  - Code des transports - art. L6350-1 (V)
+  - Code des transports - art. L6763-7 (V)
+  - Code des transports - art. L6773-8 (V)
+  - Code des transports - art. L6783-9 (V)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Loi n°1906-06-15 art. 23 et 24
+
+
+###### Article R41
+
+Les dispositions de l'article 24 de la loi du 15 juin 1906 sont applicables aux contraventions concernant le fonctionnement
+des centres de réception radioélectriques.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L121
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Loi n°1906-06-15 art. 24
+
+
+#### CHAPITRE II : Police des liaisons et des installations du réseau de communications électroniques<a id=98></a>
+
+###### Article R42-1
+
+Afin de prévenir les dommages aux installations de communications électroniques, l'emplacement des installations est porté à
+la connaissance des tiers par les opérateurs dans les conditions fixées par le décret n° 91-1147 du 14 octobre 1991 relatif à
+l'exécution de travaux à proximité de certains ouvrages souterrains, aériens ou subaquatiques de transport ou de
+distribution.
+
+Ce dépôt constitue une modalité d'information des tiers au sens de l'alinéa 3 de l'article L. 65.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°91-1147 1991-10-14
+  - Code des postes et des communications électronique - art. L65 (M)
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+#### CHAPITRE III : Protection des câbles sous-marins<a id=99></a>
+
+##### SECTION 2 : Dispositions pénales<a id=100></a>
+
+##### PARAGRAPHE I : Dispositions applicables aux eaux non territoriales.<a id=101></a>
+
+###### Article R45
+
+Est puni de l'amende prévue pour les contraventions de la 4e classe quiconque s'est refusé à exhiber les pièces nécessaires
+pour rédiger les procès-verbaux prévus à l'article L. 79.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L138
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R50 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L79 (M)
+
+
+###### Article R46
+
+Est puni de l'amende prévue pour les contraventions de la 5e classe :
+
+1° Le capitaine d'un bâtiment qui, occupé à la réparation ou à la pose d'un câble sous-marin, n'observe pas les règles sur
+les signaux adoptés en vue de prévenir les abordages ;
+
+2° Le capitaine ou patron de tout bâtiment qui, apercevant ou étant en mesure d'apercevoir ces signaux, ne se retire pas ou
+ne se tient pas éloigné d'un mille nautique au moins du bâtiment occupé à la pose ou à la réparation d'un câble sous-marin ;
+
+3° Le capitaine ou patron de tout bâtiment qui, voyant ou étant en mesure de voir les bouées destinées à indiquer la position
+des câbles, ne se tient pas éloigné de la ligne des bouées d'un quart de mille nautique au moins.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R48 (V)
+  - Code des postes et des communications électroni... - art. R52 (V)
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L140
+
+
+###### Article R47
+
+Est puni de l'amende prévue pour les contraventions de la 5e classe :
+
+1° Le capitaine ou patron de tout bâtiment qui a jeté l'ancre à moins d'un quart de mille nautique d'un câble sous-marin,
+dont il est en mesure de connaître la position au moyen de lignes de bouées ou autrement, ou s'est amarré à une bouée
+destinée à indiquer la position du câble [*infraction*], sauf les cas de force majeure ;
+
+2° Le patron de tout bateau de pêche qui ne tient pas ses engins ou filets à un mille nautique au moins du bâtiment occupé à
+la pose, à la réparation d'un câble sous-marin ; toutefois, les bateaux de pêche qui aperçoivent ou sont en mesure
+d'apercevoir le bâtiment portant les signaux adoptés ont, pour se conformer à l'avertissement, le délai nécessaire pour
+terminer l'opération en cours, sans que ce délai puisse dépasser vingt-quatre heures ;
+
+3° Le patron de tout bateau de pêche qui ne tient pas ses engins ou filets à un quart de mille nautique au moins de la ligne
+des bouées destinées à indiquer la position des câbles sous-marins.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L141
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R48
+
+Est puni de l'amende prévue pour les contraventions de la 5e classe :
+
+1° Toute personne qui, par négligence coupable et notamment dans les cas visés par les articles R. 46 et R. 47, rompt un
+câble sous-marin ou lui cause une détérioration qui peut avoir pour résultat d'interrompre ou d'entraver, en tout ou partie,
+les communications électroniques ;
+
+2° Le capitaine de tout bâtiment qui, occupé à la pose ou à la réparation d'un câble sous-marin, est cause, par
+l'inobservation des règles sur les signaux adoptés en vue de prévenir les abordages, de la rupture ou de la détérioration
+d'un câble commise par tout autre navire.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L142
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroniques R46 et R47
+
+
+###### Article R49
+
+Est punie de l'amende prévue pour les contraventions de la 5e classe :
+
+1° Toute personne qui fabrique, détient hors de son domicile, met en vente, embarque ou fait embarquer des instruments ou
+engins servant exclusivement à couper ou à détruire des câbles sous-marins ;
+
+2° Toute personne qui fait usage des mêmes instruments ou engins.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L143
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+##### PARAGRAPHE II : Dispositions spéciales aux eaux territoriales.<a id=102></a>
+
+###### Article R50
+
+Les dispositions des articles R. 45 à R. 49 sont observées dans le cas où l'infraction aurait été commise dans les eaux
+territoriales par tout individu faisant partie de l'équipage d'un navire quelconque, français ou étranger, sans préjudice des
+dispositions de l'article L. 67.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L145
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroniques R45 à R49 et L67
+
+
+###### Article R51
+
+Dans le cas prévu au troisième alinéa de l'article L. 81, l'auteur de la rupture ou de la détérioration est tenu, sous peine
+de l'amende prévue pour les contraventions de la 4e classe, de faire la déclaration prévue à l'article L. 72.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L150 al. 3
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R52 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électroniques L72 et L81 al. 3
+
+
+###### Article R52
+
+En cas de récidive, le maximum des peines édictées à l'article R. 51 est prononcé, ce maximum peut être élevé jusqu'au
+double.
+
+Il y a récidive pour les faits prévus par les articles R. 46 à R. 49, lorsque, dans les deux années qui précèdent, il a été
+rendu contre le contrevenant un jugement définitif pour infraction aux dispositions desdits articles.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L151
+
+_Modifié par_:
+
+  - Décret n°2003-961 2003-10-08 art. 1 VI, VII JORF 9 octobre 2003
+  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroniques R46 à R49 et R51
+
+
+### TITRE VI : Services radioélectriques<a id=103></a>
+
+#### CHAPITRE Ier : Dispositions générales.<a id=104></a>
 
 ###### Article R*52-1
 
@@ -9887,9 +13080,9 @@ _Nouveaux textes_:
   - Code des postes et des communications électronique - art. R20-44-5 (V)
 
 
-### TITRE VII : Agence nationale des fréquences<a id=81></a>
+### TITRE VII : Agence nationale des fréquences<a id=105></a>
 
-#### Chapitre Ier : Dispositions générales et missions<a id=82></a>
+#### Chapitre Ier : Dispositions générales et missions<a id=106></a>
 
 ###### Article R*52-2
 
@@ -10049,7 +13242,7 @@ _Nouveaux textes_:
   - Code des postes et des communications électronique - art. R20-44-11 (M)
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=83></a>
+#### Chapitre II : Organisation et fonctionnement<a id=107></a>
 
 ###### Article R*52-2-2
 
@@ -10396,7 +13589,7 @@ _Nouveaux textes_:
   - Code des postes et des communications électronique - art. R20-44-19 (V)
 
 
-#### Chapitre III : Dispositions financières<a id=84></a>
+#### Chapitre III : Dispositions financières<a id=108></a>
 
 ###### Article R*52-2-10
 
@@ -10549,3348 +13742,15 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-## LIVRE II : Les télécommunications<a id=85></a>
+## LIVRE II : Les télécommunications<a id=109></a>
 
-### TITRE Ier : Dispositions générales<a id=86></a>
+### TITRE II : Prérogatives et servitudes<a id=110></a>
 
-#### CHAPITRE Ier : Définitions et principes.<a id=87></a>
+#### CHAPITRE II : Droits de passage sur le domaine public routier et servitudes<a id=111></a>
 
-###### Article R*9
+## LIVRE III : Les services financiers<a id=112></a>
 
-On entend par liaison louée la mise à disposition par l'exploitant public dans le cadre d'un contrat de location, d'une
-capacité de transmission, entre des points de terminaison déterminés du réseau public, au profit d'un utilisateur, à
-l'exclusion de toute commutation contrôlée par cet utilisateur.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L34-2, R9-1
-
-_Modifié par_:
-
-  - Décret n°97-245 du 12 mars 1997 - art. 1 () JORF 19 mars 1997
-
-_Cité par_:
-
-  - Décret n°2010-1207 du 12 octobre 2010 - art. 1 (V)
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-#### CHAPITRE II : Régime juridique<a id=88></a>
-
-##### SECTION 5 : Contrôles.<a id=89></a>
-
-###### Article R11-10
-
-Un arrêté du ministre chargé des télécommunications habilite, parmi les fonctionnaires et agents placés sous son autorité,
-celle du président de l'Autorité de régulation des télécommunications ou celle du directeur général de l'Agence nationale des
-fréquences, ayant les connaissances techniques et juridiques nécessaires, après avis du procureur de la République auprès du
-tribunal de grande instance de leur résidence administrative, les personnes qui peuvent rechercher et constater par procès-
-verbal les infractions entrant dans le champ d'application de l'article L. 40 du code des postes et télécommunications.
-
-Le président de l'Autorité de régulation des télécommunications et le directeur général de l'Agence nationale des fréquences
-désignent, à cet effet, les personnes placées sous leur autorité qu'ils souhaitent faire habiliter.
-
-L'arrêté mentionné au premier alinéa précise l'objet de l'habilitation et la durée pendant laquelle le fonctionnaire ou
-l'agent a vocation à rechercher et constater les infractions.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L40
-
-_Nouveaux textes_:
-
-  - Code des postes et télécommunications R20-44-1
-
-_Créé par_:
-
-  - Décret n°97-890 du 25 septembre 1997 - art. 1 () JORF 2 octobre 1997
-
-_Transféré par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R11-11
-
-Les fonctionnaires et agents habilités par arrêté du ministre chargé des télécommunications au titre de l'article R. 11-10
-prêtent serment devant le tribunal de grande instance de leur résidence administrative.
-
-La formule du serment est la suivante :
-
-"Je jure et promets de bien et loyalement remplir mes fonctions et d'observer en tout les devoirs qu'elles m'imposent. Je
-jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes
-fonctions."
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R11-10
-
-_Nouveaux textes_:
-
-  - Code des postes et télécommunications R20-44-2
-
-_Créé par_:
-
-  - Décret n°97-890 du 25 septembre 1997 - art. 1 () JORF 2 octobre 1997
-
-_Transféré par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R11-12
-
-L'habilitation prévue à l'article R. 11-10 est retirée par arrêté du ministre chargé des télécommunications, le cas échéant à
-la demande du président de l'Autorité de régulation des télécommunications ou du directeur général de l'Agence nationale des
-fréquences, pour les personnes placées sous leur autorité, lorsque cette mesure est justifiée par les nécessités du service
-ou compte tenu du comportement du fonctionnaire ou de l'agent dans l'exercice de ses fonctions, après, dans ce dernier cas,
-que l'intéressé a été mis à même de présenter ses observations.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R11-10
-
-_Nouveaux textes_:
-
-  - Code des postes et télécommunications R20-44-3
-
-_Créé par_:
-
-  - Décret n°97-890 du 25 septembre 1997 - art. 1 () JORF 2 octobre 1997
-
-_Transféré par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R11-13
-
-Une carte professionnelle portant mention de l'habilitation, de son objet et de sa durée est délivrée, ou son renouvellement
-assuré, par le ministre chargé des télécommunications, par le président de l'Autorité de régulation des télécommunications ou
-par le directeur général de l'Agence nationale des fréquences, chacun pour ce qui le concerne, aux fonctionnaires et agents
-placés sous leur autorité mentionnés à l'article R. 11-10.
-
-Mention de la prestation de serment est portée sur cette carte par les soins du greffier du tribunal de grande instance.
-
-Le modèle de la carte professionnelle est établi par les autorités susmentionnées, chacune pour ce qui la concerne.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R11-10
-
-_Nouveaux textes_:
-
-  - Code des postes et télécommunications R20-44-4
-
-_Créé par_:
-
-  - Décret n°97-890 du 25 septembre 1997 - art. 1 () JORF 2 octobre 1997
-
-_Transféré par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-#### CHAPITRE III : Téléphone.<a id=90></a>
-
-###### Article R*12
-
-Un régime forfaitaire est applicable aux abonnements téléphoniques souscrits :
-
-Par les questures de l'Assemblée nationale et du Sénat pour le compte des services et des membres de ces assemblées ;
-
-Par les ministres et les secrétaires d'Etat.
-
-Ce régime donne aux bénéficiaires, contre paiement de la redevance d'abonnement applicable aux abonnements principaux
-ordinaires, le droit à l'exonération des taxes afférentes à l'utilisation du poste jusqu'à concurrence de :
-
-Pour les postes installés dans la circonscription de taxe téléphonique de Paris, 250 taxes de base par mois ;
-
-Pour les postes installés dans la première zone de taxation périphérique de la circonscription de taxe téléphonique de Paris,
-275 taxes de base par mois ;
-
-Pour les postes installés dans la deuxième zone de taxation périphérique de la circonscription de taxe téléphonique de Paris,
-350 taxes de base par mois ;
-
-Pour les autres postes, selon la distance à vol d'oiseau entre Paris et le chef-lieu du département où ils sont installés :
-
-De 25 à 50 kilomètres : 375 taxes de base par mois ;
-
-De 50 à 100 kilomètres : 450 taxes de base par mois ;
-
-De 100 à 200 kilomètres : 550 taxes de base par mois ;
-
-Plus de 200 kilomètres : 625 taxes de base par mois.
-
-Ledit régime est applicable, au choix de chaque membre des assemblées, de chaque ministre ou secrétaire d'Etat, au poste
-téléphonique installé à sa résidence de Paris, d'un département de la métropole ou d'un département d'outre-mer.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat en exécution de l'article 5 de l'ordonnance n° 59-2 du 2 janvier 1959.*]
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code des postes et télécommunications R20-30
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L213
-
-_Modifié par_:
-
-  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
-
-_Transféré par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*14
-
-Lorsque l'exploitant public estime que la mise en permanence de jour et de nuit d'un poste téléphonique d'abonnement à la
-disposition du public, dans des conditions préalablement fixées, présente un caractère d'intérêt général, il peut accorder
-aux titulaires de ce poste une réduction de 50 p. 100 sur le montant de la redevance annuelle d'abonnement.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat en exécution de l'article 5 de l'ordonnance n° 59-2 du 2 janvier 1959.*]
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code des postes et télécommunications R20-30-1
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L216
-
-_Modifié par_:
-
-  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
-
-_Transféré par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-### TITRE II : Prérogatives et servitudes<a id=91></a>
-
-#### CHAPITRE Ier : Equipements terminaux de télécommunications<a id=92></a>
-
-##### SECTION 1 : Définitions.<a id=93></a>
-
-###### Article R20-1
-
-On entend par "équipement terminal" tout équipement défini au 10° de l'article L. 32. On considère qu'un terminal est
-connecté indirectement à un réseau lorsque, par l'intermédiaire d'un autre réseau ou d'un autre terminal, il fonctionne avec
-le réseau.
-
-Pour un équipement terminal de télécommunications, on entend par "exigences essentielles" les exigences définies au 12° de
-l'article L. 32, à l'exclusion de la protection des données, de la protection de l'environnement et de la prise en compte des
-contraintes d'urbanisme et d'aménagement du territoire. La compatibilité électromagnétique et, le cas échéant, l'utilisation
-efficace de la ressource orbitale sont au nombre des facteurs qui sont à prendre en considération pour apprécier si
-l'exigence de bonne utilisation du spectre radioélectrique est satisfaite.
-
-On entend par "spécification technique" la définition des caractéristiques requises d'un produit, telles que les niveaux de
-qualité ou de propriété d'emploi, la sécurité, les dimensions, y compris les prescriptions applicables au produit en ce qui
-concerne la terminologie, les symboles, les essais et méthodes d'essai, l'emballage, le marquage et l'étiquetage.
-
-On entend par "réglementations techniques communes" les spécifications techniques communautaires mettant en oeuvre les
-exigences essentielles visées ci-dessus, à l'exception de celles relatives à la sécurité des usagers et du personnel des
-exploitants de réseaux de télécommunications. Leur respect est rendu obligatoire par la législation communautaire dans
-l'ensemble des Etats membres. Leurs références sont publiées au Journal officiel des Communautés européennes.
-
-On entend par "organisme notifié" un organisme établi dans la Communauté européenne ou dans l'Espace économique européen,
-désigné par un des Etats membres de la Communauté européenne ou par tout autre Etat partie à l'accord instituant l'Espace
-économique européen pour certifier la conformité aux exigences essentielles des équipements terminaux lors de leur
-commercialisation et figurant sur une liste publiée au Journal officiel des Communautés européennes.
-
-On entend par "norme harmonisée" une spécification technique adoptée par un organisme européen de normalisation sur mandat de
-la Commission des communautés européennes, dont l'observation n'est pas obligatoire, mais dont le respect vaut présomption de
-conformité aux exigences essentielles. Les références de ces normes sont publiées au Journal officiel des Communautés
-européennes.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code de l'aviation civile - art. D133-19-10 (V)
-  - Code des postes et des communications électroni... - art. D406-11 (V)
-  - Code des postes et des communications électroni... - art. R20-13 (M)
-  - Code des postes et des communications électroni... - art. R20-13-1 (V)
-  - Code des postes et des communications électroni... - art. R20-21 (V)
-  - Code des postes et des communications électroni... - art. R20-5 (V)
-  - Code des postes et des communications électroni... - art. R20-6 (V)
-  - Code des postes et des communications électroni... - art. R20-7 (V)
-  - Code des postes et des communications électroni... - art. R20-8 (V)
-  - Code des postes et des communications électroni... - art. R20-9 (V)
-  - Code des postes et des communications électronique - art. D485 (T)
-
-_Cite_:
-
-  - Code des postes et télécommunications L32
-
-
-##### SECTION 2 : Evaluation de la conformité des équipements terminaux aux exigences essentielles.<a id=94></a>
-
-###### Article R20-2
-
-1° Tout équipement terminal destiné à être connecté, directement ou indirectement, à un réseau ouvert au public ne peut être
-mis sur le marché qu'après l'obtention d'une attestation de conformité. La destination de l'équipement est indiquée par le
-fabricant ou le fournisseur. Une attestation de conformité est également exigée préalablement à la mise sur le marché de tout
-équipement terminal radioélectrique, quelle que soit sa destination.
-
-La procédure d'évaluation de conformité a pour objet de garantir le respect des exigences essentielles.
-
-Au choix du fabricant ou de son mandataire établi dans la Communauté européenne ou dans l'Espace économique européen,
-l'attestation de conformité est délivrée à l'issue :
-
-a) Soit d'un examen de type selon la procédure définie aux articles R. 20-4, R. 20-5 et R. 20-6, suivi de la déclaration de
-conformité au type prévue à l'article R. 20-7, a, assortie ou non d'un système approuvé de qualité de la production,
-mentionné à l'article R. 20-7, b.
-
-Lorsque l'évaluation de la conformité est effectuée au regard de normes nationales ou de réglementations techniques
-nationales, le choix de la procédure décrite à l'alinéa ci-dessus peut être fait pour toute personne à même d'assurer les
-responsabilités incombant au titulaire de l'attestation de conformité ;
-
-b) Soit d'une procédure de certification de la conformité du processus de conception et de fabrication à un système
-d'assurance de qualité complète, suivie d'une déclaration de conformité dans les conditions définies à l'article R. 20-9.
-
-Lorsque l'évaluation de la conformité est effectuée exclusivement au regard des normes harmonisées ou de réglementations
-techniques communes, les examens de type et déclarations de conformité mentionnés aux a et b ci-dessus sont qualifiés
-respectivement d'examens CE de type et de déclarations CE de conformité.
-
-2° Tout autre équipement terminal susceptible d'être connecté à un réseau ouvert au public, mais non destiné à une telle
-utilisation, ne peut être mis sur le marché qu'après une déclaration souscrite dans les conditions prévues à l'article R.
-20-14.
-
-3° L'Autorité de régulation des télécommunications est un organisme notifié au sens de l'article R. 20-1 et délivre à ce
-titre des attestations de conformité des équipements terminaux aux exigences essentielles. Lorsqu'elle désigne d'autres
-organismes chargés de délivrer lesdites attestations, elle s'assure que ceux-ci présentent des garanties d'indépendance, de
-compétence et d'impartialité, en appliquant notamment les critères mentionnés à l'annexe V de la directive du 29 avril 1991
-susvisée, ou qu'ils satisfont aux critères prévus par les normes harmonisées pertinentes. Elle procède à l'annulation des
-désignations de ceux de ces organismes qui ne répondent plus à ces critères. Elle saisit le ministre chargé des
-télécommunications en vue de la notification à la Commission des Communautés européennes de ces décisions.
-
-L'Autorité de régulation des télécommunications et les autres organismes notifiés reçoivent les demandes d'évaluation de
-conformité et les déclarations mentionnées aux 1° et 2° du présent article.
-
-4° Chaque organisme notifié désigne un ou plusieurs laboratoires habilités à effectuer les essais relatifs à la procédure
-d'évaluation de conformité par examen de type ou examen CE de type.
-
-Il saisit le ministre chargé des télécommunications en vue de la notification à la Commission des Communautés européennes de
-ces décisions.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D375 (Ab)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-4, R20-5, R20-6, R20-7, R20-9, R20-14, R20-1
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-3
-
-La conformité d'un équipement terminal de télécommunications aux exigences essentielles est évaluée :
-
-a) S'agissant des exigences prévues au 12° de l'article L. 32 qui sont relatives à la sécurité des usagers et du personnel
-des exploitants des réseaux de télécommunications au regard des normes nationales transposant les normes harmonisées
-pertinentes ou, à défaut, des normes nationales ;
-
-b) S'agissant des autres exigences essentielles définies à l'article R. 20-1, au regard des normes harmonisées éventuellement
-transposées en réglementations techniques communes ou, à défaut, des réglementations techniques nationales, ainsi que des
-réglementations techniques des autres Etats membres de la Communauté européenne ou des autres Etats parties à l'accord
-instituant l'Espace économique européen reconnues équivalentes par l'Autorité de régulation des télécommunications.
-
-Sous réserve des dispositions de l'article 12 du décret n° 84-74 du 26 janvier 1984 fixant le statut de la normalisation, les
-réglementations techniques nationales sont adoptées par l'Autorité de régulation des télécommunications.
-
-L'évaluation de la conformité des équipements terminaux aux normes harmonisées et aux réglementations techniques communes,
-effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant
-l'Espace économique européen, est reconnue en France conformément aux dispositions des articles R. 20-18 à R. 20-21.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L32, R20-1, R20-18 à R20-21
-  - Décret n°84-74 du 26 janvier 1984 - art. 12 (M)
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-28 (M)
-
-
-###### Article R20-4
-
-La demande d'évaluation de conformité est présentée à un organisme notifié par le fabricant de l'équipement ou son mandataire
-établi dans la Communauté européenne ou dans l'Espace économique européen, ci-après dénommé le demandeur. Le demandeur doit
-avoir la personnalité juridique. Lorsque l'évaluation de la conformité est effectuée au regard de normes nationales ou de
-réglementations techniques nationales, la demande d'évaluation de conformité peut être présentée par toute personne à même
-d'assurer les responsabilités incombant au titulaire de l'attestation de conformité.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-17 (M)
-  - Code des postes et des communications électroni... - art. R20-18 (V)
-  - Code des postes et des communications électroni... - art. R20-20 (V)
-  - Code des postes et des communications électroni... - art. R20-21 (V)
-  - Code des postes et des communications électroni... - art. R20-5 (V)
-
-
-###### Article R20-5
-
-Lorsque le demandeur décide de solliciter l'évaluation de conformité selon la procédure prévue au a du 1° de l'article R.
-20-2, il constitue un dossier d'évaluation de conformité.
-
-L'Autorité de régulation des télécommunications précise, en application du 3° de l'article L. 36-6, la composition de ce
-dossier, qui doit permettre à l'organisme notifié d'évaluer la conformité du produit aux exigences essentielles qui lui sont
-applicables.
-
-L'Autorité de régulation des télécommunications fixe, en application du 3° de l'article L. 36-6, la procédure simplifiée
-d'évaluation de conformité applicable aux catégories d'équipements terminaux radioélectriques dont la conformité aux
-exigences essentielles n'est appréciée qu'au regard des normes et spécifications techniques relatives à la protection du
-spectre radioélectrique.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. L43 (VD)
-  - Code des postes et des communications électroni... - art. R20-10 (V)
-  - Code des postes et des communications électroni... - art. R20-13 (V)
-  - Code des postes et des communications électroni... - art. R20-21 (M)
-  - Code des postes et des communications électroni... - art. R20-25 (V)
-  - Code des postes et des communications électroni... - art. R20-4 (M)
-  - Code des postes et des communications électroni... - art. R20-6 (M)
-  - Code des postes et des communications électroni... - art. R20-7 (M)
-  - Code des postes et des communications électroni... - art. R20-8 (M)
-  - Code des postes et des communications électroni... - art. R20-9 (V)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-2, L36-6
-
-
-###### Article R20-6
-
-1° A réception du dossier, il est délivré au demandeur un accusé de réception. Sont indiqués, le cas échéant, la ou les
-pièces manquantes ainsi que le délai fixé pour les produire.
-
-2° Si l'ensemble des pièces du dossier visé ci-dessus ne fait pas apparaître de points de non-conformité à une ou plusieurs
-des exigences essentielles, une attestation d'examen de type ou d'examen CE de type est délivrée et notifiée au demandeur par
-l'organisme notifié. Dans le cas contraire, l'attestation est refusée par une décision motivée, notifiée au demandeur.
-
-Pour la délivrance d'une attestation d'examen de type, le silence gardé pendant deux mois par l'organisme notifié, à compter
-de la réception du dossier complet, vaut acceptation de la demande.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-20 (V)
-  - Code des postes et des communications électroni... - art. R20-21 (M)
-  - Code des postes et des communications électroni... - art. R20-5 (V)
-  - Code des postes et des communications électroni... - art. R20-7 (M)
-  - Code des postes et des communications électroni... - art. R20-8 (M)
-  - Code des postes et des communications électroni... - art. R20-9-1 (V)
-
-
-###### Article R20-7
-
-Le demandeur auquel une attestation d'examen de type ou d'examen CE de type a été délivrée ou accordée tacitement en
-application de l'article R. 20-6 s'engage à fabriquer ou à commercialiser des équipements conformes au type décrit dans cette
-attestation ou, en cas d'accord tacite, dans le dossier d'évaluation de conformité, selon l'une ou l'autre des deux
-procédures suivantes :
-
-a) Il souscrit une déclaration écrite assurant que les produits fabriqués sont conformes au type et qu'il prend toutes les
-mesures nécessaires pour que le procédé de fabrication assure cette conformité.
-
-L'organisme notifié choisi par le demandeur effectue ou fait effectuer des contrôles du produit à des intervalles aléatoires,
-par prélèvement dans une série de fabrication, ou dans les stocks de l'entreprise. Le demandeur ne peut s'opposer à ces
-examens ;
-
-b) Il souscrit une déclaration écrite assurant que les produits fabriqués sont conformes au type et qu'il met en oeuvre un
-système approuvé de qualité de la production dans les conditions prévues à l'article R. 20-8.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-5 (V)
-  - Code des postes et des communications électroni... - art. R20-8 (M)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-6, R20-8
-
-
-###### Article R20-8
-
-Lorsqu'il choisit de mettre en oeuvre un système approuvé de qualité de la production, le fabricant ou son mandataire
-présente à l'organisme notifié une demande d'approbation de ce système, destinée à garantir la conformité des produits au
-type décrit dans l'attestation d'examen ou d'examen CE de type.
-
-L'organisme notifié évalue le système de qualité après une procédure d'examen sur pièces et éventuellement sur place.
-
-Il notifie au demandeur une décision motivée d'évaluation du système de qualité de la production. Lorsque cette décision
-approuve le système soumis à évaluation, le demandeur s'engage à remplir les obligations découlant du système tel qu'il a été
-approuvé et à maintenir son efficacité. Il informe sans délai l'organisme notifié de tout projet d'adaptation de son système
-de qualité. Celui-ci lui notifie s'il y a lieu ou non de procéder à une nouvelle approbation du système révisé.
-
-L'Autorité de régulation des télécommunications précise, en application du 3° de l'article L. 36-6, le contenu de la demande
-d'approbation et de la documentation nécessaire à l'instruction de cette demande, les modalités de cette instruction ainsi
-que celles de la surveillance par inspections et visites sur place du respect par le demandeur des obligations résultant du
-système de qualité approuvé.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L36-6
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-5 (V)
-
-
-###### Article R20-9
-
-Lorsque le fabricant ou son mandataire décide de solliciter l'évaluation de conformité selon la procédure prévue au b du 1°
-de l'article R. 20-2, il présente à l'organisme notifié de son choix une demande d'évaluation du système d'assurance de
-qualité complète qu'il met en oeuvre pour garantir la conformité de ses produits aux exigences essentielles qui leur sont
-applicables.
-
-Cette demande comporte toutes les informations appropriées sur les produits concernés ainsi qu'une documentation complète
-permettant d'apprécier la qualité de la conception du produit, de sa fabrication et du contrôle de celle-ci.
-
-Après un examen sur pièces et, éventuellement, sur place, l'organisme notifié prend une décision motivée d'évaluation qui
-approuve le système d'assurance de qualité complète, lorsqu'il estime que ce système garantit la conformité des équipements
-aux exigences essentielles.
-
-Le fabricant adresse à l'organisme notifié une déclaration ou une déclaration CE de conformité pour chaque type d'équipement
-terminal mis sur le marché attestant que les produits fabriqués sont conformes aux exigences essentielles.
-
-Il appose le marquage prévu au 1° de l'article R. 20-13 sur chaque produit.
-
-Le fabricant s'engage à remplir les obligations découlant du système d'assurance de qualité complète approuvé et à en
-maintenir l'efficacité. Il autorise l'organisme notifié à accéder, à des fins d'inspection, aux lieux de conception, de
-fabrication, d'inspection, d'essais et de stockage des matériels concernés.
-
-Le fabricant informe l'organisme notifié de tout projet d'adaptation du système d'assurance de qualité complète. Ce dernier
-fait connaître au fabricant s'il y a lieu ou non de procéder à une nouvelle évaluation du système révisé.
-
-L'Autorité de régulation des télécommunications précise, en application du 3° de l'article L. 36-6, le contenu de la demande
-d'évaluation du système d'assurance de qualité complète et de la documentation nécessaire à l'instruction de cette demande,
-les modalités de cette instruction ainsi que celles de la surveillance par inspections sur place, audits à intervalles
-réguliers ou visites inopinées, du respect par le fabricant des obligations du système d'assurance de qualité complète
-approuvé.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-12 (V)
-  - Code des postes et des communications électroni... - art. R20-24 (M)
-  - Code des postes et des communications électroni... - art. R20-5 (M)
-  - Code des postes et des communications électroni... - art. R20-6 (V)
-  - Code des postes et des communications électroni... - art. R20-7 (V)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-2, R20-13, L36-6
-
-
-###### Article R20-10
-
-1° Au vu de la déclaration mentionnée au a de l'article R. 20-7 ou des décisions d'approbation des systèmes de qualité
-mentionnées aux articles R. 20-8 et R. 20-9, l'organisme notifié délivre au demandeur une attestation de conformité et un
-numéro d'attestation de conformité.
-
-Cette attestation de conformité atteste que l'équipement qui en est l'objet respecte les exigences essentielles. En outre,
-elle vaut autorisation de connexion à un réseau ouvert au public, sauf pour certaines catégories d'équipements terminaux
-radioélectriques non destinés à cette utilisation.
-
-La décision d'attestation de conformité précise éventuellement la durée pour laquelle elle est délivrée. Elle est notifiée au
-demandeur.
-
-La demande de renouvellement d'une attestation de conformité doit être présentée au moins quatre mois avant l'expiration de
-la durée pour laquelle l'attestation de conformité a été délivrée. La décision de renouvellement est notifiée au demandeur et
-précise la durée pour laquelle l'attestation de conformité est renouvelée.
-
-2° L'attestation de conformité est personnelle à son titulaire et ne peut être cédée à un tiers qu'avec l'accord de
-l'organisme notifié. Cet accord ne peut être refusé qu'au cas où le cessionnaire ne serait pas en mesure de remplir les
-obligations incombant au titulaire de l'attestation de conformité.
-
-3° Toute modification des conditions au vu desquelles a été délivrée l'attestation de conformité est signalée sans délai à
-l'organisme notifié.
-
-4° L'organisme notifié informe régulièrement l'Autorité de régulation des télécommunications, dans des conditions déterminées
-par celle-ci, des attestations de conformité qu'il a délivrées.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. L43 (VD)
-  - Code des postes et des communications électroni... - art. R20-13 (V)
-  - Code des postes et des communications électroni... - art. R20-17 (V)
-  - Code des postes et des communications électroni... - art. R20-18 (V)
-  - Code des postes et des communications électroni... - art. R20-22 (V)
-  - Code des postes et des communications électroni... - art. R20-25 (V)
-  - Code des postes et des communications électroni... - art. R20-4 (V)
-  - Code des postes et des communications électroni... - art. R20-6 (V)
-  - Code des postes et des communications électroni... - art. R20-7-1 (V)
-  - Code des postes et des communications électroni... - art. R20-8 (V)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-7, R20-8, R20-9
-
-
-###### Article R20-11
-
-L'attestation de conformité des installations radioélectriques destinées à être connectées aux réseaux radioélectriques de
-l'Etat mentionnés au 1° de l'article L. 33 est délivrée dans les conditions du présent article.
-
-Les spécifications techniques relatives à la protection du spectre radioélectrique, au vu desquelles est appréciée la
-conformité des installations radioélectriques raccordées aux réseaux établis pour les besoins de la défense nationale ou de
-la sécurité publique, sont communiquées en temps utile au ministre chargé des télécommunications par le ministre intéressé.
-Par dérogation aux dispositions de l'article R. 20-16, ces spécifications ne sont pas publiées lorsque leur publication
-aurait pour effet de porter atteinte aux exigences de la défense et de la sécurité publique.
-
-Le ministre chargé de la défense et le ministre chargé de l'intérieur s'assurent, chacun pour ce qui le concerne, de la
-conformité aux spécifications techniques des installations raccordées aux réseaux susvisés.
-
-L'attestation de conformité des installations raccordées aux autres réseaux utilisant des bandes de fréquences, ou des
-fréquences attribuées par le Premier ministre à une administration pour les besoins propres de celle-ci, est délivrée par
-l'Autorité de régulation des télécommunications, après avis de l'administration concernée et, en tant que de besoin, de
-l'Agence nationale des fréquences.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. L43 (VD)
-  - Code des postes et des communications électroni... - art. R20-25 (V)
-  - Code des postes et des communications électroni... - art. R20-44-11 (V)
-
-_Cite_:
-
-  - Code des postes et télécommunications L33, R20-16
-
-
-###### Article R20-12
-
-Lorsque les contrôles opérés en application du a de l'article R. 20-7 ou de l'article R. 20-8 font apparaître que les
-équipements produits ne sont pas conformes au type qui a fait l'objet de l'attestation d'examen ou d'examen CE de type ou
-lorsque les contrôles opérés en application de l'article R. 20-9 font apparaître que les équipements produits ne respectent
-pas les exigences essentielles qui leur sont applicables ou que le système d'assurance qualité ne garantit plus le respect de
-ces exigences, l'attestation de conformité ou la décision d'approbation du système est suspendue par l'organisme notifié.
-Cette décision est motivée et notifiée à l'intéressé, qui est invité à prendre les mesures de mise en conformité des
-appareils existants jugées nécessaires dans un délai qui ne peut être inférieur à trente jours.
-
-S'il n'est pas satisfait à cette demande dans le délai fixé, l'organisme notifié peut retirer l'attestation de conformité ou
-la décision d'approbation du système par une décision motivée, notifiée à l'intéressé.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-13 (V)
-  - Code des postes et des communications électroni... - art. R20-13-1 (V)
-  - Code des postes et des communications électroni... - art. R20-9 (V)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-7, R20-8, R20-9
-
-
-###### Article R20-13
-
-1° Tout équipement terminal ayant fait l'objet de l'attestation de conformité doit faire l'objet, préalablement à sa
-commercialisation, d'un marquage indiquant que cet équipement est destiné à être connecté à un réseau ouvert au public ou
-qu'il s'agit d'un équipement radioélectrique non destiné à cette utilisation. Ces marquages sont conformes à des modèles
-fixés par l'Autorité de régulation des télécommunications.
-
-Lorsque l'attestation de conformité a été délivrée à l'issue soit d'un examen CE de type, soit d'une déclaration CE de
-conformité, l'équipement terminal est l'objet d'un marquage CE, qui respecte le modèle fixé par l'Autorité de régulation des
-télécommunications en conformité avec le modèle figurant à l'annexe VI de la directive 91/263/CEE du 29 avril 1991 concernant
-le rapprochement des législations des Etats membres relatives aux équipements terminaux de télécommunications incluant la
-reconnaissance mutuelle de leur conformité.
-
-Ce marquage CE ne pourra être apposé par le fabricant ou son mandataire qu'après que celui-ci se sera également conformé aux
-obligations qui lui incombent en ce qui concerne la compatibilité électromagnétique et la sécurité électrique.
-
-2° Tout équipement terminal doit, en outre, être identifié par le fabricant, et comporter l'indication du modèle, lot ou
-numéro de série, ainsi que l'identité du fabricant ou du fournisseur et le numéro d'attestation de conformité prévu à
-l'article R. 20-10.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-10
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-14
-
-1° La déclaration mentionnée au 2° de l'article R. 20-2 est souscrite par le fabricant ou le fournisseur auprès de
-l'organisme notifié lors de la première mise sur le marché de l'équipement terminal considéré. Le déclarant doit avoir la
-personnalité juridique.
-
-2° Cette déclaration, conforme à un modèle fixé par l'Autorité de régulation des télécommunications, atteste que l'équipement
-concerné n'est pas destiné à être connecté à un réseau ouvert au public. Elle est accompagnée de la notice d'utilisation de
-l'équipement.
-
-3° Sauf dans le cas où il justifie avoir antérieurement satisfait à cette obligation auprès d'un organisme notifié d'un autre
-Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord instituant l'Espace économique européen, le
-fabricant ou le fournisseur est tenu de justifier, sur demande de l'organisme notifié, que l'équipement correspond à la
-destination qu'il a déclarée, compte tenu de ses caractéristiques techniques, de ses fonctions et du segment de marché pour
-lequel il est prévu.
-
-4° Préalablement à sa commercialisation, chaque équipement concerné doit faire l'objet, de la part du fabricant ou du
-fournisseur, du marquage CE conforme à un modèle fixé par l'Autorité de régulation des télécommunications et indiquant qu'il
-ne peut être connecté à un réseau ouvert au public.
-
-Ce marquage CE ne pourra être apposé par le fabricant ou le fournisseur qu'après que celui-ci se sera également conformé aux
-obligations qui lui incombent en ce qui concerne la compatibilité électromagnétique et la sécurité électrique.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-2
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Cité par_:
-
-  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
-  - Code des postes et des communications électroni... - art. R20-20 (M)
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-15
-
-Les dossiers et la correspondance se rapportant aux procédures visées à la présente section sont rédigés en langue française.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-16
-
-Sans préjudice de leur notification à la Commission des communautés européennes, les références des normes et spécifications
-techniques des équipements terminaux soumis à évaluation de conformité sont publiées au Journal officiel de la République
-française.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-##### SECTION 3 : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant l'Espace économique européen.<a id=95></a>
-
-###### Article R20-17
-
-La destination des équipements terminaux de télécommunications mentionnés aux articles R. 20-18 à R. 20-21 est celle qui est
-fixée par le fabricant ou le fournisseur.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-18 à R20-21
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-18 (M)
-
-
-###### Article R20-18
-
-1° Les équipements destinés à être connectés directement ou indirectement à un réseau ouvert au public qui ont obtenu de la
-part d'un organisme notifié d'un autre Etat membre de la Communauté européenne ou de tout autre Etat partie à l'accord
-instituant l'Espace économique européen une décision approuvant leur connexion au réseau sont dispensés de l'attestation de
-conformité prévue au 1° de l'article R. 20-2 lorsque cette décision a été obtenue à l'issue :
-
-a) Soit d'un examen CE de type suivi d'une déclaration de conformité assortie éventuellement d'un système approuvé de qualité
-de la production ;
-
-b) Soit d'une déclaration CE de conformité assortie d'un système approuvé d'assurance de qualité complète.
-
-Lorsque cette décision a été obtenue à l'issue d'une procédure d'évaluation de conformité effectuée au regard de normes ou
-réglementations techniques nationales, reconnues dans le cadre d'accords bilatéraux ou multilatéraux, les équipements
-susvisés peuvent également être dispensés, par l'Autorité de régulation des télécommunications, de l'attestation de
-conformité prévue au 1° de l'article R. 20-2.
-
-2° Lors de l'instruction d'une demande visant à obtenir l'attestation de conformité prévue au 1° de l'article R. 20-2, sont
-reconnus valables les résultats des essais effectués dans les laboratoires présentant des garanties d'indépendance et de
-compétence notamment sur la base des critères généraux définis par les normes de la série EN 45000, désignés comme tels par
-les autres Etats membres ou les autres Etats parties à l'accord instituant l'Espace économique européen et figurant le cas
-échéant sur une liste publiée au Journal officiel des Communautés européennes.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-2
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-19
-
-1° Dès lors qu'un équipement terminal comporte le marquage CE mentionné à l'article R. 20-13, suivi du symbole
-d'identification de l'organisme notifié responsable et du symbole indiquant qu'il est destiné et apte à être connecté à un
-réseau ouvert au public, il est présumé conforme aux exigences essentielles et peut être librement commercialisé en France.
-
-2° Peut également être librement commercialisé en France tout équipement terminal de télécommunications susceptible d'être
-connecté à un réseau ouvert au public, sans être destiné à une telle utilisation, et qui a fait l'objet du marquage CE
-mentionné à l'article R. 20-14.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. L43 (VD)
-  - Code des postes et des communications électroni... - art. R20-20 (V)
-  - Code des postes et des communications électroni... - art. R20-21 (V)
-  - Code des postes et des communications électroni... - art. R20-3 (V)
-  - Code des postes et des communications électroni... - art. R20-4 (V)
-  - Code des postes et des communications électroni... - art. R20-8 (M)
-  - Code des postes et des communications électronique - art. R20-25 (M)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-13, R20-14
-
-
-###### Article R20-20
-
-Lorsqu'elle estime que les normes harmonisées et réglementations techniques communes sont insuffisantes pour mettre en oeuvre
-les exigences essentielles ou vont au-delà de celles-ci, l'Autorité de régulation des télécommunications demande au ministre
-chargé des télécommunications de saisir le comité d'approbation des équipements de télécommunications siégeant auprès de la
-Commission des communautés européennes.
-
-Lorsqu'elle constate qu'un équipement terminal marqué CE, ayant fait l'objet de l'attestation de conformité dans un Etat
-membre de la Communauté européenne ou dans tout autre Etat partie à l'accord instituant l'Espace économique européen et
-utilisé conformément à sa destination, ne satisfait pas aux exigences essentielles, l'Autorité de régulation des
-télécommunications demande au ministre chargé des télécommunications d'en informer sans délai la Commission des communautés
-européennes ainsi que les autres Etats membres de la Communauté européenne et les autres Etats parties à l'accord instituant
-l'Espace économique européen en précisant si la non-conformité résulte d'une application inadéquate des normes et
-spécifications harmonisées ou de lacunes intrinsèques de celles-ci.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-21
-
-Lorsqu'un accord entre la Communauté européenne et un Etat n'appartenant pas à celle-ci a été conclu à cet effet, la
-conformité d'un équipement terminal aux normes et spécifications techniques est évaluée en tenant compte de la documentation
-établie par un organisme pertinent de ce pays, ou des décisions de cet organisme.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. L43 (VD)
-  - Code des postes et des communications électronique - art. R20-25 (M)
-
-
-##### SECTION 4 : Raccordement des équipements terminaux aux réseaux ouverts au public.<a id=96></a>
-
-###### Article R20-22
-
-1° L'exploitant d'un réseau ouvert au public ne peut s'opposer au raccordement à son réseau, effectué dans les conditions
-prévues au 2° du présent article, des équipements terminaux ayant fait l'objet de l'un des marquages prévus au 1° de
-l'article R. 20-13 et au 1° de l'article R. 20-19.
-
-2° Le raccordement des équipements terminaux à un réseau ouvert au public est effectué librement, dans le respect des
-dispositions de l'article R. 20-23 pour les équipements qui y sont mentionnés.
-
-3° Lorsque les équipements terminaux ayant fait l'objet de l'attestation de conformité connectés à un réseau ouvert au public
-perturbent le bon fonctionnement du réseau ou des services, notamment en raison de leur sous-dimensionnement ou d'une
-utilisation non conforme à celle pour laquelle l'attestation de conformité a été délivrée, l'exploitant de ce réseau
-effectue, sans délai, sur demande de l'Autorité de régulation des télécommunications, toutes vérifications techniques
-nécessaires et en informe celle-ci.
-
-Pour préserver l'intégrité du réseau et le bon fonctionnement des services, l'Autorité de régulation des télécommunications
-peut adresser une mise en demeure à l'utilisateur de l'équipement terminal concerné l'invitant à prendre toutes mesures pour
-mettre fin aux perturbations dans un délai déterminé. Si, à l'expiration de ce délai, cet utilisateur ne s'est pas conformé à
-la mise en demeure, l'Autorité de régulation des télécommunications demande à l'exploitant du réseau de suspendre la
-fourniture du service qui utilise les terminaux à l'origine des perturbations.
-
-4° Lorsque des équipements n'ayant pas fait l'objet de l'attestation de conformité sont connectés à un réseau ouvert au
-public, l'Autorité de régulation des télécommunications peut, sans préjudice d'éventuelles poursuites pénales, demander à
-l'exploitant du réseau auquel sont irrégulièrement connectés ces terminaux de suspendre la fourniture du service à
-l'utilisateur des équipements concernés.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-13, R20-19, R20-23
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D375 (Ab)
-
-
-##### SECTION 5 : Admission des installateurs.<a id=97></a>
-
-###### Article R20-23
-
-1° Les catégories d'installations radioélectriques ou d'équipements terminaux de télécommunications ayant fait l'objet d'une
-attestation de conformité, qui, en raison de leur complexité, peuvent interférer avec l'échange des informations de commande
-et de gestion associé au réseau, ou dont la dimension a une incidence sur l'écoulement du trafic, figurent sur une liste
-établie par l'Autorité de régulation des télécommunications. Les installations et équipements en cause ne peuvent être
-raccordés et mis en service que par une entreprise dont la qualification technique en radiocommunications ou en
-télécommunications a été reconnue et qui a été inscrite sur une liste des installateurs admis.
-
-2° La demande d'inscription peut être présentée par toute entreprise inscrite au registre des métiers ou au registre du
-commerce et des sociétés, ou sur une liste professionnelle équivalente dans un autre Etat membre de la Communauté européenne
-ou dans un autre Etat partie à l'accord instituant l'Espace économique européen.
-
-La demande d'inscription comporte :
-
-a) Le nom et l'adresse de l'entreprise demanderesse ;
-
-b) La liste des membres de son personnel disposant de diplômes ou qualifications dans la spécialité choisie ;
-
-c) Le cas échéant, la référence des travaux déjà réalisés dans cette spécialité.
-
-3° L'Autorité de régulation des télécommunications statue dans un délai de deux mois sur l'inscription de l'entreprise
-demanderesse sur la liste des installateurs admis. Les refus d'inscription sont motivés et notifiés à l'entreprise concernée.
-
-A défaut de réponse dans les deux mois, l'admission est réputée acquise et l'entreprise inscrite sur la liste.
-
-4° Une personne morale de droit public ou de droit privé dont la qualification technique est reconnue peut, à sa demande,
-être autorisée par l'Autorité de régulation des télécommunications à raccorder et mettre en service des équipements terminaux
-et installations pour ses besoins propres. Dans ce cas, elle n'est pas inscrite sur la liste des installateurs admis.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-22
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-24
-
-L'inscription vaut autorisation d'utiliser le titre d'installateur admis en télécommunications ou en radiocommunications.
-
-L'Autorité de régulation des télécommunications peut, après avis de la commission instituée par l'article R. 20-25 et après
-audition des intéressés, suspendre ou retirer l'inscription sur la liste des installateurs qui auront manqué gravement à
-leurs obligations professionnelles.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-25
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. R20-30 (M)
-
-
-###### Article R20-25
-
-La commission des installateurs comprend des représentants de l'Autorité de régulation des télécommunications, des
-installateurs, des utilisateurs, des constructeurs d'équipements terminaux et des exploitants de réseaux de
-télécommunications ou de radiocommunications.
-
-Un arrêté du ministre chargé des télécommunications précise la composition, les attributions et les conditions de
-fonctionnement de cette commission.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-26 (V)
-  - Code des postes et des communications électroni... - art. R20-27 (V)
-  - Code des postes et des communications électroni... - art. R20-3 (V)
-
-
-##### SECTION 6 : Dispositions pénales.<a id=98></a>
-
-###### Article R20-26
-
-Est puni de la peine d'amende prévue pour les contraventions de la 5e classe :
-
-1° Le fait de mettre sur le marché un équipement terminal n'ayant pas fait l'objet de l'attestation de conformité ou d'une
-décision approuvant sa connexion à un réseau ouvert au public conformément aux dispositions du 1° de l'article R. 20-2 ou du
-1° de l'article R. 20-18, ou un équipement terminal non conforme au type qui a fait l'objet de cette attestation ou décision.
-
-2° Le fait de mettre sur le marché un équipement terminal susceptible d'être raccordé à un réseau ouvert au public mais non
-destiné à une telle utilisation, qui n'a pas fait l'objet de la déclaration mentionnée au 1° de l'article R. 20-14 ou sur
-lequel n'est pas apposé le marquage prévu au 4° de l'article R. 20-14.
-
-3° Le fait de mettre sur le marché un équipement terminal ayant fait l'objet du marquage mentionné au 1° de l'article R.
-20-13 ou au 1° de l'article R. 20-19 sans être en mesure de produire dans un délai de quinze jours, sur demande des agents
-mentionnés à l'article L. 40 du présent code et aux 1° et 6° de l'article L. 215-1 du code de la consommation, la référence
-de l'attestation de conformité prévue au 1° de l'article R. 20-2, ou de la décision approuvant sa connexion au réseau
-mentionnée au 1° de l'article R. 20-18.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-2, R20-18, R20-14, L40, R20-13, R20-19
-  - Code de la consommation - art. L215-1 (M)
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. R20-30-1 (M)
-
-
-###### Article R20-27
-
-Est puni de la peine d'amende prévue pour les contraventions de la 5e classe :
-
-1° Le fait d'utiliser une fréquence ou une installation radioélectrique sans l'autorisation prévue à l'article L. 89 ou en
-dehors des conditions d'autorisation ;
-
-2° Le fait d'utiliser une installation ou un équipement terminal radioélectrique n'ayant pas fait l'objet de l'attestation de
-conformité prévue au 1° de l'article R. 20-2.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L89, R20-2
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. R20-30-1 (M)
-
-
-###### Article R20-28
-
-Est puni de la peine d'amende prévue pour les contraventions de la 4e classe le fait de connecter à un réseau ouvert au
-public un équipement terminal n'ayant pas fait l'objet de l'attestation de conformité ou d'une décision approuvant cette
-connexion conformément aux dispositions du 1° de l'article R. 20-2 ou du 1° de l'article R. 20-18.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. R20-30-1 (M)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-2, R20-18
-
-
-###### Article R20-29
-
-Est puni de la peine d'amende prévue pour les contraventions de la 5e classe le fait d'effectuer ou de faire effectuer une
-publicité portant sur un équipement terminal n'ayant pas fait l'objet de l'attestation de conformité ou d'une décision
-approuvant sa connexion à un réseau ouvert au public conformément aux dispositions du 1° de l'article R. 20-2 ou du 1° de
-l'article R. 20-18.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-2, R20-18
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-30
-
-Est puni de la peine d'amende prévue pour les contraventions de la 5e classe l'usage de la qualité d'installateur admis en
-télécommunications ou en radiocommunications effectué en violation des dispositions de l'article R. 20-24.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Cité par_:
-
-  - Arrêté du 18 novembre 2009 (V)
-  - Code des postes et des communications électroni... - art. R20-30-1 (V)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-24
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-30-1
-
-Les personnes coupables des contraventions prévues aux articles R. 20-26, R. 20-27 et R. 20-28 encourent également la peine
-complémentaire de confiscation des équipements terminaux concernés.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-34 (V)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-26, R20-27, R20-28
-
-
-###### Article R20-30-2
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des contraventions définies aux articles R. 20-26 à R. 20-30.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 du code pénal ;
-
-2° La confiscation des équipements terminaux concernés, dans les cas prévus par les articles R. 20-26, R. 20-27 et R. 20-28.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-26 à R20-30, R20-26, R20-27, R20-28
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-41 (V)
-
-_Créé par_:
-
-  - Décret n°98-266 du 2 avril 1998 - art. 1 () JORF 8 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-#### CHAPITRE Ier BIS : Le service public des télécommunications<a id=99></a>
-
-##### SECTION 1 : Le financement du service universel des télécommunications.<a id=100></a>
-
-###### Article R20-31
-
-Les coûts imputables aux obligations de service universel et faisant l'objet d'une compensation sont composés :
-
-a) Du coût net des obligations tarifaires correspondant aux obligations de péréquation géographique mentionnées au 1° du II
-de l'article L. 35-3, évalué selon la méthode définie à l'article R. 20-33 ;
-
-b) Des coûts nets de l'offre et des obligations mentionnées au deuxième alinéa du 2° du II de l'article L. 35-3. Ces coûts
-sont évalués selon les méthodes définies aux articles R. 20-34, R. 20-35 et R. 20-36.
-
-L'évaluation de ces coûts comprend la rémunération du capital utilisé au titre du service universel, calculée selon la
-méthode définie à l'article R. 20-37. Elle prend en compte, dans les conditions fixées à l'article R. 20-37-1, l'avantage sur
-le marché que les opérateurs retirent, le cas échéant, des obligations de service universel.
-
-L'obligation mentionnée à l'article L. 35-1, alinéa 1, d'acheminer gratuitement les appels d'urgence ne fait pas l'objet
-d'une compensation, l'ensemble des fournisseurs de services téléphoniques au public y étant soumis.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L35-3, R20-33, R20-34, R20-35, R20-36, R20-37, R20-37-1, L35-1
-
-_Modifié par_:
-
-  - Décret n°2003-338 du 10 avril 2003 - art. 1 () JORF 13 avril 2003
-
-_Cité par_:
-
-  - Décret n°2004-408 du 13 mai 2004 - art. 1 (V)
-  - Décret n°2007-563 du 16 avril 2007 - art. 1 (V)
-  - Arrêté du 18 novembre 2009 - art. Annexe (V)
-  - Arrêté du 14 février 2012 - art. (V)
-  - Arrêté du 6 décembre 2012 - art. (V)
-  - Arrêté du 31 octobre 2013 - art. (V)
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-33
-
-I. - Le coût net des obligations tarifaires correspondant aux obligations de péréquation géographique est la somme, d'une
-part, des coûts nets pertinents dans les zones non rentables, c'est-à-dire les zones qui, en raison des coûts élevés de
-fonctionnement et d'investissement du réseau local et de l'obligation de fournir à tous un service téléphonique de qualité à
-un prix abordable, ne seraient pas desservies par un opérateur agissant dans les conditions du marché et, d'autre part, des
-coûts nets pertinents des abonnés situés dans les zones rentables qui, en raison des coûts élevés d'investissement et de
-fonctionnement des lignes de ces abonnés et de l'obligation de fournir à tous un service téléphonique de qualité à un prix
-abordable, ne seraient pas desservies par un opérateur agissant dans les conditions du marché.
-
-La dimension des zones est fondée sur l'organisation technique du réseau téléphonique de l'opérateur de service universel et
-prend en compte les décisions d'investissement et l'activité commerciale d'un opérateur qui ne serait pas soumis aux
-obligations de service universel. Les zones retenues ont une taille au plus égale à celle des zones de répartition locale au
-sein desquelles elles sont définies.
-
-II. - Le coût net pertinent dans chacune des zones non rentables est égal au solde des recettes qui seraient perdues par
-l'opérateur et des coûts d'investissement et de fonctionnement qui ne seraient pas encourus par l'opérateur, si la zone
-n'était pas desservie, évalués à partir de la comptabilité analytique des recettes et des dépenses auditée dans les
-conditions prévues au I de l'article L. 35-3. Ce solde prend en compte les bénéfices mentionnés aux a, b et c de l'article
-R . 20-37-1.
-
-Les recettes pertinentes comprennent les recettes fixes du réseau, les recettes tirées des communications sur le réseau
-téléphonique émises ou reçues par les abonnés de la zone et l'ensemble des recettes indirectes tirées des communications
-émises ou reçues par les abonnés de la zone, notamment les recettes des services facturés entièrement ou partiellement à
-l'appelé ainsi que les recettes résultant de la faculté de ne pas figurer sur les listes publiées d'abonnés ou d'utilisateurs
-prévue à l'article L. 33-4.    Les coûts pertinents d'investissements et de fonctionnement comprennent, d'une part, les coûts
-de desserte et de gestion des abonnés de la zone considérée et, d'autre part, les coûts de réseau de commutation et de
-transmission correspondant à l'écoulement du trafic entrant et sortant relatif à cette zone. Les coûts d'investissement sont
-fondés sur les coûts de remplacement calculés sur la base des meilleures technologies industriellement disponibles.
-
-III. - Le coût net pertinent des abonnés situés dans les zones rentables qui ne seraient pas desservies par un opérateur
-agissant dans les conditions du marché est évalué en utilisant la même méthode que celle décrite au II.
-
-IV. - L'Autorité de régulation des télécommunications précise et publie les règles d'imputation comptable des coûts et des
-recettes nécessaires aux calculs prévus au II et au III et contrôle les modèles utilisés pour évaluer les coûts nets, et
-délimiter les zones considérées.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2003-338 du 10 avril 2003 - art. 3 () JORF 13 avril 2003
-
-_Cité par_:
-
-  - Décret n°2007-563 du 16 avril 2007 - art. 1 (V)
-  - Code des postes et des communications électroni... - art. R20-31 (V)
-  - Code des postes et des communications électroni... - art. R20-37 (V)
-  - Code des postes et des communications électroni... - art. R20-40 (V)
-  - Code des postes et des communications électronique - art. R20-39 (M)
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cite_:
-
-  - Code des postes et télécommunications L35-3, R20-37-1, L33-4
-
-
-###### Article R20-34
-
-I. - Les personnes physiques qui ont droit au revenu minimum d'insertion ou qui perçoivent l'allocation de solidarité
-spécifique ou l'allocation aux adultes handicapés et qui ont souscrit un abonnement au service téléphonique fixe auprès de
-l'opérateur qui les dessert, autorisé selon les conditions fixées au III, bénéficient, sur leur demande, d'une réduction de
-leur facture téléphonique. A cette fin, l'organisme gestionnaire de la prestation au titre de laquelle le droit à réduction
-tarifaire est ouvert leur délivre chaque année une attestation. L'intéressé transmet ladite attestation accompagnée du nom de
-l'opérateur qui le dessert et du numéro de sa ligne téléphonique au prestataire, chargé par les opérateurs de la gestion du
-dispositif de réduction tarifaire, et autorise ce prestataire à communiquer les informations suivantes aux opérateurs
-concernés : nom, prénom, adresse et numéro de téléphone.
-
-Peuvent également bénéficier de cette même réduction, majorée de 4 euros hors taxes par mois, les invalides de guerre
-cumulant le bénéfice des articles L. 16 et L. 18 du code des pensions militaires d'invalidité et des victimes de la guerre
-dont les invalidités supplémentaires sont évaluées à 10 % pour le calcul du complément de pension prévu à l'article L. 16
-dudit code, les aveugles de guerre bénéficiaires de l'article L. 18 du code précité et les aveugles de la Résistance
-bénéficiaires de l'article L. 189 du même code.
-
-Le ministre chargé des télécommunications fixe au 1er novembre de chaque année pour l'année suivante, par arrêté, pris après
-avis de l'Autorité de régulation des télécommunications, le montant mensuel de la réduction tarifaire accordée.    Le montant
-de la compensation versée à chaque opérateur par le fonds de service universel des télécommunications est égal au coût net de
-l'offre tarifaire auquel s'ajoutent les coûts de gestion exposés par les organismes gestionnaires et par le prestataire
-chargé de la gestion du dispositif de réduction tarifaire pour le compte des opérateurs. Le coût net de l'offre tarifaire est
-égal au produit du montant des réductions tarifaires accordées par le nombre des abonnés de l'opérateur qui en bénéficient.
-
-II. - Les personnes physiques utilisant, au lieu de leur résidence principale, un service téléphonique fixe d'un opérateur
-autorisé selon les conditions fixées au III peuvent demander une aide pour assurer le paiement de leur dette téléphonique.
-Les dépenses prises en charge comprennent exclusivement l'abonnement au service téléphonique fixe et les communications
-nationales vers des abonnés au service téléphonique fixe ou mobile, à l'exclusion des communications mettant en oeuvre des
-mécanismes de reversement au destinataire final de la communication.
-
-La décision de prise en charge de tout ou partie des dépenses mentionnées à l'alinéa précédent est prise par le préfet du
-département dans lequel est située la résidence principale du demandeur, après avis d'une commission. Cette commission, dont
-la composition est fixée par arrêté préfectoral, est présidée par le préfet et comprend notamment des représentants des
-services de l'Etat concernés, des organismes de protection sociale et des opérateurs de télécommunications.
-
-La demande de prise en charge de la dette téléphonique doit être adressée au secrétariat de la commission au plus tard trente
-jours après que l'opérateur a mis en demeure l'abonné de s'acquitter de celle-ci. Le secrétariat de la commission informe
-l'opérateur de cette saisine dans un délai de huit jours à compter de la réception de la demande. Le préfet statue sur la
-demande au plus tard soixante jours après que le secrétariat de la commission a été saisi, en prenant notamment en compte le
-niveau de revenu, la situation sociale et familiale du demandeur et les justifications apportées à l'appui de la demande. La
-décision est notifiée au demandeur et à l'opérateur concerné.
-
-Les personnes qui saisissent le secrétariat de la commission mentionnée à l'alinéa précédent bénéficient, à partir du moment
-où ce secrétariat a avisé l'opérateur, d'un accès restreint au service téléphonique, comportant la possibilité de recevoir
-des appels ainsi que d'acheminer les appels aux services gratuits et d'urgence. L'obligation d'assurer cet accès restreint
-cesse après que le préfet a statué sur la demande et, au plus tard, quatre-vingt dix jours après la date de réception par
-l'abonné de la mise en demeure de payer mentionnée au précédent alinéa.
-
-Un arrêté du ministre chargé des télécommunications fixe, dans chaque département, en tenant compte de la population et du
-nombre de bénéficiaires du revenu minimum d'insertion de ce département, le montant des crédits disponibles pour la prise en
-charge des dettes téléphoniques. Le montant total des aides est au plus égal à 0,15 % du chiffre d'affaires du service
-téléphonique au public.
-
-Le fonds de service universel des télécommunications assure la compensation, au profit de chaque opérateur, des dettes
-téléphoniques prises en charge. Le préfet constate trimestriellement, pour chacun des opérateurs concernés, le montant de ces
-dettes. Il communique à chaque opérateur le montant qui le concerne et à l'Autorité de régulation des télécommunications
-l'ensemble des montants constatés.
-
-III. - Les opérateurs qui souhaitent offrir à leurs clients la possibilité de bénéficier des dispositions du I ou du II
-transmettent leur demande simultanément au ministre chargé des télécommunications et à l'Autorité de régulation des
-télécommunications. Le ministre se prononce dans un délai de deux mois suivant la réception de la demande, après avis de
-l'Autorité de régulation des télécommunications. Si l'Autorité de régulation des télécommunications ne se prononce pas dans
-le délai d'un mois à compter de la réception de la demande, son avis est réputé positif. A défaut de réponse du ministre dans
-le délai de deux mois, la demande est considérée comme acceptée.
-
-Le montant total des aides accordées au titre du I et du II ainsi que des frais de gestion considérés au I est au plus égal à
-0,8 % du chiffre d'affaires du service téléphonique au public.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2003-338 du 10 avril 2003 - art. 4 () JORF 13 avril 2003
-
-_Cité par_:
-
-  - Arrêté du 19 février 2010 - art. 1 (V)
-  - Arrêté du 31 octobre 2013 - art. (V)
-  - Code des postes et des communications électroni... - art. R20-30-1 (V)
-  - Code des postes et des communications électroni... - art. R20-40 (V)
-  - Code des postes et des communications électronique - art. R20-31 (M)
-  - Code des postes et des communications électronique - art. R20-36 (M)
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des v - art. L16 (M)
-  - Code des pensions militaires d'invalidité et des v - art. L18 (M)
-  - Code des pensions militaires d'invalidité et des v - art. L189 (V)
-
-
-###### Article R20-35
-
-Lorsque les obligations relatives à la publiphonie définies dans le cahier des charges de l'opérateur chargé du service
-universel sont satisfaites, le coût net de l'obligation d'assurer la desserte du territoire en cabines téléphoniques
-installées sur le domaine public est évalué pour chaque commune du territoire par la différence entre, d'une part, les coûts
-supportés par l'opérateur pour l'installation et l'entretien de ses cabines installées dans cette commune et pour le trafic
-émis et reçu par ces cabines et, d'autre part, les recettes générées directement et indirectement par ces cabines. Lorsque
-ces recettes sont supérieures aux coûts, ou lorsque le nombre de cabines installées sur le domaine public dans la commune est
-supérieur au nombre de cabines tel que résultant des obligations de service universel, aucune compensation n'est due.
-
-L'opérateur de service universel fournit à l'Autorité de régulation des télécommunications les éléments permettant de
-réaliser l'évaluation décrite à l'alinéa précédent.
-
-Les recettes prises en compte dans ce calcul comprennent en particulier une affectation aux cabines des recettes suivantes :
-
-vente de cartes téléphoniques prépayées, publicité sur les cabines publiques et les cartes téléphoniques prépayées ainsi que
-les recettes générées par les autres cartes utilisables dans les cabines téléphoniques. Cette affectation est faite au
-prorata du trafic des cabines.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°97-475 du 13 mai 1997 - art. 1 () JORF 14 mai 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-31 (M)
-  - Code des postes et des communications électroni... - art. R20-37 (V)
-
-
-###### Article R20-36
-
-Le coût net des obligations correspondant à la fourniture du service universel de renseignements et de l'annuaire universel
-d'abonnés sous formes imprimée et électronique fourni par l'opérateur en charge du service universel est égal à la différence
-des coûts et des recettes imputables à ces obligations.
-
-Les coûts pris en compte concernent : les coûts d'achat des listes d'abonnés tels que prévus à l'article L. 33-4, les coûts
-directement affectables à l'édition, à l'impression et à la distribution des annuaires, ainsi que les coûts directement
-entraînés par la fourniture d'un service de renseignements et d'annuaire universel sous forme électronique, notamment les
-coûts relatifs aux centres de renseignements, aux équipements dédiés au service d'annuaire électronique, à l'accès au réseau
-téléphonique.
-
-Les recettes prises en compte concernent : les recettes tirées de la vente et de la publicité dans les annuaires imprimés, y
-compris la publicité pour les produits d'un opérateur en charge du service universel ; les recettes tirées des services de
-renseignements et d'annuaire électronique, y compris la publicité ; les recettes nettes résultant du trafic induit par la
-consultation des services d'annuaires et de renseignements ; les recettes nettes des produits dérivés, notamment celles
-provenant des ventes de fichiers.
-
-Lorsque les recettes sont supérieures aux coûts, aucune compensation n'est due.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L33-4
-
-_Modifié par_:
-
-  - Décret n°2003-338 du 10 avril 2003 - art. 5 () JORF 13 avril 2003
-
-_Cité par_:
-
-  - Décret n°2007-563 du 16 avril 2007 - art. 1 (V)
-  - Code des postes et des communications électroni... - art. R20-31 (V)
-  - Code des postes et des communications électronique - art. R20-37 (M)
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-37
-
-Pour évaluer les coûts mentionnés aux articles R. 20-33, R. 20-35 et R. 20-36, le taux de rémunération du capital utilisé est
-fixé par arrêté du ministre chargé des télécommunications sur proposition de l'Autorité de régulation des télécommunications,
-en tenant compte du coût moyen pondéré des capitaux permanents pour l'opérateur chargé du service universel et de celui que
-supporterait un investisseur dans les activités de télécommunications en France.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-33, R20-35, R20-36
-
-_Créé par_:
-
-  - Décret n°97-475 du 13 mai 1997 - art. 1 () JORF 14 mai 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-31 (V)
-
-
-###### Article R20-37-1
-
-L'avantage mentionné au I de l'article L. 35-3 que retirent, le cas échéant, les opérateurs des obligations de service
-universel qui leur incombent comprend :
-
-a) Le bénéfice technique et commercial résultant de l'étendue du réseau, par rapport à un opérateur agissant dans les
-conditions du marché, pour le raccordement de nouveaux abonnés ;
-
-b) Le bénéfice lié à l'amélioration dans le temps des capacités économiques d'abonnés bénéficiant du service universel ;
-
-c) Le bénéfice tiré de l'exploitation des données relatives aux abonnés, pour la connaissance du marché ;
-
-d) Le bénéfice tiré de l'image de marque associée à la position d'opérateur de service universel.
-
-L'avantage mentionné au d du présent article est réparti entre les composantes de coûts mentionnés aux articles R. 20-33 à R.
-20-36, au prorata du coût net de ces composantes.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L35-3, R20-33 à R20-36
-
-_Créé par_:
-
-  - Décret n°2003-338 du 10 avril 2003 - art. 6 () JORF 13 avril 2003
-
-_Cité par_:
-
-  - Décret n°2007-563 du 16 avril 2007 - art. 1 (V)
-  - Décret n°2007-563 du 16 avril 2007 - art. 2 (V)
-  - Code des postes et des communications électroni... - art. R20-31 (V)
-  - Code des postes et des communications électronique - art. R20-33 (M)
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-39
-
-Les opérateurs qui contribuent au fonds de service universel créé par l'article L. 35-3 sont les exploitants de réseaux
-ouverts au public et les fournisseurs de services téléphoniques au public. La contribution de chaque opérateur est calculée
-au prorata de son volume de trafic. Pour chaque opérateur, le trafic considéré est égal à la somme des trafics au départ et à
-l'arrivée de tous les terminaux connectés à ses réseaux ouverts au public. La contribution mentionnée à l'article R. 20-33
-est calculée au prorata du trafic téléphonique.
-
-Est porté au crédit du compte d'un opérateur donné le coût net éventuel relatif aux prestations de service universel rendues
-par cet opérateur.
-
-Est portée au débit du compte d'un opérateur donné la part des coûts nets relatifs aux prestations de service universel due
-par cet opérateur ainsi que sa part des frais de gestion de la Caisse des dépôts et consignations mentionnés au deuxième
-alinéa de l'article R. 20-42.
-
-Si, pour la dernière année pour laquelle ce solde a été constaté, le solde définitif d'un opérateur est débiteur, cet
-opérateur verse une contribution provisionnelle du montant correspondant au fonds. Si ce solde est créditeur, le fonds lui
-verse le montant correspondant dans les conditions prévues à l'article R. 20-42. Le cas échéant, les montants sont augmentés
-ou diminués des montants résultant de l'application de l'alinéa suivant. Les versements des opérateurs sont effectués au
-cours de l'année considérée, en deux versements d'un montant égal à la moitié des sommes dues, le 15 janvier et le 15
-septembre.
-
-Si un nouvel opérateur fournit le service universel, l'Autorité de régulation des télécommunications évalue le coût
-prévisionnel de ce service à partir d'informations concernant l'année précédant l'année de fourniture du service,
-communiquées par le nouvel opérateur, au plus tard le 31 octobre de l'année précédant l'année en cause.
-
-L'Autorité de régulation des télécommunications notifie le montant des contributions provisionnelles à la Caisse des dépôts
-et consignations et à chaque opérateur au plus tard le 15 décembre de l'année précédant l'année considérée. La Caisse des
-dépôts et consignations traite ces informations de manière confidentielle.
-
-Les soldes définitifs relatifs à l'année considérée sont constatés et rendus publics par le ministre chargé des
-télécommunications au plus tard le 31 mai de la deuxième année suivant l'année considérée sur proposition de l'Autorité de
-régulation des télécommunications, exprimée au plus tard le 30 avril de la deuxième année suivant l'année considérée.
-L'Autorité de régulation des télécommunications notifie ces valeurs à chaque opérateur et à la Caisse des dépôts et
-consignations au plus tard le 30 juin de la deuxième année suivant l'année considérée. Elle évalue ces soldes notamment sur
-la base des résultats de la comptabilité auditée des opérateurs relative à l'année considérée, mentionnée au I de l'article
-L. 35-3, et des volumes constatés pour cette même année. Les versements de la régulation des contributions interviennent au
-plus tard le 20 septembre de la deuxième année suivant l'année considérée. Ceux-ci comprennent le versement d'un intérêt au
-taux de l'Euribor 12 mois qui court des dates d'échéance à la date de régularisation.
-
-En cas de défaillance d'un opérateur, et si les sommes dues par cet opérateur ne sont pas recouvrées dans un délai d'un an à
-compter de la défaillance telle que mentionnée à l'article R. 20-43, elles sont imputées lors de l'exercice suivant cette
-constatation sur les comptes des autres opérateurs au prorata de la part de chacun calculée de la manière décrite ci-dessus
-et payées en même temps que le solde définitif suivant.
-
-Les reversements du fonds aux opérateurs créditeurs sont effectués selon les modalités prévues à l'article R. 20-42.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 19 décembre 1997 - art. ANNEXE (V)
-  - Arrêté du 23 décembre 2010 - art. (V)
-  - Décret n°2016-1870 du 26 décembre 2016 - art. 6 (V)
-  - Code des postes et des communications électroni... - art. R20-40 (V)
-  - Code des postes et des communications électroni... - art. R20-42 (V)
-
-_Modifié par_:
-
-  - Décret n°2003-338 du 10 avril 2003 - art. 8 () JORF 13 avril 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cite_:
-
-  - Code des postes et télécommunications L35-3, R20-33, R20-42, R20-43
-
-
-###### Article R20-40
-
-Les opérateurs soumis à des obligations de service universel adressent des données constatées relatives aux tarifs et aux
-conditions d'offre concernant l'année considérée au ministre chargé des télécommunications et à l'Autorité de régulation des
-télécommunications au plus tard le 15 juillet de l'année suivant l'année considérée.
-
-L'opérateur chargé du service universel fournit ses données constatées portant notamment sur les coûts, les recettes, les
-volumes de trafic et le nombre d'abonnés, notamment ceux bénéficiant des dispositions de l'article R. 20-34.
-
-Les autres opérateurs mentionnés aux articles L. 33-1 et L. 34-1 fournissent leurs données constatées de volume de trafic.
-Ceux d'entre eux qui appliquent les dispositions de l'article R. 20-34 précisent le nombre d'abonnés correspondants.
-
-L'Autorité de régulation des télécommunications évalue chaque année les coûts, les bénéfices et le taux de rémunération du
-capital mentionnés aux articles R. 20-33 à R. 20-37-1 ; elle publie les règles employées pour l'application des méthodes
-mentionnées dans ces articles ainsi que pour celles de l'article R. 20-39.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-34, L33-1, L34-1, R20-33 à R20-37-1, R20-39
-
-_Modifié par_:
-
-  - Décret n°2003-338 du 10 avril 2003 - art. 9 () JORF 13 avril 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-41
-
-La Caisse des dépôts et consignations assure la gestion comptable et financière du fonds de service universel créé au 2° du
-II de l'article L. 35-3, dans un compte spécifique créé à cet effet. Elle est chargée :
-
-1° D'effectuer les opérations de recouvrement et de reversement afférent à chacun des opérateurs et de tenir pour chaque
-année la comptabilité les retraçant ;
-
-2° De constater les retards de paiement ou les défaillances des opérateurs et d'engager éventuellement les actions
-contentieuses nécessaires aux recouvrements ;
-
-3° D'informer l'Autorité de régulation des télécommunications des retards de paiement, des défaillances et de l'évolution des
-procédures contentieuses engagées ; elle lui adresse en outre un rapport annuel d'exécution sur la gestion comptable et
-financière du fonds de service universel.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°97-475 du 13 mai 1997 - art. 1 () JORF 14 mai 1997
-
-_Cité par_:
-
-  - Arrêté du 23 décembre 2010 - art. (V)
-  - Code des postes et des communications électroni... - art. R20-42 (V)
-  - Code des postes et des communications électroni... - art. R20-43 (V)
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cite_:
-
-  - Code des postes et télécommunications L35-3
-
-
-###### Article R20-42
-
-Le compte spécifique mentionné à l'article R. 20-41 est géré par la Caisse des dépôts et consignations sous le contrôle d'un
-comité de trois membres présidé par un magistrat de la Cour des comptes et comprenant un membre de l'Autorité de régulation
-des télécommunications et un représentant de la Caisse des dépôts et consignations.
-
-Le compte spécifique retrace en charge les frais de gestion exposés par la Caisse des dépôts et consignations au titre des
-missions mentionnées à l'article R. 20-41. La Caisse des dépôts et consignations évalue au 15 décembre de l'année précédente
-le montant prévisionnel des frais de gestion à facturer pour l'année en cours. Ce montant doit ensuite faire l'objet d'une
-approbation du comité mentionné au premier alinéa au plus tard le 15 janvier de l'année considérée.
-
-Le compte est alimenté par virements effectués par les opérateurs débiteurs aux échéances fixées par l'article R. 20-39.
-L'opérateur débiteur prend toutes dispositions pour que les fonds parviennent à bonne date à la Caisse des dépôts et
-consignations. Les reversements au profit des opérateurs créditeurs sont effectués dans les dix jours suivant la date
-d'échéance.
-
-A chaque échéance, le montant global des reversements effectués au profit des opérateurs créditeurs est égal aux sommes
-effectivement recouvrées par le fonds géré par la Caisse des dépôts et consignations, minorées d'une somme correspondant à la
-moitié des frais prévisionnels de gestion visés au 2e alinéa du présent article. Les sommes non réglées au jour de l'échéance
-portent intérêt de droit au taux de l'Euribor 12 mois du jour de l'échéance.
-
-Dans le cas où l'ensemble des sommes dues ne sont pas recouvrées, le montant reversé à chacun des opérateurs créditeurs est
-fixé au prorata du montant qu'il aurait dû percevoir en l'absence de défaillance d'un contributeur au fonds, le solde étant
-reporté sur l'exercice suivant.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 19 décembre 1997 - art. ANNEXE (V)
-  - Code des postes et des communications électroni... - art. R20-39 (V)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-41, R20-39
-
-_Modifié par_:
-
-  - Décret n°2003-338 du 10 avril 2003 - art. 10 () JORF 13 avril 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-43
-
-La défaillance de l'opérateur est valablement constatée en cas de non-paiement, pour quelque cause que ce soit, des sommes
-dues par celui-ci à l'échéance prévue lorsque la mise en demeure, adressée par la Caisse des dépôts et consignations, par
-lettre recommandée avec accusé de réception, dans un délai de trois semaines suivant l'échéance est demeurée infructueuse
-après un délai de trois semaines. La Caisse des dépôts et consignations procède au recouvrement contentieux des sommes
-restées impayées dans les délais mentionnés ci-dessus et reverse les sommes recouvrées minorées des frais liés à ces
-contentieux sur le compte spécifique mentionné à l'article R. 20-41, dans un délai de deux semaines suivant leur
-recouvrement.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°97-475 du 13 mai 1997 - art. 1 () JORF 14 mai 1997
-
-_Cité par_:
-
-  - Arrêté du 19 décembre 1997 - art. ANNEXE (V)
-  - Arrêté du 23 décembre 2010 - art. (V)
-  - Code des postes et des communications électroni... - art. R20-39 (V)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-41
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-44
-
-Une convention entre la Caisse des dépôts et consignations et l'Autorité de régulation des télécommunications, approuvée par
-arrêté du ministre chargé des télécommunications précise :
-
-1° Les modalités selon lesquelles les opérateurs débiteurs effectuent les versements au compte spécifique et les modalités
-selon lesquelles sont effectués les reversements aux opérateurs créditeurs ;
-
-2° Les modalités de calcul des frais de gestion et notamment les règles retenues pour l'établissement de la comptabilité
-analytique permettant d'évaluer les charges supportées par la Caisse des dépôts et consignations ;
-
-3° Les modalités d'information de l'Autorité de régulation des télécommunications en cas de retard de paiement d'un opérateur
-ou de notification à cette Autorité en cas de défaillance d'un opérateur.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°97-475 du 13 mai 1997 - art. 1 () JORF 14 mai 1997
-
-_Cité par_:
-
-  - Arrêté du 27 mars 2015 (V)
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-#### CHAPITRE II : Droits de passage sur le domaine public routier et servitudes<a id=101></a>
-
-##### SECTION 2 : Servitudes.<a id=102></a>
-
-###### Article R*20-60
-
-L'identité des agents mandatés par l'opérateur autorisé ou par une société mandatée par celui-ci pour l'exécution des travaux
-et la date de commencement des travaux sont indiqués sur une liste portée à la connaissance du propriétaire ou de son
-mandataire ou, en cas de copropriété, du syndic par le bénéficiaire de la servitude huit jours au moins avant la date prévue
-de la première intervention. Elle est établie par le bénéficiaire de la servitude et transmise au propriétaire.
-
-Toute modification de la liste des agents mandatés est notifiée par le bénéficiaire de la servitude au propriétaire ou à son
-mandataire ou, en cas de copropriété, au syndic.
-
-Les agents des opérateurs autorisés doivent être munis d'une attestation signée par le bénéficiaire de la servitude et de
-l'entreprise à laquelle appartient cet agent pour accéder à l'immeuble, au lotissement ou à la propriété non bâtie.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*20-61
-
-L'arrêté instituant la servitude est périmé de plein droit si l'exécution des travaux n'a pas commencé dans les douze mois
-suivant sa publication.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*20-62
-
-Le schéma des installations après la réalisation des travaux est adressé par le bénéficiaire de la servitude au propriétaire
-ou à son mandataire ou, en cas de copropriété, au syndicat représenté par le syndic.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-55
-
-Lorsqu'il demande l'institution de la servitude prévue à l'article L. 45-1, l'opérateur autorisé en vertu de l'article L.
-33-1 adresse au maire de la commune dans laquelle est située la propriété sur laquelle il envisage d'établir l'ouvrage, en
-autant d'exemplaires qu'il y a de propriétaires ou, en cas de copropriété, de syndics concernés plus trois, un dossier
-indiquant :
-
-1° La localisation cadastrale de l'immeuble, du groupe d'immeubles ou de la propriété non bâtie, accompagnée de la liste des
-propriétaires concernés ;
-
-2° Les motifs qui justifient le recours à la servitude ;
-
-3° L'emplacement des installations, à l'aide notamment d'un schéma. Une notice précise les raisons pour lesquelles, en vue de
-respecter la qualité esthétique des lieux et d'éviter d'éventuelles conséquences dommageables pour la propriété, ces
-modalités ont été retenues ; elle précise éventuellement si l'utilisation d'installations existantes est souhaitée ou, à
-défaut, les raisons pour lesquelles il a été jugé préférable de ne pas utiliser ou emprunter les infrastructures existantes.
-Un échéancier prévisionnel de réalisation indique la date de commencement des travaux et leur durée prévisible.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-56 (VD)
-
-_Cite_:
-
-  - Code des postes et télécommunications L45-1, L33-1
-
-
-###### Article R20-56
-
-Le maire notifie dans un délai d'un mois au propriétaire ou, en cas de copropriété, au syndic identifié, en tant que de
-besoin, dans les conditions prévues par l'article R. 11-19 du code de l'expropriation pour cause d'utilité publique, ou à
-toute personne habilitée à recevoir la notification au nom des propriétaires, le nom ou la raison sociale de l'opérateur qui
-sollicite le bénéfice de la servitude. Cette notification est accompagnée du dossier constitué par le demandeur de la
-servitude prévu à l'article R. 20-55.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-55
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-19 (V)
-
-_Créé par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-57
-
-Dans le mois à compter de la réception de la demande, le maire invite, le cas échéant, le demandeur à se rapprocher du
-propriétaire d'installations existantes, auquel il notifie cette invitation simultanément.
-
-En cas d'échec des négociations de partage des installations constaté par une partie, l'opérateur peut confirmer au maire sa
-demande initiale dans un délai maximal de trois mois, le cas échéant prolongé jusqu'à la décision de l'autorité de régulation
-des télécommunications si cette dernière est saisie, à compter de l'invitation à partager les installations prévues, en
-précisant les raisons pour lesquelles il n'a pas été possible d'utiliser les installations existantes.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-58
-
-Dans le mois suivant l'expiration du délai mentionné au deuxième alinéa de l'article L. 48 du code des postes et
-télécommunications, qui ne peut être supérieur à quatre mois, et au vu des observations qui ont été présentées, le maire
-agissant au nom de l'Etat institue la servitude. Cet arrêté spécifie les opérations que comportent la réalisation et
-l'exploitation des installations et mentionne les motifs qui justifient l'institution de la servitude et le choix de
-l'emplacement.
-
-Aux frais du pétitionnaire, l'arrêté du maire est notifié au propriétaire ou, en cas de copropriété, au syndic et affiché à
-la mairie.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. R20-59 (V)
-  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
-
-_Cite_:
-
-  - Code des postes et télécommunications L48
-
-_Créé par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-59
-
-Les travaux ne peuvent commencer qu'après que l'arrêté du maire a été notifié et publié dans les conditions prévues à
-l'article précédent.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-58
-
-_Créé par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-##### SECTION 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.<a id=103></a>
-
-###### Article R*21
-
-Autour de chaque station émettrice ou réceptrice d'ondes radioélectriques utilisant des aériens directifs, ainsi qu'autour
-des laboratoires et centres de recherches radioélectriques, il peut être créé deux zones de servitudes respectivement dites
-"zone primaire de dégagement" et "zone secondaire de dégagement".
-
-Entre deux centres assurant une liaison radioélectrique par ondes de fréquence supérieure à 30 mégahertz (c'est-à-dire de
-longueur d'onde inférieure à 10 mètres), il peut être créé une zone de servitudes dite "zone spéciale de dégagement".
-
-Il peut également être créé une zone de servitudes dite "secteur de dégagement" autour des stations de radiorepérage ou de
-radionavigation d'émission ou de réception.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 54 et suivants.*]
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. (VD)
-  - Code de la défense. - art. D5131-13 (V)
-  - Code de la défense. - art. R5113-1 (V)
-  - Code des transports - art. L6350-1 (V)
-  - Code des transports - art. L6763-7 (V)
-  - Code des transports - art. L6773-8 (V)
-  - Code des transports - art. L6783-9 (V)
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L98
-
-
-###### Article R*22
-
-La distance séparant la limite d'un centre radioélectrique de toute nature et le périmètre des zones de servitudes ne peut
-excéder :
-
-- 2 000 mètres dans le cas d'une zone secondaire de dégagement ;
-
-- 400 mètres dans le cas d'une zone primaire de dégagement entourant une installation de sécurité aéronautique ou un centre
-radiogoniométrique ;
-
-- 200 mètres dans le cas d'une zone primaire de dégagement entourant un centre autre que ceux précités ;
-
-- 5 000 mètres dans le cas d'un secteur de dégagement.
-
-La limite d'un centre [*définition*] est définie comme étant le contour du polygone de surface minimum englobant tous les
-éléments rayonnants ou collecteurs existants ou projetés. Toutefois, lorsque la distance entre deux points quelconques de ce
-contour excède 2 000 mètres, l'ensemble des éléments rayonnants ou collecteurs doit être fractionné en plusieurs îlots dont
-les limites particulières répondent à la définition ci-dessus ; les zones de servitudes sont alors déterminées à partir de la
-limite de chacun de ces îlots.
-
-Les différentes zones ainsi déterminées peuvent faire l'objet d'un seul décret de servitudes même lorsqu'elles ne se
-recoupent pas mutuellement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R2
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*23
-
-La largeur d'une zone spéciale de dégagement protégeant une liaison radioélectrique entre deux points fixes comptée
-perpendiculairement à la projection horizontale du trajet des ondes radioélectriques ne peut excéder 50 mètres de part et
-d'autre de cette projection. Les constructions et obstacles situés dans la zone de dégagement définie au présent alinéa
-doivent se trouver à 10 mètres au-dessous de la ligne droite joignant les aériens d'émission et de réception, sans cependant
-que la limitation de hauteur imposée à une construction puisse être inférieure à 25 mètres.
-
-La largeur d'un secteur de dégagement protégeant une station de radiorepérage ou de radionavigation ne peut excéder la
-largeur du secteur angulaire exploré par la station, augmenté, s'il y a lieu, d'une marge de sécurité d'un degré au plus au-
-delà des deux limites de ce secteur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R3
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*24
-
-Dans toute zone primaire, secondaire ou spéciale de dégagement, ainsi que dans tout secteur de dégagement, il est interdit,
-sauf autorisation du ministre dont les services exploitent le centre ou exercent la tutelle sur lui, de créer des obstacles
-fixes ou mobiles dont la partie la plus haute excède une cote fixée par le décret prévu à l'article R. 25.
-
-Lorsque la configuration du terrain le permet, les zones sont divisées en plusieurs parties, une cote particulière étant
-fixée pour chaque partie.
-
-Dans la zone primaire de dégagement d'une station de sécurité aéronautique ou d'un centre radiogoniométrique, il est en outre
-interdit de créer ou de conserver tout ouvrage métallique fixe ou mobile, des étendues d'eau ou de liquides de toute nature
-pouvant perturber le fonctionnement de cette installation ou de cette station.
-
-Dans la zone primaire de dégagement d'une station de sécurité aéronautique, il est également interdit de créer ou de
-conserver des excavations artificielles pouvant perturber le fonctionnement de cette station.
-
-Dans les zones boisées, l'établissement des centres projetés est subordonné à une décision préalable du ministre de
-l'agriculture constatant que le maintien de l'état boisé n'est pas reconnu indispensable dans le périmètre des servitudes à
-imposer.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R25
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L99
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Cité par_:
-
-  - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
-  - Code des transports - art. L6350-1 (V)
-  - Code des transports - art. L6763-7 (V)
-  - Code des transports - art. L6773-8 (V)
-  - Code des transports - art. L6783-9 (V)
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*25
-
-Les zones qui sont soumises à servitudes sont fixées par un plan d'établissement des servitudes après une enquête publique
-effectuée conformément aux dispositions qui sont de droit commun applicables aux enquêtes précédant les déclarations
-d'utilité publique. Toutefois, la mission dévolue par ces dispositions, soit à une commission d'enquête, soit à un
-commissaire enquêteur, est, dans tous les cas, confiée à un commissaire enquêteur.
-
-La préparation du dossier s'effectue comme suit : sur la demande du ministre intéressé ou de l'exploitant public de
-télécommunications, à laquelle est joint un projet de plan, le préfet désigne par arrêté les communes sur le territoire
-desquelles les agents qualifiés sont autorisés à procéder à une étude préliminaire. Ces agents ont la faculté de pénétrer
-dans les propriétés non closes de murs ou de clôtures équivalentes situées sur le territoire de ces communes.
-
-Après achèvement de l'enquête visée au premier alinéa du présent article, le plan des servitudes qui en résulte est approuvé
-par décret pris sous le contreseing du ministre dont les services exploitent le centre ou exercent la tutelle sur lui, sur
-avis de l'Agence nationale des fréquences ainsi que sous le contreseing du ministre de la construction.
-
-L'accord préalable du ministre du développement industriel et scientifique et du ministre de l'agriculture est requis dans
-tous les cas. Si l'accord entre les ministres n'intervient pas, il est statué par décret en Conseil d'Etat.
-
-Les servitudes portées au plan sont instituées à dater du jour de la publication du décret. Elles sont modifiées suivant la
-procédure prévue aux alinéas précédents du présent article lorsque la modification projetée entraîne un changement d'assiette
-de la servitude ou son aggravation. Elles sont réduites ou supprimées par décret sans qu'il y ait lieu de procéder à
-l'enquête.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 54 et suivants.*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L100
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R*24 (V)
-
-
-###### Article R*26
-
-Le décret de servitudes visé à l'article précédent fixe :
-
-- le ou les points de repère matérialisant la cote que ne doit pas excéder la partie la plus haute des obstacles fixes ou
-mobiles, dans les zones primaires et secondaires de dégagement ;
-
-- les cotes rapportées au nivellement général que ne doit pas excéder la partie la plus haute des obstacles fixes ou mobiles
-en chaque partie d'une zone spéciale de dégagement ;
-
-- le ou les points de repère matérialisant la cote que ne doit pas excéder la partie la plus haute des obstacles fixes ou
-mobiles dans un secteur de dégagement.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 54 et suivants.*]
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R25
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L101
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-##### SECTION 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.<a id=104></a>
-
-###### Article R*28
-
-Aux abords de tout centre de réception classé comme il vient d'être dit à l'article R. 27, il est institué une zone de
-protection radioélectrique. De plus, pour les centres de première et de deuxième catégories, il est institué, à l'intérieur
-de la zone de protection, une zone de garde radioélectrique.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 57 et suivants.*]
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R27
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L108
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*29
-
-La distance séparant les limites d'un centre de réception radioélectrique et le périmètre des zones de servitudes ne peut
-excéder :
-
-- dans le cas d'un centre de 3e catégorie : 200 mètres ;
-
-- dans le cas d'un centre de 2e catégorie : 500 mètres pour la zone de garde et 1 500 mètres pour la zone de protection ;
-
-- dans le cas d'un centre de 1re catégorie : 1 000 mètres pour la zone de garde et 3 000 mètres pour la zone de protection.
-
-La limite d'un centre de réception est définie comme étant le contour du polygone de surface minimum englobant toutes les
-installations techniques existantes ou projetées. Toutefois, lorsque la distance entre deux points quelconques de ce contour
-excède :
-
-- 2 000 mètres pour un centre de 1re catégorie ;
-
-- 1 000 mètres pour un centre de 2e catégorie ;
-
--  100 mètres pour un centre de 3e catégorie,
-
-l'ensemble des installations techniques doit être fractionné en plusieurs îlots dont les limites répondent à la définition
-ci-dessus ; les zones de servitudes sont alors déterminées à partir de la limite de chacun de ces îlots. Les différentes
-zones ainsi déterminées peuvent faire l'objet d'un seul décret de servitudes même lorsqu'elles ne se recoupent pas
-mutuellement.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 57 et suivants.*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R4
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*30
-
-Dans la zone de protection radioélectrique, il est interdit aux propriétaires ou usagers d'installations électriques de
-produire ou de propager des perturbations se plaçant dans la gamme d'ondes radioélectriques reçues par le centre et
-présentant pour les appareils du centre un degré de gravité supérieur à la valeur compatible avec l'exploitation du centre.
-
-En outre, dans la zone de garde radioélectrique, il est interdit de mettre en service du matériel électrique susceptible de
-perturber les réceptions radioélectriques du centre ou d'apporter des modifications à ce matériel, sans l'autorisation du
-ministre dont les services exploitent le centre ou exercent la tutelle sur lui.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 57 et suivants.*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L108
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Cité par_:
-
-  - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
-  - Code des postes et des communications électroni... - art. R*34 (V)
-  - Code des transports - art. L6350-1 (V)
-  - Code des transports - art. L6763-7 (V)
-  - Code des transports - art. L6773-8 (V)
-  - Code des transports - art. L6783-9 (V)
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*31
-
-Les zones qui sont soumises à servitudes sont fixées par un plan de servitudes après enquête publique effectuée conformément
-aux dispositions qui sont de droit commun applicables aux enquêtes précédant les déclarations d'utilité publique. Toutefois,
-la mission dévolue par ces dispositions soit à une commission d'enquête, soit à un commissaire enquêteur est, dans tous les
-cas, confiée à un commissaire enquêteur.
-
-La préparation du dossier d'enquête s'effectue comme suit :
-
-Sur la demande du ministre intéressé ou de l'exploitant public de télécommunications, à laquelle est joint un projet de plan,
-le préfet désigne par arrêté les communes sur le territoire desquelles les agents qualifiés sont autorisés à procéder à une
-étude préliminaire. Ces agents ont la faculté de pénétrer dans les propriétés non closes de murs ou de clôtures équivalentes
-situées sur le territoire de ces communes, ainsi qu'à l'intérieur des propriétés même closes et des bâtiments, à condition,
-en ce qui concerne les propriétés closes et les bâtiments, qu'ils aient été expressément mentionnés dans ledit arrêté. Ainsi
-qu'il est dit à l'article L. 58, les propriétaires et usagers sont tenus de se prêter aux investigations nécessaires et,
-notamment, de faire fonctionner, à la demande des agents, les installations et appareils que ceux-ci considèrent comme
-susceptibles de produire des troubles.
-
-Après achèvement de l'enquête, le plan des servitudes qui en résulte est approuvé par décret pris sous le contreseing du
-ministre intéressé et du ministre du développement industriel et scientifique, sur avis de l'Agence nationale des fréquences.
-
-En cas d'avis défavorable de ce comité [*caduc*], il est statué par décret en Conseil d'Etat.
-
-Les servitudes portées au plan sont instituées à dater du jour de la publication du décret. Elles sont modifiées suivant la
-procédure prévue aux alinéas précédents du présent article lorsque la modification projetée entraîne un changement d'assiette
-de la servitude ou son aggravation. Elles sont réduites ou supprimées par décret sans qu'il y ait lieu de procéder à
-l'enquête.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 57 et suivants.*]
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L58
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L109 et R5
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*32
-
-Les frais que motivent les modifications des installations préexistantes incombent à l'administration ou à l'exploitant
-public qui les prescrit dans la mesure où ces modifications excèdent la mise en conformité avec les lois, décrets et arrêtés
-en vigueur et, notamment, les textes concernant la protection de la radiodiffusion contre les troubles parasites industriels.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 57 et suivants.*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L114 al. 1
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*33
-
-Pour les centres de réception visés à l'article R. 27 du présent code, les pouvoirs conférés par le présent chapitre sont
-dévolus aux différents ministres intéressés et les décrets d'application portent leur contreseing.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 57 et suivants.*]
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R27
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L115
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*34
-
-Les modalités de contrôle des servitudes et obligations résultant des articles L. 60, L. 61 et R. 30, les conditions dans
-lesquelles interviennent les autorisations prévues aux articles L. 60 et R. 30 sont celles fixées par la loi du 15 juin 1906.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 57 et suivants.*]
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L60, L61 et R30
-  - Loi n°1906-06-15
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L117
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*35
-
-Les autorisations prévues à l'article 2 de la loi du 15 juin 1906 ne seront accordées qu'avec l'assentiment du ou des
-ministres intéressés ou de l'exploitant public dans tous les cas où, en vertu des dispositions du présent chapitre, il y a
-lieu à autorisation préalable à la mise en service.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 57 et suivants.*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L118
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cite_:
-
-  - Loi n°1906-06-15 art. 2
-
-
-###### Article R*36
-
-L'avis des ministres intéressés est ajouté, le cas échéant, à ceux en conformité desquels sont accordées les autorisations
-prévues à l'article 4 de la loi du 15 juin 1906.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 57 et suivants.*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L119
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cite_:
-
-  - Loi n°1906-06-15 art. 4
-
-
-###### Article R*37
-
-Aux conférences prévues à l'article 14 de la loi du 15 juin 1906 prennent part, le cas échéant, les représentants des
-ministres intéressés ou de l'exploitant public.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 57 et suivants.*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L120
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cite_:
-
-  - Loi n°1906-06-15 art. 14
-
-
-###### Article R*38
-
-Des arrêtés interministériels pris après avis de l'Agence nationale des fréquences et du comité technique de l'électricité,
-déterminent la liste et les caractéristiques du matériel électrique qui ne peut sans autorisation préalable :
-
-a) Etre mis en service, modifié ou transformé dans une zone de protection ou de garde radioélectriques ;
-
-b) Etre mis en service sur l'ensemble du territoire même hors des zones de servitudes.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 57 et suivants.*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L122
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*39
-
-L'exécution des dispositions des articles R. 21 à R. 38 ci-dessus relève d'une action concertée des ministres des armées, des
-postes et télécommunications, des travaux publics et des transports, de l'intérieur, de l'information, de l'industrie, de la
-construction et de l'agriculture.
-
-Les modalités de cette action sont établies par l'Agence nationale des fréquences.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 57 et suivants.*]
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R21 à R38
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R27
-
-Les centres de réception radioélectrique exploités par les différents départements ministériels ou se trouvant sous la
-tutelle de l'un d'eux sont classés en trois catégories d'après leur importance, la nature du service qu'ils assurent et leur
-situation géographique. Le classement de tout centre est effectué sur avis de l'Agence nationale des fréquences par arrêté du
-ministre intéressé.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. (VD)
-  - Code des postes et des communications électroni... - art. R*28 (V)
-  - Code des postes et des communications électroni... - art. R*33 (V)
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L107
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-##### SECTION 5 : Dispositions pénales.<a id=105></a>
-
-###### Article R*42
-
-Les astreintes prévues à l'article L. 63 sont recouvrées par les comptables directs du Trésor, sur réquisition du ministre
-intéressé ou de son délégué.
-
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat en exécution de l'article 45 de l'ordonnance n° 59-2 du 2 janvier 1959.*]
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L63
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L105 al. 7
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R40
-
-Les pénalités encourues en cas d'infraction aux dispositions du chapitre II sont celles fixées par les articles 23 et 24 de
-la loi du 15 juin 1906.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L117
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Cité par_:
-
-  - Code des transports - art. L6350-1 (V)
-  - Code des transports - art. L6763-7 (V)
-  - Code des transports - art. L6773-8 (V)
-  - Code des transports - art. L6783-9 (V)
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cite_:
-
-  - Loi n°1906-06-15 art. 23 et 24
-
-
-###### Article R41
-
-Les dispositions de l'article 24 de la loi du 15 juin 1906 sont applicables aux contraventions concernant le fonctionnement
-des centres de réception radioélectriques.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L121
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cite_:
-
-  - Loi n°1906-06-15 art. 24
-
-
-#### CHAPITRE III : Police des liaisons et des installations du réseau de télécommunications<a id=106></a>
-
-###### Article R42-1
-
-Afin de prévenir les dommages aux installations de télécommunications, l'emplacement des installations est porté à la
-connaissance des tiers par les opérateurs dans les conditions fixées par le décret n° 91-1147 du 14 octobre 1991 relatif à
-l'exécution de travaux à proximité de certains ouvrages souterrains, aériens ou subaquatiques de transport ou de
-distribution.
-
-Ce dépôt constitue une modalité d'information des tiers au sens de l'alinéa 3 de l'article L. 65.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L65
-  - Décret n°91-1147 1991-10-14
-
-_Modifié par_:
-
-  - Décret n°97-683 du 30 mai 1997 - art. 2 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-#### CHAPITRE IV : Protection des câbles sous-marins<a id=107></a>
-
-##### SECTION 2 : Dispositions pénales<a id=108></a>
-
-##### PARAGRAPHE I : Dispositions applicables aux eaux non territoriales.<a id=109></a>
-
-###### Article R45
-
-Est puni [*sanction*] de l'amende prévue pour les contraventions de la 4° classe quiconque s'est refusé à exhiber les pièces
-nécessaires pour rédiger les procès-verbaux prévus à l'article L. 79.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L79
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L138
-
-_Modifié par_:
-
-  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R50 (V)
-
-
-###### Article R46
-
-Est puni [*sanction*] de l'amende prévue pour les contraventions de la 5° classe :
-
-1° Le capitaine d'un bâtiment qui, occupé à la réparation ou à la pose d'un câble sous-marin, n'observe pas les règles sur
-les signaux adoptés en vue de prévenir les abordages [*infraction*] ;
-
-2° Le capitaine ou patron de tout bâtiment qui, apercevant ou étant en mesure d'apercevoir ces signaux, ne se retire pas ou
-ne se tient pas éloigné d'un mille nautique au moins du bâtiment occupé à la pose ou à la réparation d'un câble sous-marin ;
-
-3° Le capitaine ou patron de tout bâtiment qui, voyant ou étant en mesure de voir les bouées destinées à indiquer la position
-des câbles, ne se tient pas éloigné de la ligne des bouées d'un quart de mille nautique au moins.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R48 (V)
-  - Code des postes et des communications électroni... - art. R52 (V)
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L140
-
-
-###### Article R47
-
-Est puni [*sanction*] de l'amende prévue pour les contraventions de la 5° classe :
-
-1° Le capitaine ou patron de tout bâtiment qui a jeté l'ancre à moins d'un quart de mille nautique d'un câble sous-marin,
-dont il est en mesure de connaître la position au moyen de lignes de bouées ou autrement, ou s'est amarré à une bouée
-destinée à indiquer la position du câble [*infraction*], sauf les cas de force majeure ;
-
-2° Le patron de tout bateau de pêche qui ne tient pas ses engins ou filets à un mille nautique au moins du bâtiment occupé à
-la pose, à la réparation d'un câble sous-marin ; toutefois, les bateaux de pêche qui aperçoivent ou sont en mesure
-d'apercevoir le bâtiment portant les signaux adoptés ont, pour se conformer à l'avertissement, le délai nécessaire pour
-terminer l'opération en cours, sans que ce délai puisse dépasser vingt-quatre heures ;
-
-3° Le patron de tout bateau de pêche qui ne tient pas ses engins ou filets à un quart de mille nautique au moins de la ligne
-des bouées destinées à indiquer la position des câbles sous-marins.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L141
-
-_Modifié par_:
-
-  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R48
-
-Est puni de l'amende prévue pour les contraventions de la 5° classe :
-
-1° Toute personne qui, par négligence coupable et notamment dans les cas visés par les articles R. 46 et R. 47, rompt un
-câble sous-marin ou lui cause une détérioration qui peut avoir pour résultat d'interrompre ou d'entraver, en tout ou partie,
-les télécommunications ;
-
-2° Le capitaine de tout bâtiment qui, occupé à la pose ou à la réparation d'un câble sous-marin, est cause, par
-l'inobservation des règles sur les signaux adoptés en vue de prévenir les abordages, de la rupture ou de la détérioration
-d'un câble commise par tout autre navire.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R46 et R47
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L142
-
-_Modifié par_:
-
-  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R49
-
-Est punie [*sanction*] dd l'amende prévue pour les contraventions de la 5° classe :
-
-1° Toute personne qui fabrique, détient hors de son domicile, met en vente, embarque ou fait embarquer des instruments ou
-engins servant exclusivement à couper ou à détruire des câbles sous-marins [*infraction*] ;
-
-2° Toute personne qui fait usage des mêmes instruments ou engins.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L143
-
-_Modifié par_:
-
-  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-##### PARAGRAPHE II : Dispositions spéciales aux eaux territoriales.<a id=110></a>
-
-###### Article R50
-
-Les dispositions des articles R. 45 à R. 49 sont observées dans le cas où l'infraction aurait été commise dans les eaux
-territoriales par tout individu faisant partie de l'équipage d'un navire quelconque, français ou étranger, sans préjudice des
-dispositions de l'article L. 67.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R45 à R49 et L67
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L145
-
-_Modifié par_:
-
-  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R51
-
-Dans le cas prévu au troisième alinéa de l'article L. 81, l'auteur de la rupture ou de la détérioration est tenu, sous peine
-de l'amende prévue pour les contraventions de la 4° classe, de faire la déclaration prévue à l'article L. 72.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L72 et L81 al. 3
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L150 al. 3
-
-_Modifié par_:
-
-  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R52 (V)
-
-
-###### Article R52
-
-En cas de récidive, le maximum des peines édictées à l'article R. 51 est prononcé, ce maximum peut être élevé jusqu'au
-double.
-
-Il y a récidive pour les faits prévus par les articles R. 46 à R. 49, lorsque [*définition*], dans les deux années [*délai*]
-qui précèdent, il a été rendu contre le contrevenant un jugement définitif pour infraction aux dispositions desdits articles.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R46 à R49 et R51
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L151
-
-_Modifié par_:
-
-  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-## LIVRE III : Les services financiers<a id=111></a>
-
-### TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005).<a id=112></a>
+### TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005).<a id=113></a>
 
 ###### Article R52-10
 
@@ -13942,13 +13802,13 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R725-12 (M)
 
 
-# Partie réglementaire - Décrets simples<a id=113></a>
+# Partie réglementaire - Décrets simples<a id=114></a>
 
-## LIVRE Ier : Le service postal<a id=114></a>
+## LIVRE Ier : Le service postal<a id=115></a>
 
-### TITRE Ier : Dispositions générales<a id=115></a>
+### TITRE Ier : Dispositions générales<a id=116></a>
 
-#### Chapitre Ier : Le monopole postal.<a id=116></a>
+#### Chapitre Ier : Le monopole postal.<a id=117></a>
 
 ###### Article D1
 
@@ -14001,7 +13861,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R613-25 (VD)
 
 
-#### Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances.<a id=117></a>
+#### Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances.<a id=118></a>
 
 ###### Article D3
 
@@ -14030,7 +13890,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### Chapitre III : Création des bureaux de poste.<a id=118></a>
+#### Chapitre III : Création des bureaux de poste.<a id=119></a>
 
 ###### Article D4
 
@@ -14078,9 +13938,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
-#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=119></a>
+#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=120></a>
 
-##### Section 1 : Généralités.<a id=120></a>
+##### Section 1 : Généralités.<a id=121></a>
 
 ###### Article D6
 
@@ -14152,7 +14012,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 2 : Lettres missives, cartes postales et paquets-poste.<a id=121></a>
+##### Section 2 : Lettres missives, cartes postales et paquets-poste.<a id=122></a>
 
 ###### Article D9
 
@@ -14259,7 +14119,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 3 : Imprimés et échantillons.<a id=122></a>
+##### Section 3 : Imprimés et échantillons.<a id=123></a>
 
 ###### Article D13
 
@@ -14410,7 +14270,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### Section 4 : Journaux et écrits périodiques.<a id=123></a>
+##### Section 4 : Journaux et écrits périodiques.<a id=124></a>
 
 ###### Article D18
 
@@ -15020,7 +14880,7 @@ _Modifié par_:
   - Décret n°68-1073 1968-11-22 art. 1 JORF 30 novembre 1968
 
 
-##### Section 5 : Magazines sonores.<a id=124></a>
+##### Section 5 : Magazines sonores.<a id=125></a>
 
 ###### Article D29
 
@@ -15128,7 +14988,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 6 : Dispositions particulières.<a id=125></a>
+##### Section 6 : Dispositions particulières.<a id=126></a>
 
 ###### Article D32
 
@@ -15171,7 +15031,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-#### Chapitre V : Conditions d'admission des objets de correspondance dans le régime international.<a id=126></a>
+#### Chapitre V : Conditions d'admission des objets de correspondance dans le régime international.<a id=127></a>
 
 ###### Article D34
 
@@ -15242,9 +15102,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
-### TITRE II : Affranchissement, recommandation et chargement<a id=127></a>
+### TITRE II : Affranchissement, recommandation et chargement<a id=128></a>
 
-#### Chapitre Ier : Affranchissement.<a id=128></a>
+#### Chapitre Ier : Affranchissement.<a id=129></a>
 
 ###### Article D38
 
@@ -15445,7 +15305,7 @@ _Cite_:
   - Code des postes et des communications éléctroniques D28 et D45
 
 
-#### Chapitre II : Recommandation et chargement.<a id=129></a>
+#### Chapitre II : Recommandation et chargement.<a id=130></a>
 
 ###### Article D47
 
@@ -15753,7 +15613,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 
-### TITRE IV : Franchise postale<a id=130></a>
+### TITRE IV : Franchise postale<a id=131></a>
 
 ###### Article D73
 
@@ -15867,7 +15727,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
-### TITRE V : Colis postaux.<a id=131></a>
+### TITRE V : Colis postaux.<a id=132></a>
 
 ###### Article D81
 
@@ -16174,9 +16034,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
-### TITRE VI : Distribution postale<a id=132></a>
+### TITRE VI : Distribution postale<a id=133></a>
 
-#### Chapitre Ier : Distribution à domicile.<a id=133></a>
+#### Chapitre Ier : Distribution à domicile.<a id=134></a>
 
 ###### Article D90
 
@@ -16277,7 +16137,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### Chapitre II : Distribution au guichet.<a id=134></a>
+#### Chapitre II : Distribution au guichet.<a id=135></a>
 
 ###### Article D93
 
@@ -16306,7 +16166,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-### TITRE VII : Poste maritime.<a id=135></a>
+### TITRE VII : Poste maritime.<a id=136></a>
 
 ###### Article D94-1
 
@@ -16508,13 +16368,13 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-## LIVRE II : Les communications électroniques<a id=136></a>
+## LIVRE II : Les communications électroniques<a id=137></a>
 
-### TITRE Ier : Dispositions générales<a id=137></a>
+### TITRE Ier : Dispositions générales<a id=138></a>
 
-#### Chapitre Ier : Principes et définitions.<a id=138></a>
+#### Chapitre Ier : Principes et définitions.<a id=139></a>
 
-##### Paragraphe 1 : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=139></a>
+##### Paragraphe 1 : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=140></a>
 
 ###### Article D96-1
 
@@ -16697,7 +16557,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D96-3 (M)
 
 
-##### Paragraphe 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=140></a>
+##### Paragraphe 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=141></a>
 
 ###### Article D96-7
 
@@ -17098,7 +16958,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L35-6 (M)
 
 
-##### Paragraphe 3 : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=141></a>
+##### Paragraphe 3 : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=142></a>
 
 ###### Article D96-18
 
@@ -17311,7 +17171,7 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
 
 
-##### Paragraphe 4 : Commission consultative des radiocommunications.<a id=142></a>
+##### Paragraphe 4 : Commission consultative des radiocommunications.<a id=143></a>
 
 ###### Article D97-1
 
@@ -17397,7 +17257,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L34-8 (M)
 
 
-##### Paragraphe 5 : Commission consultative des réseaux et services de communications électroniques.<a id=143></a>
+##### Paragraphe 5 : Commission consultative des réseaux et services de communications électroniques.<a id=144></a>
 
 ###### Article D97-2
 
@@ -17478,7 +17338,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L34-8 (M)
 
 
-##### Paragraphe 6 : Organisation et fonctionnement des commissions consultatives.<a id=144></a>
+##### Paragraphe 6 : Organisation et fonctionnement des commissions consultatives.<a id=145></a>
 
 ###### Article D97-3
 
@@ -17543,7 +17403,7 @@ _Nouveaux textes_:
   - Code des postes et télécommunications électroniques D99-5-1
 
 
-##### Paragraphe 7 : Autorité de régulation des télécommunications<a id=145></a>
+##### Paragraphe 7 : Autorité de régulation des télécommunications<a id=146></a>
 
 ###### Article D97-4
 
@@ -17761,9 +17621,9 @@ _Cite_:
   - Code des postes et des communications électronique - art. L36-11 (M)
 
 
-#### Chapitre II : Régime juridique<a id=146></a>
+#### Chapitre II : Régime juridique<a id=147></a>
 
-##### Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1.<a id=147></a>
+##### Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1.<a id=148></a>
 
 ###### Article D98-1
 
@@ -18260,7 +18120,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L34-1 (M)
 
 
-##### Section 2 : Réseaux indépendants<a id=148></a>
+##### Section 2 : Réseaux indépendants<a id=149></a>
 
 ###### Article D98-3
 
@@ -18636,9 +18496,9 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D99-5-1 (Ab)
 
 
-##### SECTION 3 : Interconnexion<a id=149></a>
+##### SECTION 3 : Interconnexion<a id=150></a>
 
-##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=150></a>
+##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=151></a>
 
 ###### Article D99-6
 
@@ -18900,7 +18760,7 @@ _Modifié par_:
   - Décret n°2002-1340 du 8 novembre 2002 - art. 2 () JORF 13 novembre 2002
 
 
-##### Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur les listes établies en application du 7° de l'article L. 36-7.<a id=151></a>
+##### Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur les listes établies en application du 7° de l'article L. 36-7.<a id=152></a>
 
 ###### Article D99-11
 
@@ -19460,7 +19320,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L36-7 (M)
 
 
-##### SECTION 4 : Accès à la boucle locale<a id=152></a>
+##### SECTION 4 : Accès à la boucle locale<a id=153></a>
 
 ###### Article D99-23
 
@@ -19621,11 +19481,11 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
 
 
-#### CHAPITRE III : Télégraphe<a id=153></a>
+#### CHAPITRE III : Télégraphe<a id=154></a>
 
-##### SECTION 1 : Service télégraphique<a id=154></a>
+##### SECTION 1 : Service télégraphique<a id=155></a>
 
-##### Paragraphe 2 : Dépôt des télégrammes.<a id=155></a>
+##### Paragraphe 2 : Dépôt des télégrammes.<a id=156></a>
 
 ###### Article D100
 
@@ -19660,9 +19520,9 @@ _Cité par_:
   - Arrêté du 4 août 2006 - art. 2 (V)
 
 
-##### Paragraphe 3 : Rédaction des télégrammes<a id=156></a>
+##### Paragraphe 3 : Rédaction des télégrammes<a id=157></a>
 
-##### 1. : Dispositions générales.<a id=157></a>
+##### 1. : Dispositions générales.<a id=158></a>
 
 ###### Article D104
 
@@ -19732,7 +19592,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 3. : Adresse.<a id=158></a>
+##### 3. : Adresse.<a id=159></a>
 
 ###### Article D107
 
@@ -19854,7 +19714,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 4 : Compte des mots.<a id=159></a>
+##### Paragraphe 4 : Compte des mots.<a id=160></a>
 
 ###### Article D116
 
@@ -19876,7 +19736,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 5 : Remise des télégrammes.<a id=160></a>
+##### Paragraphe 5 : Remise des télégrammes.<a id=161></a>
 
 ###### Article D117
 
@@ -19966,7 +19826,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 6 : Perception des tarifs.<a id=161></a>
+##### Paragraphe 6 : Perception des tarifs.<a id=162></a>
 
 ###### Article D126
 
@@ -20051,7 +19911,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 7 : Télégrammes spéciaux.<a id=162></a>
+##### Paragraphe 7 : Télégrammes spéciaux.<a id=163></a>
 
 ###### Article D129
 
@@ -20090,9 +19950,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux<a id=163></a>
+##### Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux<a id=164></a>
 
-##### 1. : Télégrammes relatifs à la sécurité de la vie humaine.<a id=164></a>
+##### 1. : Télégrammes relatifs à la sécurité de la vie humaine.<a id=165></a>
 
 ###### Article D130
 
@@ -20179,7 +20039,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 2. : Télégrammes de presse.<a id=165></a>
+##### 2. : Télégrammes de presse.<a id=166></a>
 
 ###### Article D134
 
@@ -20224,7 +20084,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 3. : Télégrammes des services postaux financiers.<a id=166></a>
+##### 3. : Télégrammes des services postaux financiers.<a id=167></a>
 
 ###### Article D139
 
@@ -20248,7 +20108,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 4. : Phototélégrammes.<a id=167></a>
+##### 4. : Phototélégrammes.<a id=168></a>
 
 ###### Article D142
 
@@ -20338,7 +20198,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 5. : Télégrammes urgents du régime international.<a id=168></a>
+##### 5. : Télégrammes urgents du régime international.<a id=169></a>
 
 ###### Article D146
 
@@ -20363,7 +20223,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 20. : Télégrammes illustrés.<a id=169></a>
+##### 20. : Télégrammes illustrés.<a id=170></a>
 
 ###### Article D182
 
@@ -20423,7 +20283,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 22. : Télégrammes avec accusé de réception.<a id=170></a>
+##### 22. : Télégrammes avec accusé de réception.<a id=171></a>
 
 ###### Article D192
 
@@ -20450,7 +20310,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 24. : Télégrammes sur un compte communications électroniques.<a id=171></a>
+##### 24. : Télégrammes sur un compte communications électroniques.<a id=172></a>
 
 ###### Article D196
 
@@ -20481,7 +20341,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 28. : Télégrammes R.C.T. du régime international.<a id=172></a>
+##### 28. : Télégrammes R.C.T. du régime international.<a id=173></a>
 
 ###### Article D213
 
@@ -20507,7 +20367,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 29. : Radiotélégrammes.<a id=173></a>
+##### 29. : Radiotélégrammes.<a id=174></a>
 
 ###### Article D218
 
@@ -20611,9 +20471,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers<a id=174></a>
+##### Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers<a id=175></a>
 
-##### 1. : Communication au guichet de l'original d'un télégramme.<a id=175></a>
+##### 1. : Communication au guichet de l'original d'un télégramme.<a id=176></a>
 
 ###### Article D228
 
@@ -20647,9 +20507,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 10 : Télégrammes officiels<a id=176></a>
+##### Paragraphe 10 : Télégrammes officiels<a id=177></a>
 
-##### 1. : Définition.<a id=177></a>
+##### 1. : Définition.<a id=178></a>
 
 ###### Article D234
 
@@ -20674,7 +20534,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 2. : Rédaction.<a id=178></a>
+##### 2. : Rédaction.<a id=179></a>
 
 ###### Article D235
 
@@ -20706,7 +20566,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 3. : Dépôt.<a id=179></a>
+##### 3. : Dépôt.<a id=180></a>
 
 ###### Article D237
 
@@ -20737,7 +20597,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels.<a id=180></a>
+##### 4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels.<a id=181></a>
 
 ###### Article D241
 
@@ -20759,7 +20619,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 5. : Circulaires.<a id=181></a>
+##### 5. : Circulaires.<a id=182></a>
 
 ###### Article D243
 
@@ -20783,7 +20643,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 6. : Application et perception des tarifs.<a id=182></a>
+##### 6. : Application et perception des tarifs.<a id=183></a>
 
 ###### Article D244
 
@@ -20807,7 +20667,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 7. : Annulation des télégrammes officiels.<a id=183></a>
+##### 7. : Annulation des télégrammes officiels.<a id=184></a>
 
 ###### Article D246
 
@@ -20828,9 +20688,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 11 : Télégrammes d'Etat<a id=184></a>
+##### Paragraphe 11 : Télégrammes d'Etat<a id=185></a>
 
-##### 1. : Définition.<a id=185></a>
+##### 1. : Définition.<a id=186></a>
 
 ###### Article D247
 
@@ -20898,7 +20758,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 2. : Rédaction.<a id=186></a>
+##### 2. : Rédaction.<a id=187></a>
 
 ###### Article D250
 
@@ -20960,7 +20820,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 3. : Dépôt.<a id=187></a>
+##### 3. : Dépôt.<a id=188></a>
 
 ###### Article D253
 
@@ -21000,7 +20860,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 4. : Application des tarifs.<a id=188></a>
+##### 4. : Application des tarifs.<a id=189></a>
 
 ###### Article D256
 
@@ -21049,7 +20909,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 6. : Remise.<a id=189></a>
+##### 6. : Remise.<a id=190></a>
 
 ###### Article D259
 
@@ -21072,7 +20932,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 13 : Remboursement.<a id=190></a>
+##### Paragraphe 13 : Remboursement.<a id=191></a>
 
 ###### Article D263
 
@@ -21134,7 +20994,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 14 : Prescriptions diverses.<a id=191></a>
+##### Paragraphe 14 : Prescriptions diverses.<a id=192></a>
 
 ###### Article D267
 
@@ -21158,9 +21018,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### SECTION 3 : Service télex<a id=192></a>
+##### SECTION 3 : Service télex<a id=193></a>
 
-##### Paragraphe 1er : Généralités.<a id=193></a>
+##### Paragraphe 1er : Généralités.<a id=194></a>
 
 ###### Article D277
 
@@ -21247,7 +21107,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 2 : Abonnements.<a id=194></a>
+##### Paragraphe 2 : Abonnements.<a id=195></a>
 
 ###### Article D280
 
@@ -21374,7 +21234,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 3 : Communications.<a id=195></a>
+##### Paragraphe 3 : Communications.<a id=196></a>
 
 ###### Article D285
 
@@ -21427,7 +21287,7 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-##### Paragraphe 4 : Suspension d'une ligne d'abonnement télex.<a id=196></a>
+##### Paragraphe 4 : Suspension d'une ligne d'abonnement télex.<a id=197></a>
 
 ###### Article D287
 
@@ -21455,9 +21315,9 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-#### CHAPITRE IV : Téléphone<a id=197></a>
+#### CHAPITRE IV : Téléphone<a id=198></a>
 
-##### SECTION 1 : Dispositions générales.<a id=198></a>
+##### SECTION 1 : Dispositions générales.<a id=199></a>
 
 ###### Article D288
 
@@ -21520,9 +21380,9 @@ _Modifié par_:
   - Décret n°94-91 du 31 janvier 1994 - art. 1 () JORF 2 février 1994
 
 
-##### SECTION 2 : Des communications téléphoniques<a id=199></a>
+##### SECTION 2 : Des communications téléphoniques<a id=200></a>
 
-##### Paragraphe 1er : Dispositions générales.<a id=200></a>
+##### Paragraphe 1er : Dispositions générales.<a id=201></a>
 
 ###### Article D291-1
 
@@ -21600,9 +21460,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### Paragraphe 2 : Communications ordinaires<a id=201></a>
+##### Paragraphe 2 : Communications ordinaires<a id=202></a>
 
-##### 1. : Définition.<a id=202></a>
+##### 1. : Définition.<a id=203></a>
 
 ###### Article D294
 
@@ -21625,7 +21485,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### 2. : Limitation de durée.<a id=203></a>
+##### 2. : Limitation de durée.<a id=204></a>
 
 ###### Article D295
 
@@ -21650,7 +21510,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### 4. : Communication refusée.<a id=204></a>
+##### 4. : Communication refusée.<a id=205></a>
 
 ###### Article D297
 
@@ -21687,7 +21547,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### 5. : Récépissé.<a id=205></a>
+##### 5. : Récépissé.<a id=206></a>
 
 ###### Article D298
 
@@ -21714,9 +21574,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### Paragraphe 3 : Communications spéciales<a id=206></a>
+##### Paragraphe 3 : Communications spéciales<a id=207></a>
 
-##### 1. : Indication de durée.<a id=207></a>
+##### 1. : Indication de durée.<a id=208></a>
 
 ###### Article D300
 
@@ -21756,7 +21616,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### 2. : Avis d'appel.<a id=208></a>
+##### 2. : Avis d'appel.<a id=209></a>
 
 ###### Article D301
 
@@ -21795,7 +21655,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. R54-1 (Ab)
 
 
-##### 4. : Communication non facturée par le demandeur ou à facturation différée.<a id=209></a>
+##### 4. : Communication non facturée par le demandeur ou à facturation différée.<a id=210></a>
 
 ###### Article D304
 
@@ -21868,7 +21728,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D306 (V)
 
 
-##### 6. : Communication avec un véhicule.<a id=210></a>
+##### 6. : Communication avec un véhicule.<a id=211></a>
 
 ###### Article D307
 
@@ -21890,9 +21750,9 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-##### Paragraphe 4 : Services spéciaux<a id=211></a>
+##### Paragraphe 4 : Services spéciaux<a id=212></a>
 
-##### 1. : Service de réception et de traitement d'appels.<a id=212></a>
+##### 1. : Service de réception et de traitement d'appels.<a id=213></a>
 
 ###### Article D308
 
@@ -21922,7 +21782,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D310 (V)
 
 
-##### 2. : Service de la réunion-téléphone.<a id=213></a>
+##### 2. : Service de la réunion-téléphone.<a id=214></a>
 
 ###### Article D309
 
@@ -21945,7 +21805,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D307 (V)
 
 
-##### 3. : Service du "Mémo-Appel".<a id=214></a>
+##### 3. : Service du "Mémo-Appel".<a id=215></a>
 
 ###### Article D310
 
@@ -21967,7 +21827,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D308 (V)
 
 
-##### 5. : Renseignements.<a id=215></a>
+##### 5. : Renseignements.<a id=216></a>
 
 ###### Article D312
 
@@ -21991,7 +21851,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D314 (M)
 
 
-##### 7. : Communications en dehors des heures normales d'ouverture du service.<a id=216></a>
+##### 7. : Communications en dehors des heures normales d'ouverture du service.<a id=217></a>
 
 ###### Article D315
 
@@ -22038,7 +21898,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. R54-1 (Ab)
 
 
-##### 8. : Service des auditions téléphoniques.<a id=217></a>
+##### 8. : Service des auditions téléphoniques.<a id=218></a>
 
 ###### Article D316
 
@@ -22073,9 +21933,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### SECTION 3 : Des abonnements<a id=218></a>
+##### SECTION 3 : Des abonnements<a id=219></a>
 
-##### Paragraphe 1er : Généralités.<a id=219></a>
+##### Paragraphe 1er : Généralités.<a id=220></a>
 
 ###### Article D317
 
@@ -22183,9 +22043,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 2 : Abonnements principaux permanents<a id=220></a>
+##### Paragraphe 2 : Abonnements principaux permanents<a id=221></a>
 
-##### 1. : Différentes catégories.<a id=221></a>
+##### 1. : Différentes catégories.<a id=222></a>
 
 ###### Article D320
 
@@ -22212,7 +22072,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### 2. : Abonnements principaux ordinaires.<a id=222></a>
+##### 2. : Abonnements principaux ordinaires.<a id=223></a>
 
 ###### Article D321
 
@@ -22234,7 +22094,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### 3. : Abonnements principaux d'extension.<a id=223></a>
+##### 3. : Abonnements principaux d'extension.<a id=224></a>
 
 ###### Article D322
 
@@ -22321,7 +22181,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### 5. : Abonnements spéciaux.<a id=224></a>
+##### 5. : Abonnements spéciaux.<a id=225></a>
 
 ###### Article D328
 
@@ -22438,7 +22298,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 3 : Abonnements complémentaires.<a id=225></a>
+##### Paragraphe 3 : Abonnements complémentaires.<a id=226></a>
 
 ###### Article D332
 
@@ -22481,7 +22341,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 4 : Abonnements supplémentaires permanents.<a id=226></a>
+##### Paragraphe 4 : Abonnements supplémentaires permanents.<a id=227></a>
 
 ###### Article D333
 
@@ -22615,7 +22475,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 5 : Abonnements temporaires.<a id=227></a>
+##### Paragraphe 5 : Abonnements temporaires.<a id=228></a>
 
 ###### Article D336
 
@@ -22648,7 +22508,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 6 : Suspension et résiliation des abonnements.<a id=228></a>
+##### Paragraphe 6 : Suspension et résiliation des abonnements.<a id=229></a>
 
 ###### Article D337
 
@@ -22825,9 +22685,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 7 : Modification des conditions de concession d'un abonnement<a id=229></a>
+##### Paragraphe 7 : Modification des conditions de concession d'un abonnement<a id=230></a>
 
-##### 3. : Transformation des abonnements.<a id=230></a>
+##### 3. : Transformation des abonnements.<a id=231></a>
 
 ###### Article D347
 
@@ -22903,7 +22763,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### SECTION 4 : Dispositions particulières au service international.<a id=231></a>
+##### SECTION 4 : Dispositions particulières au service international.<a id=232></a>
 
 ###### Article D362
 
@@ -23086,9 +22946,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-#### CHAPITRE  V : Services particuliers des communications électroniques<a id=232></a>
+#### CHAPITRE  V : Services particuliers des communications électroniques<a id=233></a>
 
-##### SECTION 2 : Liaisons louées<a id=233></a>
+##### SECTION 2 : Liaisons louées<a id=234></a>
 
 ###### Article D369
 
@@ -23465,7 +23325,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D371 (M)
 
 
-#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=234></a>
+#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=235></a>
 
 ###### Article D406-1
 
@@ -23843,11 +23703,11 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-### TITRE II : Etablissement des lignes<a id=235></a>
+### TITRE II : Etablissement des lignes<a id=236></a>
 
-#### CHAPITRE Ier : Etablissement des lignes<a id=236></a>
+#### CHAPITRE Ier : Etablissement des lignes<a id=237></a>
 
-##### SECTION 1 : Dispositions générales.<a id=237></a>
+##### SECTION 1 : Dispositions générales.<a id=238></a>
 
 ###### Article D407-1
 
@@ -23924,9 +23784,9 @@ _Modifié par_:
   - Décret n°97-684 du 30 mai 1997 - art. 3 () JORF 1er juin 1997
 
 
-### TITRE VI : Les services radioélectriques<a id=238></a>
+### TITRE VI : Les services radioélectriques<a id=239></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=239></a>
+#### CHAPITRE Ier : Dispositions générales.<a id=240></a>
 
 ###### Article D457
 
@@ -24000,7 +23860,7 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-#### CHAPITRE II : Installations et réseaux radioélectriques indépendants.<a id=240></a>
+#### CHAPITRE II : Installations et réseaux radioélectriques indépendants.<a id=241></a>
 
 ###### Article D459
 
@@ -24168,7 +24028,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 9 () JORF 30 avril 2005
 
 
-#### CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs.<a id=241></a>
+#### CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs.<a id=242></a>
 
 ###### Article D473
 
@@ -24209,7 +24069,7 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-#### CHAPITRE V : Radiocommunications du service maritime.<a id=242></a>
+#### CHAPITRE V : Radiocommunications du service maritime.<a id=243></a>
 
 ###### Article D483
 
@@ -24381,9 +24241,9 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-## LIVRE III : Les services financiers<a id=243></a>
+## LIVRE III : Les services financiers<a id=244></a>
 
-### TITRE Ier : Chèques postaux.<a id=244></a>
+### TITRE Ier : Chèques postaux.<a id=245></a>
 
 ###### Article D488
 
@@ -24728,7 +24588,7 @@ _Cite_:
   - Code des postes et des communications électroniques L109 al. 1
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=245></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=246></a>
 
 ###### Article D489
 
@@ -25235,7 +25095,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE II : Mandats.<a id=246></a>
+### TITRE II : Mandats.<a id=247></a>
 
 ###### Article D523
 
@@ -25490,7 +25350,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D540 (Ab)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=247></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=248></a>
 
 ###### Article D525
 
@@ -25928,7 +25788,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=248></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=249></a>
 
 ###### Article D549
 
@@ -26096,7 +25956,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=249></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=250></a>
 
 ###### Article D553
 
