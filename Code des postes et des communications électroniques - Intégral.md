@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1999-09-16
+Version Consolidée au 1999-10-31
 ## Contenu: 
   - [Partie législative (art. L1 à L126)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -22005,6 +22005,14 @@ signalisation utilisé à ces interfaces, et ses conditions de mise en oeuvre ;
 
 - services d'aboutement de liaisons louées.
 
+En complément de la sélection appel par appel, les modalités de mise en oeuvre de la sélection du transporteur permettent aux
+clients de ces opérateurs d'accéder aux services commutés de tout opérateur interconnecté au moyen d'une présélection et
+d'écarter, appel par appel, tout choix de présélection en composant un préfixe court.
+
+En application de l'article L. 36-6, l'Autorité de régulation des télécommunications précise les services concernés par les
+dispositions de l'alinéa précédent ainsi que les conditions et les délais de mise en oeuvre de la sélection du transporteur
+appel par appel et de la présélection.
+
 Les catalogues de ces opérateurs pour les fournisseurs de service téléphonique au public doivent inclure les prestations et
 éléments énumérés ci-dessus qui tiennent compte des droits et obligations propres à ces fournisseurs.
 
@@ -22015,21 +22023,21 @@ d'orientation des tarifs d'interconnexion vers les coûts ainsi que des besoins 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code des postes et télécommunications L36-7, D99-15
-
 _Codifié par_:
 
   - Décret n°62-275 1962-03-12
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
+  - Décret n°99-922 du 27 octobre 1999 - art. 1 () JORF 31 octobre 1999
 
 _Cité par_:
 
   - Code des postes et des communications électronique - art. D99-17 (Ab)
+
+_Cite_:
+
+  - Code des postes et télécommunications L36-7, D99-15, L36-6
 
 
 ###### Article D99-17
