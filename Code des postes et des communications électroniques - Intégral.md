@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1997-03-29
+Version Consolidée au 1997-04-11
 ## Contenu: 
   - [Partie législative (art. L1 à L126)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -84,183 +84,178 @@ Version Consolidée au 1997-03-29
       - [TITRE II : Prérogatives et servitudes (art. R20-1 à R52)](#81)
         - [CHAPITRE Ier : Régime juridique (art. R20-1 à R20-30)](#82)
           - [SECTION 1 : Définitions. (art. R20-1)](#83)
-          - [SECTION 2 : Evaluation de la conformité des équipements terminaux aux exigences essentielles. (art. R20-15)](#84)
+          - [SECTION 2 : Evaluation de la conformité des équipements terminaux aux exigences essentielles. (art. R20-2 à R20-16)](#84)
           - [SECTION 3 : Reconnaissance en France de l'évaluation de la conformité effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant l'Espace économique européen. (art. R20-17 à R20-21)](#85)
-          - [SECTION 5 : Admission des installateurs. (art. R20-25)](#86)
-          - [SECTION 6 : Dispositions pénales. (art. R20-29 à R20-30)](#87)
-        - [CHAPITRE Ier : Etablissement et entretien des lignes et des installations de télécommunications (art. R20-2 à R20-28)](#88)
-          - [SECTION 2 : Evaluation de la conformité des équipements terminaux aux exigences essentielles. (art. R20-2 à R20-16)](#89)
-          - [SECTION 3 : Reconnaissance en France de l'évaluation de la conformité effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant l'Espace économique européen. (art. R20-18 à R20-20)](#90)
-          - [SECTION 4 : Raccordement des équipements terminaux aux réseaux ouverts au public. (art. R20-22)](#91)
-          - [SECTION 5 : Admission des installateurs. (art. R20-23 à R20-24)](#92)
-          - [SECTION 6 : Dispositions pénales. (art. R20-26 à R20-28)](#93)
-        - [CHAPITRE II : Servitudes radio-électriques (art. R*21 à R41)](#94)
-          - [SECTION 1 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. R*21 à R*26)](#95)
-          - [SECTION 2 : Servitudes de protection des centres de réception radio-électriques contre les perturbations électromagnétiques. (art. R*28 à R27)](#96)
-          - [SECTION 3 : Dispositions pénales. (art. R*42 à R41)](#97)
-        - [CHAPITRE III : Police des liaisons et des installations du réseau de télécommunications (art. R42-1 à R44-4)](#98)
-          - [SECTION 1 : Dispositions générales. (art. R42-1)](#99)
-          - [SECTION 2 : Dispositions pénales. (art. R43 à R44-4)](#100)
-        - [CHAPITRE IV : Protection des câbles sous-marins (art. R45 à R52)](#101)
-          - [SECTION 2 : Dispositions pénales (art. R45 à R52)](#102)
-            - [PARAGRAPHE I : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#103)
-            - [PARAGRAPHE II : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#104)
-    - [LIVRE III : Les services financiers (art. R52-10 à R52-11)](#105)
-      - [TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005). (art. R52-10 à R52-11)](#106)
-  - [Partie réglementaire - Décrets simples (art. D1 à D569)](#107)
-    - [LIVRE Ier : Le service postal (art. D1 à D95-3)](#108)
-      - [TITRE Ier : Dispositions générales (art. D1 à D36)](#109)
-        - [Chapitre Ier : Le monopole postal. (art. D1 à D2)](#110)
-        - [Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances. (art. D3)](#111)
-        - [Chapitre III : Création des bureaux de poste. (art. D4 à D5)](#112)
-        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D6 à D33)](#113)
-          - [Section 1 : Généralités. (art. D6 à D8)](#114)
-          - [Section 2 : Lettres missives, cartes postales et paquets-poste. (art. D9 à D12)](#115)
-          - [Section 3 : Imprimés et échantillons. (art. D13 à D17)](#116)
-          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#117)
-          - [Section 5 : Magazines sonores. (art. D29 à D31)](#118)
-          - [Section 6 : Dispositions particulières. (art. D32 à D33)](#119)
-        - [Chapitre V : Conditions d'admission des objets de correspondance dans le régime international. (art. D34 à D36)](#120)
-      - [TITRE II : Affranchissement, recommandation et chargement (art. D38 à D57)](#121)
-        - [Chapitre Ier : Affranchissement. (art. D38 à D46)](#122)
-        - [Chapitre II : Recommandation et chargement. (art. D47 à D57)](#123)
-      - [TITRE IV : Franchise postale (art. D73 à D77)](#124)
-      - [TITRE V : Colis postaux. (art. D81 à D89)](#125)
-      - [TITRE VI : Distribution postale (art. D90 à D93)](#126)
-        - [Chapitre Ier : Distribution à domicile. (art. D90 à D92)](#127)
-        - [Chapitre II : Distribution au guichet. (art. D93)](#128)
-      - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#129)
-    - [LIVRE II : Les communications électroniques (art. D96-1 à D487)](#130)
-      - [TITRE Ier : Dispositions générales (art. D96-1 à D406-4)](#131)
-        - [Chapitre Ier : Principes et définitions. (art. D96-1 à D97-10)](#132)
-          - [Paragraphe 1 : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D96-1 à D96-6)](#133)
-          - [Paragraphe 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D96-7 à D96-17)](#134)
-          - [Paragraphe 3 : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D96-18 à D96-24)](#135)
-          - [Paragraphe 4 : Commission consultative des radiocommunications. (art. D97-1)](#136)
-          - [Paragraphe 5 : Commission consultative des réseaux et services de communications électroniques. (art. D97-2)](#137)
-          - [Paragraphe 6 : Organisation et fonctionnement des commissions consultatives. (art. D97-3)](#138)
-          - [Paragraphe 7 : Autorité de régulation des télécommunications (art. D97-4 à D97-10)](#139)
-        - [Chapitre II : Régime juridique (art. D99 à D99-9)](#140)
-          - [Section 2 : Réseaux indépendants (art. D99 à D99-5)](#141)
-          - [SECTION 3 : Interconnexion (art. D99-7 à D99-9)](#142)
-            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-7 à D99-9)](#143)
-        - [CHAPITRE III : Télégraphe (art. D100 à D287)](#144)
-          - [SECTION 1 : Service télégraphique (art. D100 à D267)](#145)
-            - [Paragraphe 2 : Dépôt des télégrammes. (art. D100)](#146)
-            - [Paragraphe 3 : Rédaction des télégrammes (art. D104 à D110)](#147)
-              - [1. : Dispositions générales. (art. D104 à D105)](#148)
-              - [3. : Adresse. (art. D107 à D110)](#149)
-            - [Paragraphe 4 : Compte des mots. (art. D116)](#150)
-            - [Paragraphe 5 : Remise des télégrammes. (art. D117 à D122)](#151)
-            - [Paragraphe 6 : Perception des tarifs. (art. D126 à D128)](#152)
-            - [Paragraphe 7 : Télégrammes spéciaux. (art. D129)](#153)
-            - [Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux (art. D130 à D219-2)](#154)
-              - [1. : Télégrammes relatifs à la sécurité de la vie humaine. (art. D130 à D133)](#155)
-              - [2. : Télégrammes de presse. (art. D134 à D135)](#156)
-              - [3. : Télégrammes des services postaux financiers. (art. D139)](#157)
-              - [4. : Phototélégrammes. (art. D142 à D144)](#158)
-              - [5. : Télégrammes urgents du régime international. (art. D146)](#159)
-              - [20. : Télégrammes illustrés. (art. D182 à D185)](#160)
-              - [22. : Télégrammes avec accusé de réception. (art. D192)](#161)
-              - [24. : Télégrammes sur un compte communications électroniques. (art. D196)](#162)
-              - [28. : Télégrammes R.C.T. du régime international. (art. D213)](#163)
-              - [29. : Radiotélégrammes. (art. D218 à D219-2)](#164)
-            - [Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers (art. D228)](#165)
-              - [1. : Communication au guichet de l'original d'un télégramme. (art. D228)](#166)
-            - [Paragraphe 10 : Télégrammes officiels (art. D234 à D246)](#167)
-              - [1. : Définition. (art. D234)](#168)
-              - [2. : Rédaction. (art. D235)](#169)
-              - [3. : Dépôt. (art. D237)](#170)
-              - [4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels. (art. D241)](#171)
-              - [5. : Circulaires. (art. D243)](#172)
-              - [6. : Application et perception des tarifs. (art. D244)](#173)
-              - [7. : Annulation des télégrammes officiels. (art. D246)](#174)
-            - [Paragraphe 11 : Télégrammes d'Etat (art. D247 à D259)](#175)
-              - [1. : Définition. (art. D247 à D248)](#176)
-              - [2. : Rédaction. (art. D250 à D252)](#177)
-              - [3. : Dépôt. (art. D253 à D254)](#178)
-              - [4. : Application des tarifs. (art. D256 à D257)](#179)
-              - [6. : Remise. (art. D259)](#180)
-            - [Paragraphe 13 : Remboursement. (art. D263 à D265)](#181)
-            - [Paragraphe 14 : Prescriptions diverses. (art. D267)](#182)
-          - [SECTION 3 : Service télex (art. D277 à D287)](#183)
-            - [Paragraphe 1er : Généralités. (art. D277 à D279)](#184)
-            - [Paragraphe 2 : Abonnements. (art. D280 à D284)](#185)
-            - [Paragraphe 3 : Communications. (art. D285 à D286)](#186)
-            - [Paragraphe 4 : Suspension d'une ligne d'abonnement télex. (art. D287)](#187)
-        - [CHAPITRE IV : Téléphone (art. D288 à D367)](#188)
-          - [SECTION 1 : Dispositions générales. (art. D288 à D289)](#189)
-          - [SECTION 2 : Des communications téléphoniques (art. D291-1 à D316)](#190)
-            - [Paragraphe 1er : Dispositions générales. (art. D291-1 à D293-1)](#191)
-            - [Paragraphe 2 : Communications ordinaires (art. D294 à D298)](#192)
-              - [1. : Définition. (art. D294)](#193)
-              - [2. : Limitation de durée. (art. D295)](#194)
-              - [4. : Communication refusée. (art. D297)](#195)
-              - [5. : Récépissé. (art. D298)](#196)
-            - [Paragraphe 3 : Communications spéciales (art. D300 à D307)](#197)
-              - [1. : Indication de durée. (art. D300)](#198)
-              - [2. : Avis d'appel. (art. D301)](#199)
-              - [4. : Communication non facturée par le demandeur ou à facturation différée. (art. D304 à D305)](#200)
-              - [6. : Communication avec un véhicule. (art. D307)](#201)
-            - [Paragraphe 4 : Services spéciaux (art. D308 à D316)](#202)
-              - [1. : Service de réception et de traitement d'appels. (art. D308)](#203)
-              - [2. : Service de la réunion-téléphone. (art. D309)](#204)
-              - [3. : Service du "Mémo-Appel". (art. D310)](#205)
-              - [5. : Renseignements. (art. D312)](#206)
-              - [7. : Communications en dehors des heures normales d'ouverture du service. (art. D315)](#207)
-              - [8. : Service des auditions téléphoniques. (art. D316)](#208)
-          - [SECTION 3 : Des abonnements (art. D317 à D359)](#209)
-            - [Paragraphe 1er : Généralités. (art. D317 à D319)](#210)
-            - [Paragraphe 2 : Abonnements principaux permanents (art. D320 à D331)](#211)
-              - [1. : Différentes catégories. (art. D320)](#212)
-              - [2. : Abonnements principaux ordinaires. (art. D321)](#213)
-              - [3. : Abonnements principaux d'extension. (art. D322 à D323)](#214)
-              - [5. : Abonnements spéciaux. (art. D328 à D331)](#215)
-            - [Paragraphe 3 : Abonnements complémentaires. (art. D332)](#216)
-            - [Paragraphe 4 : Abonnements supplémentaires permanents. (art. D333 à D334)](#217)
-            - [Paragraphe 5 : Abonnements temporaires. (art. D336)](#218)
-            - [Paragraphe 6 : Suspension et résiliation des abonnements. (art. D337 à D342)](#219)
-            - [Paragraphe 7 : Modification des conditions de concession d'un abonnement (art. D347 à D355)](#220)
-              - [3. : Transformation des abonnements. (art. D347 à D355)](#221)
-            - [Paragraphe 8 : Dispositions diverses (art. D359)](#222)
-              - [2. : Listes périodiques d'abonnés. (art. D359)](#223)
-          - [SECTION 4 : Dispositions particulières au service international. (art. D362 à D367)](#224)
-        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#225)
-      - [TITRE VI : Les services radioélectriques (art. D457 à D487)](#226)
-        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D458)](#227)
-        - [CHAPITRE II : Installations et réseaux radioélectriques indépendants. (art. D459 à D463)](#228)
-        - [CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs. (art. D473)](#229)
-        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#230)
-    - [LIVRE II : Les télécommunications (art. D98-1 à D456)](#231)
-      - [TITRE Ier : Dispositions générales (art. D98-1 à D406-3)](#232)
-        - [Chapitre II : Régime juridique (art. D98-1 à D99-22)](#233)
-          - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-1 à D98-2)](#234)
-          - [Section 2 : Réseaux indépendants. (art. D99-1)](#235)
-          - [SECTION 3 : Interconnexion (art. D99-6 à D99-22)](#236)
-            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-6 à D99-10)](#237)
-            - [Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7. (art. D99-11 à D99-22)](#238)
-        - [CHAPITRE IV : Téléphone (art. D365)](#239)
-          - [SECTION 4 : Dispositions particulières au service international. (art. D365)](#240)
-        - [CHAPITRE  V : Services particuliers des télécommunications (art. D369 à D379)](#241)
-          - [SECTION 2 : Liaisons louées (art. D369 à D379)](#242)
-        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1-1 à D406-3)](#243)
-      - [TITRE II : Etablissement des lignes (art. D407 à D455)](#244)
-        - [CHAPITRE Ier : Etablissement des lignes (art. D407 à D427)](#245)
-          - [SECTION 1 : Dispositions générales. (art. D407 à D419)](#246)
-          - [SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées). (art. D420 à D425)](#247)
-          - [SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé". (art. D427)](#248)
-        - [CHAPITRE II : Entretien des lignes (art. D431)](#249)
-          - [SECTION 1 : Dispositions générales. (art. D431)](#250)
-        - [CHAPITRE III : Fourniture et entretien des installations de télécommunications. (art. D440 à D455)](#251)
-      - [TITRE IV : Police des liaisons et des installations du réseau de télécommunications (art. D456)](#252)
-        - [CHAPITRE Ier : Dispositions générales. (art. D456)](#253)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#254)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#255)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#256)
-      - [TITRE II : Mandats. (art. D523 à D548)](#257)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#258)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#259)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#260)
+          - [SECTION 4 : Raccordement des équipements terminaux aux réseaux ouverts au public. (art. R20-22)](#86)
+          - [SECTION 5 : Admission des installateurs. (art. R20-23 à R20-25)](#87)
+          - [SECTION 6 : Dispositions pénales. (art. R20-26 à R20-30)](#88)
+        - [CHAPITRE II : Servitudes radio-électriques (art. R*21 à R41)](#89)
+          - [SECTION 1 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. R*21 à R*26)](#90)
+          - [SECTION 2 : Servitudes de protection des centres de réception radio-électriques contre les perturbations électromagnétiques. (art. R*28 à R27)](#91)
+          - [SECTION 3 : Dispositions pénales. (art. R*42 à R41)](#92)
+        - [CHAPITRE III : Police des liaisons et des installations du réseau de télécommunications (art. R42-1 à R44-4)](#93)
+          - [SECTION 1 : Dispositions générales. (art. R42-1)](#94)
+          - [SECTION 2 : Dispositions pénales. (art. R43 à R44-4)](#95)
+        - [CHAPITRE IV : Protection des câbles sous-marins (art. R45 à R52)](#96)
+          - [SECTION 2 : Dispositions pénales (art. R45 à R52)](#97)
+            - [PARAGRAPHE I : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#98)
+            - [PARAGRAPHE II : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#99)
+    - [LIVRE III : Les services financiers (art. R52-10 à R52-11)](#100)
+      - [TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005). (art. R52-10 à R52-11)](#101)
+  - [Partie réglementaire - Décrets simples (art. D1 à D569)](#102)
+    - [LIVRE Ier : Le service postal (art. D1 à D95-3)](#103)
+      - [TITRE Ier : Dispositions générales (art. D1 à D36)](#104)
+        - [Chapitre Ier : Le monopole postal. (art. D1 à D2)](#105)
+        - [Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances. (art. D3)](#106)
+        - [Chapitre III : Création des bureaux de poste. (art. D4 à D5)](#107)
+        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D6 à D33)](#108)
+          - [Section 1 : Généralités. (art. D6 à D8)](#109)
+          - [Section 2 : Lettres missives, cartes postales et paquets-poste. (art. D9 à D12)](#110)
+          - [Section 3 : Imprimés et échantillons. (art. D13 à D17)](#111)
+          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#112)
+          - [Section 5 : Magazines sonores. (art. D29 à D31)](#113)
+          - [Section 6 : Dispositions particulières. (art. D32 à D33)](#114)
+        - [Chapitre V : Conditions d'admission des objets de correspondance dans le régime international. (art. D34 à D36)](#115)
+      - [TITRE II : Affranchissement, recommandation et chargement (art. D38 à D57)](#116)
+        - [Chapitre Ier : Affranchissement. (art. D38 à D46)](#117)
+        - [Chapitre II : Recommandation et chargement. (art. D47 à D57)](#118)
+      - [TITRE IV : Franchise postale (art. D73 à D77)](#119)
+      - [TITRE V : Colis postaux. (art. D81 à D89)](#120)
+      - [TITRE VI : Distribution postale (art. D90 à D93)](#121)
+        - [Chapitre Ier : Distribution à domicile. (art. D90 à D92)](#122)
+        - [Chapitre II : Distribution au guichet. (art. D93)](#123)
+      - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#124)
+    - [LIVRE II : Les communications électroniques (art. D96-1 à D487)](#125)
+      - [TITRE Ier : Dispositions générales (art. D96-1 à D406-4)](#126)
+        - [Chapitre Ier : Principes et définitions. (art. D96-1 à D97-10)](#127)
+          - [Paragraphe 1 : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D96-1 à D96-6)](#128)
+          - [Paragraphe 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D96-7 à D96-17)](#129)
+          - [Paragraphe 3 : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D96-18 à D96-24)](#130)
+          - [Paragraphe 4 : Commission consultative des radiocommunications. (art. D97-1)](#131)
+          - [Paragraphe 5 : Commission consultative des réseaux et services de communications électroniques. (art. D97-2)](#132)
+          - [Paragraphe 6 : Organisation et fonctionnement des commissions consultatives. (art. D97-3)](#133)
+          - [Paragraphe 7 : Autorité de régulation des télécommunications (art. D97-4 à D97-10)](#134)
+        - [Chapitre II : Régime juridique (art. D99 à D99-9)](#135)
+          - [Section 2 : Réseaux indépendants (art. D99 à D99-5)](#136)
+          - [SECTION 3 : Interconnexion (art. D99-7 à D99-9)](#137)
+            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-7 à D99-9)](#138)
+        - [CHAPITRE III : Télégraphe (art. D100 à D287)](#139)
+          - [SECTION 1 : Service télégraphique (art. D100 à D267)](#140)
+            - [Paragraphe 2 : Dépôt des télégrammes. (art. D100)](#141)
+            - [Paragraphe 3 : Rédaction des télégrammes (art. D104 à D110)](#142)
+              - [1. : Dispositions générales. (art. D104 à D105)](#143)
+              - [3. : Adresse. (art. D107 à D110)](#144)
+            - [Paragraphe 4 : Compte des mots. (art. D116)](#145)
+            - [Paragraphe 5 : Remise des télégrammes. (art. D117 à D122)](#146)
+            - [Paragraphe 6 : Perception des tarifs. (art. D126 à D128)](#147)
+            - [Paragraphe 7 : Télégrammes spéciaux. (art. D129)](#148)
+            - [Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux (art. D130 à D219-2)](#149)
+              - [1. : Télégrammes relatifs à la sécurité de la vie humaine. (art. D130 à D133)](#150)
+              - [2. : Télégrammes de presse. (art. D134 à D135)](#151)
+              - [3. : Télégrammes des services postaux financiers. (art. D139)](#152)
+              - [4. : Phototélégrammes. (art. D142 à D144)](#153)
+              - [5. : Télégrammes urgents du régime international. (art. D146)](#154)
+              - [20. : Télégrammes illustrés. (art. D182 à D185)](#155)
+              - [22. : Télégrammes avec accusé de réception. (art. D192)](#156)
+              - [24. : Télégrammes sur un compte communications électroniques. (art. D196)](#157)
+              - [28. : Télégrammes R.C.T. du régime international. (art. D213)](#158)
+              - [29. : Radiotélégrammes. (art. D218 à D219-2)](#159)
+            - [Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers (art. D228)](#160)
+              - [1. : Communication au guichet de l'original d'un télégramme. (art. D228)](#161)
+            - [Paragraphe 10 : Télégrammes officiels (art. D234 à D246)](#162)
+              - [1. : Définition. (art. D234)](#163)
+              - [2. : Rédaction. (art. D235)](#164)
+              - [3. : Dépôt. (art. D237)](#165)
+              - [4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels. (art. D241)](#166)
+              - [5. : Circulaires. (art. D243)](#167)
+              - [6. : Application et perception des tarifs. (art. D244)](#168)
+              - [7. : Annulation des télégrammes officiels. (art. D246)](#169)
+            - [Paragraphe 11 : Télégrammes d'Etat (art. D247 à D259)](#170)
+              - [1. : Définition. (art. D247 à D248)](#171)
+              - [2. : Rédaction. (art. D250 à D252)](#172)
+              - [3. : Dépôt. (art. D253 à D254)](#173)
+              - [4. : Application des tarifs. (art. D256 à D257)](#174)
+              - [6. : Remise. (art. D259)](#175)
+            - [Paragraphe 13 : Remboursement. (art. D263 à D265)](#176)
+            - [Paragraphe 14 : Prescriptions diverses. (art. D267)](#177)
+          - [SECTION 3 : Service télex (art. D277 à D287)](#178)
+            - [Paragraphe 1er : Généralités. (art. D277 à D279)](#179)
+            - [Paragraphe 2 : Abonnements. (art. D280 à D284)](#180)
+            - [Paragraphe 3 : Communications. (art. D285 à D286)](#181)
+            - [Paragraphe 4 : Suspension d'une ligne d'abonnement télex. (art. D287)](#182)
+        - [CHAPITRE IV : Téléphone (art. D288 à D367)](#183)
+          - [SECTION 1 : Dispositions générales. (art. D288 à D289)](#184)
+          - [SECTION 2 : Des communications téléphoniques (art. D291-1 à D316)](#185)
+            - [Paragraphe 1er : Dispositions générales. (art. D291-1 à D293-1)](#186)
+            - [Paragraphe 2 : Communications ordinaires (art. D294 à D298)](#187)
+              - [1. : Définition. (art. D294)](#188)
+              - [2. : Limitation de durée. (art. D295)](#189)
+              - [4. : Communication refusée. (art. D297)](#190)
+              - [5. : Récépissé. (art. D298)](#191)
+            - [Paragraphe 3 : Communications spéciales (art. D300 à D307)](#192)
+              - [1. : Indication de durée. (art. D300)](#193)
+              - [2. : Avis d'appel. (art. D301)](#194)
+              - [4. : Communication non facturée par le demandeur ou à facturation différée. (art. D304 à D305)](#195)
+              - [6. : Communication avec un véhicule. (art. D307)](#196)
+            - [Paragraphe 4 : Services spéciaux (art. D308 à D316)](#197)
+              - [1. : Service de réception et de traitement d'appels. (art. D308)](#198)
+              - [2. : Service de la réunion-téléphone. (art. D309)](#199)
+              - [3. : Service du "Mémo-Appel". (art. D310)](#200)
+              - [5. : Renseignements. (art. D312)](#201)
+              - [7. : Communications en dehors des heures normales d'ouverture du service. (art. D315)](#202)
+              - [8. : Service des auditions téléphoniques. (art. D316)](#203)
+          - [SECTION 3 : Des abonnements (art. D317 à D359)](#204)
+            - [Paragraphe 1er : Généralités. (art. D317 à D319)](#205)
+            - [Paragraphe 2 : Abonnements principaux permanents (art. D320 à D331)](#206)
+              - [1. : Différentes catégories. (art. D320)](#207)
+              - [2. : Abonnements principaux ordinaires. (art. D321)](#208)
+              - [3. : Abonnements principaux d'extension. (art. D322 à D323)](#209)
+              - [5. : Abonnements spéciaux. (art. D328 à D331)](#210)
+            - [Paragraphe 3 : Abonnements complémentaires. (art. D332)](#211)
+            - [Paragraphe 4 : Abonnements supplémentaires permanents. (art. D333 à D334)](#212)
+            - [Paragraphe 5 : Abonnements temporaires. (art. D336)](#213)
+            - [Paragraphe 6 : Suspension et résiliation des abonnements. (art. D337 à D342)](#214)
+            - [Paragraphe 7 : Modification des conditions de concession d'un abonnement (art. D347 à D355)](#215)
+              - [3. : Transformation des abonnements. (art. D347 à D355)](#216)
+            - [Paragraphe 8 : Dispositions diverses (art. D359)](#217)
+              - [2. : Listes périodiques d'abonnés. (art. D359)](#218)
+          - [SECTION 4 : Dispositions particulières au service international. (art. D362 à D367)](#219)
+        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#220)
+      - [TITRE VI : Les services radioélectriques (art. D457 à D487)](#221)
+        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D458)](#222)
+        - [CHAPITRE II : Installations et réseaux radioélectriques indépendants. (art. D459 à D463)](#223)
+        - [CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs. (art. D473)](#224)
+        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#225)
+    - [LIVRE II : Les télécommunications (art. D98-1 à D456)](#226)
+      - [TITRE Ier : Dispositions générales (art. D98-1 à D406-3)](#227)
+        - [Chapitre II : Régime juridique (art. D98-1 à D99-22)](#228)
+          - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-1 à D98-2)](#229)
+          - [Section 2 : Réseaux indépendants. (art. D99-1)](#230)
+          - [SECTION 3 : Interconnexion (art. D99-6 à D99-22)](#231)
+            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-6 à D99-10)](#232)
+            - [Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7. (art. D99-11 à D99-22)](#233)
+        - [CHAPITRE IV : Téléphone (art. D365)](#234)
+          - [SECTION 4 : Dispositions particulières au service international. (art. D365)](#235)
+        - [CHAPITRE  V : Services particuliers des télécommunications (art. D369 à D379)](#236)
+          - [SECTION 2 : Liaisons louées (art. D369 à D379)](#237)
+        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1-1 à D406-3)](#238)
+      - [TITRE II : Etablissement des lignes (art. D407 à D455)](#239)
+        - [CHAPITRE Ier : Etablissement des lignes (art. D407 à D427)](#240)
+          - [SECTION 1 : Dispositions générales. (art. D407 à D419)](#241)
+          - [SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées). (art. D420 à D425)](#242)
+          - [SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé". (art. D427)](#243)
+        - [CHAPITRE II : Entretien des lignes (art. D431)](#244)
+          - [SECTION 1 : Dispositions générales. (art. D431)](#245)
+        - [CHAPITRE III : Fourniture et entretien des installations de télécommunications. (art. D440 à D455)](#246)
+      - [TITRE IV : Police des liaisons et des installations du réseau de télécommunications (art. D456)](#247)
+        - [CHAPITRE Ier : Dispositions générales. (art. D456)](#248)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#249)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#250)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#251)
+      - [TITRE II : Mandats. (art. D523 à D548)](#252)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#253)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#254)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#255)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -9307,6 +9302,532 @@ _Cite_:
 
 ##### SECTION 2 : Evaluation de la conformité des équipements terminaux aux exigences essentielles.<a id=84></a>
 
+###### Article R20-2
+
+1° Tout équipement terminal destiné à être connecté, directement ou indirectement, à un réseau ouvert au public ne peut être
+mis sur le marché qu'après l'obtention d'une attestation de conformité. La destination de l'équipement est indiquée par le
+fabricant ou le fournisseur. Une attestation de conformité est également exigée préalablement à la mise sur le marché de tout
+équipement terminal radioélectrique, quelle que soit sa destination.
+
+La procédure d'attestation de conformité a pour objet de garantir le respect des exigences essentielles.
+
+Au choix du fabricant ou de son mandataire établi dans la Communauté européenne ou dans l'Espace économique européen,
+l'attestation de conformité est délivrée à l'issue :
+
+a) Soit d'un examen de type selon la procédure définie aux articles R. 20-4, R. 20-5 et R. 20-6, suivi de la déclaration de
+conformité au type prévue à l'article R. 20-7 (a), assortie ou non d'un système approuvé de qualité de la production,
+mentionné à l'article R. 20-7 (b).
+
+Lorsque l'évaluation de la conformité est effectuée au regard de normes nationales ou de réglementations techniques
+nationales, le choix de la procédure décrite à l'alinéa ci-dessus peut être fait pour toute personne à même d'assurer les
+responsabilités incombant au titulaire de l'attestation de conformité.
+
+b) Soit d'une procédure de certification de la conformité du processus de conception et de fabrication à un système
+d'assurance de qualité complète, suivie d'une déclaration de conformité dans les conditions définies à l'article R. 20-9.
+
+Lorsque l'évaluation de la conformité est effectuée exclusivement au regard des normes harmonisées ou de réglementations
+techniques communes, les examens de type et déclarations de conformité mentionnés aux a et b ci-dessus sont qualifiés
+respectivement d'examens C.E. de type et de déclarations C.E. de conformité.
+
+2° Tout autre équipement terminal susceptible d'être connecté à un réseau ouvert au public, mais non destiné à une telle
+utilisation, ne peut être mis sur le marché qu'après une déclaration souscrite dans les conditions prévues à l'article R.
+20-14.
+
+L'Autorité de régulation des télécommunications est l'organisme notifié compétent en France, au sens de l'article R. 20-1. A
+ce titre, il reçoit les demandes d'une attestation de conformité et les déclarations mentionnées aux 1° et 2° du présent
+article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications R20-7, R20-9, R20-14, R20-1, R20-4, R20-5, R20-6
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 1 () JORF 11 avril 1997
+  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D375 (Ab)
+
+
+###### Article R20-3
+
+La conformité d'un équipement terminal de télécommunications aux exigences essentielles est évaluée :
+
+a) S'agissant des exigences prévues au 12° de l'article L. 32 qui sont relatives à la sécurité des usagers et du personnel
+des exploitants des réseaux de télécommunications, au regard des normes nationales transposant les normes harmonisées
+pertinentes ou, à défaut, des normes nationales ;
+
+b) S'agissant des autres exigences essentielles prévues au même 12° de l'article L. 32, au regard des réglementations
+techniques communes ou, à défaut, des réglementations techniques nationales, ainsi que des réglementations techniques des
+autres Etats membres de la Communauté européenne ou des autres Etats parties à l'accord instituant l'Espace économique
+européen reconnues équivalentes par l'Autorité de régulation des télécommunications.
+
+Sous réserve des dispositions de l'article 12 du décret n° 84-74 du 26 janvier 1984 modifié, les réglementations techniques
+nationales sont adoptées par arrêté du ministre chargé des télécommunications.
+
+L'évaluation de la conformité des équipements terminaux aux normes harmonisées et aux réglementations techniques communes,
+effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant
+l'Espace économique européen, est reconnue en France conformément aux dispositions de la section III du présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications L32
+  - Décret n°84-74 du 26 janvier 1984 - art. 12 (M)
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 2 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-28 (M)
+
+
+###### Article R20-4
+
+La demande d'une attestation de conformité est présentée à l'Autorité de régulation des télécommunications par le fabricant
+de l'équipement ou son mandataire établi dans la Communauté européenne ou dans l'espace économique européen, ci-après dénommé
+le demandeur. Le demandeur doit avoir la personnalité juridique. Lorsque l'évaluation de la conformité est effectuée au
+regard de normes nationales ou de réglementations techniques nationales, la demande d'attestation de conformité peut être
+présentée par toute personne à même d'assurer les responsabilités incombant au titulaire de l'attestation de conformité.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+  - Décret n°97-328 du 9 avril 1997 - art. 3 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-17 (M)
+  - Code des postes et des communications électroni... - art. R20-18 (V)
+  - Code des postes et des communications électroni... - art. R20-20 (V)
+  - Code des postes et des communications électroni... - art. R20-21 (V)
+  - Code des postes et des communications électroni... - art. R20-5 (V)
+
+
+###### Article R20-5
+
+Lorsque le demandeur décide de solliciter l'attestation de conformité selon la procédure prévue au a du 1° de l'article R.
+20-2, il constitue un dossier d'attestation de conformité.
+
+Un arrêté du ministre chargé des télécommunications précise la composition de ce dossier, qui doit permettre à l'Autorité de
+régulation des télécommunications d'évaluer la conformité du produit aux exigences essentielles qui lui sont applicables. Le
+dossier comporte un justificatif du paiement des frais de dossier. Un ou plusieurs exemplaires représentatifs de l'équipement
+terminal objet de la demande d'attestation de conformité sont tenus à la disposition de l'Autorité de régulation des
+télécommunications.
+
+Un arrêté du ministre chargé des télécommunications fixe la procédure simplifiée d'attestation de conformité applicable aux
+catégories d'équipements terminaux radioélectriques dont la conformité aux exigences essentielles n'est appréciée qu'au
+regard des normes et spécifications techniques relatives à la protection du spectre radioélectrique.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+  - Décret n°97-328 du 9 avril 1997 - art. 3 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. L43 (VD)
+  - Code des postes et des communications électroni... - art. R20-10 (V)
+  - Code des postes et des communications électroni... - art. R20-13 (V)
+  - Code des postes et des communications électroni... - art. R20-21 (M)
+  - Code des postes et des communications électroni... - art. R20-25 (V)
+  - Code des postes et des communications électroni... - art. R20-4 (M)
+  - Code des postes et des communications électroni... - art. R20-6 (M)
+  - Code des postes et des communications électroni... - art. R20-7 (M)
+  - Code des postes et des communications électroni... - art. R20-8 (M)
+  - Code des postes et des communications électroni... - art. R20-9 (V)
+
+_Cite_:
+
+  - Code des postes et télécommunications R20-2
+
+
+###### Article R20-6
+
+1° A réception du dossier, il est délivré au demandeur un accusé de réception. Sont indiqués, le cas échéant, la ou les
+pièces manquantes ainsi que le délai fixé pour les produire.
+
+2° Les renseignements fournis sont vérifiés sur pièces ou, en tant que de besoin, sur place.
+
+3° Lorsque son dossier est complet, le demandeur peut être invité à présenter un exemplaire représentatif de l'équipement à
+un des laboratoires désignés aux fins d'essais. La demande est examinée au vu de l'ensemble des rapports d'essais.
+
+4° Si l'ensemble des pièces, visées ci-dessus, ne font pas apparaître de points de non-conformité à une ou plusieurs des
+exigences essentielles, une attestation d'examen ou d'examen C.E. de type est délivrée et notifiée au demandeur par
+l'Autorité de régulation des télécommunications. Dans le cas contraire, l'attestation est refusée par une décision motivée,
+notifiée au demandeur.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 2 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-20 (V)
+  - Code des postes et des communications électroni... - art. R20-21 (M)
+  - Code des postes et des communications électroni... - art. R20-5 (V)
+  - Code des postes et des communications électroni... - art. R20-7 (M)
+  - Code des postes et des communications électroni... - art. R20-8 (M)
+  - Code des postes et des communications électroni... - art. R20-9-1 (V)
+
+
+###### Article R20-7
+
+Le demandeur auquel une attestation d'examen ou d'examen C.E. de type a été délivrée s'engage à fabriquer ou à commercialiser
+des équipements conformes au type décrit dans cette attestation, selon l'une ou l'autre des deux procédures suivantes :
+
+a) Il souscrit une déclaration écrite assurant que les produits fabriqués sont conformes au type et qu'il prend toutes les
+mesures nécessaires pour que le procédé de fabrication assure cette conformité.
+
+L'Autorité de régulation des télécommunications effectue ou fait effectuer des contrôles du produit à des intervalles
+aléatoires, par prélèvement dans une série de fabrication, dans les stocks de l'entreprise ou aux différents stades de la
+distribution. Le demandeur ne peut s'opposer à ces examens.
+
+b) Il met en oeuvre un système approuvé de qualité de la production dans les conditions prévues à l'article R. 20-8.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications R20-8
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 2 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-5 (V)
+  - Code des postes et des communications électroni... - art. R20-8 (M)
+
+
+###### Article R20-8
+
+Lorsqu'il choisit de mettre en oeuvre un système approuvé de qualité de la production, le fabricant ou son mandataire
+présente à l'Autorité de régulation des télécommunications une demande d'approbation de ce système, destinée à garantir la
+conformité des produits au type décrit dans l'attestation d'examen ou d'examen C.E. de type.
+
+L'Autorité de régulation des télécommunications évalue le système de qualité après une procédure d'examen sur pièces et
+éventuellement sur place.
+
+Elle notifie au demandeur une décision motivée d'évaluation du système de qualité de la production. Lorsque cette décision
+approuve le système soumis à évaluation, le demandeur s'engage à remplir les obligations découlant du système tel qu'il a été
+approuvé et à maintenir son efficacité. Il informe sans délai l'Autorité de régulation des télécommunications de tout projet
+d'adaptation de son système de qualité. Celle-ci lui notifie s'il y a lieu ou non de procéder à une nouvelle approbation du
+système révisé.
+
+Le ministre chargé des télécommunications précise par arrêté le contenu de la demande d'approbation et de la documentation
+nécessaire à l'instruction de cette demande, les modalités de cette instruction ainsi que celles de la surveillance par
+inspections et visites sur place du respect par le demandeur des obligations résultant du système de qualité approuvé.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 2 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-5 (V)
+
+
+###### Article R20-9
+
+Lorsque le fabricant ou son mandataire décide de solliciter l'attestation de conformité selon la procédure prévue au b du 1°
+de l'article R. 20-2, il présente à l'Autorité de régulation des télécommunications une demande d'évaluation du système
+d'assurance de qualité complète qu'il met en oeuvre pour garantir la conformité de ses produits aux exigences essentielles
+qui leur sont applicables.
+
+Cette demande comporte toutes les informations appropriées sur les produits concernés ainsi qu'une documentation complète
+permettant d'apprécier la qualité de la conception du produit, de sa fabrication et du contrôle de celle-ci.
+
+Après un examen sur pièces et, éventuellement, sur place, l'Autorité de régulation des télécommunications prend une décision
+motivée d'évaluation du système d'assurance de qualité complète. Lorsqu'elle estime que ce système garantit la conformité des
+équipements aux exigences essentielles, elle délivre au fabricant ou à son mandataire une déclaration ou déclaration C.E. de
+conformité.
+
+Le fabricant s'engage à remplir les obligations découlant du système d'assurance de qualité complète approuvé et à en
+maintenir l'efficacité. Il autorise l'Autorité de régulation des télécommunications à accéder, à des fins d'inspection, aux
+lieux de conception, de fabrication, d'inspection, d'essais et de stockage des matériels concernés.
+
+Le fabricant informe l'Autorité de régulation des télécommunications de tout projet d'adaptation du système d'assurance de
+qualité complète. Cette dernière fait connaître au fabricant s'il y a lieu ou non de procéder à une nouvelle évaluation du
+système révisé.
+
+Le ministre chargé des télécommunications précise par arrêté le contenu de la demande d'évaluation du système d'assurance de
+qualité complète et de la documentation nécessaire à l'instruction de cette demande, les modalités de cette instruction ainsi
+que celles de la surveillance par inspections sur place, audits à intervalles réguliers ou visites inopinées, du respect par
+le fabricant des obligations du système d'assurance de qualité complète approuvée.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+  - Décret n°97-328 du 9 avril 1997 - art. 4 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-12 (V)
+  - Code des postes et des communications électroni... - art. R20-24 (M)
+  - Code des postes et des communications électroni... - art. R20-5 (M)
+  - Code des postes et des communications électroni... - art. R20-6 (V)
+  - Code des postes et des communications électroni... - art. R20-7 (V)
+
+_Cite_:
+
+  - Code des postes et télécommunications R20-2
+
+
+###### Article R20-10
+
+1° Au vu de la déclaration mentionnée au a de l'article R. 20-7 ou des décisions d'approbation des systèmes de qualité de la
+production mentionnées aux articles R. 20-8 et R. 20-9, l'Autorité de régulation des télécommunications délivre au demandeur
+une attestation de conformité.
+
+Cette attestation de conformité atteste que l'équipement qui en est l'objet respecte les exigences essentielles. En outre,
+elle vaut autorisation de connexion à un réseau ouvert au public, sauf pour certaines catégories d'équipements terminaux
+radioélectriques non destinés à cette utilisation.
+
+La décision d'attestation de conformité précise la durée pour laquelle elle est délivrée, qui ne peut être supérieure à dix
+ans. Elle est notifiée au demandeur.
+
+La demande de renouvellement d'une attestation de conformité doit être présentée au moins quatre mois avant l'expiration de
+la durée pour laquelle l'attestation de conformité a été délivrée. La décision de renouvellement est notifiée au demandeur et
+précise la durée pour laquelle l'attestation de conformité est renouvelée.
+
+2° L'attestation de conformité est personnelle à son titulaire et ne peut être cédée à un tiers qu'avec l'accord de
+l'Autorité de régulation des télécommunications. Cet accord ne peut être refusé qu'au cas où le cessionnaire ne serait pas en
+mesure de remplir les obligations incombant au titulaire de l'attestation de conformité.
+
+3° Toute modification des conditions au vu desquelles a été délivrée l'attestation de conformité est signalée sans délai à
+l'Autorité de régulation des télécommunications.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+  - Décret n°97-328 du 9 avril 1997 - art. 2 () JORF 11 avril 1997
+  - Décret n°97-328 du 9 avril 1997 - art. 3 () JORF 11 avril 1997
+  - Décret n°97-328 du 9 avril 1997 - art. 5 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. L43 (VD)
+  - Code des postes et des communications électroni... - art. R20-13 (V)
+  - Code des postes et des communications électroni... - art. R20-17 (V)
+  - Code des postes et des communications électroni... - art. R20-18 (V)
+  - Code des postes et des communications électroni... - art. R20-22 (V)
+  - Code des postes et des communications électroni... - art. R20-25 (V)
+  - Code des postes et des communications électroni... - art. R20-4 (V)
+  - Code des postes et des communications électroni... - art. R20-6 (V)
+  - Code des postes et des communications électroni... - art. R20-7-1 (V)
+  - Code des postes et des communications électroni... - art. R20-8 (V)
+
+_Cite_:
+
+  - Code des postes et télécommunications R20-7, R20-8, R20-9
+
+
+###### Article R20-11
+
+L'attestation de conformité des installations radioélectriques destinées à être connectées aux réseaux radioélectriques de
+l'Etat visés au 1° de l'article L. 33 du code des postes et télécommunications est délivré dans les conditions du présent
+article.
+
+Les spécifications techniques relatives à la protection du spectre radioélectrique, au vu desquelles est appréciée la
+conformité des installations radioélectriques raccordées aux réseaux établis pour les besoins de la défense nationale ou de
+la sécurité publique, sont communiquées en temps utile au ministre chargé des télécommunications par le ministre intéressé.
+Par dérogation aux dispositions de l'article R. 20-16, ces spécifications ne sont pas publiées lorsque leur publication
+aurait pour effet de porter atteinte aux exigences de la défense et de la sécurité publique.
+
+Le ministre chargé de la défense et le ministre chargé de l'intérieur s'assurent, chacun pour ce qui le concerne, de la
+conformité aux spécifications techniques des installations raccordées aux réseaux susvisés.
+
+L'attestation de conformité des installations raccordées aux autres réseaux utilisant des bandes de fréquences, ou des
+fréquences attribuées par le Premier ministre à une administration pour les besoins propres de celle-ci, est délivré par le
+ministre chargé des télécommunications, après avis de l'administration concernée, et en tant que de besoin, du comité de
+coordination des télécommunications.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. L43 (VD)
+  - Code des postes et des communications électroni... - art. R20-25 (V)
+  - Code des postes et des communications électroni... - art. R20-44-11 (V)
+
+_Cite_:
+
+  - Code des postes et télécommunications L33, R20-16
+
+
+###### Article R20-12
+
+Lorsque les contrôles opérés en application des articles R. 20-7 (a) ou R. 20-8 font apparaître que les équipements produits
+ne sont pas conformes au type qui a fait l'objet de l'attestation d'examen ou d'examen C.E. de type ou lorsque les contrôles
+opérés en application de l'article R. 20-9 font apparaître que les équipements produits ne respectent pas les exigences
+essentielles qui leur sont applicables, l'attestation de conformité est suspendue par l'Autorité de régulation des
+télécommunications. Cette décision est motivée et notifiée au titulaire de l'attestation de conformité, qui est invité à
+prendre les mesures de mise en conformité des appareils existants jugées nécessaires dans un délai qui ne peut être inférieur
+à trente jours.
+
+S'il n'est pas satisfait à cette demande dans le délai fixé, l'Autorité de régulation des télécommunications peut retirer
+l'attestation de conformité par une décision motivée, notifiée au titulaire de cette attestation de conformité.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+  - Décret n°97-328 du 9 avril 1997 - art. 2 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R20-13 (V)
+  - Code des postes et des communications électroni... - art. R20-13-1 (T)
+  - Code des postes et des communications électroni... - art. R20-9 (V)
+
+_Cite_:
+
+  - Code des postes et télécommunications R20-7, R20-8, R20-9
+
+
+###### Article R20-13
+
+1° Tout équipement terminal agréé doit faire l'objet, préalablement à sa commercialisation, d'un marquage indiquant que cet
+équipement est destiné à être connecté à un réseau ouvert au public ou qu'il s'agit d'un équipement radioélectrique non
+destiné à cette utilisation. Ces marquages sont conformes à des modèles fixés par décision de l'Autorité de régulation des
+télécommunications.
+
+Lorsque l'attestation de conformité a été délivrée à l'issue soit d'un examen C.E. de type, soit d'une déclaration C.E. de
+conformité, l'équipement terminal est l'objet d'un marquage C.E., conforme à un modèle fixé par décision de l'Autorité de
+régulation des télécommunications.
+
+Ce marquage C.E. ne pourra être apposé par le fabricant ou son mandataire qu'après que celui-ci se sera également conformé
+aux obligations qui lui incombent en ce qui concerne la compatibilité électromagnétique et la sécurité électrique.
+
+2° Tout équipement terminal doit, en outre, être identifié par le fabricant, et comporter l'indication du modèle, lot ou
+numéro de série, ainsi que l'identité du fabricant ou du fournisseur.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+  - Décret n°97-328 du 9 avril 1997 - art. 9 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-14
+
+1° La déclaration mentionnée au 2° de l'article R. 20-2 est souscrite par le fabricant ou le fournisseur auprès de l'Autorité
+de régulation des télécommunications lors de la première mise sur le marché de l'équipement terminal considéré. Le déclarant
+doit avoir la personnalité juridique.
+
+2° Cette déclaration, conforme à un modèle fixé par arrêté du ministre chargé des télécommunications, atteste que
+l'équipement concerné n'est pas destiné à être connecté à un réseau ouvert au public. Elle est accompagnée de la notice
+d'utilisation de l'équipement.
+
+3° Sauf dans le cas où il justifie avoir antérieurement satisfait à cette obligation auprès d'un organisme notifié d'un autre
+Etat membre de la Communauté européenne ou d'un Etat partie à l'accord instituant l'Espace économique européen, le fabricant
+ou le fournisseur est tenu de justifier, sur demande de l'Autorité de régulation des télécommunications, que l'équipement
+correspond à la destination qu'il a déclarée, compte tenu de ses caractéristiques techniques, de ses fonctions et du segment
+de marché pour lequel il est prévu.
+
+4° Préalablement à sa commercialisation, chaque équipement concerné doit faire l'objet, de la part du fabricant ou du
+fournisseur, du marquage C.E. conforme à un modèle publié par décision de l'Autorité de régulation des télécommunications et
+indiquant qu'il ne peut être connecté à un réseau ouvert au public.
+
+Ce marquage C.E. ne pourra être apposé par le fabricant ou le fournisseur qu'après que celui-ci se sera également conformé
+aux obligations qui lui incombent en ce qui concerne la compatibilité électromagnétique et la sécurité électrique.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications R20-2
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 5 () JORF 11 avril 1997
+  - Décret n°97-328 du 9 avril 1997 - art. 9 () JORF 11 avril 1997
+
+_Cité par_:
+
+  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+  - Code des postes et des communications électroni... - art. R20-20 (M)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
 ###### Article R20-15
 
 Les dossiers et la correspondance se rapportant aux procédures visées à la présente section sont rédigés en langue française.
@@ -9316,6 +9837,23 @@ Les dossiers et la correspondance se rapportant aux procédures visées à la pr
 _Modifié par_:
 
   - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-16
+
+Sans préjudice de leur notification à la Commission des communautés européennes, les références des normes et spécifications
+techniques des équipements terminaux soumis à attestation de conformité sont publiées au Journal officiel de la République
+française.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
 
 _Codifié par_:
 
@@ -9342,6 +9880,39 @@ _Codifié par_:
 _Cité par_:
 
   - Code des postes et des communications électroni... - art. R20-18 (M)
+
+
+###### Article R20-18
+
+1° Les équipements destinés à être connectés directement ou indirectement à un réseau ouvert au public, qui ont obtenu de la
+part d'un organisme notifié d'un autre Etat membre de la Communauté européenne ou de tout autre Etat partie à l'accord
+instituant l'Espace économique européen une décision approuvant leur connexion au réseau, sont dispensés de l'attestation de
+conformité prévue au 1° de l'article R. 20-2 lorsque cette décision a été obtenue à l'issue :
+
+- soit d'un examen C.E. de type suivi d'une déclaration de conformité assortie éventuellement d'un système approuvé de
+qualité de la production ;
+
+- soit d'une déclaration C.E. de conformité assortie d'un système approuvé d'assurance de qualité complète.
+
+2° Lors de l'instruction d'une demande visant à obtenir l'attestation de conformité prévue au 1° de l'article R. 20-2, sont
+reconnus valables les résultats des essais effectués dans les laboratoires présentant des garanties d'indépendance et de
+compétence notamment sur la base des critères généraux définis par les normes de la série EN 45000, désignés comme tels par
+les autres Etats membres ou les autres Etats parties à l'accord instituant l'Espace économique européen et figurant le cas
+échéant sur une liste publiée au Journal officiel de la Communauté européenne.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications R20-2
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
 
 
 ###### Article R20-19
@@ -9379,6 +9950,30 @@ _Cite_:
   - Code des postes et télécommunications R-20-13, R-20-14
 
 
+###### Article R20-20
+
+Lorsqu'il estime que les normes hamonisées et réglementations techniques communes sont insuffisantes pour mettre en oeuvre
+les exigences essentielles ou vont au-delà de celles-ci, l'Autorité de régulation des télécommunications en saisit le comité
+d'approbation des équipements de télécommunications (Acte) siégeant auprès de la Commission des communautés européennes.
+
+Lorsqu'il constate qu'un équipement terminal marqué C.E., agréé dans un Etat membre de la Communauté européenne ou dans un
+autre Etat partie à l'accord instituant l'Espace économique européen et utilisé conformément à sa destination, ne satisfait
+pas aux exigences essentielles, l'Autorité de régulation des télécommunications en informe sans délai la Commission des
+communautés européennes ainsi que les autres Etats membres de la Communauté européenne et les autres Etats parties à l'accord
+instituant l'Espace économique européen et précise si la non conformité résulte d'une application inadéquate des normes et
+spécifications harmonisées ou de lacunes intrinsèques de celles-ci.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 2 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
 ###### Article R20-21
 
 Lorsqu'un accord entre la Communauté européenne et un Etat n'appartenant pas à celle-ci a été conclu à cet effet, la
@@ -9401,7 +9996,134 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R20-25 (M)
 
 
-##### SECTION 5 : Admission des installateurs.<a id=86></a>
+##### SECTION 4 : Raccordement des équipements terminaux aux réseaux ouverts au public.<a id=86></a>
+
+###### Article R20-22
+
+1° L'exploitant d'un réseau ouvert au public ne peut s'opposer au raccordement à son réseau, effectué dans les conditions
+prévues au paragraphe 2 du présent article, des équipements terminaux ayant fait l'objet de l'un des marquages prévus au 1°
+de l'article R. 20-13 et au 1° de l'article R. 20-19.
+
+2° Le raccordement des équipements terminaux à un point de terminaison d'un réseau ouvert au public est effectué librement.
+
+Toutefois, pour certaines catégories d'équipements agréés figurant sur une liste publiée par arrêté de l'Autorité de
+régulation des télécommunications, qui, en raison de leur complexité, peuvent interférer avec l'échange des informations de
+commande et de gestion associé au réseau, ou dont la dimension a une incidence sur l'écoulement du trafic, le raccordement au
+réseau doit être réalisé par un installateur admis, mentionné à l'article R. 20-23. Cet installateur doit, préalablement au
+raccordement, en informer l'exploitant du réseau.
+
+3° Lorsque les équipements terminaux agréés connectés à un réseau ouvert au public perturbent le bon fonctionnement du réseau
+ou des services, notamment en raison de leur sous-dimensionnement ou d'une utilisation non conforme à celle pour laquelle
+l'attestation de conformité a été délivrée, l'exploitant de ce réseau effectue, sans délai, sur demande de l'Autorité de
+régulation des télécommunications, toutes vérifications techniques nécessaires et en informe celui-ci.
+
+Pour préserver l'intégrité du réseau et le bon fonctionnement des services, l'Autorité de régulation des télécommunications
+peut adresser une mise en demeure à l'utilisateur de l'équipement terminal concerné l'invitant à prendre toutes mesures pour
+mettre fin aux perturbations dans un délai déterminé. Si, à l'expiration de ce délai, cet utilisateur ne s'est pas conformé à
+la mise en demeure, l'Autorité de régulation des télécommunications demande à l'exploitant du réseau de mettre en place, aux
+frais de l'intéressé, les dispositifs techniques permettant de mettre fin aux perturbations constatées.
+
+En cas d'urgence ou d'impossibilité de mettre fin dans un délai raisonnable aux troubles constatés, l'exploitant du réseau
+peut, à la demande du ministre chargé des télécommunications, suspendre la fourniture du service qui utilise les terminaux à
+l'origine des perturbations.
+
+4° Lorsque des équipements non agréés sont connectés à un réseau ouvert au public, l'Autorité de régulation des
+télécommunications peut, sans préjudice d'éventuelles poursuites pénales, demander à l'exploitant du réseau auquel sont
+irrégulièrement connectés ces terminaux de suspendre la fourniture du service à l'utilisateur des équipements concernés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications R20-13, R20-19, R20-23
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+  - Décret n°97-328 du 9 avril 1997 - art. 6 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D375 (Ab)
+
+
+##### SECTION 5 : Admission des installateurs.<a id=87></a>
+
+###### Article R20-23
+
+1° Les équipements terminaux de télécommunications ou de radiocommunications figurant sur la liste mentionnée au 2° de
+l'article R. 20-22 ne peuvent être raccordés, mis en service et entretenus que par une entreprise inscrite sur la liste des
+installateurs admis, selon le cas, en télécommunications ou en radiocommunications.
+
+2° La demande d'inscription peut être présentée par toute entreprise inscrite au registre des métiers ou au registre du
+commerce et des sociétés, ou sur une liste professionnelle équivalente dans un autre Etat membre de la Communauté européenne
+ou dans un autre Etat partie à l'accord instituant l'Espace économique européen.
+
+La demande d'inscription comporte :
+
+- le nom et l'adresse de l'entreprise demanderesse ;
+
+- la liste des membres de son personnel disposant de diplômes ou qualifications dans la spécialité choisie ;
+
+- le cas échéant, la référence des travaux déjà réalisés dans cette spécialité.
+
+3° A réception du dossier complet, il est délivré une attestation d'inscription provisoire. Elle emporte le droit de procéder
+au raccordement, à la mise en service et à l'entretien des équipements figurant sur la liste mentionnée au 2° de l'article R.
+20-22.
+
+4° Pendant la période d'inscription provisoire, dont la durée ne peut excéder un an, les travaux réalisés par l'entreprise
+peuvent être vérifiés par l'Autorité de régulation des télécommunications, de sa propre initiative ou sur demande de la
+commission d'admission des installateurs.
+
+A l'issue de cette période, la capacité de l'entreprise est appréciée au regard de la compétence et de l'expérience acquises
+dans la spécialité choisie.
+
+L'Autorité de régulation des télécommunications statue, après avis de la commission d'admission des installateurs, sur
+l'inscription définitive de l'entreprise demanderesse sur la liste des installateurs admis. Les refus d'inscription sont
+motivés et notifiés à l'entreprise concernée.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications R20-22
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 7 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-24
+
+L'inscription définitive vaut autorisation d'utiliser le titre d'installateur admis en télécommunications ou en
+radiocommunications.
+
+L'Autorité de régulation des télécommunications peut, après avis de la commission d'admission et après audition des
+intéressés, suspendre ou retirer l'inscription sur la liste, des installateurs qui auront manqué gravement à leurs
+obligations professionnelles.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 8 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. R20-30 (M)
+
 
 ###### Article R20-25
 
@@ -9431,7 +10153,86 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R20-3 (V)
 
 
-##### SECTION 6 : Dispositions pénales.<a id=87></a>
+##### SECTION 6 : Dispositions pénales.<a id=88></a>
+
+###### Article R20-26
+
+Est puni de la peine d'amende prévue pour les contraventions de la 4e classe quiconque met sur le marché un équipement
+terminal qui devait faire l'objet de l'attestation de conformité prévue au 1° de l'article R. 20-2, ou d'une décision
+approuvant sa connexion à un réseau ouvert au public mentionnée au 1° de l'article R. 20-18, et qui n'a pas obtenu cette
+attestation de conformité ou cette décision.
+
+En cas de condamnation, le tribunal peut ordonner la confiscation des équipements terminaux concernés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications R20-2, R20-18
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. R20-30-1 (M)
+
+
+###### Article R20-27
+
+Est puni de la peine d'amende prévue pour les contraventions de la 4e classe quiconque connecte à un réseau ouvert au public
+un équipement terminal n'ayant pas fait l'objet de l'attestation de conformité prévue au 1° de l'article R. 20-2, ou d'une
+décision approuvant sa connexion à un réseau ouvert au public mentionnée au 1° de l'article R. 20-18.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. R20-30-1 (M)
+
+_Cite_:
+
+  - Code des postes et télécommunications R20-2, R20-18
+
+
+###### Article R20-28
+
+Est puni de la peine d'amende prévue pour la contravention de la 4e classe quiconque met sur le marché un équipement terminal
+ayant fait l'objet du marquage visé au 1° de l'article R. 20-13 ou au 1° de l'article R. 20-19 sans être en mesure de
+produire, sur demande des agents mentionnés à l'article L. 40, la référence de l'attestation de conformité prévue au 1° de
+l'article R. 20-2, ou de la décision approuvant sa connexion au réseau mentionnée au 1° de l'article R. 20-18.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications R20-13, R20-19, L40, R20-2, R20-18
+
+_Modifié par_:
+
+  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. R20-30-1 (M)
+
 
 ###### Article R20-29
 
@@ -9482,809 +10283,9 @@ _Cite_:
   - Code des postes et télécommunications R20-24
 
 
-#### CHAPITRE Ier : Etablissement et entretien des lignes et des installations de télécommunications<a id=88></a>
+#### CHAPITRE II : Servitudes radio-électriques<a id=89></a>
 
-##### SECTION 2 : Evaluation de la conformité des équipements terminaux aux exigences essentielles.<a id=89></a>
-
-###### Article R20-2
-
-1° Tout équipement terminal destiné à être connecté, directement ou indirectement, à un réseau ouvert au public ne peut être
-mis sur le marché qu'après l'obtention d'un agrément. La destination de l'équipement est indiquée par le fabricant ou le
-fournisseur. Un agrément est également exigé préalablement à la mise sur le marché de tout équipement terminal
-radioélectrique, quelle que soit sa destination.
-
-La procédure d'agrément a pour objet de garantir le respect des exigences essentielles.
-
-Au choix du fabricant ou de son mandataire établi dans la Communauté européenne ou dans l'Espace économique européen,
-l'agrément est délivré à l'issue :
-
-a) Soit d'un examen de type selon la procédure définie aux articles R. 20-4, R. 20-5 et R. 20-6, suivi de la déclaration de
-conformité au type prévue à l'article R. 20-7 (a), assortie ou non d'un système approuvé de qualité de la production,
-mentionné à l'article R. 20-7 (b).
-
-Lorsque l'évaluation de la conformité est effectuée au regard de normes nationales ou de réglementations techniques
-nationales, le choix de la procédure décrite à l'alinéa ci-dessus peut être fait pour toute personne à même d'assurer les
-responsabilités incombant au titulaire de l'agrément.
-
-b) Soit d'une procédure de certification de la conformité du processus de conception et de fabrication à un système
-d'assurance de qualité complète, suivie d'une déclaration de conformité dans les conditions définies à l'article R. 20-9.
-
-Lorsque l'évaluation de la conformité est effectuée exclusivement au regard des normes harmonisées ou de réglementations
-techniques communes, les examens de type et déclarations de conformité mentionnés aux a et b ci-dessus sont qualifiés
-respectivement d'examens C.E. de type et de déclarations C.E. de conformité.
-
-2° Tout autre équipement terminal susceptible d'être connecté à un réseau ouvert au public, mais non destiné à une telle
-utilisation, ne peut être mis sur le marché qu'après une déclaration souscrite dans les conditions prévues à l'article R.
-20-14.
-
-Le ministre chargé des télécommunications (direction générale des postes et télécommunications) est l'organisme notifié
-compétent en France, au sens de l'article R. 20-1. A ce titre, il reçoit les demandes d'agrément et les déclarations
-mentionnées aux 1° et 2° du présent article.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D375 (Ab)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-7, R20-9, R20-14, R20-1, R20-4, R20-5, R20-6
-
-_Modifié par_:
-
-  - Décret n°94-737 1994-08-22 art. 1 JORF 28 août 1994
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-3
-
-La conformité d'un équipement terminal de télécommunications aux exigences essentielles est évaluée :
-
-a) S'agissant des exigences prévues au 12° de l'article L. 32 qui sont relatives à la sécurité des usagers et du personnel
-des exploitants des réseaux de télécommunications, au regard des normes nationales transposant les normes harmonisées
-pertinentes ou, à défaut, des normes nationales ;
-
-b) S'agissant des autres exigences essentielles prévues au même 12° de l'article L. 32, au regard des réglementations
-techniques communes ou, à défaut, des réglementations techniques nationales, ainsi que des réglementations techniques des
-autres Etats membres de la Communauté européenne ou des autres Etats parties à l'accord instituant l'Espace économique
-européen reconnues équivalentes par le directeur général des postes et télécommunications.
-
-Sous réserve des dispositions de l'article 12 du décret n° 84-74 du 26 janvier 1984 modifié, les réglementations techniques
-nationales sont adoptées par arrêté du ministre chargé des télécommunications.
-
-L'évaluation de la conformité des équipements terminaux aux normes harmonisées et aux réglementations techniques communes,
-effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant
-l'Espace économique européen, est reconnue en France conformément aux dispositions de la section III du présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°84-74 du 26 janvier 1984 - art. 12 (M)
-  - Code des postes et télécommunications L32
-
-_Modifié par_:
-
-  - Décret n°94-737 1994-08-22 art. 1 JORF 28 août 1994
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-28 (M)
-
-
-###### Article R20-4
-
-La demande d'agrément est présentée au directeur général des postes et télécommunications par le fabricant de l'équipement ou
-son mandataire établi dans la Communauté européenne ou dans l'espace économique européen, ci-après dénommé le demandeur. Le
-demandeur doit avoir la personnalité juridique. Lorsque l'évaluation de la conformité est effectuée au regard de normes
-nationales ou de réglementations techniques nationales, la demande d'agrément peut être présentée par toute personne à même
-d'assurer les responsabilités incombant au titulaire de l'agrément.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°94-737 1994-08-22 art. 1 JORF 28 août 1994
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-17 (M)
-  - Code des postes et des communications électroni... - art. R20-18 (V)
-  - Code des postes et des communications électroni... - art. R20-20 (V)
-  - Code des postes et des communications électroni... - art. R20-21 (V)
-  - Code des postes et des communications électroni... - art. R20-5 (V)
-
-
-###### Article R20-5
-
-Lorsque le demandeur décide de solliciter l'agrément selon la procédure prévue au a du 1° de l'article R. 20-2, il constitue
-un dossier d'agrément.
-
-Un arrêté du ministre chargé des télécommunications précise la composition de ce dossier, qui doit permettre au directeur
-général des postes et télécommunications d'évaluer la conformité du produit aux exigences essentielles qui lui sont
-applicables. Le dossier comporte un justificatif du paiement des frais de dossier. Un ou plusieurs exemplaires représentatifs
-de l'équipement terminal objet de la demande d'agrément sont tenus à la disposition du directeur général des postes et
-télécommunications.
-
-Un arrêté du ministre chargé des télécommunications fixe la procédure simplifiée d'agrément applicable aux catégories
-d'équipements terminaux radioélectriques dont la conformité aux exigences essentielles n'est appréciée qu'au regard des
-normes et spécifications techniques relatives à la protection du spectre radioélectrique.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. L43 (VD)
-  - Code des postes et des communications électroni... - art. R20-10 (V)
-  - Code des postes et des communications électroni... - art. R20-13 (V)
-  - Code des postes et des communications électroni... - art. R20-21 (M)
-  - Code des postes et des communications électroni... - art. R20-25 (V)
-  - Code des postes et des communications électroni... - art. R20-4 (M)
-  - Code des postes et des communications électroni... - art. R20-6 (M)
-  - Code des postes et des communications électroni... - art. R20-7 (M)
-  - Code des postes et des communications électroni... - art. R20-8 (M)
-  - Code des postes et des communications électroni... - art. R20-9 (V)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-2
-
-
-###### Article R20-6
-
-1° A réception du dossier, il est délivré au demandeur un accusé de réception. Sont indiqués, le cas échéant, la ou les
-pièces manquantes ainsi que le délai fixé pour les produire.
-
-2° Les renseignements fournis sont vérifiés sur pièces ou, en tant que de besoin, sur place.
-
-3° Lorsque son dossier est complet, le demandeur peut être invité à présenter un exemplaire représentatif de l'équipement à
-un des laboratoires désignés aux fins d'essais. La demande est examinée au vu de l'ensemble des rapports d'essais.
-
-4° Si l'ensemble des pièces, visées ci-dessus, ne font pas apparaître de points de non-conformité à une ou plusieurs des
-exigences essentielles, une attestation d'examen ou d'examen C.E. de type est délivrée et notifiée au demandeur par le
-directeur général des postes et télécommunications. Dans le cas contraire, l'attestation est refusée par une décision
-motivée, notifiée au demandeur.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-20 (V)
-  - Code des postes et des communications électroni... - art. R20-21 (M)
-  - Code des postes et des communications électroni... - art. R20-5 (V)
-  - Code des postes et des communications électroni... - art. R20-7 (M)
-  - Code des postes et des communications électroni... - art. R20-8 (M)
-  - Code des postes et des communications électroni... - art. R20-9-1 (V)
-
-
-###### Article R20-7
-
-Le demandeur auquel une attestation d'examen ou d'examen C.E. de type a été délivrée s'engage à fabriquer ou à commercialiser
-des équipements conformes au type décrit dans cette attestation, selon l'une ou l'autre des deux procédures suivantes :
-
-a) Il souscrit une déclaration écrite assurant que les produits fabriqués sont conformes au type et qu'il prend toutes les
-mesures nécessaires pour que le procédé de fabrication assure cette conformité.
-
-Le directeur général des postes et télécommunications effectue ou fait effectuer des contrôles du produit à des intervalles
-aléatoires, par prélèvement dans une série de fabrication, dans les stocks de l'entreprise ou aux différents stades de la
-distribution. Le demandeur ne peut s'opposer à ces examens.
-
-b) Il met en oeuvre un système approuvé de qualité de la production dans les conditions prévues à l'article R. 20-8.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-8
-
-_Modifié par_:
-
-  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-5 (V)
-  - Code des postes et des communications électroni... - art. R20-8 (M)
-
-
-###### Article R20-8
-
-Lorsqu'il choisit de mettre en oeuvre un système approuvé de qualité de la production, le fabricant ou son mandataire
-présente au directeur général des postes et télécommunications une demande d'approbation de ce système, destinée à garantir
-la conformité des produits au type décrit dans l'attestation d'examen ou d'examen C.E. de type.
-
-Le directeur général des postes et télécommunications évalue le système de qualité après une procédure d'examen sur pièces et
-éventuellement sur place.
-
-Il notifie au demandeur une décision motivée d'évaluation du système de qualité de la production. Lorsque cette décision
-approuve le système soumis à évaluation, le demandeur s'engage à remplir les obligations découlant du système tel qu'il a été
-approuvé et à maintenir son efficacité. Il informe sans délai le directeur général des postes et télécommunications de tout
-projet d'adaptation de son système de qualité. Celui-ci lui notifie s'il y a lieu ou non de procéder à une nouvelle
-approbation du système révisé.
-
-Le ministre chargé des télécommunications précise par arrêté le contenu de la demande d'approbation et de la documentation
-nécessaire à l'instruction de cette demande, les modalités de cette instruction ainsi que celles de la surveillance par
-inspections et visites sur place du respect par le demandeur des obligations résultant du système de qualité approuvé.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-5 (V)
-
-
-###### Article R20-9
-
-Lorsque le fabricant ou son mandataire décide de solliciter l'agrément selon la procédure prévue au b du 1° de l'article R.
-20-2, il présente au directeur général des postes et télécommunications une demande d'évaluation du système d'assurance de
-qualité complète qu'il met en oeuvre pour garantir la conformité de ses produits aux exigences essentielles qui leur sont
-applicables.
-
-Cette demande comporte toutes les informations appropriées sur les produits concernés ainsi qu'une documentation complète
-permettant d'apprécier la qualité de la conception du produit, de sa fabrication et du contrôle de celle-ci.
-
-Après un examen sur pièces et, éventuellement, sur place, le directeur général des postes et télécommunications prend une
-décision motivée d'évaluation du système d'assurance de qualité complète. Lorsqu'il estime que ce système garantit la
-conformité des équipements aux exigences essentielles, il délivre au fabricant ou à son mandataire une déclaration ou
-déclaration C.E. de conformité.
-
-Le fabricant s'engage à remplir les obligations découlant du système d'assurance de qualité complète approuvé et à en
-maintenir l'efficacité. Il autorise la direction générale des postes et télécommunications à accéder, à des fins
-d'inspection, aux lieux de conception, de fabrication, d'inspection, d'essais et de stockage des matériels concernés.
-
-Le fabricant informe le directeur général des postes et télécommunications                                                 de
-tout projet d'adaptation du système d'assurance de qualité complète. Ce dernier fait connaître au fabricant s'il y a lieu ou
-non de procéder à une nouvelle évaluation du système révisé.
-
-Le ministre chargé des télécommunications précise par arrêté le contenu de la demande d'évaluation du système d'assurance de
-qualité complète et de la documentation nécessaire à l'instruction de cette demande, les modalités de cette instruction ainsi
-que celles de la surveillance par inspections sur place, audits à intervalles réguliers ou visites inopinées, du respect par
-le fabricant des obligations du système d'assurance de qualité complète approuvée.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-12 (V)
-  - Code des postes et des communications électroni... - art. R20-24 (M)
-  - Code des postes et des communications électroni... - art. R20-5 (M)
-  - Code des postes et des communications électroni... - art. R20-6 (V)
-  - Code des postes et des communications électroni... - art. R20-7 (V)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-2
-
-
-###### Article R20-10
-
-1° Au vu de la déclaration mentionnée au a de l'article R. 20-7 ou des décisions d'approbation des systèmes de qualité de la
-production mentionnées aux articles R. 20-8 et R. 20-9, le directeur général des postes et télécommunications délivre au
-demandeur un agrément.
-
-Cet agrément atteste que l'équipement qui en est l'objet respecte les exigences essentielles. En outre, il vaut autorisation
-de connexion à un réseau ouvert au public, sauf pour certaines catégories d'équipements terminaux radioélectriques non
-destinés à cette utilisation.
-
-La décision d'agrément précise la durée pour laquelle elle est délivrée, qui ne peut être supérieure à dix ans. Elle est
-notifiée au demandeur.
-
-La demande de renouvellement d'un agrément doit être présentée au moins quatre mois avant l'expiration de la durée pour
-laquelle l'agrément a été délivré. La décision de renouvellement est notifiée au demandeur et précise la durée pour laquelle
-l'agrément est renouvelé.
-
-2° L'agrément est personnel à son titulaire et ne peut être cédé à un tiers qu'avec l'accord du directeur général des postes
-et télécommunications. Cet accord ne peut être refusé qu'au cas où le cessionnaire ne serait pas en mesure de remplir les
-obligations incombant au titulaire de l'agrément.
-
-3° Toute modification des conditions au vu desquelles a été délivré l'agrément est signalée sans délai au directeur général
-des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. L43 (VD)
-  - Code des postes et des communications électroni... - art. R20-13 (V)
-  - Code des postes et des communications électroni... - art. R20-17 (V)
-  - Code des postes et des communications électroni... - art. R20-18 (V)
-  - Code des postes et des communications électroni... - art. R20-22 (V)
-  - Code des postes et des communications électroni... - art. R20-25 (V)
-  - Code des postes et des communications électroni... - art. R20-4 (V)
-  - Code des postes et des communications électroni... - art. R20-6 (V)
-  - Code des postes et des communications électroni... - art. R20-7-1 (V)
-  - Code des postes et des communications électroni... - art. R20-8 (V)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-7, R20-8, R20-9
-
-
-###### Article R20-11
-
-L'agrément des installations radioélectriques destinées à être connectées aux réseaux radioélectriques de l'Etat visés au 1°
-de l'article L. 33 du code des postes et télécommunications est délivré dans les conditions du présent article.
-
-Les spécifications techniques relatives à la protection du spectre radioélectrique, au vu desquelles est appréciée la
-conformité des installations radioélectriques raccordées aux réseaux établis pour les besoins de la défense nationale ou de
-la sécurité publique, sont communiquées en temps utile au ministre chargé des télécommunications par le ministre intéressé.
-Par dérogation aux dispositions de l'article R. 20-16, ces spécifications ne sont pas publiées lorsque leur publication
-aurait pour effet de porter atteinte aux exigences de la défense et de la sécurité publique.
-
-Le ministre chargé de la défense et le ministre chargé de l'intérieur s'assurent, chacun pour ce qui le concerne, de la
-conformité aux spécifications techniques des installations raccordées aux réseaux susvisés.
-
-L'agrément des installations raccordées aux autres réseaux utilisant des bandes de fréquences, ou des fréquences attribuées
-par le Premier ministre à une administration pour les besoins propres de celle-ci, est délivré par le ministre chargé des
-télécommunications, après avis de l'administration concernée, et en tant que de besoin, du comité de coordination des
-télécommunications.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. L43 (VD)
-  - Code des postes et des communications électroni... - art. R20-25 (V)
-  - Code des postes et des communications électroni... - art. R20-44-11 (V)
-
-_Cite_:
-
-  - Code des postes et télécommunications L33, R20-16
-
-
-###### Article R20-12
-
-Lorsque les contrôles opérés en application des articles R. 20-7 (a) ou R. 20-8 font apparaître que les équipements produits
-ne sont pas conformes au type qui a fait l'objet de l'attestation d'examen ou d'examen C.E. de type ou lorsque les contrôles
-opérés en application de l'article R. 20-9 font apparaître que les équipements produits ne respectent pas les exigences
-essentielles qui leur sont applicables, l'agrément est suspendu par le directeur général des postes et télécommunications.
-Cette décision est motivée et notifiée au titulaire de l'agrément, qui est invité à prendre les mesures de mise en conformité
-des appareils existants jugées nécessaires dans un délai qui ne peut être inférieur à trente jours.
-
-S'il n'est pas satisfait à cette demande dans le délai fixé, le directeur général des postes et télécommunications peut
-retirer l'agrément par une décision motivée, notifiée au titulaire de cet agrément.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R20-13 (V)
-  - Code des postes et des communications électroni... - art. R20-13-1 (T)
-  - Code des postes et des communications électroni... - art. R20-9 (V)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-7, R20-8, R20-9
-
-
-###### Article R20-13
-
-1° Tout équipement terminal agréé doit faire l'objet, préalablement à sa commercialisation, d'un marquage indiquant que cet
-équipement est destiné à être connecté à un réseau ouvert au public ou qu'il s'agit d'un équipement radioélectrique non
-destiné à cette utilisation. Ces marquages sont conformes à des modèles fixés par arrêté du ministre chargé des
-télécommunications.
-
-Lorsque l'agrément a été délivré à l'issue soit d'un examen C.E. de type, soit d'une déclaration C.E. de conformité,
-l'équipement terminal est l'objet d'un marquage C.E., conforme à un modèle fixé par arrêté du ministre chargé des
-télécommunications.
-
-Ce marquage C.E. ne pourra être apposé par le fabricant ou son mandataire qu'après que celui-ci se sera également conformé
-aux obligations qui lui incombent en ce qui concerne la compatibilité électromagnétique et la sécurité électrique.
-
-2° Tout équipement terminal doit, en outre, être identifié par le fabricant, et comporter l'indication du modèle, lot ou
-numéro de série, ainsi que l'identité du fabricant ou du fournisseur.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°94-737 1994-08-22 art. 2 JORF 28 août 1994
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-14
-
-1° La déclaration mentionnée au 2° de l'article R. 20-2 est souscrite par le fabricant ou le fournisseur auprès du directeur
-général des postes et télécommunications lors de la première mise sur le marché de l'équipement terminal considéré. Le
-déclarant doit avoir la personnalité juridique.
-
-2° Cette déclaration, conforme à un modèle fixé par arrêté du ministre chargé des télécommunications, atteste que
-l'équipement concerné n'est pas destiné à être connecté à un réseau ouvert au public. Elle est accompagnée de la notice
-d'utilisation de l'équipement.
-
-3° Sauf dans le cas où il justifie avoir antérieurement satisfait à cette obligation auprès d'un organisme notifié d'un autre
-Etat membre de la Communauté européenne ou d'un Etat partie à l'accord instituant l'Espace économique européen , le fabricant
-ou le fournisseur est tenu de justifier, sur demande du directeur général des postes et télécommunications , que l'équipement
-correspond à la destination qu'il a déclarée, compte tenu de ses caractéristiques techniques, de ses fonctions et du segment
-de marché pour lequel il est prévu.
-
-4° Préalablement à sa commercialisation, chaque équipement concerné doit faire l'objet, de la part du fabricant ou du
-fournisseur, du marquage C.E. conforme à un modèle publié par arrêté du ministre chargé des télécommunications et indiquant
-qu'il ne peut être connecté à un réseau ouvert au public.
-
-Ce marquage C.E. ne pourra être apposé par le fabricant ou le fournisseur qu'après que celui-ci se sera également conformé
-aux obligations qui lui incombent en ce qui concerne la compatibilité électromagnétique et la sécurité électrique.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-2
-
-_Modifié par_:
-
-  - Décret n°94-737 1994-08-22 art. 1 et 3 JORF 28 août 1994
-
-_Cité par_:
-
-  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
-  - Code des postes et des communications électroni... - art. R20-20 (M)
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-16
-
-Sans préjudice de leur notification à la Commission des communautés européennes, les références des normes et spécifications
-techniques des équipements terminaux soumis à agrément sont publiées au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-##### SECTION 3 : Reconnaissance en France de l'évaluation de la conformité effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant l'Espace économique européen.<a id=90></a>
-
-###### Article R20-18
-
-1° Les équipements destinés à être connectés directement ou indirectement à un réseau ouvert au public, qui ont obtenu de la
-part d'un organisme notifié d'un autre Etat membre ou de tout autre Etat partie à l'accord instituant l'Espace économique
-européen une décision approuvant leur connexion au réseau, sont dispensés de l'agrément prévu au 1° de l'article R. 20-2
-lorsque cette décision a été obtenue à l'issue :
-
-- soit d'un examen C.E. de type suivi d'une déclaration de conformité assortie éventuellement d'un système approuvé de
-qualité de la production ;
-
-- soit d'une déclaration C.E. de conformité assortie d'un système approuvé d'assurance de qualité complète.
-
-2° Lors de l'instruction d'une demande visant à obtenir l'agrément prévu au 1° de l'article R. 20-2, sont reconnus valables
-les résultats des essais effectués dans les laboratoires présentant des garanties d'indépendance et de compétence notamment
-sur la base des critères généraux définis par les normes de la série EN 45000, désignés comme tels par les autres Etats
-membres ou les autres Etats parties à l'accord instituant l'Espace économique européen et figurant le cas échéant sur une
-liste publiée au Journal officiel de la Communauté européenne.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-2
-
-_Modifié par_:
-
-  - Décret n°94-737 1994-08-22 art. 1 et 4 JORF 28 août 1994
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-20
-
-Lorsqu'il estime que les normes hamonisées et réglementations techniques communes sont insuffisantes pour mettre en oeuvre
-les exigences essentielles ou vont au-delà de celles-ci, le directeur de le réglementation générale en saisit le comité
-d'approbation des équipements de télécommunications (Acte) siégeant auprès de la Commission des communautés européennes.
-
-Lorsqu'il constate qu'un équipement terminal marqué C.E., agréé dans un Etat membre de la Communauté européenne ou dans un
-autre Etat partie à l'accord instituant l'Espace économique européen et utilisé conformément à sa destination, ne satisfait
-pas aux exigences essentielles, le directeur général des postes et télécommunications en informe sans délai la Commission des
-communautés européennes ainsi que les autres Etats membres de la Communauté européenne et les autres Etats parties à l'accord
-instituant l'Espace économique européen et précise si la non conformation résulte d'une application inadéquate des normes et
-spécifications harmonisées ou de lacunes intrinsèques de celles-ci.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°94-737 1994-08-22 art. 1 et 6 JORF 28 août 1994
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-##### SECTION 4 : Raccordement des équipements terminaux aux réseaux ouverts au public.<a id=91></a>
-
-###### Article R20-22
-
-1° L'exploitant d'un réseau ouvert au public ne peut s'opposer au raccordement à son réseau, effectué dans les conditions
-prévues au paragraphe 2 du présent article, des équipements terminaux ayant fait l'objet de l'un des marquages prévus au 1°
-de l'article R. 20-13 et au 1° de l'article R. 20-19.
-
-2° Le raccordement des équipements terminaux à un point de terminaison d'un réseau ouvert au public est effectué librement.
-
-Toutefois, pour certaines catégories d'équipements agréés figurant sur une liste publiée par arrêté du ministre chargé des
-télécommunications, qui, en raison de leur complexité, peuvent interférer avec l'échange des informations de commande et de
-gestion associé au réseau, ou dont la dimension a une incidence sur l'écoulement du trafic, le raccordement au réseau doit
-être réalisé par un installateur admis, mentionné à l'article R. 20-23. Cet installateur doit, préalablement au raccordement,
-en informer l'exploitant du réseau.
-
-3° Lorsque les équipements terminaux agréés connectés à un réseau ouvert au public perturbent le bon fonctionnement du réseau
-ou des services, notamment en raison de leur sous-dimensionnement ou d'une utilisation non conforme à celle pour laquelle
-l'agrément a été délivré, l'exploitant de ce réseau effectue, sans délai, sur demande du ministre chargé des
-télécommunications, toutes vérifications techniques nécessaires et en informe celui-ci.
-
-Pour préserver l'intégrité du réseau et le bon fonctionnement des services, le ministre chargé des télécommunications peut
-adresser une mise en demeure à l'utilisateur de l'équipement terminal concerné l'invitant à prendre toutes mesures pour
-mettre fin aux perturbations dans un délai déterminé. Si, à l'expiration de ce délai, cet utilisateur ne s'est pas conformé à
-la mise en demeure, le ministre demande à l'exploitant du réseau de mettre en place, aux frais de l'intéressé, les
-dispositifs techniques permettant de mettre fin aux perturbations constatées.
-
-En cas d'urgence ou d'impossibilité de mettre fin dans un délai raisonnable aux troubles constatés, l'exploitant du réseau
-peut, à la demande du ministre chargé des télécommunications, suspendre la fourniture du service qui utilise les terminaux à
-l'origine des perturbations.
-
-4° Lorsque des équipements non agréés sont connectés à un réseau ouvert au public, le ministre chargé des télécommunications
-peut, sans préjudice d'éventuelles poursuites pénales, demander à l'exploitant du réseau auquel sont irrégulièrement
-connectés ces terminaux de suspendre la fourniture du service à l'utilisateur des équipements concernés.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-13, R20-19, R20-23
-
-_Modifié par_:
-
-  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D375 (Ab)
-
-
-##### SECTION 5 : Admission des installateurs.<a id=92></a>
-
-###### Article R20-23
-
-1° Les équipements terminaux de télécommunications ou de radiocommunications figurant sur la liste mentionnée au 2° de
-l'article R. 20-22 ne peuvent être raccordés, mis en service et entretenus que par une entreprise inscrite sur la liste des
-installateurs admis, selon le cas, en télécommunications ou en radiocommunications.
-
-2° La demande d'inscription peut être présentée par toute entreprise inscrite au registre des métiers ou au registre du
-commerce et des sociétés, ou sur une liste professionnelle équivalente dans un autre Etat membre de la Communauté européenne
-ou dans un autre Etat partie à l'accord instituant l'Espace économique européen.
-
-La demande d'inscription comporte :
-
-- le nom et l'adresse de l'entreprise demanderesse ;
-
-- la liste des membres de son personnel disposant de diplômes ou qualifications dans la spécialité choisie ;
-
-- le cas échéant, la référence des travaux déjà réalisés dans cette spécialité.
-
-3° A réception du dossier complet, il est délivré une attestation d'inscription provisoire. Elle emporte le droit de procéder
-au raccordement, à la mise en service et à l'entretien des équipements figurant sur la liste mentionnée au 2° de l'article R.
-20-22.
-
-4° Pendant la période d'inscription provisoire, dont la durée ne peut excéder un an, les travaux réalisés par l'entreprise
-peuvent être vérifiés par la direction générale des postes et télécommunications, de sa propre initiative ou sur demande de
-la commission d'admission des installateurs.
-
-A l'issue de cette période, la capacité de l'entreprise est appréciée au regard de la compétence et de l'expérience acquises
-dans la spécialité choisie.
-
-Le ministre chargé des télécommunications statue, après avis de la commission d'admission des installateurs, sur
-l'inscription définitive de l'entreprise demanderesse sur la liste des installateurs admis. Les refus d'inscription sont
-motivés et notifiés à l'entreprise concernée.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-22
-
-_Modifié par_:
-
-  - Décret n°94-737 1994-08-22 art. 1 JORF 28 août 1994
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-24
-
-L'inscription définitive vaut autorisation d'utiliser le titre d'installateur admis en télécommunications ou en
-radiocommunications.
-
-Le ministre peut, après avis de la commission d'admission et après audition des intéressés, suspendre ou retirer
-l'inscription sur la liste, des installateurs qui auront manqué gravement à leurs obligations professionnelles.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. R20-30 (M)
-
-
-##### SECTION 6 : Dispositions pénales.<a id=93></a>
-
-###### Article R20-26
-
-Est puni de la peine d'amende prévue pour les contraventions de la 4e classe quiconque met sur le marché un équipement
-terminal qui devait faire l'objet de l'agrément prévu au 1° de l'article R. 20-2, ou d'une décision approuvant sa connexion à
-un réseau ouvert au public mentionnée au 1° de l'article R. 20-18, et qui n'a pas obtenu cet agrément ou cette décision.
-
-En cas de condamnation, le tribunal peut ordonner la confiscation des équipements terminaux concernés.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. R20-30-1 (M)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-2, R20-18
-
-_Modifié par_:
-
-  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-27
-
-Est puni de la peine d'amende prévue pour les contraventions de la 4e classe quiconque connecte à un réseau ouvert au public
-un équipement terminal n'ayant pas fait l'objet de l'agrément prévu au 1° de l'article R. 20-2, ou d'une décision approuvant
-sa connexion à un réseau ouvert au public mentionnée au 1° de l'article R. 20-18.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-2, R20-18
-
-_Modifié par_:
-
-  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. R20-30-1 (M)
-
-
-###### Article R20-28
-
-Est puni de la peine d'amende prévue pour la contravention de la 4e classe quiconque met sur le marché un équipement terminal
-ayant fait l'objet du marquage visé au 1° de l'article R. 20-13 ou au 1° de l'article R. 20-19 sans être en mesure de
-produire, sur demande des agents mentionnés à l'article L. 40, la référence de l'agrément prévu au 1° de l'article R. 20-2,
-ou de la décision approuvant sa connexion au réseau mentionnée au 1° de l'article R. 20-18.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. R20-30-1 (M)
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-13, R20-19, L40, R20-2, R20-18
-
-
-#### CHAPITRE II : Servitudes radio-électriques<a id=94></a>
-
-##### SECTION 1 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.<a id=95></a>
+##### SECTION 1 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.<a id=90></a>
 
 ###### Article R*21
 
@@ -10535,7 +10536,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### SECTION 2 : Servitudes de protection des centres de réception radio-électriques contre les perturbations électromagnétiques.<a id=96></a>
+##### SECTION 2 : Servitudes de protection des centres de réception radio-électriques contre les perturbations électromagnétiques.<a id=91></a>
 
 ###### Article R*28
 
@@ -10951,7 +10952,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R*33 (V)
 
 
-##### SECTION 3 : Dispositions pénales.<a id=97></a>
+##### SECTION 3 : Dispositions pénales.<a id=92></a>
 
 ###### Article R*42
 
@@ -11044,9 +11045,9 @@ _Cite_:
   - Loi n°1906-06-15 art. 24
 
 
-#### CHAPITRE III : Police des liaisons et des installations du réseau de télécommunications<a id=98></a>
+#### CHAPITRE III : Police des liaisons et des installations du réseau de télécommunications<a id=93></a>
 
-##### SECTION 1 : Dispositions générales.<a id=99></a>
+##### SECTION 1 : Dispositions générales.<a id=94></a>
 
 ###### Article R42-1
 
@@ -11092,7 +11093,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### SECTION 2 : Dispositions pénales.<a id=100></a>
+##### SECTION 2 : Dispositions pénales.<a id=95></a>
 
 ###### Article R43
 
@@ -11266,11 +11267,11 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-#### CHAPITRE IV : Protection des câbles sous-marins<a id=101></a>
+#### CHAPITRE IV : Protection des câbles sous-marins<a id=96></a>
 
-##### SECTION 2 : Dispositions pénales<a id=102></a>
+##### SECTION 2 : Dispositions pénales<a id=97></a>
 
-##### PARAGRAPHE I : Dispositions applicables aux eaux non territoriales.<a id=103></a>
+##### PARAGRAPHE I : Dispositions applicables aux eaux non territoriales.<a id=98></a>
 
 ###### Article R45
 
@@ -11439,7 +11440,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### PARAGRAPHE II : Dispositions spéciales aux eaux territoriales.<a id=104></a>
+##### PARAGRAPHE II : Dispositions spéciales aux eaux territoriales.<a id=99></a>
 
 ###### Article R50
 
@@ -11533,9 +11534,9 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-## LIVRE III : Les services financiers<a id=105></a>
+## LIVRE III : Les services financiers<a id=100></a>
 
-### TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005).<a id=106></a>
+### TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005).<a id=101></a>
 
 ###### Article R52-10
 
@@ -11587,13 +11588,13 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R725-12 (M)
 
 
-# Partie réglementaire - Décrets simples<a id=107></a>
+# Partie réglementaire - Décrets simples<a id=102></a>
 
-## LIVRE Ier : Le service postal<a id=108></a>
+## LIVRE Ier : Le service postal<a id=103></a>
 
-### TITRE Ier : Dispositions générales<a id=109></a>
+### TITRE Ier : Dispositions générales<a id=104></a>
 
-#### Chapitre Ier : Le monopole postal.<a id=110></a>
+#### Chapitre Ier : Le monopole postal.<a id=105></a>
 
 ###### Article D1
 
@@ -11646,7 +11647,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R613-25 (VD)
 
 
-#### Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances.<a id=111></a>
+#### Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances.<a id=106></a>
 
 ###### Article D3
 
@@ -11675,7 +11676,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### Chapitre III : Création des bureaux de poste.<a id=112></a>
+#### Chapitre III : Création des bureaux de poste.<a id=107></a>
 
 ###### Article D4
 
@@ -11723,9 +11724,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
-#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=113></a>
+#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=108></a>
 
-##### Section 1 : Généralités.<a id=114></a>
+##### Section 1 : Généralités.<a id=109></a>
 
 ###### Article D6
 
@@ -11797,7 +11798,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 2 : Lettres missives, cartes postales et paquets-poste.<a id=115></a>
+##### Section 2 : Lettres missives, cartes postales et paquets-poste.<a id=110></a>
 
 ###### Article D9
 
@@ -11904,7 +11905,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 3 : Imprimés et échantillons.<a id=116></a>
+##### Section 3 : Imprimés et échantillons.<a id=111></a>
 
 ###### Article D13
 
@@ -12055,7 +12056,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### Section 4 : Journaux et écrits périodiques.<a id=117></a>
+##### Section 4 : Journaux et écrits périodiques.<a id=112></a>
 
 ###### Article D18
 
@@ -12665,7 +12666,7 @@ _Modifié par_:
   - Décret n°68-1073 1968-11-22 art. 1 JORF 30 novembre 1968
 
 
-##### Section 5 : Magazines sonores.<a id=118></a>
+##### Section 5 : Magazines sonores.<a id=113></a>
 
 ###### Article D29
 
@@ -12773,7 +12774,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 6 : Dispositions particulières.<a id=119></a>
+##### Section 6 : Dispositions particulières.<a id=114></a>
 
 ###### Article D32
 
@@ -12816,7 +12817,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-#### Chapitre V : Conditions d'admission des objets de correspondance dans le régime international.<a id=120></a>
+#### Chapitre V : Conditions d'admission des objets de correspondance dans le régime international.<a id=115></a>
 
 ###### Article D34
 
@@ -12887,9 +12888,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
-### TITRE II : Affranchissement, recommandation et chargement<a id=121></a>
+### TITRE II : Affranchissement, recommandation et chargement<a id=116></a>
 
-#### Chapitre Ier : Affranchissement.<a id=122></a>
+#### Chapitre Ier : Affranchissement.<a id=117></a>
 
 ###### Article D38
 
@@ -13090,7 +13091,7 @@ _Cite_:
   - Code des postes et des communications éléctroniques D28 et D45
 
 
-#### Chapitre II : Recommandation et chargement.<a id=123></a>
+#### Chapitre II : Recommandation et chargement.<a id=118></a>
 
 ###### Article D47
 
@@ -13398,7 +13399,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 
-### TITRE IV : Franchise postale<a id=124></a>
+### TITRE IV : Franchise postale<a id=119></a>
 
 ###### Article D73
 
@@ -13512,7 +13513,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
-### TITRE V : Colis postaux.<a id=125></a>
+### TITRE V : Colis postaux.<a id=120></a>
 
 ###### Article D81
 
@@ -13819,9 +13820,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
-### TITRE VI : Distribution postale<a id=126></a>
+### TITRE VI : Distribution postale<a id=121></a>
 
-#### Chapitre Ier : Distribution à domicile.<a id=127></a>
+#### Chapitre Ier : Distribution à domicile.<a id=122></a>
 
 ###### Article D90
 
@@ -13922,7 +13923,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### Chapitre II : Distribution au guichet.<a id=128></a>
+#### Chapitre II : Distribution au guichet.<a id=123></a>
 
 ###### Article D93
 
@@ -13951,7 +13952,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-### TITRE VII : Poste maritime.<a id=129></a>
+### TITRE VII : Poste maritime.<a id=124></a>
 
 ###### Article D94-1
 
@@ -14153,13 +14154,13 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-## LIVRE II : Les communications électroniques<a id=130></a>
+## LIVRE II : Les communications électroniques<a id=125></a>
 
-### TITRE Ier : Dispositions générales<a id=131></a>
+### TITRE Ier : Dispositions générales<a id=126></a>
 
-#### Chapitre Ier : Principes et définitions.<a id=132></a>
+#### Chapitre Ier : Principes et définitions.<a id=127></a>
 
-##### Paragraphe 1 : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=133></a>
+##### Paragraphe 1 : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=128></a>
 
 ###### Article D96-1
 
@@ -14342,7 +14343,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D96-3 (M)
 
 
-##### Paragraphe 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=134></a>
+##### Paragraphe 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=129></a>
 
 ###### Article D96-7
 
@@ -14743,7 +14744,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L35-6 (M)
 
 
-##### Paragraphe 3 : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=135></a>
+##### Paragraphe 3 : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=130></a>
 
 ###### Article D96-18
 
@@ -14956,7 +14957,7 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
 
 
-##### Paragraphe 4 : Commission consultative des radiocommunications.<a id=136></a>
+##### Paragraphe 4 : Commission consultative des radiocommunications.<a id=131></a>
 
 ###### Article D97-1
 
@@ -15042,7 +15043,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L34-8 (M)
 
 
-##### Paragraphe 5 : Commission consultative des réseaux et services de communications électroniques.<a id=137></a>
+##### Paragraphe 5 : Commission consultative des réseaux et services de communications électroniques.<a id=132></a>
 
 ###### Article D97-2
 
@@ -15123,7 +15124,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L34-8 (M)
 
 
-##### Paragraphe 6 : Organisation et fonctionnement des commissions consultatives.<a id=138></a>
+##### Paragraphe 6 : Organisation et fonctionnement des commissions consultatives.<a id=133></a>
 
 ###### Article D97-3
 
@@ -15188,7 +15189,7 @@ _Nouveaux textes_:
   - Code des postes et télécommunications électroniques D99-5-1
 
 
-##### Paragraphe 7 : Autorité de régulation des télécommunications<a id=139></a>
+##### Paragraphe 7 : Autorité de régulation des télécommunications<a id=134></a>
 
 ###### Article D97-4
 
@@ -15376,9 +15377,9 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 3 () JORF 30 avril 2005
 
 
-#### Chapitre II : Régime juridique<a id=140></a>
+#### Chapitre II : Régime juridique<a id=135></a>
 
-##### Section 2 : Réseaux indépendants<a id=141></a>
+##### Section 2 : Réseaux indépendants<a id=136></a>
 
 ###### Article D99
 
@@ -15502,9 +15503,9 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D99-5-1 (Ab)
 
 
-##### SECTION 3 : Interconnexion<a id=142></a>
+##### SECTION 3 : Interconnexion<a id=137></a>
 
-##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=143></a>
+##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=138></a>
 
 ###### Article D99-7
 
@@ -15699,11 +15700,11 @@ _Créé par_:
   - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
 
 
-#### CHAPITRE III : Télégraphe<a id=144></a>
+#### CHAPITRE III : Télégraphe<a id=139></a>
 
-##### SECTION 1 : Service télégraphique<a id=145></a>
+##### SECTION 1 : Service télégraphique<a id=140></a>
 
-##### Paragraphe 2 : Dépôt des télégrammes.<a id=146></a>
+##### Paragraphe 2 : Dépôt des télégrammes.<a id=141></a>
 
 ###### Article D100
 
@@ -15738,9 +15739,9 @@ _Cité par_:
   - Arrêté du 4 août 2006 - art. 2 (V)
 
 
-##### Paragraphe 3 : Rédaction des télégrammes<a id=147></a>
+##### Paragraphe 3 : Rédaction des télégrammes<a id=142></a>
 
-##### 1. : Dispositions générales.<a id=148></a>
+##### 1. : Dispositions générales.<a id=143></a>
 
 ###### Article D104
 
@@ -15810,7 +15811,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 3. : Adresse.<a id=149></a>
+##### 3. : Adresse.<a id=144></a>
 
 ###### Article D107
 
@@ -15932,7 +15933,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 4 : Compte des mots.<a id=150></a>
+##### Paragraphe 4 : Compte des mots.<a id=145></a>
 
 ###### Article D116
 
@@ -15954,7 +15955,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 5 : Remise des télégrammes.<a id=151></a>
+##### Paragraphe 5 : Remise des télégrammes.<a id=146></a>
 
 ###### Article D117
 
@@ -16044,7 +16045,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 6 : Perception des tarifs.<a id=152></a>
+##### Paragraphe 6 : Perception des tarifs.<a id=147></a>
 
 ###### Article D126
 
@@ -16129,7 +16130,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 7 : Télégrammes spéciaux.<a id=153></a>
+##### Paragraphe 7 : Télégrammes spéciaux.<a id=148></a>
 
 ###### Article D129
 
@@ -16168,9 +16169,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux<a id=154></a>
+##### Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux<a id=149></a>
 
-##### 1. : Télégrammes relatifs à la sécurité de la vie humaine.<a id=155></a>
+##### 1. : Télégrammes relatifs à la sécurité de la vie humaine.<a id=150></a>
 
 ###### Article D130
 
@@ -16257,7 +16258,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 2. : Télégrammes de presse.<a id=156></a>
+##### 2. : Télégrammes de presse.<a id=151></a>
 
 ###### Article D134
 
@@ -16302,7 +16303,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 3. : Télégrammes des services postaux financiers.<a id=157></a>
+##### 3. : Télégrammes des services postaux financiers.<a id=152></a>
 
 ###### Article D139
 
@@ -16326,7 +16327,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 4. : Phototélégrammes.<a id=158></a>
+##### 4. : Phototélégrammes.<a id=153></a>
 
 ###### Article D142
 
@@ -16416,7 +16417,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 5. : Télégrammes urgents du régime international.<a id=159></a>
+##### 5. : Télégrammes urgents du régime international.<a id=154></a>
 
 ###### Article D146
 
@@ -16441,7 +16442,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 20. : Télégrammes illustrés.<a id=160></a>
+##### 20. : Télégrammes illustrés.<a id=155></a>
 
 ###### Article D182
 
@@ -16501,7 +16502,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 22. : Télégrammes avec accusé de réception.<a id=161></a>
+##### 22. : Télégrammes avec accusé de réception.<a id=156></a>
 
 ###### Article D192
 
@@ -16528,7 +16529,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 24. : Télégrammes sur un compte communications électroniques.<a id=162></a>
+##### 24. : Télégrammes sur un compte communications électroniques.<a id=157></a>
 
 ###### Article D196
 
@@ -16559,7 +16560,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 28. : Télégrammes R.C.T. du régime international.<a id=163></a>
+##### 28. : Télégrammes R.C.T. du régime international.<a id=158></a>
 
 ###### Article D213
 
@@ -16585,7 +16586,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 29. : Radiotélégrammes.<a id=164></a>
+##### 29. : Radiotélégrammes.<a id=159></a>
 
 ###### Article D218
 
@@ -16689,9 +16690,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers<a id=165></a>
+##### Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers<a id=160></a>
 
-##### 1. : Communication au guichet de l'original d'un télégramme.<a id=166></a>
+##### 1. : Communication au guichet de l'original d'un télégramme.<a id=161></a>
 
 ###### Article D228
 
@@ -16725,9 +16726,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 10 : Télégrammes officiels<a id=167></a>
+##### Paragraphe 10 : Télégrammes officiels<a id=162></a>
 
-##### 1. : Définition.<a id=168></a>
+##### 1. : Définition.<a id=163></a>
 
 ###### Article D234
 
@@ -16752,7 +16753,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 2. : Rédaction.<a id=169></a>
+##### 2. : Rédaction.<a id=164></a>
 
 ###### Article D235
 
@@ -16784,7 +16785,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 3. : Dépôt.<a id=170></a>
+##### 3. : Dépôt.<a id=165></a>
 
 ###### Article D237
 
@@ -16815,7 +16816,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels.<a id=171></a>
+##### 4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels.<a id=166></a>
 
 ###### Article D241
 
@@ -16837,7 +16838,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 5. : Circulaires.<a id=172></a>
+##### 5. : Circulaires.<a id=167></a>
 
 ###### Article D243
 
@@ -16861,7 +16862,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 6. : Application et perception des tarifs.<a id=173></a>
+##### 6. : Application et perception des tarifs.<a id=168></a>
 
 ###### Article D244
 
@@ -16885,7 +16886,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 7. : Annulation des télégrammes officiels.<a id=174></a>
+##### 7. : Annulation des télégrammes officiels.<a id=169></a>
 
 ###### Article D246
 
@@ -16906,9 +16907,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 11 : Télégrammes d'Etat<a id=175></a>
+##### Paragraphe 11 : Télégrammes d'Etat<a id=170></a>
 
-##### 1. : Définition.<a id=176></a>
+##### 1. : Définition.<a id=171></a>
 
 ###### Article D247
 
@@ -16976,7 +16977,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 2. : Rédaction.<a id=177></a>
+##### 2. : Rédaction.<a id=172></a>
 
 ###### Article D250
 
@@ -17038,7 +17039,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 3. : Dépôt.<a id=178></a>
+##### 3. : Dépôt.<a id=173></a>
 
 ###### Article D253
 
@@ -17078,7 +17079,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 4. : Application des tarifs.<a id=179></a>
+##### 4. : Application des tarifs.<a id=174></a>
 
 ###### Article D256
 
@@ -17127,7 +17128,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 6. : Remise.<a id=180></a>
+##### 6. : Remise.<a id=175></a>
 
 ###### Article D259
 
@@ -17150,7 +17151,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 13 : Remboursement.<a id=181></a>
+##### Paragraphe 13 : Remboursement.<a id=176></a>
 
 ###### Article D263
 
@@ -17212,7 +17213,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 14 : Prescriptions diverses.<a id=182></a>
+##### Paragraphe 14 : Prescriptions diverses.<a id=177></a>
 
 ###### Article D267
 
@@ -17236,9 +17237,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### SECTION 3 : Service télex<a id=183></a>
+##### SECTION 3 : Service télex<a id=178></a>
 
-##### Paragraphe 1er : Généralités.<a id=184></a>
+##### Paragraphe 1er : Généralités.<a id=179></a>
 
 ###### Article D277
 
@@ -17325,7 +17326,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 2 : Abonnements.<a id=185></a>
+##### Paragraphe 2 : Abonnements.<a id=180></a>
 
 ###### Article D280
 
@@ -17452,7 +17453,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 3 : Communications.<a id=186></a>
+##### Paragraphe 3 : Communications.<a id=181></a>
 
 ###### Article D285
 
@@ -17505,7 +17506,7 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-##### Paragraphe 4 : Suspension d'une ligne d'abonnement télex.<a id=187></a>
+##### Paragraphe 4 : Suspension d'une ligne d'abonnement télex.<a id=182></a>
 
 ###### Article D287
 
@@ -17533,9 +17534,9 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-#### CHAPITRE IV : Téléphone<a id=188></a>
+#### CHAPITRE IV : Téléphone<a id=183></a>
 
-##### SECTION 1 : Dispositions générales.<a id=189></a>
+##### SECTION 1 : Dispositions générales.<a id=184></a>
 
 ###### Article D288
 
@@ -17598,9 +17599,9 @@ _Modifié par_:
   - Décret n°94-91 du 31 janvier 1994 - art. 1 () JORF 2 février 1994
 
 
-##### SECTION 2 : Des communications téléphoniques<a id=190></a>
+##### SECTION 2 : Des communications téléphoniques<a id=185></a>
 
-##### Paragraphe 1er : Dispositions générales.<a id=191></a>
+##### Paragraphe 1er : Dispositions générales.<a id=186></a>
 
 ###### Article D291-1
 
@@ -17678,9 +17679,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### Paragraphe 2 : Communications ordinaires<a id=192></a>
+##### Paragraphe 2 : Communications ordinaires<a id=187></a>
 
-##### 1. : Définition.<a id=193></a>
+##### 1. : Définition.<a id=188></a>
 
 ###### Article D294
 
@@ -17707,7 +17708,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D97-10 (T)
 
 
-##### 2. : Limitation de durée.<a id=194></a>
+##### 2. : Limitation de durée.<a id=189></a>
 
 ###### Article D295
 
@@ -17732,7 +17733,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### 4. : Communication refusée.<a id=195></a>
+##### 4. : Communication refusée.<a id=190></a>
 
 ###### Article D297
 
@@ -17769,7 +17770,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### 5. : Récépissé.<a id=196></a>
+##### 5. : Récépissé.<a id=191></a>
 
 ###### Article D298
 
@@ -17796,9 +17797,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### Paragraphe 3 : Communications spéciales<a id=197></a>
+##### Paragraphe 3 : Communications spéciales<a id=192></a>
 
-##### 1. : Indication de durée.<a id=198></a>
+##### 1. : Indication de durée.<a id=193></a>
 
 ###### Article D300
 
@@ -17838,7 +17839,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### 2. : Avis d'appel.<a id=199></a>
+##### 2. : Avis d'appel.<a id=194></a>
 
 ###### Article D301
 
@@ -17877,7 +17878,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. R54-1 (Ab)
 
 
-##### 4. : Communication non facturée par le demandeur ou à facturation différée.<a id=200></a>
+##### 4. : Communication non facturée par le demandeur ou à facturation différée.<a id=195></a>
 
 ###### Article D304
 
@@ -17950,7 +17951,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D306 (V)
 
 
-##### 6. : Communication avec un véhicule.<a id=201></a>
+##### 6. : Communication avec un véhicule.<a id=196></a>
 
 ###### Article D307
 
@@ -17972,9 +17973,9 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-##### Paragraphe 4 : Services spéciaux<a id=202></a>
+##### Paragraphe 4 : Services spéciaux<a id=197></a>
 
-##### 1. : Service de réception et de traitement d'appels.<a id=203></a>
+##### 1. : Service de réception et de traitement d'appels.<a id=198></a>
 
 ###### Article D308
 
@@ -18004,7 +18005,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D310 (V)
 
 
-##### 2. : Service de la réunion-téléphone.<a id=204></a>
+##### 2. : Service de la réunion-téléphone.<a id=199></a>
 
 ###### Article D309
 
@@ -18027,7 +18028,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D307 (V)
 
 
-##### 3. : Service du "Mémo-Appel".<a id=205></a>
+##### 3. : Service du "Mémo-Appel".<a id=200></a>
 
 ###### Article D310
 
@@ -18049,7 +18050,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D308 (V)
 
 
-##### 5. : Renseignements.<a id=206></a>
+##### 5. : Renseignements.<a id=201></a>
 
 ###### Article D312
 
@@ -18073,7 +18074,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D314 (M)
 
 
-##### 7. : Communications en dehors des heures normales d'ouverture du service.<a id=207></a>
+##### 7. : Communications en dehors des heures normales d'ouverture du service.<a id=202></a>
 
 ###### Article D315
 
@@ -18120,7 +18121,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. R54-1 (Ab)
 
 
-##### 8. : Service des auditions téléphoniques.<a id=208></a>
+##### 8. : Service des auditions téléphoniques.<a id=203></a>
 
 ###### Article D316
 
@@ -18155,9 +18156,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### SECTION 3 : Des abonnements<a id=209></a>
+##### SECTION 3 : Des abonnements<a id=204></a>
 
-##### Paragraphe 1er : Généralités.<a id=210></a>
+##### Paragraphe 1er : Généralités.<a id=205></a>
 
 ###### Article D317
 
@@ -18265,9 +18266,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 2 : Abonnements principaux permanents<a id=211></a>
+##### Paragraphe 2 : Abonnements principaux permanents<a id=206></a>
 
-##### 1. : Différentes catégories.<a id=212></a>
+##### 1. : Différentes catégories.<a id=207></a>
 
 ###### Article D320
 
@@ -18294,7 +18295,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### 2. : Abonnements principaux ordinaires.<a id=213></a>
+##### 2. : Abonnements principaux ordinaires.<a id=208></a>
 
 ###### Article D321
 
@@ -18316,7 +18317,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### 3. : Abonnements principaux d'extension.<a id=214></a>
+##### 3. : Abonnements principaux d'extension.<a id=209></a>
 
 ###### Article D322
 
@@ -18403,7 +18404,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### 5. : Abonnements spéciaux.<a id=215></a>
+##### 5. : Abonnements spéciaux.<a id=210></a>
 
 ###### Article D328
 
@@ -18520,7 +18521,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 3 : Abonnements complémentaires.<a id=216></a>
+##### Paragraphe 3 : Abonnements complémentaires.<a id=211></a>
 
 ###### Article D332
 
@@ -18563,7 +18564,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 4 : Abonnements supplémentaires permanents.<a id=217></a>
+##### Paragraphe 4 : Abonnements supplémentaires permanents.<a id=212></a>
 
 ###### Article D333
 
@@ -18697,7 +18698,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 5 : Abonnements temporaires.<a id=218></a>
+##### Paragraphe 5 : Abonnements temporaires.<a id=213></a>
 
 ###### Article D336
 
@@ -18730,7 +18731,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 6 : Suspension et résiliation des abonnements.<a id=219></a>
+##### Paragraphe 6 : Suspension et résiliation des abonnements.<a id=214></a>
 
 ###### Article D337
 
@@ -18907,9 +18908,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 7 : Modification des conditions de concession d'un abonnement<a id=220></a>
+##### Paragraphe 7 : Modification des conditions de concession d'un abonnement<a id=215></a>
 
-##### 3. : Transformation des abonnements.<a id=221></a>
+##### 3. : Transformation des abonnements.<a id=216></a>
 
 ###### Article D347
 
@@ -18985,9 +18986,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 8 : Dispositions diverses<a id=222></a>
+##### Paragraphe 8 : Dispositions diverses<a id=217></a>
 
-##### 2. : Listes périodiques d'abonnés.<a id=223></a>
+##### 2. : Listes périodiques d'abonnés.<a id=218></a>
 
 ###### Article D359
 
@@ -19027,7 +19028,7 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-##### SECTION 4 : Dispositions particulières au service international.<a id=224></a>
+##### SECTION 4 : Dispositions particulières au service international.<a id=219></a>
 
 ###### Article D362
 
@@ -19186,7 +19187,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=225></a>
+#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=220></a>
 
 ###### Article D406-1
 
@@ -19404,9 +19405,9 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-### TITRE VI : Les services radioélectriques<a id=226></a>
+### TITRE VI : Les services radioélectriques<a id=221></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=227></a>
+#### CHAPITRE Ier : Dispositions générales.<a id=222></a>
 
 ###### Article D457
 
@@ -19480,7 +19481,7 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-#### CHAPITRE II : Installations et réseaux radioélectriques indépendants.<a id=228></a>
+#### CHAPITRE II : Installations et réseaux radioélectriques indépendants.<a id=223></a>
 
 ###### Article D459
 
@@ -19648,7 +19649,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 9 () JORF 30 avril 2005
 
 
-#### CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs.<a id=229></a>
+#### CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs.<a id=224></a>
 
 ###### Article D473
 
@@ -19689,7 +19690,7 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-#### CHAPITRE V : Radiocommunications du service maritime.<a id=230></a>
+#### CHAPITRE V : Radiocommunications du service maritime.<a id=225></a>
 
 ###### Article D483
 
@@ -19861,13 +19862,13 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-## LIVRE II : Les télécommunications<a id=231></a>
+## LIVRE II : Les télécommunications<a id=226></a>
 
-### TITRE Ier : Dispositions générales<a id=232></a>
+### TITRE Ier : Dispositions générales<a id=227></a>
 
-#### Chapitre II : Régime juridique<a id=233></a>
+#### Chapitre II : Régime juridique<a id=228></a>
 
-##### Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1.<a id=234></a>
+##### Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1.<a id=229></a>
 
 ###### Article D98-1
 
@@ -20255,7 +20256,7 @@ _Créé par_:
   - Décret n°96-1175 du 27 décembre 1996 - art. 1 () JORF 29 décembre 1996
 
 
-##### Section 2 : Réseaux indépendants.<a id=235></a>
+##### Section 2 : Réseaux indépendants.<a id=230></a>
 
 ###### Article D99-1
 
@@ -20276,9 +20277,9 @@ _Créé par_:
   - Décret n°96-1176 du 27 décembre 1996 - art. 1 () JORF 29 décembre 1996
 
 
-##### SECTION 3 : Interconnexion<a id=236></a>
+##### SECTION 3 : Interconnexion<a id=231></a>
 
-##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=237></a>
+##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=232></a>
 
 ###### Article D99-6
 
@@ -20347,7 +20348,7 @@ _Créé par_:
   - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
 
 
-##### Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7.<a id=238></a>
+##### Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7.<a id=233></a>
 
 ###### Article D99-11
 
@@ -20827,9 +20828,9 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D99-24 (Ab)
 
 
-#### CHAPITRE IV : Téléphone<a id=239></a>
+#### CHAPITRE IV : Téléphone<a id=234></a>
 
-##### SECTION 4 : Dispositions particulières au service international.<a id=240></a>
+##### SECTION 4 : Dispositions particulières au service international.<a id=235></a>
 
 ###### Article D365
 
@@ -20851,9 +20852,9 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-#### CHAPITRE  V : Services particuliers des télécommunications<a id=241></a>
+#### CHAPITRE  V : Services particuliers des télécommunications<a id=236></a>
 
-##### SECTION 2 : Liaisons louées<a id=242></a>
+##### SECTION 2 : Liaisons louées<a id=237></a>
 
 ###### Article D369
 
@@ -21191,7 +21192,7 @@ _Modifié par_:
   - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
 
 
-#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=243></a>
+#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=238></a>
 
 ###### Article D406-1-1
 
@@ -21327,11 +21328,11 @@ _Modifié par_:
   - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
 
 
-### TITRE II : Etablissement des lignes<a id=244></a>
+### TITRE II : Etablissement des lignes<a id=239></a>
 
-#### CHAPITRE Ier : Etablissement des lignes<a id=245></a>
+#### CHAPITRE Ier : Etablissement des lignes<a id=240></a>
 
-##### SECTION 1 : Dispositions générales.<a id=246></a>
+##### SECTION 1 : Dispositions générales.<a id=241></a>
 
 ###### Article D407
 
@@ -21683,7 +21684,7 @@ _Abrogé par_:
   - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
 
 
-##### SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées).<a id=247></a>
+##### SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées).<a id=242></a>
 
 ###### Article D420
 
@@ -21741,7 +21742,7 @@ _Abrogé par_:
   - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
 
 
-##### SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé".<a id=248></a>
+##### SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé".<a id=243></a>
 
 ###### Article D427
 
@@ -21781,9 +21782,9 @@ _Abrogé par_:
   - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
 
 
-#### CHAPITRE II : Entretien des lignes<a id=249></a>
+#### CHAPITRE II : Entretien des lignes<a id=244></a>
 
-##### SECTION 1 : Dispositions générales.<a id=250></a>
+##### SECTION 1 : Dispositions générales.<a id=245></a>
 
 ###### Article D431
 
@@ -21815,7 +21816,7 @@ _Abrogé par_:
   - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
 
 
-#### CHAPITRE III : Fourniture et entretien des installations de télécommunications.<a id=251></a>
+#### CHAPITRE III : Fourniture et entretien des installations de télécommunications.<a id=246></a>
 
 ###### Article D440
 
@@ -22207,9 +22208,9 @@ _Abrogé par_:
   - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
 
 
-### TITRE IV : Police des liaisons et des installations du réseau de télécommunications<a id=252></a>
+### TITRE IV : Police des liaisons et des installations du réseau de télécommunications<a id=247></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=253></a>
+#### CHAPITRE Ier : Dispositions générales.<a id=248></a>
 
 ###### Article D456
 
@@ -22255,9 +22256,9 @@ _Abrogé par_:
   - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
 
 
-## LIVRE III : Les services financiers<a id=254></a>
+## LIVRE III : Les services financiers<a id=249></a>
 
-### TITRE Ier : Chèques postaux.<a id=255></a>
+### TITRE Ier : Chèques postaux.<a id=250></a>
 
 ###### Article D488
 
@@ -22602,7 +22603,7 @@ _Cite_:
   - Code des postes et des communications électroniques L109 al. 1
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=256></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=251></a>
 
 ###### Article D489
 
@@ -23109,7 +23110,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE II : Mandats.<a id=257></a>
+### TITRE II : Mandats.<a id=252></a>
 
 ###### Article D523
 
@@ -23384,7 +23385,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D540 (Ab)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=258></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=253></a>
 
 ###### Article D525
 
@@ -23798,7 +23799,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=259></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=254></a>
 
 ###### Article D549
 
@@ -23984,7 +23985,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=260></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=255></a>
 
 ###### Article D553
 
