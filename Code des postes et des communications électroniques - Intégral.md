@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1994-10-22
+Version Consolidée au 1995-02-03
 ## Contenu: 
   - [Partie législative (art. L1 à L126)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -251,27 +251,22 @@ Version Consolidée au 1994-10-22
         - [CHAPITRE III : Fourniture et entretien des installations de télécommunications. (art. D440 à D455)](#248)
       - [TITRE IV : Police des liaisons et des installations du réseau de télécommunications (art. D456)](#249)
         - [CHAPITRE Ier : Dispositions générales. (art. D456)](#250)
-    - [LIVRE II : Le service des télécommunications (art. D376)](#251)
-      - [TITRE Ier : Dispositions générales (art. D376)](#252)
-        - [CHAPITRE  V : Services particuliers des télécommunications (art. D376)](#253)
-          - [SECTION 2 : Liaisons louées (art. D376)](#254)
-            - [Paragraphe 1er : Régime général. (art. D376)](#255)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#256)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#257)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#258)
-      - [TITRE II : Mandats. (art. D523 à D548)](#259)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#260)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#261)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#262)
-    - [LIVRE IV : L'organisation financière (art. D570 à D579)](#263)
-      - [TITRE II : Dispositions budgétaires (art. D570 à D572)](#264)
-        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. D570)](#265)
-        - [CHAPITRE IV : Comptabilité administrative. (art. D571 à D572)](#266)
-      - [TITRE V : Fonds spéciaux. (art. D573 à D579)](#267)
-  - [Annexes (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#268)
-    - [LIVRE IV : L'organisation financière (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#269)
-      - [TITRE II : Dispositions budgétaires (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#270)
-        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#271)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#251)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#252)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#253)
+      - [TITRE II : Mandats. (art. D523 à D548)](#254)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#255)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#256)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#257)
+    - [LIVRE IV : L'organisation financière (art. D570 à D579)](#258)
+      - [TITRE II : Dispositions budgétaires (art. D570 à D572)](#259)
+        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. D570)](#260)
+        - [CHAPITRE IV : Comptabilité administrative. (art. D571 à D572)](#261)
+      - [TITRE V : Fonds spéciaux. (art. D573 à D579)](#262)
+  - [Annexes (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#263)
+    - [LIVRE IV : L'organisation financière (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#264)
+      - [TITRE II : Dispositions budgétaires (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#265)
+        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#266)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -19565,6 +19560,26 @@ _Modifié par_:
   - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
 
 
+###### Article D376
+
+L'autorité réglementaire détermine les catégories de liaisons louées conformes à des caractéristiques techniques harmonisées
+dans l'Espace économique européen, dont la fourniture est assurée par l'exploitant public. Cette liste peut être complétée,
+après consultation de l'exploitant public, par une offre obligatoire additionnelle de liaisons louées.
+
+L'offre de liaisons louées relevant d'autres catégories ne dispense pas l'exploitant public de fournir l'ensemble minimal
+défini au premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°95-107 du 31 janvier 1995 - art. 1 () JORF 3 février 1995
+
+
 ###### Article D377
 
 Les tarifs des liaisons louées respectent le principe de l'orientation vers les coûts et sont fixés selon des règles
@@ -21093,39 +21108,9 @@ _Abrogé par_:
   - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
 
 
-## LIVRE II : Le service des télécommunications<a id=251></a>
+## LIVRE III : Les services financiers<a id=251></a>
 
-### TITRE Ier : Dispositions générales<a id=252></a>
-
-#### CHAPITRE  V : Services particuliers des télécommunications<a id=253></a>
-
-##### SECTION 2 : Liaisons louées<a id=254></a>
-
-##### Paragraphe 1er : Régime général.<a id=255></a>
-
-###### Article D376
-
-L'autorité réglementaire détermine les catégories de liaisons louées conformes à des caractéristiques techniques harmonisées
-dans la Communauté européenne, dont la fourniture est assurée par l'exploitant public. Cette liste peut être complétée, après
-consultation de l'exploitant public, par une offre obligatoire additionnelle de liaisons louées.
-
-L'offre de liaisons louées relevant d'autres catégories ne dispense pas l'exploitant public de fournir l'ensemble minimal
-défini au premier alinéa du présent article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
-
-
-## LIVRE III : Les services financiers<a id=256></a>
-
-### TITRE Ier : Chèques postaux.<a id=257></a>
+### TITRE Ier : Chèques postaux.<a id=252></a>
 
 ###### Article D488
 
@@ -21517,7 +21502,7 @@ _Abrogé par_:
   - Décret n°96-199 du 13 mars 1996 - art. 1 () JORF 15 mars 1996 en vigueur le 31 mars 1996
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=258></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=253></a>
 
 ###### Article D489
 
@@ -22001,7 +21986,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE II : Mandats.<a id=259></a>
+### TITRE II : Mandats.<a id=254></a>
 
 ###### Article D523
 
@@ -22276,7 +22261,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D540 (Ab)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=260></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=255></a>
 
 ###### Article D525
 
@@ -22690,7 +22675,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=261></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=256></a>
 
 ###### Article D549
 
@@ -22876,7 +22861,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=262></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=257></a>
 
 ###### Article D553
 
@@ -23252,11 +23237,11 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-## LIVRE IV : L'organisation financière<a id=263></a>
+## LIVRE IV : L'organisation financière<a id=258></a>
 
-### TITRE II : Dispositions budgétaires<a id=264></a>
+### TITRE II : Dispositions budgétaires<a id=259></a>
 
-#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=265></a>
+#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=260></a>
 
 ###### Article D570
 
@@ -23289,7 +23274,7 @@ _Cite_:
   - Code des postes et télécommunications R64
 
 
-#### CHAPITRE IV : Comptabilité administrative.<a id=266></a>
+#### CHAPITRE IV : Comptabilité administrative.<a id=261></a>
 
 ###### Article D571
 
@@ -23395,7 +23380,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-3 (M)
 
 
-### TITRE V : Fonds spéciaux.<a id=267></a>
+### TITRE V : Fonds spéciaux.<a id=262></a>
 
 ###### Article D573
 
@@ -23609,13 +23594,13 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-10 (T)
 
 
-# Annexes<a id=268></a>
+# Annexes<a id=263></a>
 
-## LIVRE IV : L'organisation financière<a id=269></a>
+## LIVRE IV : L'organisation financière<a id=264></a>
 
-### TITRE II : Dispositions budgétaires<a id=270></a>
+### TITRE II : Dispositions budgétaires<a id=265></a>
 
-#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=271></a>
+#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=266></a>
 
 ###### Article Annexe II à l'article D570
 
