@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1980-08-01
+Version Consolidée au 1981-01-10
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -93,7 +93,7 @@ Version Consolidée au 1980-08-01
           - [Section 1 : Généralités. (art. D6 à D8)](#90)
           - [Section 2 : Lettres missives, cartes postales et paquets-poste. (art. D9 à D12)](#91)
           - [Section 3 : Imprimés et échantillons. (art. D13 à D17)](#92)
-          - [Section 4 : Journaux et écrits périodiques. (art. D20 à D28)](#93)
+          - [Section 4 : Journaux et écrits périodiques. (art. D19-2 à D28)](#93)
           - [Section 5 : Magazines sonores. (art. D29 à D31)](#94)
           - [Section 6 : Dispositions particulières. (art. D32 à D33)](#95)
         - [Chapitre V : Conditions d'admission des objets de correspondance dans le régime international. (art. D34 à D36)](#96)
@@ -8691,6 +8691,40 @@ _Créé par_:
 
 ##### Section 4 : Journaux et écrits périodiques.<a id=93></a>
 
+###### Article D19-2
+
+Les publications éditées par l'administration de l'Etat ou par les établissements publics ou pour leur compte sont taxées au
+tarif des publications administratives.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°81-11 1981-01-09 art. 2 JORF 10 janvier 1981
+
+_Cité par_:
+
+  - Décret n°97-1065 du 20 novembre 1997 - art. 11 (V)
+  - Décret n°97-1065 du 20 novembre 1997 - art. 7 (V)
+  - Décret n°98-1009 du 6 novembre 1998 - art. 2 (V)
+  - Décret n°99-79 du 5 février 1999 - art. 1 (Ab)
+  - Décret n°2004-595 du 22 juin 2004 - art. 2 (V)
+  - Décret n°2004-1311 du 26 novembre 2004 - art. 5 (Ab)
+  - Décret n°2004-1312 du 26 novembre 2004 - art. 2 (V)
+  - Décret n°2009-535 du 13 mai 2009 (V)
+  - Décret n°2012-484 du 13 avril 2012 - art. 9 (V)
+  - Arrêté du 22 novembre 2012 - art. 2 (V)
+  - Décret n°2016-1161 du 26 août 2016 - art. 21
+  - Décret n°2016-1161 du 26 août 2016 - art. 6
+  - Décret n°2016-2013 du 30 décembre 2016 - art. 9 (V)
+  - Code des postes et des communications électroni... - art. D19-3 (VD)
+  - Code des postes et des communications électroni... - art. D27-2 (V)
+
+
 ###### Article D20
 
 Sont taxés comme imprimés ordinaires :
@@ -8731,6 +8765,34 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+
+###### Article D22
+
+Pour l'application des taxes, les journaux sont classés en routés, semi-routés et autres journaux selon le degré de la
+préparation des envois effectuée par l'expéditeur préalablement à la remise au service postal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°81-11 1981-01-09 art. 1 JORF 10 janvier 1981
+
+_Cité par_:
+
+  - Décret n°2001-1090 du 20 novembre 2001 - art. 5 (V)
+
+_Abrogé par_:
+
+  - Décret n°2004-1393 du 22 décembre 2004 - art. 1 () JORF 24 décembre 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article D23
