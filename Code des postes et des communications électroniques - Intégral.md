@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2002-09-10
+Version Consolidée au 2002-11-13
 ## Contenu: 
   - [Partie législative (art. L1 à L129)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -138,129 +138,124 @@ Version Consolidée au 2002-09-10
       - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#135)
     - [LIVRE II : Les communications électroniques (art. D96-1 à D487)](#136)
       - [TITRE Ier : Dispositions générales (art. D96-1 à D406-4)](#137)
-        - [Chapitre Ier : Principes et définitions. (art. D96-1 à D97-10)](#138)
+        - [Chapitre Ier : Principes et définitions. (art. D96-1 à D97-11)](#138)
           - [Paragraphe 1 : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D96-1 à D96-6)](#139)
           - [Paragraphe 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D96-7 à D96-17)](#140)
           - [Paragraphe 3 : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D96-18 à D96-24)](#141)
           - [Paragraphe 4 : Commission consultative des radiocommunications. (art. D97-1)](#142)
           - [Paragraphe 5 : Commission consultative des réseaux et services de communications électroniques. (art. D97-2)](#143)
           - [Paragraphe 6 : Organisation et fonctionnement des commissions consultatives. (art. D97-3)](#144)
-          - [Paragraphe 7 : Autorité de régulation des télécommunications (art. D97-4 à D97-10)](#145)
+          - [Paragraphe 7 : Autorité de régulation des télécommunications (art. D97-4 à D97-11)](#145)
         - [Chapitre II : Régime juridique (art. D98-2 à D99-26)](#146)
           - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-2 à D98-2-1)](#147)
           - [Section 2 : Réseaux indépendants (art. D98-3 à D99-5)](#148)
-          - [SECTION 3 : Interconnexion (art. D99-7 à D99-9)](#149)
-            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-7 à D99-9)](#150)
-          - [SECTION 4 : Accès à la boucle locale (art. D99-24 à D99-26)](#151)
-        - [CHAPITRE III : Télégraphe (art. D100 à D287)](#152)
-          - [SECTION 1 : Service télégraphique (art. D100 à D267)](#153)
-            - [Paragraphe 2 : Dépôt des télégrammes. (art. D100)](#154)
-            - [Paragraphe 3 : Rédaction des télégrammes (art. D104 à D110)](#155)
-              - [1. : Dispositions générales. (art. D104 à D105)](#156)
-              - [3. : Adresse. (art. D107 à D110)](#157)
-            - [Paragraphe 4 : Compte des mots. (art. D116)](#158)
-            - [Paragraphe 5 : Remise des télégrammes. (art. D117 à D122)](#159)
-            - [Paragraphe 6 : Perception des tarifs. (art. D126 à D128)](#160)
-            - [Paragraphe 7 : Télégrammes spéciaux. (art. D129)](#161)
-            - [Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux (art. D130 à D219-2)](#162)
-              - [1. : Télégrammes relatifs à la sécurité de la vie humaine. (art. D130 à D133)](#163)
-              - [2. : Télégrammes de presse. (art. D134 à D135)](#164)
-              - [3. : Télégrammes des services postaux financiers. (art. D139)](#165)
-              - [4. : Phototélégrammes. (art. D142 à D144)](#166)
-              - [5. : Télégrammes urgents du régime international. (art. D146)](#167)
-              - [20. : Télégrammes illustrés. (art. D182 à D185)](#168)
-              - [22. : Télégrammes avec accusé de réception. (art. D192)](#169)
-              - [24. : Télégrammes sur un compte communications électroniques. (art. D196)](#170)
-              - [28. : Télégrammes R.C.T. du régime international. (art. D213)](#171)
-              - [29. : Radiotélégrammes. (art. D218 à D219-2)](#172)
-            - [Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers (art. D228)](#173)
-              - [1. : Communication au guichet de l'original d'un télégramme. (art. D228)](#174)
-            - [Paragraphe 10 : Télégrammes officiels (art. D234 à D246)](#175)
-              - [1. : Définition. (art. D234)](#176)
-              - [2. : Rédaction. (art. D235)](#177)
-              - [3. : Dépôt. (art. D237)](#178)
-              - [4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels. (art. D241)](#179)
-              - [5. : Circulaires. (art. D243)](#180)
-              - [6. : Application et perception des tarifs. (art. D244)](#181)
-              - [7. : Annulation des télégrammes officiels. (art. D246)](#182)
-            - [Paragraphe 11 : Télégrammes d'Etat (art. D247 à D259)](#183)
-              - [1. : Définition. (art. D247 à D248)](#184)
-              - [2. : Rédaction. (art. D250 à D252)](#185)
-              - [3. : Dépôt. (art. D253 à D254)](#186)
-              - [4. : Application des tarifs. (art. D256 à D257)](#187)
-              - [6. : Remise. (art. D259)](#188)
-            - [Paragraphe 13 : Remboursement. (art. D263 à D265)](#189)
-            - [Paragraphe 14 : Prescriptions diverses. (art. D267)](#190)
-          - [SECTION 3 : Service télex (art. D277 à D287)](#191)
-            - [Paragraphe 1er : Généralités. (art. D277 à D279)](#192)
-            - [Paragraphe 2 : Abonnements. (art. D280 à D284)](#193)
-            - [Paragraphe 3 : Communications. (art. D285 à D286)](#194)
-            - [Paragraphe 4 : Suspension d'une ligne d'abonnement télex. (art. D287)](#195)
-        - [CHAPITRE IV : Téléphone (art. D288 à D367)](#196)
-          - [SECTION 1 : Dispositions générales. (art. D288 à D289)](#197)
-          - [SECTION 2 : Des communications téléphoniques (art. D291-1 à D316)](#198)
-            - [Paragraphe 1er : Dispositions générales. (art. D291-1 à D293-1)](#199)
-            - [Paragraphe 2 : Communications ordinaires (art. D294 à D298)](#200)
-              - [1. : Définition. (art. D294)](#201)
-              - [2. : Limitation de durée. (art. D295)](#202)
-              - [4. : Communication refusée. (art. D297)](#203)
-              - [5. : Récépissé. (art. D298)](#204)
-            - [Paragraphe 3 : Communications spéciales (art. D300 à D307)](#205)
-              - [1. : Indication de durée. (art. D300)](#206)
-              - [2. : Avis d'appel. (art. D301)](#207)
-              - [4. : Communication non facturée par le demandeur ou à facturation différée. (art. D304 à D305)](#208)
-              - [6. : Communication avec un véhicule. (art. D307)](#209)
-            - [Paragraphe 4 : Services spéciaux (art. D308 à D316)](#210)
-              - [1. : Service de réception et de traitement d'appels. (art. D308)](#211)
-              - [2. : Service de la réunion-téléphone. (art. D309)](#212)
-              - [3. : Service du "Mémo-Appel". (art. D310)](#213)
-              - [5. : Renseignements. (art. D312)](#214)
-              - [7. : Communications en dehors des heures normales d'ouverture du service. (art. D315)](#215)
-              - [8. : Service des auditions téléphoniques. (art. D316)](#216)
-          - [SECTION 3 : Des abonnements (art. D317 à D359)](#217)
-            - [Paragraphe 1er : Généralités. (art. D317 à D319)](#218)
-            - [Paragraphe 2 : Abonnements principaux permanents (art. D320 à D331)](#219)
-              - [1. : Différentes catégories. (art. D320)](#220)
-              - [2. : Abonnements principaux ordinaires. (art. D321)](#221)
-              - [3. : Abonnements principaux d'extension. (art. D322 à D323)](#222)
-              - [5. : Abonnements spéciaux. (art. D328 à D331)](#223)
-            - [Paragraphe 3 : Abonnements complémentaires. (art. D332)](#224)
-            - [Paragraphe 4 : Abonnements supplémentaires permanents. (art. D333 à D334)](#225)
-            - [Paragraphe 5 : Abonnements temporaires. (art. D336)](#226)
-            - [Paragraphe 6 : Suspension et résiliation des abonnements. (art. D337 à D342)](#227)
-            - [Paragraphe 7 : Modification des conditions de concession d'un abonnement (art. D347 à D355)](#228)
-              - [3. : Transformation des abonnements. (art. D347 à D355)](#229)
-            - [Paragraphe 8 : Dispositions diverses (art. D359)](#230)
-              - [2. : Listes périodiques d'abonnés. (art. D359)](#231)
-          - [SECTION 4 : Dispositions particulières au service international. (art. D362 à D367)](#232)
-        - [CHAPITRE  V : Services particuliers des communications électroniques (art. D373 à D379)](#233)
-          - [SECTION 2 : Liaisons louées (art. D373 à D379)](#234)
-        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#235)
-      - [TITRE II : Etablissement des lignes (art. D407-1 à D407-3)](#236)
-        - [CHAPITRE Ier : Etablissement des lignes (art. D407-1 à D407-3)](#237)
-          - [SECTION 1 : Dispositions générales. (art. D407-1 à D407-3)](#238)
-      - [TITRE VI : Les services radioélectriques (art. D457 à D487)](#239)
-        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D458)](#240)
-        - [CHAPITRE II : Installations et réseaux radioélectriques indépendants. (art. D459 à D463)](#241)
-        - [CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs. (art. D473)](#242)
-        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#243)
-    - [LIVRE II : Les télécommunications (art. D98-1 à D377)](#244)
-      - [TITRE Ier : Dispositions générales (art. D98-1 à D377)](#245)
-        - [Chapitre II : Régime juridique (art. D98-1 à D99-23)](#246)
-          - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-1)](#247)
-          - [SECTION 3 : Interconnexion (art. D99-6 à D99-22)](#248)
-            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-6 à D99-10)](#249)
-            - [Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7. (art. D99-11 à D99-22)](#250)
-          - [SECTION 4 : Accès à la boucle locale (art. D99-23)](#251)
-        - [CHAPITRE  V : Services particuliers des télécommunications (art. D369 à D377)](#252)
-          - [SECTION 2 : Liaisons louées (art. D369 à D377)](#253)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#254)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#255)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#256)
-      - [TITRE II : Mandats. (art. D523 à D548)](#257)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#258)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#259)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#260)
+          - [SECTION 3 : Interconnexion (art. D99-6 à D99-22)](#149)
+            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-6 à D99-10)](#150)
+            - [Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur les listes établies en application du 7° de l'article L. 36-7. (art. D99-11 à D99-22)](#151)
+          - [SECTION 4 : Accès à la boucle locale (art. D99-23 à D99-26)](#152)
+        - [CHAPITRE III : Télégraphe (art. D100 à D287)](#153)
+          - [SECTION 1 : Service télégraphique (art. D100 à D267)](#154)
+            - [Paragraphe 2 : Dépôt des télégrammes. (art. D100)](#155)
+            - [Paragraphe 3 : Rédaction des télégrammes (art. D104 à D110)](#156)
+              - [1. : Dispositions générales. (art. D104 à D105)](#157)
+              - [3. : Adresse. (art. D107 à D110)](#158)
+            - [Paragraphe 4 : Compte des mots. (art. D116)](#159)
+            - [Paragraphe 5 : Remise des télégrammes. (art. D117 à D122)](#160)
+            - [Paragraphe 6 : Perception des tarifs. (art. D126 à D128)](#161)
+            - [Paragraphe 7 : Télégrammes spéciaux. (art. D129)](#162)
+            - [Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux (art. D130 à D219-2)](#163)
+              - [1. : Télégrammes relatifs à la sécurité de la vie humaine. (art. D130 à D133)](#164)
+              - [2. : Télégrammes de presse. (art. D134 à D135)](#165)
+              - [3. : Télégrammes des services postaux financiers. (art. D139)](#166)
+              - [4. : Phototélégrammes. (art. D142 à D144)](#167)
+              - [5. : Télégrammes urgents du régime international. (art. D146)](#168)
+              - [20. : Télégrammes illustrés. (art. D182 à D185)](#169)
+              - [22. : Télégrammes avec accusé de réception. (art. D192)](#170)
+              - [24. : Télégrammes sur un compte communications électroniques. (art. D196)](#171)
+              - [28. : Télégrammes R.C.T. du régime international. (art. D213)](#172)
+              - [29. : Radiotélégrammes. (art. D218 à D219-2)](#173)
+            - [Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers (art. D228)](#174)
+              - [1. : Communication au guichet de l'original d'un télégramme. (art. D228)](#175)
+            - [Paragraphe 10 : Télégrammes officiels (art. D234 à D246)](#176)
+              - [1. : Définition. (art. D234)](#177)
+              - [2. : Rédaction. (art. D235)](#178)
+              - [3. : Dépôt. (art. D237)](#179)
+              - [4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels. (art. D241)](#180)
+              - [5. : Circulaires. (art. D243)](#181)
+              - [6. : Application et perception des tarifs. (art. D244)](#182)
+              - [7. : Annulation des télégrammes officiels. (art. D246)](#183)
+            - [Paragraphe 11 : Télégrammes d'Etat (art. D247 à D259)](#184)
+              - [1. : Définition. (art. D247 à D248)](#185)
+              - [2. : Rédaction. (art. D250 à D252)](#186)
+              - [3. : Dépôt. (art. D253 à D254)](#187)
+              - [4. : Application des tarifs. (art. D256 à D257)](#188)
+              - [6. : Remise. (art. D259)](#189)
+            - [Paragraphe 13 : Remboursement. (art. D263 à D265)](#190)
+            - [Paragraphe 14 : Prescriptions diverses. (art. D267)](#191)
+          - [SECTION 3 : Service télex (art. D277 à D287)](#192)
+            - [Paragraphe 1er : Généralités. (art. D277 à D279)](#193)
+            - [Paragraphe 2 : Abonnements. (art. D280 à D284)](#194)
+            - [Paragraphe 3 : Communications. (art. D285 à D286)](#195)
+            - [Paragraphe 4 : Suspension d'une ligne d'abonnement télex. (art. D287)](#196)
+        - [CHAPITRE IV : Téléphone (art. D288 à D367)](#197)
+          - [SECTION 1 : Dispositions générales. (art. D288 à D289)](#198)
+          - [SECTION 2 : Des communications téléphoniques (art. D291-1 à D316)](#199)
+            - [Paragraphe 1er : Dispositions générales. (art. D291-1 à D293-1)](#200)
+            - [Paragraphe 2 : Communications ordinaires (art. D294 à D298)](#201)
+              - [1. : Définition. (art. D294)](#202)
+              - [2. : Limitation de durée. (art. D295)](#203)
+              - [4. : Communication refusée. (art. D297)](#204)
+              - [5. : Récépissé. (art. D298)](#205)
+            - [Paragraphe 3 : Communications spéciales (art. D300 à D307)](#206)
+              - [1. : Indication de durée. (art. D300)](#207)
+              - [2. : Avis d'appel. (art. D301)](#208)
+              - [4. : Communication non facturée par le demandeur ou à facturation différée. (art. D304 à D305)](#209)
+              - [6. : Communication avec un véhicule. (art. D307)](#210)
+            - [Paragraphe 4 : Services spéciaux (art. D308 à D316)](#211)
+              - [1. : Service de réception et de traitement d'appels. (art. D308)](#212)
+              - [2. : Service de la réunion-téléphone. (art. D309)](#213)
+              - [3. : Service du "Mémo-Appel". (art. D310)](#214)
+              - [5. : Renseignements. (art. D312)](#215)
+              - [7. : Communications en dehors des heures normales d'ouverture du service. (art. D315)](#216)
+              - [8. : Service des auditions téléphoniques. (art. D316)](#217)
+          - [SECTION 3 : Des abonnements (art. D317 à D359)](#218)
+            - [Paragraphe 1er : Généralités. (art. D317 à D319)](#219)
+            - [Paragraphe 2 : Abonnements principaux permanents (art. D320 à D331)](#220)
+              - [1. : Différentes catégories. (art. D320)](#221)
+              - [2. : Abonnements principaux ordinaires. (art. D321)](#222)
+              - [3. : Abonnements principaux d'extension. (art. D322 à D323)](#223)
+              - [5. : Abonnements spéciaux. (art. D328 à D331)](#224)
+            - [Paragraphe 3 : Abonnements complémentaires. (art. D332)](#225)
+            - [Paragraphe 4 : Abonnements supplémentaires permanents. (art. D333 à D334)](#226)
+            - [Paragraphe 5 : Abonnements temporaires. (art. D336)](#227)
+            - [Paragraphe 6 : Suspension et résiliation des abonnements. (art. D337 à D342)](#228)
+            - [Paragraphe 7 : Modification des conditions de concession d'un abonnement (art. D347 à D355)](#229)
+              - [3. : Transformation des abonnements. (art. D347 à D355)](#230)
+            - [Paragraphe 8 : Dispositions diverses (art. D359)](#231)
+              - [2. : Listes périodiques d'abonnés. (art. D359)](#232)
+          - [SECTION 4 : Dispositions particulières au service international. (art. D362 à D367)](#233)
+        - [CHAPITRE  V : Services particuliers des communications électroniques (art. D369 à D379)](#234)
+          - [SECTION 2 : Liaisons louées (art. D369 à D379)](#235)
+        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#236)
+      - [TITRE II : Etablissement des lignes (art. D407-1 à D407-3)](#237)
+        - [CHAPITRE Ier : Etablissement des lignes (art. D407-1 à D407-3)](#238)
+          - [SECTION 1 : Dispositions générales. (art. D407-1 à D407-3)](#239)
+      - [TITRE VI : Les services radioélectriques (art. D457 à D487)](#240)
+        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D458)](#241)
+        - [CHAPITRE II : Installations et réseaux radioélectriques indépendants. (art. D459 à D463)](#242)
+        - [CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs. (art. D473)](#243)
+        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#244)
+    - [LIVRE II : Les télécommunications (art. D98-1)](#245)
+      - [TITRE Ier : Dispositions générales (art. D98-1)](#246)
+        - [Chapitre II : Régime juridique (art. D98-1)](#247)
+          - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-1)](#248)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#249)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#250)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#251)
+      - [TITRE II : Mandats. (art. D523 à D548)](#252)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#253)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#254)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#255)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -17765,6 +17760,36 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 3 () JORF 30 avril 2005
 
 
+###### Article D97-11
+
+Le délai imparti aux opérateurs pour régulariser leur situation, mentionné au 4° de l'article L. 36-11, est fixé à un mois.
+Les décisions prises en application du 2° du même article sont adoptées dans un délai de deux mois à compter de la
+notification de la mise en demeure. Elles sont notifiées aux intéressés dans un délai d'une semaine suivant leur adoption.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 1 () JORF 13 novembre 2002
+
+_Transféré par_:
+
+  - Décret n°2005-399 du 27 avril 2005 - art. 3 () JORF 30 avril 2005
+
+_Nouveaux textes_:
+
+  - Code des postes et des communications électronique - art. D295 (V)
+  - Code des postes et télécommunications électroniques D295
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L36-11 (M)
+
+
 #### Chapitre II : Régime juridique<a id=146></a>
 
 ##### Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1.<a id=147></a>
@@ -18325,6 +18350,54 @@ _Cité par_:
 
 ##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=150></a>
 
+###### Article D99-6
+
+L'interconnexion fait l'objet d'une convention de droit privé entre les parties. Cette convention est conforme aux
+dispositions de l'article L. 34-8, aux dispositions du présent code et aux autorisations des deux opérateurs concernés.
+
+La convention est communiquée à l'Autorité de régulation des télécommunications à sa demande. L'Autorité de régulation des
+télécommunications peut, sur demande, communiquer aux tiers intéressés les informations qu'elle contient, sous réserve des
+informations couvertes par le secret des affaires.
+
+Les opérateurs disposant d'informations dans le cadre d'une négociation ou de la mise en oeuvre d'un accord d'interconnexion
+ne peuvent les utiliser qu'aux seules fins explicitement prévues lors de leur communication. En particulier, ces informations
+ne sont pas communiquées à d'autres services, filiales ou partenaires pour lesquels elles pourraient constituer un avantage
+concurrentiel.
+
+Il est institué auprès de l'Autorité de régulation des télécommunications un comité de l'interconnexion associant notamment
+les opérateurs autorisés en application des articles L. 33-1 ou L. 34-1. Ce comité est présidé par l'Autorité de régulation
+des télécommunications, qui arrête ses modalités de composition et de fonctionnement.
+
+Si l'Autorité de régulation des télécommunications inscrit, après l'attribution de son autorisation, un opérateur sur l'une
+des listes établies en application du 7° de l'article L. 36-7, le cahier des charges associé à l'autorisation de cet
+opérateur sera modifié afin d'y porter les nouvelles obligations correspondantes relatives à l'interconnexion et fixera, en
+ce qui concerne les opérateurs inscrits sur les listes établies en application des a et b dudit article, le délai dans lequel
+l'offre catalogue devra être publiée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 2 () JORF 13 novembre 2002
+
+_Cité par_:
+
+  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+  - Code des postes et des communications électronique - art. D99-8 (M)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L33-1 (M)
+  - Code des postes et des communications électronique - art. L34-1 (M)
+  - Code des postes et des communications électronique - art. L34-8 (M)
+  - Code des postes et des communications électronique - art. L36-7 (M)
+
+
 ###### Article D99-7
 
 Les opérateurs prennent l'ensemble des mesures, qu'ils précisent dans leurs conventions d'interconnexion, nécessaires pour
@@ -18518,7 +18591,648 @@ _Créé par_:
   - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
 
 
-##### SECTION 4 : Accès à la boucle locale<a id=151></a>
+###### Article D99-10
+
+Les conditions tarifaires des conventions d'interconnexion respectent les principes d'objectivité et de transparence.
+
+Elles ne doivent pas conduire à imposer indûment aux opérateurs utilisant l'interconnexion des charges excessives.
+
+Elles doivent pouvoir être justifiées sur demande de l'Autorité de régulation des télécommunications.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 2 () JORF 13 novembre 2002
+
+
+##### Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur les listes établies en application du 7° de l'article L. 36-7.<a id=151></a>
+
+###### Article D99-11
+
+Les opérateurs figurant sur les listes établies en application des a et b du 7° de l'article L. 36-7 sont tenus de publier,
+dans les conditions déterminées par leur cahier des charges, un catalogue décrivant une offre technique et tarifaire
+d'interconnexion approuvée préalablement par l'Autorité de régulation des télécommunications.
+
+Ces opérateurs ne peuvent invoquer l'existence d'une offre inscrite au catalogue pour refuser d'engager des négociations
+commerciales avec un autre opérateur en vue de la détermination de conditions d'interconnexion qui n'auraient pas été prévues
+par leur catalogue, notamment les conditions d'accès direct aux commutateurs internationaux et à d'autres infrastructures
+internationales. Toute condition d'interconnexion qui n'aurait pas été prévue par le catalogue de l'opérateur doit être
+signalée en tant que telle dans la convention d'interconnexion.
+
+Les offres inscrites au catalogue publié par ces opérateurs contiennent des conditions différentes pour répondre, d'une part,
+aux besoins d'interconnexion des exploitants de réseaux ouverts au public et, d'autre part, aux besoins d'accès au réseau des
+fournisseurs de service téléphonique au public, compte tenu des droits et obligations propres à chacune de ces catégories
+d'utilisateurs. Ces conditions doivent être suffisamment détaillées pour faire apparaître les divers éléments propres à
+répondre aux demandes.
+
+Les opérateurs inscrits sur les listes établies en application des a, b et c du 7° de l'article L. 36-7 fournissent les
+informations nécessaires à la mise en oeuvre de l'interconnexion aux autres opérateurs dans les mêmes conditions et avec le
+même degré de qualité que celles qu'ils fournissent à leurs propres services ou à leurs filiales et partenaires. Ils
+informent les autres opérateurs des modifications de leurs offres d'interconnexion avec un préavis au moins égal à six mois,
+sauf si l'Autorité de régulation des télécommunications en décide autrement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 2 () JORF 13 novembre 2002
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L36-7 (M)
+
+
+###### Article D99-12
+
+Les opérateurs inscrits sur les listes établies en application des a, b et c du 7° de l'article L. 36-7 fournissent
+l'interconnexion dans des conditions non discriminatoires.
+
+Les modalités techniques et financières des services d'interconnexion qu'ils offrent, à conditions équivalentes, aux autres
+opérateurs, notamment la qualité technique des prestations, les délais de mise à disposition et la disponibilité de ces
+prestations, doivent être équivalentes à celles retenues, le cas échéant, pour leurs propres services ou ceux de leurs
+filiales ou partenaires.
+
+Les conditions qui s'appliquent à ces opérateurs pour leur propre accès aux éléments de leur réseau sont définies aux
+paragraphes l et m des cahiers des charges des autorisations qui leur sont délivrées.
+
+Les modalités techniques et financières des services d'interconnexion qu'ils offrent à leurs propres services ou à leurs
+filiales ou partenaires sont décrites suivant les cas dans des accords ou conventions d'interconnexion. Elles doivent pouvoir
+être justifiées sur demande de l'Autorité de régulation des télécommunications.
+
+Les opérateurs inscrits sur les listes établies en application des a et b du 7° de l'article L. 36-7 tiennent une
+comptabilité séparée pour leurs activités d'interconnexion, dont les spécifications sont établies dans les conditions visées
+à l'article D. 99-13. Celle-ci a pour objet de valoriser les activités, services et éléments de réseaux utilisés par ces
+opérateurs à leur prix de cession externe ou, à défaut, par référence aux tarifs pratiqués par ces opérateurs à l'égard des
+utilisateurs ou des opérateurs qui s'interconnectent à leur réseau.
+
+Cette comptabilité séparée permet en particulier d'identifier les types de coûts suivants :
+
+- les coûts de réseau général, c'est-à-dire les coûts relatifs aux éléments de réseau utilisés à la fois par l'opérateur pour
+les services à ses propres utilisateurs et pour les services d'interconnexion ; ces éléments de réseau sont notamment les
+éléments des commutateurs et les systèmes de transmission nécessaires à la fourniture de l'ensemble de ces services ;
+
+- les coûts spécifiques aux services d'interconnexion, c'est-à-dire les coûts directement induits par les seuls services
+d'interconnexion ;
+
+- les coûts spécifiques aux services de l'opérateur autres que l'interconnexion, c'est-à-dire les coûts induits par ces seuls
+services ;
+
+- les coûts communs, c'est-à-dire les coûts qui ne relèvent pas de l'une des catégories précédentes.
+
+Les éléments pertinents du système d'information et les données comptables sont tenus à la disposition de l'Autorité de
+régulation des télécommunications à la demande de cette dernière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 2 () JORF 13 novembre 2002
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D99-13 (Ab)
+  - Code des postes et des communications électronique - art. D99-18 (Ab)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L36-7 (M)
+
+
+###### Article D99-13
+
+L'Autorité de régulation des télécommunications établit et rend publiques les spécifications et la description des systèmes
+de comptabilisation des coûts des opérateurs inscrits sur les listes établies en application des a et b du 7° de l'article L.
+36-7 adaptées à la vérification du respect du principe de non-discrimination tel que décrit à l'article D. 99-12 et des
+principes tarifaires et de pertinence tels que décrits aux articles D. 99-17 et D. 99-18.
+
+Les systèmes de comptabilisation des coûts de ces opérateurs sont audités périodiquement par des organismes indépendants. Ces
+organismes sont désignés par l'Autorité de régulation des télécommunications. Cette vérification est assurée aux frais de
+chacun des opérateurs figurant sur les listes établies en application des a et b du 7° de l'article L. 36-7.
+
+Les organismes désignés publient annuellement une attestation de conformité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 2 () JORF 13 novembre 2002
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D99-12 (Ab)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. D99-17 (M)
+  - Code des postes et des communications électronique - art. D99-18 (M)
+  - Code des postes et des communications électronique - art. L36-7 (M)
+
+
+###### Article D99-14
+
+Lorsque l'un des opérateurs inscrits sur les listes établies en application des a et b du 7° de l'article L. 36-7 souhaite
+utiliser une interface d'interconnexion qui ne figure pas à son catalogue d'interconnexion ou apporter des compléments à des
+spécifications d'une interface du catalogue d'interconnexion, il communique les spécifications techniques et les services
+correspondants à l'Autorité de régulation des communications électroniques. L'Autorité de régulation des télécommunications
+peut rendre ces spécifications publiques pour assurer le principe de non-discrimination ou lorsqu'elle considère que cette
+publication présente un intérêt général pour la communauté des opérateurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 2 () JORF 13 novembre 2002
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L36-7 (M)
+
+
+###### Article D99-15
+
+Les conditions techniques et tarifaires des services d'interconnexion des opérateurs inscrits sur les listes établies en
+application des a, b et d du 7° de l'article L. 36-7 doivent être suffisamment détaillées pour faire apparaître les divers
+éléments propres à répondre aux demandes. En particulier, les tarifs relatifs aux services d'interconnexion doivent être
+suffisamment décomposés pour que l'on puisse s'assurer que l'opérateur demandeur ne paye que l'utilisation des éléments
+strictement liés à la prestation demandée.
+
+En application de ce principe, ces opérateurs doivent en particulier offrir dans leur catalogue d'interconnexion un accès :
+
+- à leurs commutateurs de raccordement d'abonnés ;
+
+- à leurs commutateurs de hiérarchie supérieure ou à une solution technique équivalente.
+
+L'interconnexion à un commutateur de raccordement d'abonnés permet d'accéder à tous les abonnés de l'opérateur qui sont
+accessibles à partir de ce même commutateur sans transiter par un commutateur de hiérarchie supérieure.
+
+Le catalogue d'interconnexion de ces opérateurs comporte la liste des commutateurs de raccordement d'abonnés qui ne sont pas
+ouverts à l'interconnexion pour des raisons techniques justifiées, ainsi que le calendrier prévisionnel selon lequel les
+commutateurs d'abonnés concernés seront ouverts à l'interconnexion. Toutefois, lorsque l'acheminement du trafic prévisible
+des autres opérateurs en provenance ou à destination des abonnés raccordés à un commutateur de cette liste le justifie,
+l'opérateur puissant est tenu, sur demande de l'Autorité de régulation des télécommunications, d'établir pour ce commutateur
+une offre transitoire. Les critères objectifs suivant lesquels l'Autorité de régulation des télécommunications peut demander
+l'établissement d'une offre transitoire sont homologués par arrêté du ministre chargé des communications électroniques dans
+les conditions prévues à l'article L. 36-6. Cette offre transitoire permet à l'opérateur demandeur de disposer d'une
+tarification visant à refléter les coûts qu'il aurait supportés, en l'absence de contraintes techniques d'accès, pour
+acheminer les communications à destination ou en provenance, d'une part, des abonnés raccordés à ce commutateur et, d'autre
+part, des abonnés qui auraient été accessibles sans passer par un commutateur de hiérarchie supérieure.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 2 () JORF 13 novembre 2002
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D99-16 (Ab)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L36-6 (M)
+  - Code des postes et des communications électronique - art. L36-7 (M)
+
+
+###### Article D99-16
+
+Les catalogues d'interconnexion des opérateurs inscrits sur les listes établies en application des a et b du 7° de l'article
+L. 36-7 doivent au minimum inclure les prestations et éléments suivants, pour les exploitants de réseau ouvert au public :
+
+- services d'acheminement du trafic commuté, offrant des accès techniques et des options tarifaires permettant de mettre en
+oeuvre le principe de dégroupage de l'offre tel que défini à l'article D. 99-15 ;
+
+- services et fonctionnalités complémentaires et avancés (y compris l'accès aux ressources des réseaux intelligents
+nécessaire dans le cadre de l'interconnexion ou de l'acheminement optimal du trafic) et modalités contractuelles associées,
+suivant une liste arrêtée préalablement par l'Autorité de régulation des télécommunications, après consultation du comité de
+l'interconnexion ;
+
+- modalités de mise en oeuvre de la portabilité des numéros et de la sélection du transporteur permettant d'assurer l'égalité
+d'accès. En application de l'article L. 36-6, l'Autorité de régulation des télécommunications précise les services de
+sélection du transporteur concernés par les dispositions de l'alinéa précédent ainsi que les conditions et les délais de mise
+en oeuvre de la sélection du transporteur appel par appel et de la présélection ;
+
+- description de l'ensemble des points physiques d'interconnexion et des conditions d'accès à ces points lorsque c'est
+l'opérateur tiers qui fournit la liaison d'interconnexion ;
+
+- conditions techniques et tarifaires des liaisons de raccordement aux points d'interconnexion de l'opérateur tiers et, pour
+le cas où ce dernier souhaiterait fournir cette liaison, conditions techniques et tarifaires d'un accès physique et logique
+aux points d'interconnexion de ces opérateurs ;
+
+- description complète des interfaces d'interconnexion proposées au catalogue d'interconnexion, et notamment le protocole de
+signalisation utilisé à ces interfaces, et ses conditions de mise en oeuvre ;
+
+- services d'aboutement de liaisons louées.
+
+Les catalogues de ces opérateurs pour les fournisseurs de service téléphonique au public doivent inclure les prestations et
+éléments énumérés ci-dessus qui tiennent compte des droits et obligations propres à ces fournisseurs.
+
+L'Autorité de régulation des télécommunications peut demander, après consultation du comité de l'interconnexion, à l'un de
+ces opérateurs de réviser son catalogue, et notamment d'ajouter ou de modifier des prestations inscrites à son catalogue,
+lorsque ces ajouts ou ces modifications sont justifiés au regard de la mise en oeuvre des principes de non-discrimination et
+d'orientation des tarifs d'interconnexion vers les coûts ainsi que des besoins de la communauté des opérateurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 2 () JORF 13 novembre 2002
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. D99-15 (M)
+  - Code des postes et des communications électronique - art. L36-6 (M)
+  - Code des postes et des communications électronique - art. L36-7 (M)
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D99-17 (Ab)
+
+
+###### Article D99-17
+
+Les tarifs des services d'interconnexion offerts par les opérateurs inscrits sur les listes établies en application des a et
+b du 7° de l'article L. 36-7, qu'ils soient inclus dans leur catalogue d'interconnexion ou offerts en sus, et par les
+exploitants de réseaux de radiotéléphonie mobile inscrits sur la liste établie en application du d du même article,
+rémunèrent l'usage effectif du réseau de transport et de desserte et reflètent les coûts correspondants. Ces opérateurs
+doivent être en mesure de démontrer que leur tarif d'interconnexion reflète effectivement les coûts.
+
+Les dispositions du précédent alinéa sont applicables aux tarifs des accès mentionnés au deuxième alinéa du IV de l'article
+L. 34-8 fournis par les opérateurs inscrits sur la liste établie en application du a du 7° de l'article L. 36-7.
+
+Pour les prestations contenues dans les conventions d'interconnexion ne figurant pas au catalogue d'interconnexion défini à
+l'article D. 99-16, l'Autorité de régulation des télécommunications peut demander à ces opérateurs tout élément d'information
+lui permettant d'apprécier si les tarifs contenus dans les conventions pour ces prestations reflètent les coûts.
+
+Les tarifs d'interconnexion doivent reposer sur les principes suivants :
+
+1. Les coûts pris en compte doivent être pertinents,
+
+c'est-à-dire liés par une forme de causalité, directe ou indirecte, au service rendu d'interconnexion ;
+
+2. Les coûts pris en compte doivent tendre à accroître l'efficacité économique à long terme, c'est-à-dire que les coûts
+considérés doivent prendre en compte les investissements de renouvellement de réseau, fondés sur la base des meilleures
+technologies industriellement disponibles et tendant à un dimensionnement optimal du réseau, dans l'hypothèse d'un maintien
+de la qualité de service ;
+
+3. Les tarifs incluent une contribution équitable, conformément au principe de proportionnalité, aux coûts qui sont communs à
+la fois aux services d'interconnexion et aux autres services, dans le respect des principes de pertinence des coûts énoncés à
+l'article D. 99-18 et de l'équilibre économique de l'opérateur ;
+
+4. Les tarifs incluent une rémunération normale des capitaux employés pour les investissements utilisés fixée dans les
+conditions de l'article D. 99-22 ;
+
+5. Les tarifs peuvent faire l'objet d'une modulation horaire pour tenir compte de la congestion des capacités de transmission
+et de commutation du réseau général de l'opérateur ;
+
+6. Les tarifs unitaires applicables pour un service d'interconnexion sont indépendants du volume ou de la capacité des
+élements du réseau général utilisée par ce service ;
+
+7. Les unités de tarification doivent correspondre aux besoins des opérateurs interconnectés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 2 () JORF 13 novembre 2002
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D99-13 (Ab)
+  - Code des postes et des communications électronique - art. D99-20 (Ab)
+  - Code des postes et des communications électronique - art. D99-21 (Ab)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. D99-16 (M)
+  - Code des postes et des communications électronique - art. D99-18 (M)
+  - Code des postes et des communications électronique - art. D99-22 (M)
+  - Code des postes et des communications électronique - art. L34-8 (M)
+  - Code des postes et des communications électronique - art. L36-7 (M)
+
+
+###### Article D99-18
+
+Les coûts spécifiques aux services d'interconnexion offerts par les opérateurs inscrits sur les listes établies en
+application des a, b et d du 7° de l'article L. 36-7 sont entièrement alloués aux services d'interconnexion.
+
+Les coûts spécifiques aux services de l'opérateur autres que l'interconnexion sont exclus de l'assiette des coûts des
+services d'interconnexion. Sont en particulier exclus les coûts commerciaux (publicité, marketing, administration des ventes
+hors interconnexion, facturation et recouvrement hors interconnexion) et, pour les seuls opérateurs inscrits sur la liste A,
+les coûts d'accès (boucle locale).
+
+Les coûts de réseau général sont partagés entre les services d'interconnexion et les autres services sur la base de l'usage
+effectif du réseau général par chacun de ces services.
+
+Parmi les coûts communs définis à l'article D. 99-12, les coûts communs pertinents au regard de l'activité d'un opérateur de
+communications électroniques sont partagés entre services d'interconnexion et services autres que ceux d'interconnexion. Sont
+en particulier exclus des coûts communs pertinents les coûts de la recherche générale et les coûts de l'enseignement
+supérieur des communications électroniques.
+
+L'Autorité de régulation des télécommunications établit et rend publique annuellement la nomenclature :
+
+- des coûts de  réseau général ;
+
+- des coûts spécifiques aux services d'interconnexion ;
+
+- des coûts spécifiques aux services de ces opérateurs autres que l'interconnexion ;
+
+- des coûts communs ;
+
+- des coûts communs pertinents.
+
+Les coûts imputés aux opérateurs de réseaux ouverts au public, d'une part, et aux fournisseurs de service téléphonique au
+public, d'autre part, tiennent compte des droits et obligations propres à chacune de ces catégories d'opérateurs.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et des
+communications éléctroniques devient le code des postes et des communications électroniques. Dans ce code, les mots
+"télécommunication" et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 2 () JORF 13 novembre 2002
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. D99-12 (M)
+  - Code des postes et des communications électronique - art. L36-7 (M)
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D99-13 (Ab)
+  - Code des postes et des communications électronique - art. D99-17 (Ab)
+  - Code des postes et des communications électronique - art. D99-21 (Ab)
+
+
+###### Article D99-19
+
+A partir des tarifs 1997, tant que l'Autorité de régulation des télécommunications n'aura pas arrêté une autre méthode en
+application de l'article D. 99-20, et sous réserve du troisième alinéa du présent article, les tarifs d'interconnexion des
+opérateurs inscrits sur les listes établies en application des a, b et d du 7° de l'article L. 36-7, pour une année donnée
+sont fondés sur les coûts moyens comptables prévisionnels pertinents pour l'année considérée, évalués par l'Autorité de
+régulation des télécommunications en prenant aussi en compte :
+
+- l'efficacité des nouveaux investissements réalisés ou prévus par l'opérateur au regard des meilleures technologies
+industriellement disponibles ;
+
+- les références internationales en matière de tarifs et de coûts d'interconnexion.
+
+Les coûts moyens comptables sont établis à partir des informations issues de la comptabilité prévisionnelle, des derniers
+comptes audités de l'opérateur et des gains de productivité constatés.
+
+L'Autorité de régulation des télécommunications peut définir les conditions de décroissance pluriannuelle des tarifs
+d'interconnexion de façon à inciter à l'efficacité économique au regard des références internationales en matière de tarifs
+et de coûts d'interconnexion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 2 () JORF 13 novembre 2002
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. D99-20 (M)
+  - Code des postes et des communications électronique - art. L36-7 (M)
+
+
+###### Article D99-20
+
+Après concertation au sein du comité de l'interconnexion, l'Autorité de régulation des communications électroniques définira
+une méthode pour chaque liste prise en application des a, b ou d du 7° de l'article L. 36-7 tout en respectant les principes
+énoncés à l'article D. 99-17. A cette fin, elle s'appuie sur la comparaison des résultats de modèles technico-économiques et
+de modèles fondés sur la comptabilité de l'opérateur en maintenant la référence aux comparaisons internationales disponibles.
+
+L'Autorité de régulation des télécommunications associe les opérateurs à l'élaboration de cette méthode. Ceux-ci lui
+communiquent, à sa demande, toute information de nature technique, économique ou comptable qu'elle utilise dans le respect du
+secret des affaires.
+
+L'Autorité de régulation des télécommunications publie la méthode qu'elle a arrêtée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 2 () JORF 13 novembre 2002
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. D99-17 (M)
+  - Code des postes et des communications électronique - art. L36-7 (M)
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D99-19 (Ab)
+
+
+###### Article D99-21
+
+Pour tenir compte des effets du développement de la concurrence sur le marché des services d'interconnexion, et après
+concertation au sein du comité de l'interconnexion et consultation publique, l'Autorité de régulation des télécommunications
+pourra établir pour chaque liste établie en application des a, b et d du 7° de l'article L. 36-7 une nouvelle méthode pour
+déterminer les tarifs d'interconnexion fondée sur des principes et des règles éventuellement différents de ceux énumérés aux
+articles D. 99-17 et D. 99-18. Elle proposera les modifications à apporter à la présente section préalablement à l'entrée en
+vigueur de cette nouvelle méthode.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 2 () JORF 13 novembre 2002
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. D99-17 (M)
+  - Code des postes et des communications électronique - art. D99-18 (M)
+  - Code des postes et des communications électronique - art. L36-7 (M)
+
+
+###### Article D99-22
+
+Pour évaluer les tarifs d'interconnexion des opérateurs inscrits sur les listes établies en application des a, b et d du 7°
+de l'article L. 36-7, le taux de rémunération du capital employé est fixé par l'Autorité de régulation des télécommunications
+en tenant compte du coût moyen pondéré des capitaux de l'opérateur et de celui que supporterait un investisseur dans les
+activités de réseaux de communications électroniques en France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 2 () JORF 13 novembre 2002
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D99-17 (Ab)
+  - Code des postes et des communications électronique - art. D99-24 (Ab)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L36-7 (M)
+
+
+##### SECTION 4 : Accès à la boucle locale<a id=152></a>
+
+###### Article D99-23
+
+Les opérateurs inscrits sur la liste établie en application du a du 7° de l'article L. 36-7 sont tenus de répondre, dans des
+conditions objectives, transparentes et non discriminatoires, aux demandes raisonnables d'accès à la boucle locale, pour la
+partie métallique de leur réseau comprise entre le répartiteur principal et le point de terminaison situé dans les locaux de
+l'abonné, lorsqu'elles émanent des titulaires de l'autorisation prévue à l'article L. 33-1.
+
+L'accès à la boucle locale se traduit, selon la demande :
+
+- soit par la mise à disposition de la partie de réseau précitée (accès totalement dégroupé à la boucle locale) ;
+
+- soit par la mise à disposition des fréquences non vocales disponibles sur cette partie du réseau (accès partagé à la boucle
+locale), l'opérateur mentionné au premier alinéa continuant à fournir le service téléphonique au public.
+
+L'accès à la boucle locale inclut en outre les prestations associées et notamment la fourniture des informations nécessaires
+à la mise en oeuvre de l'accès à la boucle locale, une offre de colocalisation des équipements et une offre permettant la
+connexion de ces équipements aux réseaux des demandeurs d'accès.
+
+En cas de résiliation de l'abonnement au service téléphonique au public de l'opérateur mentionné au premier alinéa, le
+bénéficiaire de l'accès partagé devient bénéficiaire de l'accès totalement dégroupé.
+
+L'accès à la boucle locale fait l'objet d'une convention de droit privé qui est communiquée à l'Autorité de régulation des
+télécommunications dans les dix jours suivant sa conclusion.
+
+Les informations nécessaires à la mise en oeuvre de l'accès à la boucle locale sont fournies aux demandeurs d'accès et les
+demandes de colocalisation sont traitées par les opérateurs mentionnés au premier alinéa, dans des conditions objectives,
+transparentes et non discriminatoires. Les demandeurs d'accès prennent les dispositions nécessaires pour assurer la
+confidentialité des informations fournies dont la divulgation pourrait porter atteinte à l'intégrité ou à la sécurité du
+réseau.
+
+En cas de litige, l'Autorité de régulation des télécommunications peut être saisie et se prononce dans les conditions prévues
+à l'article L. 36-8.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2000-881 du 12 septembre 2000 - art. 2 (V)
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 2 () JORF 13 novembre 2002
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D99-24 (Ab)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L33-1 (M)
+  - Code des postes et des communications électronique - art. L36-7 (M)
+  - Code des postes et des communications électronique - art. L36-8 (M)
+
 
 ###### Article D99-24
 
@@ -18617,11 +19331,11 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
 
 
-#### CHAPITRE III : Télégraphe<a id=152></a>
+#### CHAPITRE III : Télégraphe<a id=153></a>
 
-##### SECTION 1 : Service télégraphique<a id=153></a>
+##### SECTION 1 : Service télégraphique<a id=154></a>
 
-##### Paragraphe 2 : Dépôt des télégrammes.<a id=154></a>
+##### Paragraphe 2 : Dépôt des télégrammes.<a id=155></a>
 
 ###### Article D100
 
@@ -18656,9 +19370,9 @@ _Cité par_:
   - Arrêté du 4 août 2006 - art. 2 (V)
 
 
-##### Paragraphe 3 : Rédaction des télégrammes<a id=155></a>
+##### Paragraphe 3 : Rédaction des télégrammes<a id=156></a>
 
-##### 1. : Dispositions générales.<a id=156></a>
+##### 1. : Dispositions générales.<a id=157></a>
 
 ###### Article D104
 
@@ -18728,7 +19442,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 3. : Adresse.<a id=157></a>
+##### 3. : Adresse.<a id=158></a>
 
 ###### Article D107
 
@@ -18850,7 +19564,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 4 : Compte des mots.<a id=158></a>
+##### Paragraphe 4 : Compte des mots.<a id=159></a>
 
 ###### Article D116
 
@@ -18872,7 +19586,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 5 : Remise des télégrammes.<a id=159></a>
+##### Paragraphe 5 : Remise des télégrammes.<a id=160></a>
 
 ###### Article D117
 
@@ -18962,7 +19676,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 6 : Perception des tarifs.<a id=160></a>
+##### Paragraphe 6 : Perception des tarifs.<a id=161></a>
 
 ###### Article D126
 
@@ -19047,7 +19761,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 7 : Télégrammes spéciaux.<a id=161></a>
+##### Paragraphe 7 : Télégrammes spéciaux.<a id=162></a>
 
 ###### Article D129
 
@@ -19086,9 +19800,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux<a id=162></a>
+##### Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux<a id=163></a>
 
-##### 1. : Télégrammes relatifs à la sécurité de la vie humaine.<a id=163></a>
+##### 1. : Télégrammes relatifs à la sécurité de la vie humaine.<a id=164></a>
 
 ###### Article D130
 
@@ -19175,7 +19889,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 2. : Télégrammes de presse.<a id=164></a>
+##### 2. : Télégrammes de presse.<a id=165></a>
 
 ###### Article D134
 
@@ -19220,7 +19934,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 3. : Télégrammes des services postaux financiers.<a id=165></a>
+##### 3. : Télégrammes des services postaux financiers.<a id=166></a>
 
 ###### Article D139
 
@@ -19244,7 +19958,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 4. : Phototélégrammes.<a id=166></a>
+##### 4. : Phototélégrammes.<a id=167></a>
 
 ###### Article D142
 
@@ -19334,7 +20048,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 5. : Télégrammes urgents du régime international.<a id=167></a>
+##### 5. : Télégrammes urgents du régime international.<a id=168></a>
 
 ###### Article D146
 
@@ -19359,7 +20073,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 20. : Télégrammes illustrés.<a id=168></a>
+##### 20. : Télégrammes illustrés.<a id=169></a>
 
 ###### Article D182
 
@@ -19419,7 +20133,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 22. : Télégrammes avec accusé de réception.<a id=169></a>
+##### 22. : Télégrammes avec accusé de réception.<a id=170></a>
 
 ###### Article D192
 
@@ -19446,7 +20160,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 24. : Télégrammes sur un compte communications électroniques.<a id=170></a>
+##### 24. : Télégrammes sur un compte communications électroniques.<a id=171></a>
 
 ###### Article D196
 
@@ -19477,7 +20191,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 28. : Télégrammes R.C.T. du régime international.<a id=171></a>
+##### 28. : Télégrammes R.C.T. du régime international.<a id=172></a>
 
 ###### Article D213
 
@@ -19503,7 +20217,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 29. : Radiotélégrammes.<a id=172></a>
+##### 29. : Radiotélégrammes.<a id=173></a>
 
 ###### Article D218
 
@@ -19607,9 +20321,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers<a id=173></a>
+##### Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers<a id=174></a>
 
-##### 1. : Communication au guichet de l'original d'un télégramme.<a id=174></a>
+##### 1. : Communication au guichet de l'original d'un télégramme.<a id=175></a>
 
 ###### Article D228
 
@@ -19643,9 +20357,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 10 : Télégrammes officiels<a id=175></a>
+##### Paragraphe 10 : Télégrammes officiels<a id=176></a>
 
-##### 1. : Définition.<a id=176></a>
+##### 1. : Définition.<a id=177></a>
 
 ###### Article D234
 
@@ -19670,7 +20384,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 2. : Rédaction.<a id=177></a>
+##### 2. : Rédaction.<a id=178></a>
 
 ###### Article D235
 
@@ -19702,7 +20416,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 3. : Dépôt.<a id=178></a>
+##### 3. : Dépôt.<a id=179></a>
 
 ###### Article D237
 
@@ -19733,7 +20447,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels.<a id=179></a>
+##### 4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels.<a id=180></a>
 
 ###### Article D241
 
@@ -19755,7 +20469,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 5. : Circulaires.<a id=180></a>
+##### 5. : Circulaires.<a id=181></a>
 
 ###### Article D243
 
@@ -19779,7 +20493,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 6. : Application et perception des tarifs.<a id=181></a>
+##### 6. : Application et perception des tarifs.<a id=182></a>
 
 ###### Article D244
 
@@ -19803,7 +20517,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 7. : Annulation des télégrammes officiels.<a id=182></a>
+##### 7. : Annulation des télégrammes officiels.<a id=183></a>
 
 ###### Article D246
 
@@ -19824,9 +20538,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 11 : Télégrammes d'Etat<a id=183></a>
+##### Paragraphe 11 : Télégrammes d'Etat<a id=184></a>
 
-##### 1. : Définition.<a id=184></a>
+##### 1. : Définition.<a id=185></a>
 
 ###### Article D247
 
@@ -19894,7 +20608,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 2. : Rédaction.<a id=185></a>
+##### 2. : Rédaction.<a id=186></a>
 
 ###### Article D250
 
@@ -19956,7 +20670,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 3. : Dépôt.<a id=186></a>
+##### 3. : Dépôt.<a id=187></a>
 
 ###### Article D253
 
@@ -19996,7 +20710,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 4. : Application des tarifs.<a id=187></a>
+##### 4. : Application des tarifs.<a id=188></a>
 
 ###### Article D256
 
@@ -20045,7 +20759,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 6. : Remise.<a id=188></a>
+##### 6. : Remise.<a id=189></a>
 
 ###### Article D259
 
@@ -20068,7 +20782,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 13 : Remboursement.<a id=189></a>
+##### Paragraphe 13 : Remboursement.<a id=190></a>
 
 ###### Article D263
 
@@ -20130,7 +20844,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 14 : Prescriptions diverses.<a id=190></a>
+##### Paragraphe 14 : Prescriptions diverses.<a id=191></a>
 
 ###### Article D267
 
@@ -20154,9 +20868,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### SECTION 3 : Service télex<a id=191></a>
+##### SECTION 3 : Service télex<a id=192></a>
 
-##### Paragraphe 1er : Généralités.<a id=192></a>
+##### Paragraphe 1er : Généralités.<a id=193></a>
 
 ###### Article D277
 
@@ -20243,7 +20957,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 2 : Abonnements.<a id=193></a>
+##### Paragraphe 2 : Abonnements.<a id=194></a>
 
 ###### Article D280
 
@@ -20370,7 +21084,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 3 : Communications.<a id=194></a>
+##### Paragraphe 3 : Communications.<a id=195></a>
 
 ###### Article D285
 
@@ -20423,7 +21137,7 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-##### Paragraphe 4 : Suspension d'une ligne d'abonnement télex.<a id=195></a>
+##### Paragraphe 4 : Suspension d'une ligne d'abonnement télex.<a id=196></a>
 
 ###### Article D287
 
@@ -20451,9 +21165,9 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-#### CHAPITRE IV : Téléphone<a id=196></a>
+#### CHAPITRE IV : Téléphone<a id=197></a>
 
-##### SECTION 1 : Dispositions générales.<a id=197></a>
+##### SECTION 1 : Dispositions générales.<a id=198></a>
 
 ###### Article D288
 
@@ -20516,9 +21230,9 @@ _Modifié par_:
   - Décret n°94-91 du 31 janvier 1994 - art. 1 () JORF 2 février 1994
 
 
-##### SECTION 2 : Des communications téléphoniques<a id=198></a>
+##### SECTION 2 : Des communications téléphoniques<a id=199></a>
 
-##### Paragraphe 1er : Dispositions générales.<a id=199></a>
+##### Paragraphe 1er : Dispositions générales.<a id=200></a>
 
 ###### Article D291-1
 
@@ -20596,9 +21310,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### Paragraphe 2 : Communications ordinaires<a id=200></a>
+##### Paragraphe 2 : Communications ordinaires<a id=201></a>
 
-##### 1. : Définition.<a id=201></a>
+##### 1. : Définition.<a id=202></a>
 
 ###### Article D294
 
@@ -20625,7 +21339,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D97-10 (T)
 
 
-##### 2. : Limitation de durée.<a id=202></a>
+##### 2. : Limitation de durée.<a id=203></a>
 
 ###### Article D295
 
@@ -20650,7 +21364,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### 4. : Communication refusée.<a id=203></a>
+##### 4. : Communication refusée.<a id=204></a>
 
 ###### Article D297
 
@@ -20687,7 +21401,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### 5. : Récépissé.<a id=204></a>
+##### 5. : Récépissé.<a id=205></a>
 
 ###### Article D298
 
@@ -20714,9 +21428,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### Paragraphe 3 : Communications spéciales<a id=205></a>
+##### Paragraphe 3 : Communications spéciales<a id=206></a>
 
-##### 1. : Indication de durée.<a id=206></a>
+##### 1. : Indication de durée.<a id=207></a>
 
 ###### Article D300
 
@@ -20756,7 +21470,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### 2. : Avis d'appel.<a id=207></a>
+##### 2. : Avis d'appel.<a id=208></a>
 
 ###### Article D301
 
@@ -20795,7 +21509,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. R54-1 (Ab)
 
 
-##### 4. : Communication non facturée par le demandeur ou à facturation différée.<a id=208></a>
+##### 4. : Communication non facturée par le demandeur ou à facturation différée.<a id=209></a>
 
 ###### Article D304
 
@@ -20868,7 +21582,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D306 (V)
 
 
-##### 6. : Communication avec un véhicule.<a id=209></a>
+##### 6. : Communication avec un véhicule.<a id=210></a>
 
 ###### Article D307
 
@@ -20890,9 +21604,9 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-##### Paragraphe 4 : Services spéciaux<a id=210></a>
+##### Paragraphe 4 : Services spéciaux<a id=211></a>
 
-##### 1. : Service de réception et de traitement d'appels.<a id=211></a>
+##### 1. : Service de réception et de traitement d'appels.<a id=212></a>
 
 ###### Article D308
 
@@ -20922,7 +21636,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D310 (V)
 
 
-##### 2. : Service de la réunion-téléphone.<a id=212></a>
+##### 2. : Service de la réunion-téléphone.<a id=213></a>
 
 ###### Article D309
 
@@ -20945,7 +21659,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D307 (V)
 
 
-##### 3. : Service du "Mémo-Appel".<a id=213></a>
+##### 3. : Service du "Mémo-Appel".<a id=214></a>
 
 ###### Article D310
 
@@ -20967,7 +21681,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D308 (V)
 
 
-##### 5. : Renseignements.<a id=214></a>
+##### 5. : Renseignements.<a id=215></a>
 
 ###### Article D312
 
@@ -20991,7 +21705,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D314 (M)
 
 
-##### 7. : Communications en dehors des heures normales d'ouverture du service.<a id=215></a>
+##### 7. : Communications en dehors des heures normales d'ouverture du service.<a id=216></a>
 
 ###### Article D315
 
@@ -21038,7 +21752,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. R54-1 (Ab)
 
 
-##### 8. : Service des auditions téléphoniques.<a id=216></a>
+##### 8. : Service des auditions téléphoniques.<a id=217></a>
 
 ###### Article D316
 
@@ -21073,9 +21787,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### SECTION 3 : Des abonnements<a id=217></a>
+##### SECTION 3 : Des abonnements<a id=218></a>
 
-##### Paragraphe 1er : Généralités.<a id=218></a>
+##### Paragraphe 1er : Généralités.<a id=219></a>
 
 ###### Article D317
 
@@ -21183,9 +21897,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 2 : Abonnements principaux permanents<a id=219></a>
+##### Paragraphe 2 : Abonnements principaux permanents<a id=220></a>
 
-##### 1. : Différentes catégories.<a id=220></a>
+##### 1. : Différentes catégories.<a id=221></a>
 
 ###### Article D320
 
@@ -21212,7 +21926,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### 2. : Abonnements principaux ordinaires.<a id=221></a>
+##### 2. : Abonnements principaux ordinaires.<a id=222></a>
 
 ###### Article D321
 
@@ -21234,7 +21948,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### 3. : Abonnements principaux d'extension.<a id=222></a>
+##### 3. : Abonnements principaux d'extension.<a id=223></a>
 
 ###### Article D322
 
@@ -21321,7 +22035,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### 5. : Abonnements spéciaux.<a id=223></a>
+##### 5. : Abonnements spéciaux.<a id=224></a>
 
 ###### Article D328
 
@@ -21438,7 +22152,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 3 : Abonnements complémentaires.<a id=224></a>
+##### Paragraphe 3 : Abonnements complémentaires.<a id=225></a>
 
 ###### Article D332
 
@@ -21481,7 +22195,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 4 : Abonnements supplémentaires permanents.<a id=225></a>
+##### Paragraphe 4 : Abonnements supplémentaires permanents.<a id=226></a>
 
 ###### Article D333
 
@@ -21615,7 +22329,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 5 : Abonnements temporaires.<a id=226></a>
+##### Paragraphe 5 : Abonnements temporaires.<a id=227></a>
 
 ###### Article D336
 
@@ -21648,7 +22362,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 6 : Suspension et résiliation des abonnements.<a id=227></a>
+##### Paragraphe 6 : Suspension et résiliation des abonnements.<a id=228></a>
 
 ###### Article D337
 
@@ -21825,9 +22539,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 7 : Modification des conditions de concession d'un abonnement<a id=228></a>
+##### Paragraphe 7 : Modification des conditions de concession d'un abonnement<a id=229></a>
 
-##### 3. : Transformation des abonnements.<a id=229></a>
+##### 3. : Transformation des abonnements.<a id=230></a>
 
 ###### Article D347
 
@@ -21903,9 +22617,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 8 : Dispositions diverses<a id=230></a>
+##### Paragraphe 8 : Dispositions diverses<a id=231></a>
 
-##### 2. : Listes périodiques d'abonnés.<a id=231></a>
+##### 2. : Listes périodiques d'abonnés.<a id=232></a>
 
 ###### Article D359
 
@@ -21945,7 +22659,7 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-##### SECTION 4 : Dispositions particulières au service international.<a id=232></a>
+##### SECTION 4 : Dispositions particulières au service international.<a id=233></a>
 
 ###### Article D362
 
@@ -22128,9 +22842,128 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-#### CHAPITRE  V : Services particuliers des communications électroniques<a id=233></a>
+#### CHAPITRE  V : Services particuliers des communications électroniques<a id=234></a>
 
-##### SECTION 2 : Liaisons louées<a id=234></a>
+##### SECTION 2 : Liaisons louées<a id=235></a>
+
+###### Article D369
+
+Les offres de liaisons louées des opérateurs désignés en application de l'article L. 34-2-1 doivent être conformes aux
+dispositions de la présente section.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications L34-2-1
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 5 () JORF 13 novembre 2002
+
+
+###### Article D370
+
+Les informations concernant les offres de liaisons louées, relatives aux caractéristiques techniques, aux tarifs et aux
+conditions de fourniture des liaisons, sont rendues publiques par ces opérateurs dans les conditions prévues par arrêté du
+ministre chargé des communications électroniques.
+
+Les conditions d'utilisation des liaisons louées, les procédures de déclaration ou d'autorisation ainsi que les conditions de
+connexion d'un équipement terminal aux liaisons louées sont rendues publiques par l'Autorité de régulation des
+télécommunications.
+
+Les informations relatives à de nouvelles offres et les modifications tarifaires des offres existantes sont publiées par ces
+opérateurs en respectant un délai de préavis d'un mois.
+
+Ces opérateurs ne peuvent supprimer une prestation ou en modifier les conditions matérielles d'utilisation qu'après
+information des utilisateurs et des organisations d'utilisateurs concernées et recueil de leurs remarques éventuelles. Les
+conditions et délais de résiliation ou de modification sont publiés au moins six mois à l'avance. Lorsqu'il s'agit de
+modifications techniques entraînant des remplacements ou des adaptations significatives des installations connectées au
+réseau, ces opérateurs informent au moins dix-huit mois à l'avance les utilisateurs. Ce délai peut être réduit à six mois
+minimum avec l'accord de l'Autorité de régulation des télécommunications. Les opérateurs recueillent les remarques
+éventuelles des utilisateurs et consultent les organisations d'utilisateurs concernées. Les suppressions ou modifications
+proposées, leurs conditions de mise en oeuvre et les délais de mise en conformité des équipements font l'objet d'une
+approbation par l'Autorité de régulation des télécommunications. Les dispositions du présent article s'appliquent sans
+préjudice des obligations résultant des autorisations délivrées au titre des articles L. 33-1 et L. 34-1 du code des postes
+et des communications électroniques et des prescriptions techniques définies en application de l'article L. 36-6 du code des
+postes et des communications électroniques.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et des
+communications éléctroniques devient le code des postes et des communications électroniques. Dans ce code, les mots
+"télécommunication" et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 5 () JORF 13 novembre 2002
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D371 (V)
+  - Code des postes et des communications électronique - art. D379 (Ab)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L33-1 (M)
+  - Code des postes et des communications électronique - art. L34-1 (M)
+  - Code des postes et des communications électronique - art. L36-6 (M)
+
+
+###### Article D371
+
+Les liaisons louées sont fournies dans des conditions objectives, transparentes et non discriminatoires.
+
+Les conditions de fourniture de liaisons louées, visées à l'article D. 370, comprennent au moins :
+
+- des informations relatives à la procédure de commande des liaisons louées ;
+
+- la durée du contrat, notamment sa durée minimale qui ne peut être inférieure à trois mois, sauf pour les liaisons louées à
+l'occasion de manifestations temporaires ;
+
+- les modalités de résiliation des contrats, notamment par l'utilisateur, moyennant le respect d'un délai de préavis
+raisonnable et, à défaut de respect de ce délai, les pénalités raisonnables éventuellement exigées ;
+
+- les modes de remboursement ou d'indemnisation.
+
+Ces opérateurs rendent publiques les statistiques relatives au délai de fourniture type et au temps de réparation type des
+liaisons louées, selon des modalités de calcul et une périodicité précisées par arrêté du ministre chargé des communications
+électroniques.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et des
+communications éléctroniques devient le code des postes et des communications électroniques. Dans ce code, les mots
+"télécommunication" et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 5 () JORF 13 novembre 2002
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. D370 (M)
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D379 (Ab)
+
 
 ###### Article D373
 
@@ -22158,6 +22991,173 @@ _Modifié par_:
 _Abrogé par_:
 
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
+
+
+###### Article D374
+
+Les liaisons louées ne peuvent être soumises à des restrictions d'accès ou d'utilisation que par voie réglementaire.
+
+Les liaisons louées peuvent être connectées à des réseaux ouverts au public ou à d'autres liaisons louées. Dans ce cas,
+aucune restriction autre que celles visées à l'alinéa précédent ne peut être introduite ou maintenue.
+
+Pour assurer la sécurité du fonctionnement et la protection du réseau, ces opérateurs peuvent, en cas d'urgence, refuser la
+fourniture de liaisons louées, l'interrompre ou réduire la disponibilité de leurs fonctions. Ils informent, sans délai, les
+utilisateurs concernés ainsi que l'Autorité de régulation des télécommunications, du début et de la fin de la période
+d'urgence, ainsi que des restrictions apportées au service.
+
+On entend par urgence, au sens de la présente section, les cas exceptionnels de force majeure, tels que des conditions
+météorologiques extrêmes, tremblements de terre, inondations, foudre ou incendies. Dans ces cas, ces opérateurs prennent les
+dispositions utiles pour garantir le maintien du service à tous les utilisateurs.
+
+En cas de non-respect des conditions d'utilisation des liaisons louées par leurs utilisateurs, l'Autorité de régulation des
+télécommunications peut, après avoir entendu les parties concernées, autoriser par décision motivée ces opérateurs à refuser
+la fourniture de ces liaisons louées, à l'interrompre, à en réduire la disponibilité des fonctions ou à adopter toute autre
+mesure spécifique appropriée. Cette décision est notifiée aux parties dans un délai de sept jours suivant son adoption.
+
+L'utilisation de liaisons louées pour fournir au public des services de communications électroniques est soumise aux
+dispositions des articles L. 34 et suivants et des textes pris pour leur application.
+
+Lorsque ces opérateurs utilisent des liaisons louées pour fournir des services ou fournissent des liaisons louées à leurs
+filiales ou partenaires, la même catégorie de liaisons louées doit être fournie sur demande aux autres utilisateurs dans des
+conditions identiques et avec la même qualité.
+
+Ces opérateurs ne peuvent déroger aux conditions de fourniture qu'ils ont publiées, lorsqu'ils estiment déraisonnable une
+demande qui leur est adressée, qu'après accord de l'Autorité de régulation des télécommunications.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 5 () JORF 13 novembre 2002
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D377 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L34 (M)
+
+
+###### Article D375
+
+Lorsqu'un équipement terminal ayant fait l'objet de l'évaluation de conformité prévue à l'article R. 20-2 perturbe le bon
+fonctionnement du réseau ou des services ou lorsque le terminal n'a pas fait l'objet d'une évaluation de conformité,
+l'Autorité de régulation des télécommunications demande à l'opérateur de suspendre la fourniture du service dans les
+conditions prévues à l'article R. 20-22.
+
+L'opérateur informe, dans les plus brefs délais,
+
+l'utilisateur de cette suspension et en donne les raisons.
+
+L'opérateur met fin à la suspension de la fourniture de la ou des liaisons, dès que la perturbation a pris fin ou que
+l'équipement terminal, à l'origine de la perturbation, a été déconnecté.
+
+Indépendamment des cas visés aux premier à troisième alinéas du présent article, les conditions d'utilisation relatives à
+l'équipement terminal ne peuvent justifier une restriction d'utilisation des liaisons louées fondée sur l'intégrité du réseau
+ou l'interopérabilité des services.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 5 () JORF 13 novembre 2002
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R20-2 (M)
+  - Code des postes et des communications électronique - art. R20-22 (M)
+
+
+###### Article D376
+
+Le ministre chargé des communications électroniques détermine les catégories de liaisons louées conformes à des
+caractéristiques techniques harmonisées dans l'Espace économique européen, dont la fourniture est assurée par ces opérateurs.
+Cette liste peut être complétée après consultation de ces opérateurs, compte tenu de l'évolution du marché et des progrès des
+travaux de normalisation, par une offre obligatoire additionnelle de liaisons louées.
+
+L'offre de liaisons louées relevant d'autres catégories ne dispense pas ces opérateurs de fournir l'ensemble minimal défini
+au premier alinéa du présent article.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et des
+communications éléctroniques devient le code des postes et des communications électroniques. Dans ce code, les mots
+"télécommunication" et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 5 () JORF 13 novembre 2002
+
+
+###### Article D377
+
+Les tarifs des liaisons louées respectent le principe de l'orientation vers les coûts et sont fixés selon des règles
+tranparentes, conformément aux règles suivantes :
+
+- les tarifs des liaisons louées sont indépendants du type d'application que les utilisateurs de lignes louées mettent en
+oeuvre sans préjudice du principe de non-discrimination ;
+
+- ils comportent une redevance initiale de connexion et une redevance périodique qui sont indiquées de façon distincte.
+Lorsque d'autres éléments de tarification sont appliqués, ceux-ci doivent être transparents et fondés sur des critères
+objectifs ;
+
+- les tarifs des liaisons louées s'appliquent aux prestations fournies à l'utilisateur entre les points de terminaison du
+réseau auxquels il a accès. Pour les liaisons fournies par plus d'un opérateur des tarifs de demi-circuits peuvent être
+appliqués.
+
+Dans le cadre de la comptabilité prévue au II de l'article L. 34-8, les coûts des liaisons louées incluent :
+
+a) Les coûts directs encourus pour l'établissement, l'exploitation et la maintenance des liaisons louées, ainsi que pour leur
+commercialisation et leur facturation ;
+
+b) Une contribution aux coûts communs, c'est-à-dire aux coûts qui ne peuvent être directement imputés ni aux liaisons louées
+ni à d'autres activités. Les coûts communs sont ventilés comme suit :
+
+Chaque fois que cela est possible, la ventilation est effectuée sur la base de l'analyse directe de l'origine des coûts ;
+
+Lorsqu'une analyse directe n'est pas possible, les coûts sont ventilés sur la base du lien indirect existant avec une autre
+catégorie ou un autre groupe de catégories de coûts pour lesquelles une attribution ou une ventilation directe est possible.
+Le lien indirect est fondé sur des structures de coûts comparables ;
+
+A défaut, la ventilation est effectuée en fonction du rapport entre l'ensemble des coûts affectés aux liaisons louées selon
+les méthodes décrites au a et à l' du b ci-dessus, et l'ensemble des coûts affectés aux autres services, selon les mêmes
+méthodes.
+
+D'autres méthodes de comptabilisation des coûts des liaisons louées ne peuvent être appliquées qu'après accord de l'Autorité
+de régulation des télécommunications.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 5 () JORF 13 novembre 2002
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L34-8 (M)
 
 
 ###### Article D378
@@ -22221,7 +23221,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D371 (M)
 
 
-#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=235></a>
+#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=236></a>
 
 ###### Article D406-1
 
@@ -22599,11 +23599,11 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-### TITRE II : Etablissement des lignes<a id=236></a>
+### TITRE II : Etablissement des lignes<a id=237></a>
 
-#### CHAPITRE Ier : Etablissement des lignes<a id=237></a>
+#### CHAPITRE Ier : Etablissement des lignes<a id=238></a>
 
-##### SECTION 1 : Dispositions générales.<a id=238></a>
+##### SECTION 1 : Dispositions générales.<a id=239></a>
 
 ###### Article D407-1
 
@@ -22680,9 +23680,9 @@ _Modifié par_:
   - Décret n°97-684 du 30 mai 1997 - art. 3 () JORF 1er juin 1997
 
 
-### TITRE VI : Les services radioélectriques<a id=239></a>
+### TITRE VI : Les services radioélectriques<a id=240></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=240></a>
+#### CHAPITRE Ier : Dispositions générales.<a id=241></a>
 
 ###### Article D457
 
@@ -22756,7 +23756,7 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-#### CHAPITRE II : Installations et réseaux radioélectriques indépendants.<a id=241></a>
+#### CHAPITRE II : Installations et réseaux radioélectriques indépendants.<a id=242></a>
 
 ###### Article D459
 
@@ -22924,7 +23924,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 9 () JORF 30 avril 2005
 
 
-#### CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs.<a id=242></a>
+#### CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs.<a id=243></a>
 
 ###### Article D473
 
@@ -22965,7 +23965,7 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-#### CHAPITRE V : Radiocommunications du service maritime.<a id=243></a>
+#### CHAPITRE V : Radiocommunications du service maritime.<a id=244></a>
 
 ###### Article D483
 
@@ -23137,13 +24137,13 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-## LIVRE II : Les télécommunications<a id=244></a>
+## LIVRE II : Les télécommunications<a id=245></a>
 
-### TITRE Ier : Dispositions générales<a id=245></a>
+### TITRE Ier : Dispositions générales<a id=246></a>
 
-#### Chapitre II : Régime juridique<a id=246></a>
+#### Chapitre II : Régime juridique<a id=247></a>
 
-##### Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1.<a id=247></a>
+##### Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1.<a id=248></a>
 
 ###### Article D98-1
 
@@ -23439,7 +24439,7 @@ régulation des télécommunications, notamment fréquences et numéros ;
 - les données relatives à la qualité de service, notamment au regard des indicateurs pertinents permettant de l'apprécier, et
 aux conventions d'acheminement de trafic signées avec un opérateur français ou étranger ;
 
-- dans un délai de dix jours suivant leur conclusion :
+- à la demande de l'Autorité de régulation des télécommunications :
 
 - l'ensemble des conventions d'interconnexion ;
 
@@ -23490,878 +24490,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-36 du 8 janvier 2002 - art. 1 () JORF 10 janvier 2002
+  - Décret n°2002-1340 du 8 novembre 2002 - art. 3 () JORF 13 novembre 2002
 
 
-##### SECTION 3 : Interconnexion<a id=248></a>
+## LIVRE III : Les services financiers<a id=249></a>
 
-##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=249></a>
-
-###### Article D99-6
-
-L'interconnexion fait l'objet d'une convention de droit privé entre les parties. Cette convention est conforme aux
-dispositions de l'article L. 34-8, aux dispositions du présent code et aux autorisations des deux opérateurs concernés.
-
-La convention est communiquée à l'Autorité de régulation des télécommunications dans un délai de dix jours suivant sa
-conclusion. L'Autorité de régulation des télécommunications peut, sur demande, communiquer aux tiers intéressés les
-informations qu'elle contient, sous réserve des informations couvertes par le secret des affaires.
-
-Les opérateurs disposant d'informations dans le cadre d'une négociation ou de la mise en oeuvre d'un accord d'interconnexion
-ne peuvent les utiliser qu'aux seules fins explicitement prévues lors de leur communication. En particulier, ces informations
-ne sont pas communiquées à d'autres services, filiales ou partenaires pour lesquels elles pourraient constituer un avantage
-concurrentiel.
-
-Il est institué auprès de l'Autorité de régulation des télécommunications un comité de l'interconnexion associant notamment
-les opérateurs autorisés en application des articles L. 33-1 ou L. 34-1. Ce comité est présidé par l'Autorité de régulation
-des télécommunications, qui arrête ses modalités de composition et de fonctionnement.
-
-Si l'Autorité de régulation des télécommunications inscrit, après l'attribution de son autorisation, un opérateur sur la
-liste établie en application du 7° de l'article L. 36-7, le cahier des charges associé à l'autorisation de cet opérateur sera
-modifié afin d'y porter les nouvelles obligations correspondantes relatives à l'interconnexion et fixera le délai dans lequel
-l'offre catalogue devra être publiée.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L34-8, L33-1, L34-1, L36-7
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
-
-_Cité par_:
-
-  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
-  - Code des postes et des communications électronique - art. D99-8 (M)
-
-
-###### Article D99-10
-
-Les conditions tarifaires des conventions d'interconnexion respectent les principes d'objectivité, de transparence et de non-
-discrimination.
-
-Elles ne doivent pas conduire à imposer indûment aux opérateurs utilisant l'interconnexion des charges excessives.
-
-Elles doivent pouvoir être justifiées sur demande de l'Autorité de régulation des télécommunications.
-
-Les opérateurs fournissent l'interconnexion dans des conditions non discriminatoires, y compris vis-à-vis de leurs propres
-services, filiales ou partenaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
-
-
-##### Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7.<a id=250></a>
-
-###### Article D99-11
-
-Les opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7 sont tenus de publier, dans les
-conditions déterminées par leur cahier des charges, un catalogue décrivant une offre technique et tarifaire d'interconnexion
-approuvée préalablement par l'Autorité de régulation des télécommunications. Ils sont soumis aux dispositions du présent
-paragraphe.
-
-Ces opérateurs ne peuvent invoquer l'existence d'une offre inscrite au catalogue pour refuser d'engager des négociations
-commerciales avec un autre opérateur en vue de la détermination de conditions d'interconnexion qui n'auraient pas été prévues
-par leur catalogue, notamment les conditions d'accès direct aux commutateurs internationaux et à d'autres infrastructures
-internationales. Toute condition d'interconnexion qui n'aurait pas été prévue par le catalogue de l'opérateur doit être
-signalée en tant que telle dans la convention d'interconnexion.
-
-Les offres inscrites au catalogue publié par ces opérateurs contiennent des conditions différentes pour répondre, d'une part,
-aux besoins d'interconnexion des exploitants de réseaux ouverts au public et, d'autre part, aux besoins d'accès au réseau des
-fournisseurs de service téléphonique au public, compte tenu des droits et obligations propres à chacune de ces catégories
-d'utilisateurs. Ces conditions doivent être suffisamment détaillées pour faire apparaître les divers éléments propres à
-répondre aux demandes.
-
-Les informations nécessaires à la mise en oeuvre de l'interconnexion sont fournies aux autres opérateurs dans les mêmes
-conditions et avec le même degré de qualité que celles que ces opérateurs fournissent à leurs propres services ou à ceux de
-leurs filiales et partenaires. Ils informent les autres opérateurs des modifications de leurs offres d'interconnexion avec un
-préavis au moins égal à six mois, sauf si l'Autorité de régulation des télécommunications en décide autrement.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L36-7
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
-
-
-###### Article D99-12
-
-Ces opérateurs fournissent l'interconnexion dans des conditions non discriminatoires.
-
-Les modalités techniques et financières des services d'interconnexion qu'ils offrent, à conditions équivalentes, aux autres
-opérateurs, notamment la qualité technique des prestations, les délais de mise à disposition et la disponibilité de ces
-prestations, doivent être équivalentes à celles retenues, le cas échéant, pour leurs propres services ou ceux de leurs
-filiales ou partenaires.
-
-Les conditions qui s'appliquent à ces opérateurs pour leur propre accès aux éléments de leur réseau sont définies aux
-paragraphes l et m des cahiers des charges des autorisations qui leur sont délivrées.
-
-Les modalités techniques et financières des services d'interconnexion qu'ils offrent à leurs propres services ou à leurs
-filiales ou partenaires sont décrites suivant les cas dans des accords ou conventions d'interconnexion. Elles doivent pouvoir
-être justifiées sur demande de l'Autorité de régulation des télécommunications.
-
-Ces opérateurs tiennent une comptabilité séparée pour leurs activités d'interconnexion, dont les spécifications sont établies
-dans les conditions visées à l'article D. 99-13. Celle-ci a pour objet de valoriser les activités, services et éléments de
-réseaux utilisés par ces opérateurs à leur prix de cession externe ou, à défaut, par référence aux tarifs pratiqués par ces
-opérateurs à l'égard des utilisateurs ou des opérateurs qui s'interconnectent à leur réseau.
-
-Cette comptabilité séparée permet en particulier d'identifier les types de coûts suivants :
-
-- les coûts de réseau général, c'est-à-dire les coûts relatifs aux éléments de réseau utilisés à la fois par l'opérateur pour
-les services à ses propres utilisateurs et pour les services d'interconnexion ; ces éléments de réseau sont notamment les
-éléments des commutateurs et les systèmes de transmission nécessaires à la fourniture de l'ensemble de ces services ;
-
-- les coûts spécifiques aux services d'interconnexion, c'est-à-dire les coûts directement induits par les seuls services
-d'interconnexion ;
-
-- les coûts spécifiques aux services de l'opérateur autres que l'interconnexion, c'est-à-dire les coûts induits par ces seuls
-services ;
-
-- les coûts communs, c'est-à-dire les coûts qui ne relèvent pas de l'une des catégories précédentes.
-
-Les éléments pertinents du système d'information et les données comptables sont tenus à la disposition de l'Autorité de
-régulation des télécommunications à la demande de cette dernière.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D99-13 (Ab)
-  - Code des postes et des communications électronique - art. D99-18 (Ab)
-
-_Cite_:
-
-  - Code des postes et télécommunications L36-7, D99-13
-
-
-###### Article D99-13
-
-L'Autorité de régulation des télécommunications établit et rend publiques les spécifications et la description des systèmes
-de comptabilisation des coûts de ces opérateurs adaptées à la vérification du respect du principe de non-discrimination tel
-que décrit à l'article D. 99-12 et des principes tarifaires et de pertinence tels que décrits aux articles D. 99-17 et D.
-99-18.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L36-7, D99-12, D99-17, D99-18
-
-_Modifié par_:
-
-  - Conseil d'Etat 187570 1999-04-14 France Telecom, Rec. Lebon
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D99-12 (Ab)
-
-
-###### Article D99-14
-
-Lorsque l'un de ces opérateurs souhaite utiliser une interface d'interconnexion qui ne figure pas à son catalogue
-d'interconnexion ou apporter des compléments à des spécifications d'une interface du catalogue d'interconnexion, il
-communique les spécifications techniques et les services correspondants à l'Autorité de régulation des télécommunications.
-L'Autorité de régulation des télécommunications peut rendre ces spécifications publiques pour assurer le principe de non-
-discrimination ou lorsqu'elle considère que cette publication présente un intérêt général pour la communauté des opérateurs.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L36-7
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
-
-
-###### Article D99-15
-
-Les conditions techniques et tarifaires des services d'interconnexion de ces opérateurs doivent être suffisamment détaillées
-pour faire apparaître les divers éléments propres à répondre aux demandes. En particulier, les tarifs relatifs aux services
-d'interconnexion doivent être suffisamment décomposés pour que l'on puisse s'assurer que l'opérateur demandeur ne paye que
-l'utilisation des éléments strictement liés à la prestation demandée.
-
-En application de ce principe, ces opérateurs doivent en particulier offrir dans leur catalogue d'interconnexion un accès :
-
-- à leurs commutateurs de raccordement d'abonnés ;
-
-- à leurs commutateurs de hiérarchie supérieure ou à une solution technique équivalente.
-
-L'interconnexion à un commutateur de raccordement d'abonnés permet d'accéder à tous les abonnés de l'opérateur qui sont
-accessibles à partir de ce même commutateur sans transiter par un commutateur de hiérarchie supérieure.
-
-Le catalogue d'interconnexion de ces opérateurs comporte la liste des commutateurs de raccordement d'abonnés qui ne sont pas
-ouverts à l'interconnexion pour des raisons techniques justifiées, ainsi que le calendrier prévisionnel selon lequel les
-commutateurs d'abonnés concernés seront ouverts à l'interconnexion. Toutefois, lorsque l'acheminement du trafic prévisible
-des autres opérateurs en provenance ou à destination des abonnés raccordés à un commutateur de cette liste le justifie,
-l'opérateur puissant est tenu, sur demande de l'Autorité de régulation des télécommunications, d'établir pour ce commutateur
-une offre transitoire. Les critères objectifs suivant lesquels l'Autorité de régulation des télécommunications peut demander
-l'établissement d'une offre transitoire sont homologués par arrêté du ministre chargé des télécommunications dans les
-conditions prévues à l'article L. 36-6. Cette offre transitoire permet à l'opérateur demandeur de disposer d'une tarification
-visant à refléter les coûts qu'il aurait supportés, en l'absence de contraintes techniques d'accès, pour acheminer les
-communications à destination ou en provenance, d'une part, des abonnés raccordés à ce commutateur et, d'autre part, des
-abonnés qui auraient été accessibles sans passer par un commutateur de hiérarchie supérieure.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L36-7, L36-6
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D99-16 (Ab)
-
-
-###### Article D99-16
-
-Les catalogues d'interconnexion de ces opérateurs doivent au minimum inclure les prestations et éléments suivants, pour les
-exploitants de réseau ouvert au public :
-
-- services d'acheminement du trafic commuté, offrant des accès techniques et des options tarifaires permettant de mettre en
-oeuvre le principe de dégroupage de l'offre tel que défini à l'article D. 99-15 ;
-
-- services et fonctionnalités complémentaires et avancés (y compris l'accès aux ressources des réseaux intelligents
-nécessaire dans le cadre de l'interconnexion ou de l'acheminement optimal du trafic) et modalités contractuelles associées,
-suivant une liste arrêtée préalablement par l'Autorité de régulation des télécommunications, après consultation du comité de
-l'interconnexion ;
-
-- modalités de mise en oeuvre de la portabilité des numéros et de la sélection du transporteur permettant d'assurer l'égalité
-d'accès ;
-
-- description de l'ensemble des points physiques d'interconnexion et des conditions d'accès à ces points lorsque c'est
-l'opérateur tiers qui fournit la liaison d'interconnexion ;
-
-- conditions techniques et tarifaires des liaisons de raccordement aux points d'interconnexion de l'opérateur tiers et, pour
-le cas où ce dernier souhaiterait fournir cette liaison, conditions techniques et tarifaires d'un accès physique et logique
-aux points d'interconnexion de ces opérateurs ;
-
-- description complète des interfaces d'interconnexion proposées au catalogue d'interconnexion, et notamment le protocole de
-signalisation utilisé à ces interfaces, et ses conditions de mise en oeuvre ;
-
-- services d'aboutement de liaisons louées.
-
-En complément de la sélection appel par appel, les modalités de mise en oeuvre de la sélection du transporteur permettent aux
-clients de ces opérateurs d'accéder aux services commutés de tout opérateur interconnecté au moyen d'une présélection et
-d'écarter, appel par appel, tout choix de présélection en composant un préfixe court.
-
-En application de l'article L. 36-6, l'Autorité de régulation des télécommunications précise les services concernés par les
-dispositions de l'alinéa précédent ainsi que les conditions et les délais de mise en oeuvre de la sélection du transporteur
-appel par appel et de la présélection.
-
-Les catalogues de ces opérateurs pour les fournisseurs de service téléphonique au public doivent inclure les prestations et
-éléments énumérés ci-dessus qui tiennent compte des droits et obligations propres à ces fournisseurs.
-
-L'Autorité de régulation des télécommunications peut demander, après consultation du comité de l'interconnexion, à l'un de
-ces opérateurs de réviser son catalogue, et notamment d'ajouter ou de modifier des prestations inscrites à son catalogue,
-lorsque ces ajouts ou ces modifications sont justifiés au regard de la mise en oeuvre des principes de non-discrimination et
-d'orientation des tarifs d'interconnexion vers les coûts ainsi que des besoins de la communauté des opérateurs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°99-922 du 27 octobre 1999 - art. 1 () JORF 31 octobre 1999
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D99-17 (Ab)
-
-_Cite_:
-
-  - Code des postes et télécommunications L36-7, D99-15, L36-6
-
-
-###### Article D99-17
-
-Les tarifs des services d'interconnexion offerts par ces opérateurs, qu'ils soient inclus dans leur catalogue
-d'interconnexion ou offerts en sus, rémunèrent l'usage effectif du réseau de transport et de desserte et reflètent les coûts
-correspondants. Ces opérateurs doivent être en mesure de montrer que leur tarif d'interconnexion reflète effectivement les
-coûts.
-
-Pour les prestations contenues dans les conventions d'interconnexion ne figurant pas au catalogue d'interconnexion défini à
-l'article D. 99-16, l'Autorité de régulation des télécommunications peut demander à ces opérateurs tout élément d'information
-lui permettant d'apprécier si les tarifs contenus dans les conventions pour ces prestations reflètent les coûts.
-
-Les tarifs d'interconnexion doivent reposer sur les principes suivants :
-
-1. Les coûts pris en compte doivent être pertinents, c'est-à-dire liés par une forme de causalité, directe ou indirecte, au
-service rendu d'interconnexion ;
-
-2. Les coûts pris en compte doivent tendre à accroître l'efficacité économique à long terme, c'est-à-dire que les coûts
-considérés doivent prendre en compte les investissements de renouvellement de réseau, fondés sur la base des meilleures
-technologies industriellement disponibles et tendant à un dimensionnement optimal du réseau, dans l'hypothèse d'un maintien
-de la qualité de service ;
-
-3. Les tarifs incluent une contribution équitable, conformément au principe de proportionnalité, aux coûts qui sont communs à
-la fois aux services d'interconnexion et aux autres services, dans le respect des principes de pertinence des coûts énoncés à
-l'article D. 99-18 et de l'équilibre économique de l'opérateur ;
-
-4. Les tarifs incluent une rémunération normale des capitaux employés pour les investissements utilisés fixée dans les
-conditions de l'article D. 99-22 ;
-
-5. Les tarifs peuvent faire l'objet d'une modulation horaire pour tenir compte de la congestion des capacités de transmission
-et de commutation du réseau général de l'opérateur ;
-
-6. Les tarifs unitaires applicables pour un service d'interconnexion sont indépendants du volume ou de la capacité des
-élements du réseau général utilisée par ce service ;
-
-7. Les unités de tarification doivent correspondre aux besoins des opérateurs interconnectés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D99-13 (Ab)
-  - Code des postes et des communications électronique - art. D99-20 (Ab)
-  - Code des postes et des communications électronique - art. D99-21 (Ab)
-
-_Cite_:
-
-  - Code des postes et télécommunications L36-7, D99-16, D99-18, D99-22
-
-
-###### Article D99-18
-
-Les coûts spécifiques aux services d'interconnexion sont entièrement alloués aux services d'interconnexion.
-
-Les coûts spécifiques aux services de l'opérateur autres que l'interconnexion sont exclus de l'assiette des coûts des
-services d'interconnexion. Sont en particulier exclus les coûts de l'accès (boucle locale) et les coûts commerciaux
-(publicité, marketing, ventes, administration des ventes hors interconnexion, facturation et recouvrement hors
-interconnexion).
-
-Les coûts de réseau général sont partagés entre les services d'interconnexion et les autres services sur la base de l'usage
-effectif du réseau général par chacun de ces services.
-
-Parmi les coûts communs définis à l'article D. 99-12, les coûts communs pertinents au regard de l'activité d'un opérateur de
-télécommunications sont partagés entre services d'interconnexion et services autres que ceux d'interconnexion. Sont en
-particulier exclus des coûts communs pertinents les coûts de la recherche générale et les coûts de l'enseignement supérieur
-des télécommunications.
-
-L'Autorité de régulation des télécommunications établit et rend publique annuellement la nomenclature :
-
-- des coûts de  réseau général ;
-
-- des coûts spécifiques aux services d'interconnexion ;
-
-- des coûts spécifiques aux services de ces opérateurs autres que l'interconnexion ;
-
-- des coûts communs ;
-
-- des coûts communs pertinents.
-
-Les coûts imputés aux opérateurs de réseaux ouverts au public, d'une part, et aux fournisseurs de service téléphonique au
-public, d'autre part, tiennent compte des droits et obligations propres à chacune de ces catégories d'opérateurs.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L36-7, D99-12
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D99-13 (Ab)
-  - Code des postes et des communications électronique - art. D99-17 (Ab)
-  - Code des postes et des communications électronique - art. D99-21 (Ab)
-
-
-###### Article D99-19
-
-A partir des tarifs 1997, tant que l'Autorité de régulation des télécommunications n'aura pas arrêté une autre méthode en
-application de l'article D. 99-20, et sous réserve du troisième alinéa du présent article, les tarifs d'interconnexion pour
-une année donnée sont fondés sur les coûts moyens comptables prévisionnels pertinents pour l'année considérée, évalués par
-l'Autorité de régulation des télécommunications en prenant aussi en compte :
-
-- l'efficacité des nouveaux investissements réalisés ou prévus par l'opérateur au regard des meilleures technologies
-industriellement disponibles ;
-
-- les références internationales en matière de tarifs et de coûts d'interconnexion.
-
-Les coûts moyens comptables sont établis à partir des informations issues de la comptabilité prévisionnelle, des derniers
-comptes audités de l'opérateur et des gains de productivité constatés.
-
-L'Autorité de régulation des télécommunications peut définir les conditions de décroissance pluriannuelle des tarifs
-d'interconnexion de façon à inciter à l'efficacité économique au regard des références internationales en matière de tarifs
-et de coûts d'interconnexion.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L36-7, D99-20
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
-
-
-###### Article D99-20
-
-Après concertation au sein du comité de l'interconnexion et consultation publique, l'Autorité de régulation des
-télécommunications définira une méthode tendant vers une meilleure efficacité à long terme des coûts pris en compte que celle
-résultant de la méthode initiale énoncée à l'article D. 99-19 tout en respectant les principes énoncés à l'article D. 99-17.
-A cette fin, elle s'appuie sur la comparaison des résultats de modèles technico-économiques et de modèles fondés sur la
-comptabilité de l'opérateur en maintenant la référence aux comparaisons internationales disponibles.
-
-L'Autorité de régulation des télécommunications associe les opérateurs à l'élaboration de cette méthode. Ceux-ci lui
-communiquent, à sa demande, toute information de nature technique, économique ou comptable qu'elle utilise dans le respect du
-secret des affaires.
-
-L'Autorité de régulation des télécommunications publie la méthode qu'elle a arrêtée.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L36-7, D99-19, D99-17
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D99-19 (Ab)
-
-
-###### Article D99-21
-
-Pour tenir compte des effets du développement de la concurrence sur le marché des services d'interconnexion, et après
-concertation au sein du comité de l'interconnexion et consultation publique, l'Autorité de régulation des télécommunications
-pourra établir une nouvelle méthode pour déterminer les tarifs d'interconnexion fondée sur des principes et des règles
-éventuellement différents de ceux énumérés aux articles D. 99-17 et D. 99-18. Elle proposera les modifications à apporter à
-la présente section préalablement à l'entrée en vigueur de cette nouvelle méthode.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L36-7, D99-17, D99-18
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
-
-
-###### Article D99-22
-
-Pour évaluer les tarifs d'interconnexion, le taux de rémunération du capital employé est fixé par l'Autorité de régulation
-des télécommunications en tenant compte du coût moyen pondéré des capitaux de l'opérateur et de celui que supporterait un
-investisseur dans les activités de réseaux de télécommunications en France.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L36-7
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D99-17 (Ab)
-  - Code des postes et des communications électronique - art. D99-24 (Ab)
-
-
-##### SECTION 4 : Accès à la boucle locale<a id=251></a>
-
-###### Article D99-23
-
-Les opérateurs inscrits sur la liste établie en application du 7° de l'article L. 36-7 sont tenus de répondre, dans des
-conditions objectives, transparentes et non discriminatoires, aux demandes raisonnables d'accès à la boucle locale, pour la
-partie métallique de leur réseau comprise entre le répartiteur principal et le point de terminaison situé dans les locaux de
-l'abonné, lorsqu'elles émanent des titulaires de l'autorisation prévue à l'article L. 33-1.
-
-L'accès à la boucle locale se traduit, selon la demande :
-
-- soit par la mise à disposition de la partie de réseau précitée (accès totalement dégroupé à la boucle locale) ;
-
-- soit par la mise à disposition des fréquences non vocales disponibles sur cette partie du réseau (accès partagé à la boucle
-locale), l'opérateur mentionné au premier alinéa continuant à fournir le service téléphonique au public.
-
-L'accès à la boucle locale inclut en outre les prestations associées et notamment la fourniture des informations nécessaires
-à la mise en oeuvre de l'accès à la boucle locale, une offre de colocalisation des équipements et une offre permettant la
-connexion de ces équipements aux réseaux des demandeurs d'accès.
-
-En cas de résiliation de l'abonnement au service téléphonique au public de l'opérateur mentionné au premier alinéa, le
-bénéficiaire de l'accès partagé devient bénéficiaire de l'accès totalement dégroupé.
-
-L'accès à la boucle locale fait l'objet d'une convention de droit privé qui est communiquée à l'Autorité de régulation des
-télécommunications dans les dix jours suivant sa conclusion.
-
-Les informations nécessaires à la mise en oeuvre de l'accès à la boucle locale sont fournies aux demandeurs d'accès et les
-demandes de colocalisation sont traitées par les opérateurs mentionnés au premier alinéa, dans des conditions objectives,
-transparentes et non discriminatoires. Les demandeurs d'accès prennent les dispositions nécessaires pour assurer la
-confidentialité des informations fournies dont la divulgation pourrait porter atteinte à l'intégrité ou à la sécurité du
-réseau.
-
-En cas de litige, l'Autorité de régulation des télécommunications peut être saisie et se prononce dans les conditions prévues
-à l'article L. 36-8.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L36-7, L33-1, L36-8
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°2000-881 du 12 septembre 2000 - art. 1 () JORF 13 septembre 2000 en vigueur le 1er janvier 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2000-881 du 12 septembre 2000 - art. 2 (V)
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D99-24 (Ab)
-
-
-#### CHAPITRE  V : Services particuliers des télécommunications<a id=252></a>
-
-##### SECTION 2 : Liaisons louées<a id=253></a>
-
-###### Article D369
-
-Les liaisons louées sont fournies dans les conditions fixées par la présente section.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
-
-
-###### Article D370
-
-Les informations concernant les offres de liaisons louées, relatives aux caractéristiques techniques, aux tarifs et aux
-conditions de fourniture des liaisons, sont rendues publiques par l'exploitant public dans les conditions prévues par arrêté
-du ministre chargé des télécommunications.
-
-Les conditions d'utilisation des liaisons louées, les procédures de déclaration ou d'autorisation ainsi que les conditions de
-connexion d'un équipement terminal aux liaisons louées sont rendues publiques par l'Autorité de régulation des
-télécommunications.
-
-Les informations relatives à de nouvelles offres et les modifications tarifaires des offres existantes sont publiées par
-l'exploitant public en respectant un délai de préavis d'un mois.
-
-Les modifications des conditions matérielles d'utilisation des liaisons louées sont effectuées conformément au 2 de l'article
-11 du cahier des charges annexé au décret n° 96-1225 du 27 décembre 1996.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Cite_:
-
-  - Décret n°96-1225 1996-12-27 annexe
-
-_Modifié par_:
-
-  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D371 (V)
-  - Code des postes et des communications électronique - art. D379 (Ab)
-
-
-###### Article D371
-
-Les liaisons louées sont fournies dans des conditions objectives, transparentes et non discriminatoires.
-
-Les conditions de fourniture de liaisons louées, visées à l'article D. 370, comprennent au moins :
-
-- des informations relatives à la procédure de commande des liaisons louées ;
-
-- la durée du contrat, notamment sa durée minimale qui ne peut être inférieure à trois mois, sauf pour les liaisons louées à
-l'occasion de manifestations temporaires ;
-
-- les modalités de résiliation des contrats, notamment par l'utilisateur, moyennant le respect d'un délai de préavis
-raisonnable et, à défaut de respect de ce délai, les pénalités raisonnables éventuellement exigées ;
-
-- les modes de remboursement ou d'indemnisation.
-
-L'exploitant public rend publiques les statistiques relatives au délai de fourniture type et au temps de réparation type des
-liaisons louées, selon des modalités de calcul et une périodicité précisées par arrêté du ministre chargé des
-télécommunications.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D370
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D379 (Ab)
-
-
-###### Article D374
-
-Les liaisons louées ne peuvent être soumises à des restrictions d'accès ou d'utilisation que par voie réglementaire.
-
-Les liaisons louées peuvent être connectées à des réseaux ouverts au public ou à d'autres liaisons louées. Dans ce cas,
-aucune restriction autre que celles visées à l'alinéa précédent ne peut être introduite ou maintenue.
-
-Pour assurer la sécurité du fonctionnement et la protection du réseau, l'exploitant public peut, en cas d'urgence, refuser la
-fourniture de liaisons louées, l'interrompre ou réduire la disponibilité de leurs fonctions. Il informe, sans délai, les
-utilisateurs concernés ainsi que l'autorité de régulation des télécommunications, du début et de la fin de la période
-d'urgence, ainsi que des restrictions apportées au service.
-
-On entend par urgence, au sens de la présente section, les cas exceptionnels de force majeure, tels que des conditions
-météorologiques extrêmes, tremblements de terre, inondations, foudre ou incendies. Dans ces cas, l'exploitant public prend
-les dispositions utiles pour garantir le maintien du service à tous les utilisateurs.
-
-En cas de non-respect des conditions d'utilisation des liaisons louées par leurs utilisateurs, l'autorité de régulation des
-télécommunications peut, après avoir entendu les parties concernées, autoriser par décision motivée l'exploitant public à
-refuser la fourniture de ces liaisons louées, à l'interrompre, à en réduire la disponibilité des fonctions ou à adopter toute
-autre mesure spécifique appropriée. Cette décision est notifiée aux parties dans un délai de sept jours suivant son adoption.
-
-L'utilisation de liaisons louées pour fournir au public des services de télécommunications est soumise aux dispositions des
-articles L. 34 et suivants et des textes pris pour leur application.
-
-Lorsque l'exploitant public utilise des liaisons louées pour fournir des services ou fournit des liaisons louées à ses
-filiales ou partenaires, la même catégorie de liaisons louées doit être fournie sur demande aux autres utilisateurs dans des
-conditions identiques et avec la même qualité.
-
-L'exploitant public ne peut déroger aux conditions de fourniture qu'il a publiées, lorsqu'il estime déraisonnable une demande
-qui lui est adressée, qu'après accord de l'Autorité de régulation des télécommunications.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L34
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D377 (V)
-
-
-###### Article D375
-
-Lorsqu'un équipement terminal ayant fait l'objet de l'attestation de conformité prévue à l'article R. 20-2 perturbe le bon
-fonctionnement du réseau ou des services ou lorsque le terminal n'a pas fait l'objet d'une attestation de conformité,
-l'Autorité de régulation des télécommunications demande à l'exploitant public de suspendre la fourniture du service dans les
-conditions prévues à l'article R. 20-22.
-
-L'exploitant public informe, dans les plus brefs délais, l'utilisateur de cette suspension et en donne les raisons.
-
-L'exploitant public met fin à la suspension de la fourniture de la ou des liaisons, dès que la perturbation a pris fin ou que
-l'équipement terminal, à l'origine de la perturbation, a été déconnecté.
-
-Indépendamment des cas visés aux premier à troisième alinéas du présent article, les conditions d'utilisation relatives à
-l'équipement terminal ne peuvent justifier une restriction d'utilisation des liaisons louées fondée sur l'intégrité du réseau
-ou l'interopérabilité des services.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R20-2, R20-22
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
-
-
-###### Article D376
-
-Le ministre chargé des télécommunications détermine les catégories de liaisons louées conformes à des caractéristiques
-techniques harmonisées dans l'Espace économique européen, dont la fourniture est assurée par l'exploitant public. Cette liste
-peut être complétée après consultation de l'exploitant public, compte tenu de l'évolution du marché et des progrès des
-travaux de normalisation, par une offre obligatoire additionnelle de liaisons louées.
-
-L'offre de liaisons louées relevant d'autres catégories ne dispense pas l'exploitant public de fournir l'ensemble minimal
-défini au premier alinéa du présent article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
-
-
-###### Article D377
-
-Les tarifs des liaisons louées respectent le principe de l'orientation vers les coûts et sont fixés selon des règles
-tranparentes, conformément aux règles suivantes :
-
-- les tarifs des liaisons louées sont indépendants du type d'application que les utilisateurs de lignes louées mettent en
-oeuvre sans préjudice du principe de non-discrimination ;
-
-- ils comportent une redevance initiale de connexion et une redevance périodique qui sont indiquées de façon distincte.
-Lorsque d'autres éléments de tarification sont appliqués, ceux-ci doivent être transparents et fondés sur des critères
-objectifs ;
-
-- les tarifs des liaisons louées s'appliquent aux prestations fournies à l'utilisateur entre les points de terminaison du
-réseau auxquels il a accès. Pour les liaisons fournies par plus d'un opérateur, dont l'exploitant public, des tarifs de demi-
-circuits peuvent être appliqués.
-
-Dans le cadre de la comptabilité prévu à l'article 18 du cahier des charges annexé au décret n° 96-1225 du 27 décembre 1996,
-les coûts des liaisons louées incluent :
-
-a) Les coûts directs encourus pour l'établissement, l'exploitation et la maintenance des liaisons louées, ainsi que pour leur
-commercialisation et leur facturation ;
-
-b) Une contribution aux coûts communs, c'est-à-dire aux coûts qui ne peuvent être directement imputés ni aux liaisons louées
-ni à d'autres activités. Les coûts communs sont ventilés comme suit :
-
-Chaque fois que cela est possible, la ventilation est effectuée sur la base de l'analyse directe de l'origine des coûts ; 
-
-Lorsqu'une analyse directe n'est pas possible, les coûts sont ventilés sur la base du lien indirect existant avec une autre
-catégorie ou un autre groupe de catégories de coûts pour lesquelles une attribution ou une ventilation directe est possible.
-Le lien indirect est fondé sur des structures de coûts comparables ; 
-
-A défaut, la ventilation est effectuée en fonction du rapport entre l'ensemble des coûts affectés aux liaisons louées selon
-les méthodes décrites au a et à l' du b ci-dessus, et l'ensemble des coûts affectés aux autres services, selon les mêmes
-méthodes.
-
-D'autres méthodes de comptabilisation des coûts des liaisons louées ne peuvent être appliquées qu'après accord de l'Autorité
-de régulation des télécommunications.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Cite_:
-
-  - Décret n°96-1225 1996-12-27 annexe
-
-_Modifié par_:
-
-  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
-
-
-## LIVRE III : Les services financiers<a id=254></a>
-
-### TITRE Ier : Chèques postaux.<a id=255></a>
+### TITRE Ier : Chèques postaux.<a id=250></a>
 
 ###### Article D488
 
@@ -24706,7 +24840,7 @@ _Cite_:
   - Code des postes et des communications électroniques L109 al. 1
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=256></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=251></a>
 
 ###### Article D489
 
@@ -25213,7 +25347,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE II : Mandats.<a id=257></a>
+### TITRE II : Mandats.<a id=252></a>
 
 ###### Article D523
 
@@ -25468,7 +25602,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D540 (Ab)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=258></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=253></a>
 
 ###### Article D525
 
@@ -25906,7 +26040,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=259></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=254></a>
 
 ###### Article D549
 
@@ -26074,7 +26208,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=260></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=255></a>
 
 ###### Article D553
 
