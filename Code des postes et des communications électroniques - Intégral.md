@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1992-03-29
+Version Consolidée au 1992-04-07
 ## Contenu: 
   - [Partie législative (art. L1 à L126)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -122,8 +122,8 @@ Version Consolidée au 1992-03-29
           - [Section 5 : Magazines sonores. (art. D29 à D31)](#119)
           - [Section 6 : Dispositions particulières. (art. D32 à D33)](#120)
         - [Chapitre V : Conditions d'admission des objets de correspondance dans le régime international. (art. D34 à D36)](#121)
-      - [TITRE II : Affranchissement, recommandation et chargement (art. D37 à D57)](#122)
-        - [Chapitre Ier : Affranchissement. (art. D37 à D46)](#123)
+      - [TITRE II : Affranchissement, recommandation et chargement (art. D38 à D57)](#122)
+        - [Chapitre Ier : Affranchissement. (art. D38 à D46)](#123)
         - [Chapitre II : Recommandation et chargement. (art. D47 à D57)](#124)
       - [TITRE IV : Franchise postale et dispense d'affranchissement (art. D58 à D79)](#125)
         - [CHAPITRE Ier : Courrier officiel. (art. D58 à D74)](#126)
@@ -261,27 +261,25 @@ Version Consolidée au 1992-03-29
           - [SECTION 5 : Stations installées à bord des aéronefs. (art. D478 à D482-8)](#258)
           - [SECTION 6 : Dispositions diverses. (art. D482-9 à D482-10)](#259)
         - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#260)
-    - [LIVRE II : Le service des télécommunications (art. D374 à D376)](#261)
-      - [TITRE Ier : Dispositions générales (art. D374 à D376)](#262)
-        - [CHAPITRE  V : Services particuliers des télécommunications (art. D374 à D376)](#263)
-          - [SECTION 2 : Liaisons spécialisées (art. D374 à D376)](#264)
-            - [Paragraphe 1er : Régime général. (art. D374 à D376)](#265)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#266)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#267)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#268)
-      - [TITRE II : Mandats. (art. D523 à D548)](#269)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#270)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#271)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#272)
-    - [LIVRE IV : L'organisation financière (art. D570 à D579)](#273)
-      - [TITRE II : Dispositions budgétaires (art. D570 à D572)](#274)
-        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. D570)](#275)
-        - [CHAPITRE IV : Comptabilité administrative. (art. D571 à D572)](#276)
-      - [TITRE V : Fonds spéciaux. (art. D573 à D579)](#277)
-  - [Annexes (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#278)
-    - [LIVRE IV : L'organisation financière (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#279)
-      - [TITRE II : Dispositions budgétaires (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#280)
-        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#281)
+    - [LIVRE II : Le service des télécommunications (art.  à D487)](#261)
+      - [TITRE Ier : Dispositions générales (art.  à D487)](#262)
+        - [CHAPITRE  V : Services particuliers des télécommunications (art.  à D487)](#263)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#264)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#265)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#266)
+      - [TITRE II : Mandats. (art. D523 à D548)](#267)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#268)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#269)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#270)
+    - [LIVRE IV : L'organisation financière (art. D570 à D579)](#271)
+      - [TITRE II : Dispositions budgétaires (art. D570 à D572)](#272)
+        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. D570)](#273)
+        - [CHAPITRE IV : Comptabilité administrative. (art. D571 à D572)](#274)
+      - [TITRE V : Fonds spéciaux. (art. D573 à D579)](#275)
+  - [Annexes (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#276)
+    - [LIVRE IV : L'organisation financière (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#277)
+      - [TITRE II : Dispositions budgétaires (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#278)
+        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#279)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -13057,30 +13055,6 @@ _Abrogé par_:
 
 #### Chapitre Ier : Affranchissement.<a id=123></a>
 
-###### Article D37
-
-Le ministre des postes et télécommunications est autorisé à émettre les timbres-poste nécessaires pour l'affranchissement des
-correspondances, ainsi que toutes autres valeurs fiduciaires postales.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L16
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°92-382 du 30 mars 1992 - art. 1 (V) JORF 7 avril 1992
-
-
 ###### Article D38
 
 L'administration des postes et communications électroniques est autorisée à émettre un coupon réponse utilisable dans les
@@ -13105,31 +13079,6 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-###### Article D40
-
-Les frais de fabrication des valeurs fiduciaires postales (roulettes, cartes, enveloppes, etc.), les frais de timbrage pour
-le compte des particuliers ainsi que les frais de recherches dans les documents de service sont fixés par arrêté du ministre
-des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L19
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°92-382 du 30 mars 1992 - art. 1 (V) JORF 7 avril 1992
 
 
 ###### Article D41
@@ -13173,26 +13122,6 @@ _Modifié par_:
   - Décret n°79-842 1979-09-28 art. 1 JORF 29 septembre 1979
 
 
-###### Article D41-1
-
-Pour les services d'un type nouveau mis à l'essai, les redevances peuvent être fixées ou modifiées par arrêté pendant la
-durée de l'essai.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°79-842 1979-09-28 art. 2 JORF 29 septembre 1979
-
-_Abrogé par_:
-
-  - Décret n°92-382 du 30 mars 1992 - art. 1 (V) JORF 7 avril 1992
-
-
 ###### Article D42
 
 Le ministre des postes et des communications électroniques est autorisé à procéder à l'émission de timbres-poste spéciaux
@@ -13214,27 +13143,6 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-###### Article D43
-
-Les opérations consécutives aux émissions de timbres avec surtaxe sont retracées dans un compte de trésorerie tenu par
-l'agent comptable centralisateur des postes et télécommunications et sont soumises à la réglementation applicable en matière
-de contrôle des dépenses engagées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°92-382 du 30 mars 1992 - art. 1 (V) JORF 7 avril 1992
 
 
 ###### Article D44
@@ -20296,34 +20204,6 @@ _Abrogé par_:
   - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
 
 
-###### Article D450
-
-La fourniture, l'installation, la location-entretien des appareils et des organes des postes et installations par
-l'administration des postes et télécommunications, l'entretien par cette administration des appareils et organes des postes
-et installations fournis par les abonnés, la vérification des installations réalisées par les installateurs privés donnent
-lieu au paiement de taxes fixées par décret.
-
-Toutefois, pour les matériels ou les services d'un type nouveau mis à l'essai, les redevances peuvent être fixées ou
-modifiées par arrêté pendant la durée de l'essai.
-
-Lorsqu'aucun prix spécifique n'est prévu, les prestations annexes effectuées par la direction générale des télécommunications
-donnent lieu au remboursement des dépenses réelles, majorées forfaitairement pour dépenses annexes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°92-382 du 30 mars 1992 - art. 1 (V) JORF 7 avril 1992
-
-
 ###### Article D451
 
 Lorsque le contrôle des installations de télécommunications exige un matériel spécial, l'usager est tenu de pourvoir aux
@@ -21635,92 +21515,9 @@ _Nouveaux textes_:
 
 #### CHAPITRE  V : Services particuliers des télécommunications<a id=263></a>
 
-##### SECTION 2 : Liaisons spécialisées<a id=264></a>
+## LIVRE III : Les services financiers<a id=264></a>
 
-##### Paragraphe 1er : Régime général.<a id=265></a>
-
-###### Article D374
-
-**Nota:**
-
-[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D377 (V)
-
-_Modifié par_:
-
-  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
-
-
-###### Article D375
-
-**Nota:**
-
-[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Modifié par_:
-
-  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
-
-_Abrogé par_:
-
-  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
-
-
-###### Article D376
-
-**Nota:**
-
-[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Modifié par_:
-
-  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
-
-_Abrogé par_:
-
-  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
-
-
-## LIVRE III : Les services financiers<a id=266></a>
-
-### TITRE Ier : Chèques postaux.<a id=267></a>
+### TITRE Ier : Chèques postaux.<a id=265></a>
 
 ###### Article D488
 
@@ -22243,7 +22040,7 @@ _Abrogé par_:
   - Décret n°93-977 1993-07-31 art. 5 JORF 5 août 1993
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=268></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=266></a>
 
 ###### Article D489
 
@@ -22727,7 +22524,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE II : Mandats.<a id=269></a>
+### TITRE II : Mandats.<a id=267></a>
 
 ###### Article D523
 
@@ -23002,7 +22799,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D540 (Ab)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=270></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=268></a>
 
 ###### Article D525
 
@@ -23416,7 +23213,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=271></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=269></a>
 
 ###### Article D549
 
@@ -23602,7 +23399,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=272></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=270></a>
 
 ###### Article D553
 
@@ -23978,11 +23775,11 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-## LIVRE IV : L'organisation financière<a id=273></a>
+## LIVRE IV : L'organisation financière<a id=271></a>
 
-### TITRE II : Dispositions budgétaires<a id=274></a>
+### TITRE II : Dispositions budgétaires<a id=272></a>
 
-#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=275></a>
+#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=273></a>
 
 ###### Article D570
 
@@ -24015,7 +23812,7 @@ _Cite_:
   - Code des postes et télécommunications R64
 
 
-#### CHAPITRE IV : Comptabilité administrative.<a id=276></a>
+#### CHAPITRE IV : Comptabilité administrative.<a id=274></a>
 
 ###### Article D571
 
@@ -24121,7 +23918,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-3 (M)
 
 
-### TITRE V : Fonds spéciaux.<a id=277></a>
+### TITRE V : Fonds spéciaux.<a id=275></a>
 
 ###### Article D573
 
@@ -24335,13 +24132,13 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-10 (T)
 
 
-# Annexes<a id=278></a>
+# Annexes<a id=276></a>
 
-## LIVRE IV : L'organisation financière<a id=279></a>
+## LIVRE IV : L'organisation financière<a id=277></a>
 
-### TITRE II : Dispositions budgétaires<a id=280></a>
+### TITRE II : Dispositions budgétaires<a id=278></a>
 
-#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=281></a>
+#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=279></a>
 
 ###### Article Annexe II à l'article D570
 
