@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1979-06-15
+Version Consolidée au 1979-09-29
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -105,8 +105,8 @@ Version Consolidée au 1979-06-15
         - [CHAPITRE III : Sécurité sociale et mutualité sociale agricole. (art. D77 à D78)](#102)
         - [CHAPITRE IV : Avis et avertissements des administrations financières. (art. D79)](#103)
       - [TITRE V : Colis postaux. (art. D81 à D89)](#104)
-      - [TITRE VI : Distribution postale (art. D92 à D93)](#105)
-        - [Chapitre Ier : Distribution à domicile. (art. D92)](#106)
+      - [TITRE VI : Distribution postale (art. D91 à D93)](#105)
+        - [Chapitre Ier : Distribution à domicile. (art. D91 à D92)](#106)
         - [Chapitre II : Distribution au guichet. (art. D93)](#107)
       - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#108)
     - [LIVRE II : Le service des télécommunications (art. D98 à D487)](#109)
@@ -9134,6 +9134,67 @@ _Abrogé par_:
   - Décret n°92-382 du 30 mars 1992 - art. 1 (V) JORF 7 avril 1992
 
 
+###### Article D41
+
+Sont considérées comme valables pour l'affranchissement des objets de correspondance, les empreintes de machines à affranchir
+mises en service avec l'autorisation de l'administration des postes et communications électroniques.
+
+L'administration des postes et communications électroniques est autorisée à consentir aux particuliers, sur le montant des
+affranchissements postaux effectués par machines à affranchir ou par timbres oblitérés d'avance, une remise qui ne pourra
+dépasser 1 p. 100. Un arrêté ministériel contresigné par le ministre des finances détermine les conditions dans lesquelles
+elle peut être accordée.
+
+L'administration des postes et communications électroniques est autorisée à consentir aux titulaires d'un numéro de code
+postal spécifique en raison de l'importance du courrier reçu une remise maximale de 2 p. 100 sur le montant des
+affranchissements réalisés par ceux-ci à la machine à affranchir. Le montant et le mode de calcul de la remise ainsi que les
+conditions d'application des dispositions sont fixés par arrêté du secrétaire d'Etat aux postes et des communications
+électroniques.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L20
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°79-842 1979-09-28 art. 1 JORF 29 septembre 1979
+
+
+###### Article D41-1
+
+Pour les services d'un type nouveau mis à l'essai, les redevances peuvent être fixées ou modifiées par arrêté pendant la
+durée de l'essai.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°79-842 1979-09-28 art. 2 JORF 29 septembre 1979
+
+_Abrogé par_:
+
+  - Décret n°92-382 du 30 mars 1992 - art. 1 (V) JORF 7 avril 1992
+
+
 ###### Article D42
 
 Le ministre des postes et des communications électroniques est autorisé à procéder à l'émission de timbres-poste spéciaux
@@ -10266,6 +10327,37 @@ _Abrogé par_:
 ### TITRE VI : Distribution postale<a id=105></a>
 
 #### Chapitre Ier : Distribution à domicile.<a id=106></a>
+
+###### Article D91
+
+L'administration des postes et communications électroniques est autorisée à faire distribuer par porteur spécial dans tous
+les départements, y compris les départements d'outre-mer, tout objet de correspondance d'origine postale lorsque l'expéditeur
+en a fait la demande sur la souscription et acquitté la taxe correspondante.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L49
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°79-842 1979-09-28 art. 3 JORF 29 septembre 1979
+
 
 ###### Article D92
 
