@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1985-01-10
+Version Consolidée au 1985-01-26
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -34,8 +34,8 @@ Version Consolidée au 1985-01-10
         - [CHAPITRE Ier : Dispositions générales. (art. L87 à L96-1)](#31)
         - [CHAPITRE II : Dispositions pénales. (art. L97)](#32)
     - [LIVRE III : Les services financiers (art. L98 à L124)](#33)
-      - [TITRE Ier : Chèques postaux. (art. L98 à L106)](#34)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. L100 à L106)](#35)
+      - [TITRE Ier : Chèques postaux. (art. L98 à L106-1)](#34)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. L100 à L106-1)](#35)
       - [TITRE II : Mandats. (art. L110 à L116)](#36)
         - [(en vigueur jusqu'au 31 décembre 2005). (art. L116)](#37)
       - [TITRE III : Valeurs à recouvrer et envois contre remboursement (art. L119 à L124)](#38)
@@ -3784,6 +3784,40 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article L106-1
+
+Il n'est admis d'opposition par le tireur au paiement d'un chèque postal présenté par le bénéficiaire [*condition*] qu'en cas
+de perte du chèque ou de redressement judiciaire.
+
+Si, malgré cette défense, le tireur fait opposition pour d'autres causes, le juge des référés, même dans le cas où une
+instance au principal est engagée, doit, sur la demande du porteur, ordonner la mainlevée de l'opposition.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°72-10 1972-01-03 art. 13 JORF 5 janvier 1972
+
+_Modifié par_:
+
+  - Loi n°85-98 1985-01-25 art. 233 JORF 26 janvier 1985
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
 
 
 ### TITRE II : Mandats.<a id=36></a>
