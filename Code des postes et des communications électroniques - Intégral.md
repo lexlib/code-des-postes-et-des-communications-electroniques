@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2001-07-18
 ## Contenu: 
   - [Partie législative (art. L1 à L129)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -2112,14 +2112,20 @@ conjointement par les ministres chargés des télécommunications, de la défens
 
 5° Les installations radioélectriques n'utilisant pas des fréquences spécifiquement assignées à leur utilisateur.
 
+6° Les installations radioélectriques permettant de rendre inopérants dans les salles de spectacles, tant pour l'émission que
+pour la réception, les téléphones mobiles de tous types dans l'enceinte des salles de spectacles.
+
+Les salles de spectacles sont tout lieu dont l'aménagement spécifique est destiné à permettre la représentation ou la
+diffusion au public d'une oeuvre de l'esprit.
+
 Les conditions d'utilisation des installations radioélectriques mentionnées ci-dessus sont déterminées dans les conditions
-prévues à l'article L. 36-6.
+prévues à l'article L. 36-6 ;
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°96-659 du 26 juillet 1996 - art. 6 () JORF 27 juillet 1996
+  - Loi n°2001-624 du 17 juillet 2001 - art. 26 () JORF 18 juillet 2001
 
 _Cité par_:
 
@@ -5697,6 +5703,37 @@ _Anciens textes_:
 _Modifié par_:
 
   - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
+
+_Abrogé par_:
+
+  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+
+###### Article L94
+
+Toute convention entre un propriétaire ou son ayant droit et un opérateur de télécommunications concernant la mise en place
+d'une installation radioélectrique visée aux articles L. 33-1, L. 33-2 et L. 33-3 doit, à peine de nullité, contenir en
+annexe un schéma de localisation précise des équipements à une échelle permettant de mesurer l'impact visuel de leur
+installation.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications L33-1, L33-2, L33-3
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L164
+  - Décret n°1926-12-28 art. 25
+
+_Modifié par_:
+
+  - Loi n°2001-624 du 17 juillet 2001 - art. 19 (V)
 
 _Abrogé par_:
 
@@ -22028,8 +22065,8 @@ conformes aux prescriptions suivantes :
 Clause h.
 
 La clause h du cahier des charges des opérateurs décrit les conditions d'utilisation des bandes de fréquences allouées à
-l'opérateur et précise la méthode et les montants unitaires permettant de calculer les redevances de mise à disposition et de
-gestion des fréquences dues au titre de l'utilisation, de la gestion et du contrôle des fréquences allouées.
+l'opérateur et précise la méthode et les montants permettant de déterminer les redevances de mise à disposition et de gestion
+des fréquences dues au titre de l'utilisation, de la gestion et du contrôle des fréquences allouées.
 
 Dans les canaux qui lui ont été attribués, l'opérateur demande l'accord de l'Agence nationale des fréquences préalablement à
 l'implantation de stations radioélectriques, lorsque cet accord est requis, en application du 5° de l'article R. 52-2-1.
@@ -22087,9 +22124,9 @@ _Codifié par_:
 
   - Décret n°62-275 1962-03-12
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-1175 du 27 décembre 1996 - art. 1 () JORF 29 décembre 1996
+  - Décret n°2001-626 du 17 juillet 2001 - art. 1 () JORF 18 juillet 2001
 
 
 ##### SECTION 3 : Interconnexion<a id=240></a>
