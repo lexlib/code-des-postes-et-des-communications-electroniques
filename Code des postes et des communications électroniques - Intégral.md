@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1999-10-31
+Version Consolidée au 2000-09-20
 ## Contenu: 
   - [Partie législative (art. L1 à L126)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -139,8 +139,8 @@ Version Consolidée au 1999-10-31
           - [Paragraphe 5 : Commission consultative des réseaux et services de communications électroniques. (art. D97-2)](#136)
           - [Paragraphe 6 : Organisation et fonctionnement des commissions consultatives. (art. D97-3)](#137)
           - [Paragraphe 7 : Autorité de régulation des télécommunications (art. D97-4 à D97-10)](#138)
-        - [Chapitre II : Régime juridique (art. D99 à D99-9)](#139)
-          - [Section 2 : Réseaux indépendants (art. D99 à D99-5)](#140)
+        - [Chapitre II : Régime juridique (art. D98-3 à D99-9)](#139)
+          - [Section 2 : Réseaux indépendants (art. D98-3 à D99-5)](#140)
           - [SECTION 3 : Interconnexion (art. D99-7 à D99-9)](#141)
             - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-7 à D99-9)](#142)
         - [CHAPITRE III : Télégraphe (art. D100 à D287)](#143)
@@ -237,22 +237,21 @@ Version Consolidée au 1999-10-31
       - [TITRE Ier : Dispositions générales (art. D98-1 à D406-3)](#234)
         - [Chapitre II : Régime juridique (art. D98-1 à D99-22)](#235)
           - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-1 à D98-2)](#236)
-          - [Section 2 : Réseaux indépendants. (art. D99-1)](#237)
-          - [SECTION 3 : Interconnexion (art. D99-6 à D99-22)](#238)
-            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-6 à D99-10)](#239)
-            - [Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7. (art. D99-11 à D99-22)](#240)
-        - [CHAPITRE IV : Téléphone (art. D365)](#241)
-          - [SECTION 4 : Dispositions particulières au service international. (art. D365)](#242)
-        - [CHAPITRE  V : Services particuliers des télécommunications (art. D369 à D379)](#243)
-          - [SECTION 2 : Liaisons louées (art. D369 à D379)](#244)
-        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1-1 à D406-3)](#245)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#246)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#247)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#248)
-      - [TITRE II : Mandats. (art. D523 à D548)](#249)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#250)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#251)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#252)
+          - [SECTION 3 : Interconnexion (art. D99-6 à D99-22)](#237)
+            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-6 à D99-10)](#238)
+            - [Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7. (art. D99-11 à D99-22)](#239)
+        - [CHAPITRE IV : Téléphone (art. D365)](#240)
+          - [SECTION 4 : Dispositions particulières au service international. (art. D365)](#241)
+        - [CHAPITRE  V : Services particuliers des télécommunications (art. D369 à D379)](#242)
+          - [SECTION 2 : Liaisons louées (art. D369 à D379)](#243)
+        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1-1 à D406-3)](#244)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#245)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#246)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#247)
+      - [TITRE II : Mandats. (art. D523 à D548)](#248)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#249)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#250)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#251)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -16804,6 +16803,242 @@ _Transféré par_:
 
 ##### Section 2 : Réseaux indépendants<a id=140></a>
 
+###### Article D98-3
+
+Les demandes d'autorisation pour l'établissement de réseaux indépendants de communications électroniques sont adressées à
+l'Autorité de régulation des télécommunications en un exemplaire. Les demandes sont libellées en langue française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°2000-902 du 13 septembre 2000 - art. 1 () JORF 20 septembre 2000
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D98-8 (M)
+
+
+###### Article D98-4
+
+Toute demande d'autorisation contient les éléments suivants :
+
+1° Les informations relatives au demandeur :
+
+a) L'identité du demandeur (dénomination, siège social, immatriculation au registre du commerce et des sociétés ou
+équivalent, statuts) ;
+
+b) La composition de son actionnariat ;
+
+c) La description des activités existantes, notamment dans le domaine des communications électroniques ;
+
+d) Le cas échéant, les autorisations dont le demandeur est déjà titulaire et les sanctions qu'il a déjà subies, en
+application du code des postes et communications électroniques ;
+
+2° La description du projet faisant l'objet de la demande :
+
+a) La nature du réseau ;
+
+b) Les caractéristiques techniques du réseau, comprenant :
+
+- un schéma descriptif de l'architecture du réseau ;
+
+- les supports de transmission et de commutation ;
+
+- les éléments permettant d'apprécier la conformité des équipements aux exigences essentielles ;
+
+- le calendrier de déploiement du réseau ;
+
+- lorsqu'il s'agit d'un réseau radioélectrique, la liste et les caractéristiques des stations ;
+
+- lorsqu'il s'agit d'un réseau utilisant des capacités de satellites, les fréquences dont l'utilisation est envisagée, les
+caractéristiques du secteur spatial et de l'antenne et le descriptif des procédures d'urgence et de sécurité utilisées pour
+l'exploitation du réseau ;
+
+c) La destination du réseau : usage privé ou usage partagé et, dans ce dernier cas, la composition du ou des groupes fermés
+d'utilisateurs, et les conditions et modalités d'accès au service du ou des groupes fermés d'utilisateurs ;
+
+d) L'objet du réseau et la description du service fourni ;
+
+e) Le cas échéant, les connexions à d'autres réseaux, notamment les réseaux ouverts au public. La demande précise alors
+l'implantation et les caractéristiques des points de connexion et les moyens mis en place pour que cette connexion ne
+permette pas l'échange de communications entre des personnes autres que celles auxquelles l'usage du réseau est réservé.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°2000-902 du 13 septembre 2000 - art. 1 () JORF 20 septembre 2000
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. D98-3 (V)
+
+
+###### Article D98-5
+
+Dès qu'il reçoit la demande d'autorisation, le président de l'Autorité de régulation des télécommunications en accuse
+réception. Le cas échéant, dans un délai de dix jours ouvrables à compter de la réception de la demande, le président de
+l'Autorité informe le demandeur, par lettre recommandée avec demande d'avis de réception, que la demande est incomplète ou
+comporte des pièces dont la traduction est requise ; il invite alors le demandeur à fournir les pièces complémentaires et en
+accuse réception. Ce délai est porté à vingt jours lorsque la demande concerne un réseau mentionné au deuxième alinéa de
+l'article D. 98-7. Le délai d'instruction court à compter de la réception de la demande complète par l'Autorité de régulation
+des télécommunications.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°2000-902 du 13 septembre 2000 - art. 1 () JORF 20 septembre 2000
+
+_Cité par_:
+
+  - Arrêté du 31 décembre 2013 - art. (VD)
+  - Arrêté du 31 décembre 2013 - art. 3 (V)
+  - Décret n°2017-428 du 28 mars 2017 - art. 1
+  - Code des postes et des communications électroni... - art. D98-3 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. D98-7 (M)
+
+
+###### Article D98-6
+
+Dans le cadre de l'instruction de la demande, et dans la mesure nécessaire pour établir que la demande d'autorisation répond
+aux conditions prévues par le code des postes et des communications électroniques, le président de l'Autorité de régulation
+des télécommunications peut inviter le demandeur à apporter des précisions sur les éléments que comporte la demande.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°2000-902 du 13 septembre 2000 - art. 1 () JORF 20 septembre 2000
+
+
+###### Article D98-7
+
+A compter de la réception de la demande complète, l'Autorité de régulation des télécommunications délivre ou refuse les
+autorisations dans un délai de six semaines.
+
+Ce délai est porté à quatre mois lorsque la demande concerne :
+
+- un réseau du service fixe qui utilise des fréquences assignées à son exploitant ;
+
+- un réseau du service mobile à usage partagé ;
+
+- un réseau du service mobile à usage privé utilisant des bandes de fréquences exclusives ;
+
+- un réseau utilisant des capacités de satellites, à l'exception de ceux constitués de stations terriennes pour liaisons
+vidéo temporaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°2000-902 du 13 septembre 2000 - art. 1 () JORF 20 septembre 2000
+
+_Cité par_:
+
+  - Arrêté du 26 mars 2012 - art. 1 (Ab)
+  - Arrêté du 29 décembre 2017 - art. 2 (V)
+  - Arrêté du 12 janvier 2018 - art. 3
+  - Code des postes et des communications électronique - art. D98-5 (M)
+  - Code des postes et des communications électronique - art. D98-8 (M)
+
+
+###### Article D98-8
+
+Le nombre des autorisations peut être limité en raison des contraintes techniques inhérentes à la disponibilité des
+fréquences. Dans ce cas, les dispositions des articles D. 98-3 et D. 98-7 ne s'appliquent pas. L'Autorité de régulation des
+télécommunications délivre les autorisations à l'issue d'un appel à candidatures dont elle fixe les modalités, dans les
+conditions prévues à l'article L. 36-7, et notamment le délai d'instruction, qui ne peut excéder huit mois à compter de la
+réception des dossiers de candidatures.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°2000-902 du 13 septembre 2000 - art. 1 () JORF 20 septembre 2000
+
+_Cité par_:
+
+  - Décret n°2004-374 du 29 avril 2004 - art. 73-1 (V)
+  - Arrêté du 1er février 2010 - art. 3 (V)
+  - Arrêté du 27 février 2017 - art. 1 (VD)
+  - Code des postes et des communications électroni... - art. D98-8-1 (VD)
+  - Code des postes et des communications électroni... - art. D98-8-3 (VD)
+  - Code des postes et des communications électroni... - art. D98-8-4 (Ab)
+  - Code des postes et des communications électroni... - art. D98-8-6 (VD)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. D98-3 (M)
+  - Code des postes et des communications électronique - art. D98-7 (M)
+  - Code des postes et des communications électronique - art. L36-7 (M)
+
+
+###### Article D98-9
+
+Les autorisations sont délivrées et les refus notifiés aux demandeurs dans les délais mentionnés aux articles D. 98-7 et D.
+98-8 sans préjudice de tout accord international applicable en matière de coordination internationale des fréquences et des
+satellites.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications D98-7, D98-8
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°2000-902 du 13 septembre 2000 - art. 1 () JORF 20 septembre 2000
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. D98-3 (V)
+
+
 ###### Article D99
 
 En cas de nécessité imposée par la sécurité publique ou la défense, l'exploitant d'un réseau indépendant se conforme aux
@@ -16834,6 +17069,23 @@ _Cité par_:
 _Cite_:
 
   - Code des postes et des communications électronique - art. L32-1 (M)
+
+
+###### Article D99-1
+
+Lorsqu'un réseau indépendant est connecté à un réseau ouvert au public, l'Autorité de régulation des télécommunications peut
+à tout moment demander à l'exploitant autorisé de justifier des moyens mis en place pour que cette connexion ne permette pas
+l'échange de communications entre des personnes autres que celles auxquelles l'usage du réseau est réservé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2000-902 du 13 septembre 2000 - art. 2 () JORF 20 septembre 2000
 
 
 ###### Article D99-2
@@ -21760,30 +22012,9 @@ _Créé par_:
   - Décret n°96-1175 du 27 décembre 1996 - art. 1 () JORF 29 décembre 1996
 
 
-##### Section 2 : Réseaux indépendants.<a id=237></a>
+##### SECTION 3 : Interconnexion<a id=237></a>
 
-###### Article D99-1
-
-Le demandeur peut, le cas échéant, prévoir que le réseau indépendant soit connecté aux réseaux ouverts au public. Sa demande
-d'autorisation doit alors décrire les caractéristiques du réseau indépendant au regard de la connexion aux réseaux ouverts au
-public et indiquer les moyens mis en place pour que cette connexion ne permette pas l'échange de communications entre des
-personnes autres que celles auxquelles l'usage du réseau est réservé. L'Autorité de régulation des télécommunications peut à
-tout moment demander à l'exploitant autorisé de justifier des moyens mis en place à cet effet.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°96-1176 du 27 décembre 1996 - art. 1 () JORF 29 décembre 1996
-
-
-##### SECTION 3 : Interconnexion<a id=238></a>
-
-##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=239></a>
+##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=238></a>
 
 ###### Article D99-6
 
@@ -21852,7 +22083,7 @@ _Créé par_:
   - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
 
 
-##### Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7.<a id=240></a>
+##### Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7.<a id=239></a>
 
 ###### Article D99-11
 
@@ -22340,9 +22571,9 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D99-24 (Ab)
 
 
-#### CHAPITRE IV : Téléphone<a id=241></a>
+#### CHAPITRE IV : Téléphone<a id=240></a>
 
-##### SECTION 4 : Dispositions particulières au service international.<a id=242></a>
+##### SECTION 4 : Dispositions particulières au service international.<a id=241></a>
 
 ###### Article D365
 
@@ -22364,9 +22595,9 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-#### CHAPITRE  V : Services particuliers des télécommunications<a id=243></a>
+#### CHAPITRE  V : Services particuliers des télécommunications<a id=242></a>
 
-##### SECTION 2 : Liaisons louées<a id=244></a>
+##### SECTION 2 : Liaisons louées<a id=243></a>
 
 ###### Article D369
 
@@ -22704,7 +22935,7 @@ _Modifié par_:
   - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
 
 
-#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=245></a>
+#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=244></a>
 
 ###### Article D406-1-1
 
@@ -22840,9 +23071,9 @@ _Modifié par_:
   - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
 
 
-## LIVRE III : Les services financiers<a id=246></a>
+## LIVRE III : Les services financiers<a id=245></a>
 
-### TITRE Ier : Chèques postaux.<a id=247></a>
+### TITRE Ier : Chèques postaux.<a id=246></a>
 
 ###### Article D488
 
@@ -23187,7 +23418,7 @@ _Cite_:
   - Code des postes et des communications électroniques L109 al. 1
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=248></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=247></a>
 
 ###### Article D489
 
@@ -23694,7 +23925,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE II : Mandats.<a id=249></a>
+### TITRE II : Mandats.<a id=248></a>
 
 ###### Article D523
 
@@ -23969,7 +24200,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D540 (Ab)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=250></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=249></a>
 
 ###### Article D525
 
@@ -24383,7 +24614,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=251></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=250></a>
 
 ###### Article D549
 
@@ -24569,7 +24800,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=252></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=251></a>
 
 ###### Article D553
 
