@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1962-03-14
+Version Consolidée au 1962-03-23
 ## Contenu: 
   - [Partie législative (art. L1 à L125)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -179,9 +179,9 @@ Version Consolidée au 1962-03-14
               - [8. : Service des auditions téléphoniques. (art. D316)](#176)
           - [SECTION 3 : Des abonnements (art. D318 à D361)](#177)
             - [Paragraphe 1er : Généralités. (art. D318)](#178)
-            - [Paragraphe 2 : Abonnements principaux permanents (art. D324 à D329)](#179)
+            - [Paragraphe 2 : Abonnements principaux permanents (art. D324 à D331)](#179)
               - [4. : Abonnements à ligne partagée. (art. D324 à D327)](#180)
-              - [5. : Abonnements spéciaux. (art. D329)](#181)
+              - [5. : Abonnements spéciaux. (art. D329 à D331)](#181)
             - [Paragraphe 6 : Suspension et résiliation des abonnements. (art. D340 à D341)](#182)
             - [Paragraphe 7 : Modification des conditions de concession d'un abonnement (art. D346 à D357)](#183)
               - [1. : Transfert des postes d'abonnement. (art. D346)](#184)
@@ -11570,6 +11570,29 @@ et R. 13.
 _Cite_:
 
   - Code des postes et télécommunications R12 et R13
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+
+###### Article D331
+
+Un abonnement est dit "de rattachement exceptionnel" lorsque, sur la demande de l'abonné, le poste d'abonnement est rattaché
+à un commutateur principal autre que celui que l'administration considère comme le mieux placé pour le desservir.
+
+Un abonnement de rattachement exceptionnel n'est concédé que sur autorisation spéciale de l'administration des postes et
+télécommunications.
+
+L'autorisation de rattachement exceptionnel peut être retirée à tout moment si l'intérêt du service l'exige, à condition
+toutefois que le commutateur principal de rattachement normal offre des possibilités équivalentes en ce qui concerne les
+heures d'ouverture, la qualité du service fourni et la taxation des communications.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
