@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1997-05-14
+Version Consolidée au 1997-06-01
 ## Contenu: 
   - [Partie législative (art. L1 à L126)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -223,41 +223,38 @@ Version Consolidée au 1997-05-14
               - [2. : Listes périodiques d'abonnés. (art. D359)](#220)
           - [SECTION 4 : Dispositions particulières au service international. (art. D362 à D367)](#221)
         - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#222)
-      - [TITRE VI : Les services radioélectriques (art. D457 à D487)](#223)
-        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D458)](#224)
-        - [CHAPITRE II : Installations et réseaux radioélectriques indépendants. (art. D459 à D463)](#225)
-        - [CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs. (art. D473)](#226)
-        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#227)
-    - [LIVRE II : Les télécommunications (art. D98-1 à D456)](#228)
-      - [TITRE Ier : Dispositions générales (art. D98-1 à D406-3)](#229)
-        - [Chapitre II : Régime juridique (art. D98-1 à D99-22)](#230)
-          - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-1 à D98-2)](#231)
-          - [Section 2 : Réseaux indépendants. (art. D99-1)](#232)
-          - [SECTION 3 : Interconnexion (art. D99-6 à D99-22)](#233)
-            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-6 à D99-10)](#234)
-            - [Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7. (art. D99-11 à D99-22)](#235)
-        - [CHAPITRE IV : Téléphone (art. D365)](#236)
-          - [SECTION 4 : Dispositions particulières au service international. (art. D365)](#237)
-        - [CHAPITRE  V : Services particuliers des télécommunications (art. D369 à D379)](#238)
-          - [SECTION 2 : Liaisons louées (art. D369 à D379)](#239)
-        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1-1 à D406-3)](#240)
-      - [TITRE II : Etablissement des lignes (art. D407 à D455)](#241)
-        - [CHAPITRE Ier : Etablissement des lignes (art. D407 à D427)](#242)
-          - [SECTION 1 : Dispositions générales. (art. D407 à D419)](#243)
-          - [SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées). (art. D420 à D425)](#244)
-          - [SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé". (art. D427)](#245)
-        - [CHAPITRE II : Entretien des lignes (art. D431)](#246)
-          - [SECTION 1 : Dispositions générales. (art. D431)](#247)
-        - [CHAPITRE III : Fourniture et entretien des installations de télécommunications. (art. D440 à D455)](#248)
-      - [TITRE IV : Police des liaisons et des installations du réseau de télécommunications (art. D456)](#249)
-        - [CHAPITRE Ier : Dispositions générales. (art. D456)](#250)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#251)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#252)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#253)
-      - [TITRE II : Mandats. (art. D523 à D548)](#254)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#255)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#256)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#257)
+      - [TITRE II : Etablissement des lignes (art. D407-1 à D407-3)](#223)
+        - [CHAPITRE Ier : Etablissement des lignes (art. D407-1 à D407-3)](#224)
+          - [SECTION 1 : Dispositions générales. (art. D407-1 à D407-3)](#225)
+      - [TITRE VI : Les services radioélectriques (art. D457 à D487)](#226)
+        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D458)](#227)
+        - [CHAPITRE II : Installations et réseaux radioélectriques indépendants. (art. D459 à D463)](#228)
+        - [CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs. (art. D473)](#229)
+        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#230)
+    - [LIVRE II : Les télécommunications (art. D98-1 à D456)](#231)
+      - [TITRE Ier : Dispositions générales (art. D98-1 à D406-3)](#232)
+        - [Chapitre II : Régime juridique (art. D98-1 à D99-22)](#233)
+          - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-1 à D98-2)](#234)
+          - [Section 2 : Réseaux indépendants. (art. D99-1)](#235)
+          - [SECTION 3 : Interconnexion (art. D99-6 à D99-22)](#236)
+            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-6 à D99-10)](#237)
+            - [Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7. (art. D99-11 à D99-22)](#238)
+        - [CHAPITRE IV : Téléphone (art. D365)](#239)
+          - [SECTION 4 : Dispositions particulières au service international. (art. D365)](#240)
+        - [CHAPITRE  V : Services particuliers des télécommunications (art. D369 à D379)](#241)
+          - [SECTION 2 : Liaisons louées (art. D369 à D379)](#242)
+        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1-1 à D406-3)](#243)
+      - [TITRE II : Etablissement des lignes (art. D440 à D455)](#244)
+        - [CHAPITRE III : Fourniture et entretien des installations de télécommunications. (art. D440 à D455)](#245)
+      - [TITRE IV : Police des liaisons et des installations du réseau de télécommunications (art. D456)](#246)
+        - [CHAPITRE Ier : Dispositions générales. (art. D456)](#247)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#248)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#249)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#250)
+      - [TITRE II : Mandats. (art. D523 à D548)](#251)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#252)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#253)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#254)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -20039,9 +20036,90 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-### TITRE VI : Les services radioélectriques<a id=223></a>
+### TITRE II : Etablissement des lignes<a id=223></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=224></a>
+#### CHAPITRE Ier : Etablissement des lignes<a id=224></a>
+
+##### SECTION 1 : Dispositions générales.<a id=225></a>
+
+###### Article D407-1
+
+Les réseaux téléphoniques intérieurs aux immeubles groupant plusieurs logements sont construits par les promoteurs jusqu'aux
+dispositifs de connexion placés dans chaque logement conformément à l'article R. 111-14 du code de la construction et de
+l'habitation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D407-2 (M)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation R111-14
+
+
+###### Article D407-2
+
+En dehors du cas mentionné à l'article D. 407-1, les lignes de communications électroniques intérieures à une propriété
+privée peuvent être construites par tout opérateur de réseau autorisé en application de l'article L. 33-1. L'opérateur n'y
+est tenu que s'il existe des gaines techniques et des passages horizontaux permettant la pose des câbles.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°97-684 du 30 mai 1997 - art. 2 () JORF 1er juin 1997
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. D407-1 (M)
+  - Code des postes et des communications électronique - art. L33-1 (M)
+
+
+###### Article D407-3
+
+Les conditions d'entretien et de gestion des réseaux téléphoniques et des lignes mentionnés aux articles D. 407-1 et D. 407-2
+sont déterminées par contrat établi entre l'utilisateur ou son mandant et un opérateur de réseau autorisé au titre de
+l'article L. 33-1. Ce contrat ne peut exclure l'usage des réseaux et des lignes par un tiers dans des conditions qui ne
+portent pas atteinte au service fourni par l'opérateur.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications D407-1, D407-2, L33-1
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°97-684 du 30 mai 1997 - art. 3 () JORF 1er juin 1997
+
+
+### TITRE VI : Les services radioélectriques<a id=226></a>
+
+#### CHAPITRE Ier : Dispositions générales.<a id=227></a>
 
 ###### Article D457
 
@@ -20115,7 +20193,7 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-#### CHAPITRE II : Installations et réseaux radioélectriques indépendants.<a id=225></a>
+#### CHAPITRE II : Installations et réseaux radioélectriques indépendants.<a id=228></a>
 
 ###### Article D459
 
@@ -20283,7 +20361,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 9 () JORF 30 avril 2005
 
 
-#### CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs.<a id=226></a>
+#### CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs.<a id=229></a>
 
 ###### Article D473
 
@@ -20324,7 +20402,7 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-#### CHAPITRE V : Radiocommunications du service maritime.<a id=227></a>
+#### CHAPITRE V : Radiocommunications du service maritime.<a id=230></a>
 
 ###### Article D483
 
@@ -20496,13 +20574,13 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-## LIVRE II : Les télécommunications<a id=228></a>
+## LIVRE II : Les télécommunications<a id=231></a>
 
-### TITRE Ier : Dispositions générales<a id=229></a>
+### TITRE Ier : Dispositions générales<a id=232></a>
 
-#### Chapitre II : Régime juridique<a id=230></a>
+#### Chapitre II : Régime juridique<a id=233></a>
 
-##### Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1.<a id=231></a>
+##### Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1.<a id=234></a>
 
 ###### Article D98-1
 
@@ -20890,7 +20968,7 @@ _Créé par_:
   - Décret n°96-1175 du 27 décembre 1996 - art. 1 () JORF 29 décembre 1996
 
 
-##### Section 2 : Réseaux indépendants.<a id=232></a>
+##### Section 2 : Réseaux indépendants.<a id=235></a>
 
 ###### Article D99-1
 
@@ -20911,9 +20989,9 @@ _Créé par_:
   - Décret n°96-1176 du 27 décembre 1996 - art. 1 () JORF 29 décembre 1996
 
 
-##### SECTION 3 : Interconnexion<a id=233></a>
+##### SECTION 3 : Interconnexion<a id=236></a>
 
-##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=234></a>
+##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=237></a>
 
 ###### Article D99-6
 
@@ -20982,7 +21060,7 @@ _Créé par_:
   - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
 
 
-##### Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7.<a id=235></a>
+##### Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7.<a id=238></a>
 
 ###### Article D99-11
 
@@ -21462,9 +21540,9 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D99-24 (Ab)
 
 
-#### CHAPITRE IV : Téléphone<a id=236></a>
+#### CHAPITRE IV : Téléphone<a id=239></a>
 
-##### SECTION 4 : Dispositions particulières au service international.<a id=237></a>
+##### SECTION 4 : Dispositions particulières au service international.<a id=240></a>
 
 ###### Article D365
 
@@ -21486,9 +21564,9 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-#### CHAPITRE  V : Services particuliers des télécommunications<a id=238></a>
+#### CHAPITRE  V : Services particuliers des télécommunications<a id=241></a>
 
-##### SECTION 2 : Liaisons louées<a id=239></a>
+##### SECTION 2 : Liaisons louées<a id=242></a>
 
 ###### Article D369
 
@@ -21826,7 +21904,7 @@ _Modifié par_:
   - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
 
 
-#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=240></a>
+#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=243></a>
 
 ###### Article D406-1-1
 
@@ -21962,495 +22040,9 @@ _Modifié par_:
   - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
 
 
-### TITRE II : Etablissement des lignes<a id=241></a>
+### TITRE II : Etablissement des lignes<a id=244></a>
 
-#### CHAPITRE Ier : Etablissement des lignes<a id=242></a>
-
-##### SECTION 1 : Dispositions générales.<a id=243></a>
-
-###### Article D407
-
-Les lignes de télécommunications empruntant la voie publique ou une propriété tierce sont établies obligatoirement par
-l'administration des postes et télécommunications qui en détermine seule le tracé.
-
-Toutefois, les lignes étrangères au réseau général des télécommunications qui ne présentent aucun intérêt au point de vue de
-ce réseau peuvent, après autorisation spéciale et approbation de leur tracé, être construites et entretenues par les
-permissionnaires.
-
-C'est le cas, en particulier :
-
-Des lignes établies par la Société nationale des chemins de fer français ou certaines autres compagnies de chemin de fer sur
-leurs emprises ;
-
-Des voies de télécommunications "de sécurité" constituées par les entrepreneurs de distribution d'énergie électrique sur leur
-réseau haute tension.
-
-Lorsque les lignes de télécommunications empruntent la voie publique, l'autorité responsable de la voie donne, dans le cadre
-de la concertation prévue à l'article L. 47-1 du code des postes et télécommunications, son avis sur leur tracé.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L47-1
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D407-1
-
-Les réseaux téléphoniques intérieurs aux immeubles groupant plusieurs logements sont construits par les promoteurs jusqu'aux
-dipositifs de connexion placés dans chaque logement conformément à l'article 13 du décret n° 69-596 du 14 juin 1969.
-L'administration des postes et télécommunications procède au contrôle des travaux et de la qualité des installations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Cite_:
-
-  - Décret n°69-596 1969-06-14 art. 13
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D407-2 (M)
-
-
-###### Article D407-2
-
-En dehors du cas visé à l'article précédent, les lignes de télécommunications intérieures à une propriété privée ne sont
-construites par la direction générale des télécommunications que s'il existe des gaines techniques et des passages
-horizontaux permettant la pose des câbles.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D407-1
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-###### Article D407-3
-
-Les lignes construites par l'administration des postes et télécommunications restent la propriété exclusive de cette
-administration qui se borne à en concéder l'usage.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-###### Article D408
-
-Avant toute exécution, un tracé de la ligne de télécommunications projetée, indiquant les propriétés privées où il doit être
-placé des supports ou des conduits, est déposé par l'administration des postes et télécommunications pendant trois jours à la
-mairie de la commune où ces propriétés sont situées.
-
-Ce délai de trois jours [*computation*] court à dater de l'avertissement qui est donné aux parties intéressées de prendre
-communication du tracé déposé à la mairie.
-
-Cet avertissement est affiché à la porte de la mairie et inséré dans l'un des journaux publiés dans l'arrondissement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L89
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D409
-
-Le maire ouvre un procès-verbal pour recevoir les observations ou réclamations. A l'expiration du délai, il transmet ce
-procès-verbal au préfet qui arrête le tracé définitif et autorise toutes les opérations que comportent l'établissement,
-l'entretien et la surveillance de la ligne.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L90
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D410
-
-L'arrêté préfectoral détermine les travaux à effectuer. Il est notifié individuellement aux intéressés. Les travaux peuvent
-commencer trois jours après cette notification.
-
-Ce délai ne s'applique pas aux travaux d'entretien.
-
-Si les travaux ne sont pas commencés dans les quinze jours de l'avertissement, celui-ci doit étre renouvelé.
-
-Lorsque, pour des raisons d'ordre et de sécurité publique, il y a urgence à établir ou rétablir une ligne télégraphique ou
-téléphonique, le préfet, par un arrêté motivé, peut prescrire l'exécution immédiate des travaux.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L91
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D411
-
-Les notifications et avertissements prévus ci-dessus peuvent être donnés au locataire, fermier, gardien ou régisseur de la
-propriété.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L92
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D412
-
-Les fils de télécommunications, autres que ceux des lignes d'intérêt général, ne peuvent être établis dans les égouts
-appartenant aux communes qu'après avis des conseils municipaux et moyennant une redevance si les conseils municipaux
-l'exigent.
-
-Le taux de cette redevance est déterminé par décret.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L85 al. 2 et 3
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D413
-
-Lorsque le tribunal administratif, appelé à régler l'indemnité visée à l'article L. 51, croit devoir ordonner une expertise,
-il y est procédé par un seul expert qui est désigné d'office par le tribunal, à défaut par les parties de l'avoir nommé
-d'accord dans le délai qui leur a été imparti.
-
-L'expert désigné d'office ne peut être un agent de l'administration des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L51
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L93 al. 3 et 4
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D414
-
-Les participations aux frais d'établissement des lignes de télécommunications sont dans tous les cas définitivement acquises
-à l'administration des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D416
-
-L'administration des postes et télécommunications reste étrangère à tout litige pouvant naître entre l'occupant d'un local ou
-le locataire et le propriétaire à l'occasion de la réalisation d'une installation de télécommunication.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D417
-
-La [*frais - charge*] réparation des dommages de toute nature pouvant résulter de l'installation téléphonique ou
-télégraphique incombe au locataire, à l'occupant ou au copropriétaire, selon le cas.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D419
-
-Le titulaire d'un poste d'abonnement d'une ligne d'intérêt privé ou d'une liaison spécialisée doit accorder aux agents de
-l'administration des postes et télécommunications chargés du service des télécommunications, qui justifient de leur qualité,
-l'accès, à des heures convenables, des locaux où sont installés la ligne et le poste.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-##### SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées).<a id=244></a>
-
-###### Article D420
-
-L'établissement de toute ligne terminale d'abonnement principal téléphonique ou télex donne lieu au paiement de frais
-forfaitaires d'accès au réseau.
-
-Une contribution supplémentaire peut être demandée à l'abonné lorsque l'établissement de la ligne présente des difficultés
-exceptionnelles, soit en raison de la situation de l'immeuble à raccorder, soit en raison des modalités de sa construction ou
-de son aménagement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-961 1993-07-28 art. 2 JORF 29 juillet 1993
-
-_Abrogé par_:
-
-  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D317 (Ab)
-
-
-###### Article D425
-
-Les lignes ou sections de ligne de télécommunications sont normalement établies suivant le parcours direct, par les voies
-classées praticables et dans les conditions fixées par l'administration des postes et télécommunications.
-
-Lorsque, dans l'intérêt du service, le parcours emprunté est plus long que le parcours direct, les parts contributives à
-mettre à la charge des abonnés doivent être calculées en considérant le tracé direct, par les voies classées praticables,
-qu'il eût été possible d'adopter.
-
-Par contre, lorsque les lignes ou sections de ligne sont, sur la demande expresse des usagers, établies suivant un parcours
-ou dans des conditions autres que celles fixées par l'administration des postes et télécommunications, l'établissement de ces
-lignes ou sections de ligne est à leur charge.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-##### SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé".<a id=245></a>
-
-###### Article D427
-
-L'établissement de toutes lignes d'intérêt privé demeure à la charge exclusive des permissionnaires respectifs et reste
-subordonné aux autorisations locales ou particulières nécessaires pour la traversée des voies publiques ou des propriétés
-privées.
-
-Ces autorisations sont obtenues par les soins des permissionnaires dès lors que les lignes d'intérêt privé ont été dûment
-autorisées par l'administration des P.T.T.
-
-En conséquence, sont à la charge exclusive du permissionnaire :
-
-- les redevances dues aux communes pour occupation de leurs égouts ;
-
-- les indemnités réclamées par les propriétaires intéressés pour préjudice résultant des travaux d'établissement ou
-d'entretien des lignes ;
-
-- les frais pouvant résulter du déplacement des lignes par suite de clôture, réparation, surélévation, etc., effectuées par
-des propriétaires en vertu de l'article L. 49 du code des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L49
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-#### CHAPITRE II : Entretien des lignes<a id=246></a>
-
-##### SECTION 1 : Dispositions générales.<a id=247></a>
-
-###### Article D431
-
-Les lignes de télécommunications établies par l'administration des postes et télécommunications sont obligatoirement
-entretenues par elle.
-
-L'administration des postes et télécommunications assure également, dans les immeubles groupant plusieurs logements,
-l'entretien des réseaux téléphoniques intérieurs établis en application de l'article 13 du décret n° 69-596 du 14 juin 1969.
-
-Lorsqu'une redevance d'entretien est exigible, elle est calculée d'après la distance ayant servi de base pour le calcul des
-parts contributives.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Cite_:
-
-  - Décret n°69-596 1969-06-14 art. 13
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-_Abrogé par_:
-
-  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-#### CHAPITRE III : Fourniture et entretien des installations de télécommunications.<a id=248></a>
+#### CHAPITRE III : Fourniture et entretien des installations de télécommunications.<a id=245></a>
 
 ###### Article D440
 
@@ -22842,9 +22434,9 @@ _Abrogé par_:
   - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
 
 
-### TITRE IV : Police des liaisons et des installations du réseau de télécommunications<a id=249></a>
+### TITRE IV : Police des liaisons et des installations du réseau de télécommunications<a id=246></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=250></a>
+#### CHAPITRE Ier : Dispositions générales.<a id=247></a>
 
 ###### Article D456
 
@@ -22890,9 +22482,9 @@ _Abrogé par_:
   - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
 
 
-## LIVRE III : Les services financiers<a id=251></a>
+## LIVRE III : Les services financiers<a id=248></a>
 
-### TITRE Ier : Chèques postaux.<a id=252></a>
+### TITRE Ier : Chèques postaux.<a id=249></a>
 
 ###### Article D488
 
@@ -23237,7 +22829,7 @@ _Cite_:
   - Code des postes et des communications électroniques L109 al. 1
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=253></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=250></a>
 
 ###### Article D489
 
@@ -23744,7 +23336,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE II : Mandats.<a id=254></a>
+### TITRE II : Mandats.<a id=251></a>
 
 ###### Article D523
 
@@ -24019,7 +23611,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D540 (Ab)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=255></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=252></a>
 
 ###### Article D525
 
@@ -24433,7 +24025,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=256></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=253></a>
 
 ###### Article D549
 
@@ -24619,7 +24211,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=257></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=254></a>
 
 ###### Article D553
 
