@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1977-11-09
+Version Consolidée au 1978-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -21,7 +21,7 @@ Version Consolidée au 1977-11-09
       - [TITRE III : Servitudes radioélectriques (art. L54 à L64)](#18)
         - [CHAPITRE Ier : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. L54 à L56)](#19)
         - [CHAPITRE II : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. L57 à L62)](#20)
-        - [CHAPITRE III : Dispositions pénales. (art. L64)](#21)
+        - [CHAPITRE III : Dispositions pénales. (art. L63 à L64)](#21)
       - [TITRE IV : Police des liaisons et des installations du réseau des télécommunications (art. L65 à L71)](#22)
         - [CHAPITRE Ier : Dispositions générales. (art. L65)](#23)
         - [CHAPITRE II : Dispositions pénales. (art. L67 à L71)](#24)
@@ -1505,6 +1505,63 @@ _Créé par_:
   - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
+###### Article L43
+
+Toute personne qui, sciemment, transmet ou met en circulation, par la voie radioélectrique, des signaux ou appels de
+détresse, faux ou trompeurs , est punie d'un emprisonnement de huit jours à un an et d'une amende de 720 F à 20 000 F ou de
+l'une de ces deux peines seulement.
+
+Les appareils utilisés par le délinquant ou ses complices peuvent être confisqués.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 24 octobre 2007 - art. 6-2 (V)
+  - Arrêté du 17 décembre 2007 - art. 1 (V)
+  - Arrêté du 17 décembre 2007 - art. 2 (V)
+  - Arrêté du 30 janvier 2009 (V)
+  - Arrêté du 27 mars 2015 (V)
+  - Arrêté du 2 octobre 2015 (V)
+  - Arrêté du 5 avril 2016 - art. 3
+  - Décret n°2015-1489 du 17 novembre 2015 (V)
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 4 (V)
+  - Décret n°2017-1870 du 29 décembre 2017 - art. 1
+  - Décret n°2018-508 du 21 juin 2018 (V)
+  - Arrêté du 30 août 2018 (V)
+  - Code des postes et des communications électroni... - art. L34-9 (VD)
+  - Code des postes et des communications électroni... - art. L34-9-1 (M)
+  - Code des postes et des communications électroni... - art. L39-4 (VD)
+  - Code des postes et des communications électroni... - art. R20-21 (V)
+  - Code des postes et des communications électroni... - art. R20-44-11 (V)
+  - Code des postes et des communications électroni... - art. R20-44-23 (VD)
+  - Code des postes et des communications électroni... - art. R20-44-28 (V)
+  - Code général des impôts, CGI. - art. 1519 H (V)
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L81
+  - Code des postes et télécommunications L97-1
+  - Code des postes et des communications électronique - art. L97-1 (T)
+  - Loi n°1938-06-15 art. 2
+
+_Modifié par_:
+
+  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+_Nouveaux textes_:
+
+  - Code des postes et des communications électronique - art. L39-7 (V)
+
+
 ###### Article L44
 
 Toute personne qui effectue des transmissions radioélectriques en utilisant sciemment un indicatif d'appel de la série
@@ -2097,6 +2154,63 @@ _Cite_:
 
 
 #### CHAPITRE III : Dispositions pénales.<a id=21></a>
+
+###### Article L63
+
+Les infractions aux dispositions du chapitre Ier et des règlements pris pour son application sont passibles [*sanction*]
+d'une amende de 150 F à 20 000 F [*taux résultant de la loi 77-1468 du 30 décembre 1977*].
+
+Sur réquisition du ministère public agissant à la demande du ministre intéressé, le tribunal saisi de la poursuite impartit
+aux personnes qui contreviennent aux dispositions du chapitre Ier, sous peine d'une astreinte de 5 F à 50 F par jour de
+retard, un délai pour régulariser la situation.
+
+Dans le cas où le délai n'est pas observé, l'astreinte prononcée court à partir de l'expiration dudit délai jusqu'au jour où
+la situation est effectivement régularisée.
+
+Si cette régularisation n'est pas intervenue dans l'année de l'expiration du délai, le tribunal peut, sur réquisition du
+ministère public agissant dans les mêmes conditions, relever à une ou plusieurs reprises le montant de l'astreinte, même au-
+delà du maximum prévu ci-dessus.
+
+Le tribunal peut autoriser le reversement d'une partie des astreintes lorsque la situation aura été régularisée et que le
+redevable établira qu'il a été empêché d'observer, par une circonstance indépendante de sa volonté, le délai qui lui avait
+été imparti.
+
+En outre, si, à l'expiration du délai fixé par le jugement, la situation n'a pas été régularisée, l'administration peut faire
+effectuer les travaux d'office aux frais et risques des personnes civilement responsables.
+
+Les personnes qui ont été condamnées par application du présent article et qui, dans les trois années [*délai*] qui suivent,
+commettent une nouvelle infraction aux dispositions du présent article, sont punies d'une amende de 300 F à 40 000 F [*taux
+résultant de la loi 77-1468 du 30 décembre 1977*] et d'un emprisonnement [*durée*] de onze jours à un mois ou de l'une de ces
+deux peines seulement.
+
+Les infractions aux dispositions du chapitre Ier peuvent être constatées par des procès-verbaux dressés par les officiers de
+police judiciaire, les gendarmes et les fonctionnaires assermentés de l'administration intéressée.
+
+Ces procès-verbaux font foi jusqu'à preuve du contraire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L105
+  - Loi n°49-758 1949-06-09 art. 9
+
+_Modifié par_:
+
+  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R*42 (V)
+
 
 ###### Article L64
 
@@ -5644,6 +5758,36 @@ _Créé par_:
 _Modifié par_:
 
   - Décret n°70-1171 1970-12-15 art. 1 JORF 17 décembre 1970
+
+
+###### Article R*52-3
+
+Les infractions aux dispositions des articles L. 89 (2e et 3e alinéas) et L. 96-1 sont passibles [*sanction*] des peines
+prévues à l'article R. 40 du code pénal (soit 1 200 à 3 000 F) [*taux*].
+
+Sera puni des mêmes peines quiconque utilisera ou exploitera une station radioélectrique en dehors des conditions fixées dans
+l'autorisation administrative, lorsqu'il y a lieu à une telle autorisation.
+
+En outre et dans tous les cas, le tribunal pourra prononcer la saisie et la confiscation des appareils.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications L89 al. 2 et 3 et L96-1
+  - Code pénal R40
+
+_Créé par_:
+
+  - Décret n°77-1514 1977-12-28 art. 1 JORF 1 janvier 1978
+
+_Abrogé par_:
+
+  - Décret n°92-116 du 4 février 1992 - art. 2 (V) JORF 6 février 1992
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
 
 
 ##### TITRE VII : Agence nationale des fréquences<a id=64></a>
