@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1966-12-28
+Version Consolidée au 1967-01-08
 ## Contenu: 
   - [Partie législative (art. L1 à L125)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -91,8 +91,8 @@ Version Consolidée au 1966-12-28
       - [TITRE II : Affranchissement, recommandation et chargement (art. D37 à D57)](#88)
         - [Chapitre Ier : Affranchissement. (art. D37 à D46)](#89)
         - [Chapitre II : Recommandation et chargement. (art. D47 à D57)](#90)
-      - [TITRE IV : Franchise postale et dispense d'affranchissement (art. D60 à D80)](#91)
-        - [CHAPITRE Ier : Courrier officiel. (art. D60 à D74)](#92)
+      - [TITRE IV : Franchise postale et dispense d'affranchissement (art. D58 à D80)](#91)
+        - [CHAPITRE Ier : Courrier officiel. (art. D58 à D74)](#92)
         - [CHAPITRE II : Correspondance des militaires. (art. D75)](#93)
         - [CHAPITRE III : Sécurité sociale et mutualité sociale agricole. (art. D77 à D78)](#94)
         - [CHAPITRE IV : Avis et avertissements des administrations financières. (art. D79)](#95)
@@ -8203,6 +8203,62 @@ _Abrogé par_:
 ### TITRE IV : Franchise postale et dispense d'affranchissement<a id=91></a>
 
 #### CHAPITRE Ier : Courrier officiel.<a id=92></a>
+
+###### Article D58
+
+Est admise à circuler en franchise par la poste, dans les conditions fixées ci-après, la correspondance exclusivement
+relative au service de l'Etat, échangée entre fonctionnaires chefs d'un service d'une administration de l'Etat, ainsi que la
+correspondance de même nature adressée par ces fonctionnaires aux chefs de service des établissements publics à caractère
+administratif.
+
+La liste de ces bénéficiaires est établie par arrêté du ministre des postes et télécommunications.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°67-24 1967-01-02 art. 1 JORF 8 janvier 1967
+
+_Abrogé par_:
+
+  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
+
+
+###### Article D59
+
+Les dérogations aux dispositions de l'article D. 58 ainsi que les exceptions prévues dans le présent chapitre sont fixées par
+arrêté conjoint du ministre des postes et télécommunications et du ministre des finances.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications D58
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°67-24 1967-01-02 art. 1 JORF 8 janvier 1967
+
+_Abrogé par_:
+
+  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
+
 
 ###### Article D60
 
