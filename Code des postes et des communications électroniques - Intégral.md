@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1987-02-06
+Version Consolidée au 1987-05-14
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -121,7 +121,7 @@ Version Consolidée au 1987-02-06
               - [1. : Dispositions générales. (art. D104)](#118)
               - [3. : Adresse. (art. D107 à D110)](#119)
             - [Paragraphe 4 : Compte des mots. (art. D116)](#120)
-            - [Paragraphe 5 : Remise des télégrammes. (art. D117)](#121)
+            - [Paragraphe 5 : Remise des télégrammes. (art. D117 à D121)](#121)
             - [Paragraphe 6 : Perception des tarifs. (art. D126 à D128)](#122)
             - [Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux (art. D130 à D219-2)](#123)
               - [1. : Télégrammes relatifs à la sécurité de la vie humaine. (art. D130 à D133)](#124)
@@ -180,7 +180,7 @@ Version Consolidée au 1987-02-06
               - [3. : Abonnements principaux d'extension. (art. D322 à D323)](#177)
               - [5. : Abonnements spéciaux. (art. D329 à D331)](#178)
             - [Paragraphe 3 : Abonnements complémentaires. (art. D332)](#179)
-            - [Paragraphe 4 : Abonnements supplémentaires permanents. (art. D334)](#180)
+            - [Paragraphe 4 : Abonnements supplémentaires permanents. (art. D333 à D334)](#180)
             - [Paragraphe 6 : Suspension et résiliation des abonnements. (art. D337 à D342)](#181)
             - [Paragraphe 7 : Modification des conditions de concession d'un abonnement (art. D347 à D355)](#182)
               - [2. : Transformation des abonnements. (art. D347 à D355)](#183)
@@ -11949,6 +11949,27 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
+###### Article D121
+
+Les télégrammes adressés à des abonnés au téléphone ou à des abonnés au service télex sont téléphonés ou télexés aux
+destinataires, quel que soit le service particulier demandé sauf opposition de leur part.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
+
+
 ##### Paragraphe 6 : Perception des tarifs.<a id=122></a>
 
 ###### Article D126
@@ -14115,6 +14136,43 @@ _Modifié par_:
 
 
 ##### Paragraphe 4 : Abonnements supplémentaires permanents.<a id=180></a>
+
+###### Article D333
+
+Un poste supplémentaire téléphonique ou télex est desservi par une ligne supplémentaire, laquelle peut être reliée au réseau
+général.
+
+Une ligne supplémentaire est destinée au service exclusif du titulaire de l'abonnement principal. Elle doit être entièrement
+contenue dans la zone desservie par le centre téléphonique auquel la ligne d'abonnement principal est normalement rattachée.
+
+Les deux extrémités d'une ligne supplémentaire doivent être situées dans la même circonscription tarifaire téléphonique.
+
+En aucun cas une ligne supplémentaire ne peut être réalisée si le système d'abonné constitué par le poste supplémentaire, la
+ligne supplémentaire et l'installation reliée au réseau général ne satisfait pas, sans adjonction d'amplificateur ni de
+dispositifs particuliers d'alimentation, aux normes de transmission fixées par l'administration des P.T.T.
+
+Les lignes supplémentaires sont dites intérieures ou extérieures selon leur constitution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°75-1275 1975-12-26 art. 1 JORF 30 décembre 1975
+  - Décret n°77-351 1977-03-28 art. 1 JORF 1er avril 1977
+  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D333-2 (Ab)
+
 
 ###### Article D334
 
