@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1983-07-23
+Version Consolidée au 1984-04-19
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -17126,6 +17126,41 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
+###### Article D500
+
+Sont portés au débit des comptes :
+
+1° Le montant des chèques postaux tirés sur ces comptes par les titulaires ou leurs représentants autorisés ;
+
+2° Le montant des ordres de débit régulièrement établis ;
+
+3° Le montant des taxes relatives à l'exécution des opérations ou au fonctionnement des comptes ;
+
+4° Le montant des opérations régulièrement effectuées au moyen des cartes de paiement délivrées par l'administration des
+postes et communications électroniques.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
+  - Décret n°84-288 1984-04-17 art. 2 JORF 19 avril 1984
+
+
 ###### Article D501
 
 L'administration des postes et communications électroniques fournit aux titulaires de comptes courants postaux des formules
@@ -17163,6 +17198,28 @@ _Modifié par_:
 _Cite_:
 
   - Code des postes et des communications électronique - art. L105 (Ab)
+
+
+###### Article D501-1
+
+Les titulaires de comptes courants postaux peuvent, sous réserve de son agrément, obtenir de l'administration des postes et
+communications électroniques la délivrance de cartes de paiement.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°84-288 1984-04-17 art. 3 JORF 19 avril 1984
 
 
 ###### Article D503
@@ -17377,6 +17434,62 @@ _Modifié par_:
 _Abrogé par_:
 
   - Décret n°92-456 du 22 mai 1992 - art. 45 (Ab) JORF 23 mai 1992
+
+
+###### Article D512
+
+Le délai de validité du chèque postal est fixé à un an. Celui du chèque postal délivré sous forme de lettre-chèque est fixé à
+deux mois. Ce délai est décompté de quantième en quantième ; il court de la date d'émission jusqu'à la date à laquelle le
+chèque parvient au centre de chèques teneur du compte à débiter, ou est présenté au paiement, au guichet d'un bureau de
+poste. Lorsque le chèque postal est émis dans un pays où est en usage un calendrier autre que le calendrier grégorien, le
+jour de l'émission est ramené au jour correspondant au calendrier grégorien.
+
+Au regard de l'administration des postes et télécommunications, le chèque postal périmé est nul et de nul effet ; il est
+renvoyé ou rendu au tireur ou à la personne qui l'a transmis ou présenté au paiement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
+  - Décret n°84-288 1984-04-17 art. 4 JORF 19 avril 1984
+
+
+###### Article D518
+
+Lorsque le compte en instance de clôture a été apuré, le montant net de l'avoir restant en compte est remboursé à l'ayant
+droit par chèque postal. L'administration des postes et communications électroniques peut exiger que les formules de chèques
+restées sans emploi entre les mains de l'intéressé ainsi que les cartes de paiement délivrées au titre du compte lui soient
+restituées.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
+  - Décret n°84-288 1984-04-17 art. 4 JORF 19 avril 1984
 
 
 ###### Article D519
@@ -17615,6 +17728,55 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
+###### Article D494
+
+Sont portés au crédit des comptes courants postaux :
+
+1° Le montant des mandats de versement émis à la demande soit des titulaires pour alimenter leur propre compte, soit de
+tiers ;
+
+2° Le montant des mandats postaux et télégraphiques de toutes catégories adressés ou remis par le bénéficiaire ou à sa
+demande au centre de chèques postaux teneur de son compte ;
+
+3° Les virements ordonnés par d'autres titulaires de comptes courants postaux ;
+
+4° Le montant des chèques bancaires et des effets de commerce encaissés dans les conditions prévues à l'article D. 499 ;
+
+5° Le montant des opérations effectuées au moyen de cartes de paiement, dans la limite, éventuellement, de la garantie prévue
+à l'article L. 107-1.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications L107-1 et D499
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L171
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Cité par_:
+
+  - Décret n°64-345 du 18 avril 1964 - art. 6 (V)
+
+_Modifié par_:
+
+  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
+  - Décret n°84-288 1984-04-17 art. 1 JORF 19 avril 1984
+
+_Abrogé par_:
+
+  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
 ###### Article D496
 
 Les virements postaux entre la France et les pays adhérents à l'arrangement de l'Union postale universelle concernant les
@@ -17754,6 +17916,62 @@ _Créé par_:
 _Modifié par_:
 
   - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
+
+_Abrogé par_:
+
+  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D506
+
+Lorsque le chèque postal est présenté au paiement par son bénéficiaire, un paiement partiel jusqu'à concurrence de l'avoir
+disponible peut avoir lieu dans les conditions prévues à l'article L. 101. Quand le bénéficiaire a demandé la délivrance d'un
+certificat de non-paiement, le centre en dresse un pour le surplus.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications L101
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
+  - Décret n°72-121 1972-02-14 art. 1 JORF 16 février 1972
+  - Décret n°81-256 1981-03-13 art. 3 JORF 20 mars 1981
+  - Décret n°84-288 1984-04-17 art. 4 JORF 19 avril 1984
+
+_Abrogé par_:
+
+  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D506-1
+
+Sauf dans les cas prévus par les lois et règlements en vigueur, une opération ne peut être inscrite au débit d'un compte
+courant postal pour un montant supérieur à l'avoir disponible au compte, après déduction des taxes éventuellement
+applicables.
+
+L'opération exécutée au-delà de l'avoir disponible peut donner lieu à perception de frais [*agios*] proportionnels au montant
+et à la durée de l'insuffisance de provision constatée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°84-288 1984-04-17 art. 3 JORF 19 avril 1984
 
 _Abrogé par_:
 
