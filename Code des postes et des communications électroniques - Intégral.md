@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1969-01-09
+Version Consolidée au 1969-11-21
 ## Contenu: 
   - [Partie législative (art. L1 à L125)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -13,7 +13,7 @@ Version Consolidée au 1969-01-09
         - [CHAPITRE II : Distribution au guichet. (art. L15)](#10)
       - [TITRE VII : Poste maritime. (art. L16)](#11)
       - [TITRE VIII : Dispositions pénales. (art. L18 à L31)](#12)
-    - [LIVRE II : Le service des télécommunications (art. L32 à L96)](#13)
+    - [LIVRE II : Le service des télécommunications (art. L32 à L96-1)](#13)
       - [TITRE Ier : Dispositions générales (art. L32 à L45)](#14)
         - [CHAPITRE Ier : Le monopole des télécommunications. (art. L32 à L38)](#15)
         - [CHAPITRE II : Dispositions pénales. (art. L40 à L45)](#16)
@@ -30,8 +30,8 @@ Version Consolidée au 1969-01-09
         - [CHAPITRE II : Dispositions pénales. (art. L74 à L86)](#27)
           - [SECTION 1 : Dispositions spéciales aux eaux non territoriales. (art. L77 à L80)](#28)
           - [SECTION 2 : Dispositions spéciales aux eaux territoriales. (art. L82 à L86)](#29)
-      - [TITRE VI : Services radioélectriques (art. L87 à L96)](#30)
-        - [CHAPITRE Ier : Dispositions générales. (art. L87 à L96)](#31)
+      - [TITRE VI : Services radioélectriques (art. L87 à L96-1)](#30)
+        - [CHAPITRE Ier : Dispositions générales. (art. L87 à L96-1)](#31)
     - [LIVRE III : Les services financiers (art. L98 à L124)](#32)
       - [TITRE Ier : Chèques postaux. (art. L98 à L100)](#33)
         - [(en vigueur jusqu'au 31 décembre 2005). (art. L100)](#34)
@@ -2665,6 +2665,70 @@ _Créé par_:
   - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
+###### Article L89
+
+L'utilisation des stations radioélectriques privées de toute nature servant à assurer l'émission, la réception ou, à la fois,
+l'émission et la réception de signaux et de correspondances est subordonnée à une autorisation administrative. Toutefois, est
+autorisée de plein droit l'utilisation des stations exclusivement composées d'appareils de faible puissance et de faible
+portée appartenant à des catégories déterminées par arrêté interministériel.
+
+Un appareil radioélectrique servant à l'émission, à la réception ou à l'émission et à la réception de signaux et de
+correspondances privés ne peut être fabriqué, importé, vendu ou acquis en vue de son utilisation en France que [*condition*]
+s'il a fait l'objet d'une homologation dans les conditions déterminées par décret en Conseil d'Etat ou s'il est conforme à un
+type homologué dans les mêmes conditions. Cette disposition n'est pas applicable aux appareils constituant les stations
+d'amateur définies par décret ni aux stations expérimentales destinées à des essais techniques et à des études scientifiques
+relatifs à la radioélectricité.
+
+Un appareil homologué ou conforme à un type homologué ne peut être modifié qu'avec l'accord du ministre des postes et
+télécommunications.
+
+Les fonctionnaires du ministère des postes et télécommunications et du ministère de l'intérieur chargés du contrôle peuvent
+procéder à toute vérification et effectuer tout prélèvement nécessaires pour s'assurer que les appareils détenus par les
+utilisateurs, les commerçants, les constructeurs et les importateurs sont homologués ou conformes à un type homologué et
+satisfont aux dispositions législatives et réglementaires.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L157
+  - Décret n°1926-12-28 art. 8
+
+_Créé par_:
+
+  - Loi n°66-495 1966-07-09 art. 1 JORF 10 juillet 1969
+
+_Modifié par_:
+
+  - Loi n°69-1038 1969-11-20 art. 1 JORF 21 novembre 1969
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+
+###### Article L90
+
+Le ministre des postes et télécommunications détermine par arrêté les catégories d'appareil radioélectriques d'émission pour
+la manoeuvre desquels la possession d'un certificat d'opérateur est obligatoire et les conditions d'obtention de ce
+certificat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L158
+  - Décret n°1926-12-28 art. 11
+
+_Créé par_:
+
+  - Loi n°69-1038 1969-11-20 art. 2 JORF 21 novembre 1969
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+
 ###### Article L91
 
 Les stations radio-électriques privées de réception ne doivent être la cause d'aucune gêne pour les postes récepteurs
@@ -2794,6 +2858,42 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article L96-1
+
+Tout détenteur d'un appareil radioélectrique d'émission, même s'il s'agit d'un appareil de télécommande, peut être tenu, dans
+les conditions qui sont fixées par décret en Conseil d'Etat, d'en effectuer la déclaration. Sont dispensés de cette
+déclaration les constructeurs et les commerçants fabriquant ou vendant habituellement des appareils radioélectriques
+d'émission.
+
+Tout constructeur, tout commerçant ou toute autre personne, cédant, fût-ce gratuitement, un appareil radioélectrique
+d'émission, même s'il s'agit d'un appareil de télécommande, peut être tenu, dans les conditions qui sont fixées par décret en
+Conseil d'Etat, de déclarer cette cession. Le cédant doit s'assurer de l'identité du cessionnaire et faire mention de celle-
+ci dans sa déclaration.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°66-495 1966-07-09 art. 2 JORF 10 juillet 1966
+
+_Modifié par_:
+
+  - Loi n°69-1038 1969-11-20 art. 3 JORF 21 novembre 1969
+
+_Abrogé par_:
+
+  - Loi n°90-1170 du 29 décembre 1990 - art. 10 () JORF 30 décembre 1990
+
+_Cité par_:
+
+  - Arrêté du 4 août 2006 - art. 1 (V)
+  - Arrêté du 12 octobre 2016 (V)
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
 
 
 ## LIVRE III : Les services financiers<a id=32></a>
