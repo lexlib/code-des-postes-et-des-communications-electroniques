@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1991-11-30
+Version Consolidée au 1992-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L126)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -41,8 +41,8 @@ Version Consolidée au 1991-11-30
       - [TITRE VI : Services radioélectriques (art. L89 à L97)](#38)
         - [CHAPITRE Ier : Dispositions générales. (art. L89 à L96)](#39)
         - [CHAPITRE II : Dispositions pénales. (art. L97)](#40)
-    - [LIVRE III : Les services financiers (art. L102 à L124)](#41)
-      - [TITRE Ier : Chèques postaux. (art. L102 à L108)](#42)
+    - [LIVRE III : Les services financiers (art. L109 à L124)](#41)
+      - [TITRE Ier : Chèques postaux. (art. L109 à L108)](#42)
         - [(en vigueur jusqu'au 31 décembre 2005). (art. L98 à L108)](#43)
       - [TITRE II : Mandats. (art. L110 à L116)](#44)
         - [(en vigueur jusqu'au 31 décembre 2005). (art. L110 à L116)](#45)
@@ -4796,172 +4796,6 @@ _Codifié par_:
 
 ### TITRE Ier : Chèques postaux.<a id=42></a>
 
-###### Article L102
-
-Dans les cas et conditions déterminés par décret, la non-exécution d'un chèque postal présenté au paiement par le
-bénéficiaire est constatée par un certificat de non-paiement, établi immédiatement par le centre de chèque postaux et qui
-sera transmis au bénéficiaire dans les quatre jours ouvrables qui suivent le jour de la réception du chèque par ledit centre.
-
-Ce certificat permet au bénéficiaire d'exercer son recours contre le tireur. Ce délai peut être modifié par décret.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L172-3
-  - Loi n°55-1551 du 28 novembre 1955 - art. 1, v. init.
-  - Code des postes et des communications électroni... - art. L136 (T)
-
-_Modifié par_:
-
-  - Décret n°72-120 1972-02-14 art. 1 JORF 16 février 1972
-
-_Abrogé par_:
-
-  - Loi n°91-1382 du 30 décembre 1991 - art. 20 (V) JORF 1er janvier 1992
-
-_Cité par_:
-
-  - Décret n°2018-284 du 18 avril 2018 - art. 13
-  - Décret n°2019-19 du 9 janvier 2019 (V)
-  - Code des postes et des communications électroni... - art. L103 (VD)
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-###### Article L103
-
-Le bénéficiaire d'un chèque postal doit donner avis du défaut de paiement au tireur dans les quatre jours ouvrables qui
-suivent le jour où il a reçu notification du certificat de non-paiement ou, s'il a renoncé audit certificat, le jour où il a
-eu connaissance du défaut de paiement.
-
-Le centre de chèques postaux prévient le tireur par lettre recommandée adressée dans les quarante-huit heures qui suivent
-l'établissement du certificat de non-paiement.
-
-Le centre de chèques postaux remet contre récépissé au greffier du tribunal de commerce ou du tribunal de grande instance
-statuant commercialement, du domicile du débiteur ou lui adresse, par lettre recommandée avec accusé de réception, deux
-copies exactes du certificat de non-paiement, dont l'une est destinée au parquet. Cette formalité doit être accomplie dans la
-quinzaine de l'établissement dudit certificat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°55-1551 du 28 novembre 1955 - art. 1, v. init.
-  - Code des postes et des communications électroni... - art. L137 (T)
-  - Code des postes, télégraphes et téléphones L172-4
-
-_Abrogé par_:
-
-  - Loi n°91-1382 du 30 décembre 1991 - art. 20 (V) JORF 1er janvier 1992
-
-_Cité par_:
-
-  - Décret n°2018-418 du 30 mai 2018 (V)
-  - Arrêté du 27 juillet 2018 - art. 6 (Ab)
-  - Décret n°2018-853 du 5 octobre 2018 (V)
-  - Arrêté du 22 mars 2019 - art. 6 (V)
-  - Code de la consommation - art. L122-22 (V)
-  - Code des postes et des communications électroni... - art. D537 (VD)
-  - Code des postes et des communications électroni... - art. D538 (VD)
-  - Code des postes et des communications électroni... - art. R55-1 (VD)
-  - Code des postes et des communications électroni... - art. R55-2 (VD)
-  - Code des postes et des communications électroni... - art. R55-6 (VD)
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-###### Article L103-1
-
-La signification au tireur du certificat de non-paiement établi pour défaut ou insuffisance de provision, faite après
-nouvelle présentation du chèque par ministère d'huissier, vaut commandement de payer.
-
-S'il n'y a pas paiement dans un délai de vingt jours à compter de la signification prévue à l'alinéa précédent
-[*computation*], l'huissier peut, sans autre procédure, saisir les biens meubles du tireur.
-
-A défaut de paiement à l'expiration d'un délai d'un mois après la saisie, le bénéficiaire du chèque peut faire procéder à la
-vente des objets saisis, sauf au débiteur à saisir la juridiction compétente en cas de difficulté.
-
-Les frais résultant de la nouvelle présentation du chèque par ministère d'huissier prévue à l'alinéa 1er sont à la charge du
-tireur. Si la provision disponible est suffisante, ces frais sont payés par le tiré en même temps que le montant du chèque.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°72-10 1972-01-03 art. 10 JORF 5 janvier 1972
-
-_Modifié par_:
-
-  - Loi n°75-4 1975-01-03 art. 6 JORF 4 janvier 1975 rectificatif JORF 16 novembre 1975
-
-_Abrogé par_:
-
-  - Loi n°91-1382 du 30 décembre 1991 - art. 20 (V) JORF 1er janvier 1992
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-
-###### Article L104
-
-Le bénéficiaire peut réclamer à celui contre lequel il exerce son recours :
-
-1° La somme impayée sur le montant du chèque postal ;
-
-2° Les intérêts au taux légal à partir de la date de présentation du titre, telle qu'elle est indiquée par le certificat de
-non-paiement ;
-
-3° Les frais d'inscription au greffe du tribunal compétent du certificat de non-paiement ainsi que les frais afférents.
-
-Les dispositions qui répriment les infractions en matière de chèques bancaires sont de plein droit applicables au chèque
-postal ; il en est de même des dispositions des articles 65-1, 65-2, 65-3, premier à quatrième alinéa, 65-4 , 71, 73, 73-1 et
-73-2 du décret du 30 octobre 1935 unifiant le droit en matière de chèques ainsi que celles concernant les attributions
-dévolues à la Banque de France ou aux établissements ayant reçu le privilège d'émission, pour la prévention et la répression
-de ces infractions. Toutefois le chèque postal ne peut être endossé.
-
-Les autres dispositions concernant le chèque bancaire ne sont pas applicables au chèque postal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L172-5
-  - Loi n°55-1551 du 28 novembre 1955 - art. 1, v. init.
-
-_Cite_:
-
-  - Décret n°1935-10-30 art. 65-1, 65-2, 65-3 al. 1 à 4, 65-4 , 71, 73, 73-1 et 73-2
-
-_Modifié par_:
-
-  - Loi n°72-10 1972-01-03 art. 11 JORF 5 janvier 1972
-  - Loi n°75-4 1975-01-03 art. 6 JORF 4 janvier 1975 rectificatif 16 novembre 1975
-  - Loi n°78-1239 du 29 décembre 1978 - art. 85 () JORF 30 décembre 1978
-  - Loi n°85-695 du 11 juillet 1985 - art. 24 () JORF 12 juillet 1985
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
 ###### Article L109
 
 Est acquis à l'Etat le solde de tout compte courant postal sur lequel aucune opération n'a été faite depuis dix ans .
@@ -5163,6 +4997,54 @@ NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est f
 _Créé par_:
 
   - Loi n°72-10 1972-01-03 art. 9 JORF 5 janvier 1972
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+
+###### Article L104
+
+Le bénéficiaire peut réclamer à celui contre lequel il exerce son recours :
+
+1° La somme impayée sur le montant du chèque postal ;
+
+2° Les intérêts au taux légal à partir de la date de présentation du titre, telle qu'elle est indiquée par le certificat de
+non-paiement ;
+
+Les dispositions qui répriment les infractions en matière de chèques bancaires sont de plein droit applicables au chèque
+postal ; il en est de même des dispositions des articles L. 131-72, L. 131- 73, L. 131-75 à L. 131-82, L. 163-1 et L. 163-9
+du code monétaire et financier et de l'article 73-2 du décret du 30 octobre 1935 unifiant le droit en matière de chèques
+ainsi que celles concernant les attributions dévolues à la Banque de France ou aux établissements ayant reçu le privilège
+d'émission, pour la prévention et la répression de ces infractions. Toutefois le chèque postal ne peut être endossé.
+
+Les autres dispositions concernant le chèque bancaire ne sont pas applicables au chèque postal.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L172-5
+  - Loi n°55-1551 du 28 novembre 1955 - art. 1, v. init.
+
+_Cite_:
+
+  - Décret n°1935-10-30 art. 73-2
+
+_Modifié par_:
+
+  - Loi n°91-1382 du 30 décembre 1991 - art. 19 () JORF 1er janvier 1992
 
 _Abrogé par_:
 
