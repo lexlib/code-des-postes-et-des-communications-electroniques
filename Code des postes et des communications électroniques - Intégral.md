@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1965-03-12
+Version Consolidée au 1965-05-26
 ## Contenu: 
   - [Partie législative (art. L1 à L125)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -7,7 +7,7 @@ Version Consolidée au 1965-03-12
         - [CHAPITRE Ier : Le monopole postal. (art. L1 à L4)](#4)
           - [(en vigueur jusqu'au 1er novembre 2005). (art. L4)](#5)
         - [CHAPITRE II : Dérogations à l'inviolabilité et au secret des correspondances. (art. L6)](#6)
-      - [TITRE III : Responsabilité de l'administration. (art. L7 à L13)](#7)
+      - [TITRE III : Responsabilité de l'administration. (art. L7 à L13-1)](#7)
       - [TITRE VI : Distribution postale (art. L14)](#8)
         - [CHAPITRE Ier : Distribution à domicile. (art. L14)](#9)
       - [TITRE VII : Poste maritime. (art. L16)](#10)
@@ -654,6 +654,18 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article L13-1
+
+Les réclamations concernant les objets de correspondances de toute nature ne sont recevables, quels qu'en soient l'objet et
+le motif, que dans le délai d'un an compté à partir du lendemain du jour de dépôt de l'envoi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
 
 
 ### TITRE VI : Distribution postale<a id=8></a>
