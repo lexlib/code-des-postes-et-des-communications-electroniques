@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1994-05-21
+Version Consolidée au 1994-08-10
 ## Contenu: 
   - [Partie législative (art. L1 à L126)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -42,9 +42,9 @@ Version Consolidée au 1994-05-21
       - [TITRE VI : Services radioélectriques (art. L89 à L97)](#39)
         - [CHAPITRE Ier : Dispositions générales. (art. L89 à L96)](#40)
         - [CHAPITRE II : Dispositions pénales. (art. L97)](#41)
-    - [LIVRE III : Les services financiers (art. L109 à L124)](#42)
-      - [TITRE Ier : Chèques postaux. (art. L109 à L108)](#43)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. L98 à L108)](#44)
+    - [LIVRE III : Les services financiers (art. L98 à L124)](#42)
+      - [TITRE Ier : Chèques postaux. (art. L98 à L109)](#43)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. L98 à L109)](#44)
       - [TITRE II : Mandats. (art. L110 à L116)](#45)
         - [(en vigueur jusqu'au 31 décembre 2005). (art. L110 à L116)](#46)
       - [TITRE III : Valeurs à recouvrer et envois contre remboursement (art. L117 à L124)](#47)
@@ -4818,33 +4818,6 @@ _Codifié par_:
 
 ### TITRE Ier : Chèques postaux.<a id=43></a>
 
-###### Article L109
-
-Est acquis à l'Etat le solde de tout compte courant postal sur lequel aucune opération n'a été faite depuis dix ans .
-
-La Poste peut prononcer d'office la clôture d'un compte courant, notamment pour utilisation abusive ou lorsqu'un ou plusieurs
-chèques postaux ont été tirés par le titulaire sans provision suffisante.
-
-En cas de décès du titulaire, le compte est clôturé à la date où le décès est porté à la connaissance du service détenteur du
-compte. Le remboursement du solde a lieu à la diligence du centre de chèques détenteur par mandat ou par virement postal au
-profit des héritiers.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L177
-  - Loi n°1941-11-17 art. 9
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-
 #### (en vigueur jusqu'au 31 décembre 2005).<a id=44></a>
 
 ###### Article L98
@@ -5315,6 +5288,45 @@ _Anciens textes_:
 _Modifié par_:
 
   - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+
+###### Article L109
+
+Est acquis à l'Etat le solde de tout compte courant postal qui n'a fait l'objet, de la part des ayants droit, d'aucune
+opération ou réclamation depuis trente ans.
+
+La Poste peut prononcer d'office la clôture d'un compte courant, notamment pour utilisation abusive ou lorsqu'un ou plusieurs
+chèques postaux ont été tirés par le titulaire sans provision suffisante.
+
+En cas de décès du titulaire, le compte est clôturé à la date où le décès est porté à la connaissance du service détenteur du
+compte. Le remboursement du solde a lieu à la diligence du centre de chèques détenteur par mandat ou par virement postal au
+profit des héritiers.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L177
+  - Loi n°1941-11-17 art. 9
+
+_Modifié par_:
+
+  - Loi n°94-679 du 8 août 1994 - art. 82 () JORF 10 août 1994
 
 _Abrogé par_:
 
