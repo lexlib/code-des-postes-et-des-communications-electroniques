@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2003-01-01
+Version Consolidée au 2003-03-19
 ## Contenu: 
   - [Partie législative (art. L1 à L129)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -15,7 +15,7 @@ Version Consolidée au 2003-01-01
       - [TITRE VIII : Dispositions pénales. (art. L17 à L31)](#12)
     - [LIVRE II : Les télécommunications (art. L32 à L97-1)](#13)
       - [TITRE Ier : Dispositions générales (art. L32 à L45)](#14)
-        - [CHAPITRE Ier : Définitions et principes. (art. L32 à L32-4)](#15)
+        - [CHAPITRE Ier : Définitions et principes. (art. L32 à L32-6)](#15)
         - [CHAPITRE II : Régime juridique (art. L33 à L34-9)](#16)
           - [SECTION 1 : Réseaux (art. L33 à L33-4-1)](#17)
           - [SECTION 2 : Services (art. L34 à L34-4)](#18)
@@ -47,7 +47,7 @@ Version Consolidée au 2003-01-01
       - [TITRE Ier : Dispositions générales (art. L34-10 à L40-1)](#44)
         - [Chapitre II : Régime juridique. (art. L34-10)](#45)
           - [SECTION 6 : Numérotation (art. L34-10)](#46)
-        - [Chapitre V : Dispositions pénales. (art. L39-3-1 à L40-1)](#47)
+        - [Chapitre V : Dispositions pénales. (art. L39-2 à L40-1)](#47)
     - [LIVRE III : Les services financiers (art. L98 à L124)](#48)
       - [TITRE Ier : Chèques postaux. (art. L98 à L109)](#49)
         - [(en vigueur jusqu'au 31 décembre 2005). (art. L98 à L109)](#50)
@@ -1717,15 +1717,16 @@ la nature des communications ainsi que les modalités de compensation, le cas é
 spécifiques des prestations assurées à ce titre, à la demande de l'Etat, par les opérateurs.
 
 III. - Pour les besoins de la facturation et du paiement des prestations de télécommunications, les opérateurs peuvent,
-jusqu'à la fin de la période au cours de laquelle la facture peut être également contestée ou des poursuites engagées pour en
-obtenir le paiement, utiliser, conserver et, le cas échéant, transmettre à des tiers concernés directement par la facturation
-ou le recouvrement les catégories de données techniques qui sont déterminées, dans les limites fixées par le IV, selon
-l'activité des opérateurs et la nature de la communication, par décret en Conseil d'Etat pris après avis de la Commission
-nationale de l'informatique et des libertés.
+jusqu'à la fin de la période au cours de laquelle la facture peut être légalement contestée ou des poursuites engagées pour
+en obtenir le paiement, utiliser, conserver et, le cas échéant, transmettre à des tiers concernés directement par la
+facturation ou le recouvrement les catégories de données techniques qui sont déterminées, dans les limites fixées par le IV,
+selon l'activité des opérateurs et la nature de la communication, par décret en Conseil d'Etat pris après avis de la
+Commission nationale de l'informatique et des libertés.
 
 Les opérateurs peuvent en outre réaliser un traitement de ces données en vue de commercialiser leurs propres services de
 télécommunications, si les usagers y consentent expressément et pour une durée déterminée. Cette durée ne peut, en aucun cas,
-être supérieure à la période correspondant aux relations contractuelles entre l'usager et l'opérateur.
+être supérieure à la période correspondant aux relations contractuelles entre l'usager et l'opérateur. Ils peuvent également
+conserver certaines données en vue d'assurer la sécurité de leurs réseaux.
 
 IV. - Les données conservées et traitées dans les conditions définies aux II et III portent exclusivement sur
 l'identification des personnes utilisatrices des services fournis par les opérateurs et sur les caractéristiques techniques
@@ -1747,13 +1748,9 @@ _Cite_:
   - Loi n°78-17 1978-01-06
   - Loi n°86-1067 du 30 septembre 1986 - art. 43-7 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 29 () JORF 16 novembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+  - Loi n°2003-239 du 18 mars 2003 - art. 20 () JORF 19 mars 2003
 
 _Codifié par_:
 
@@ -1795,34 +1792,6 @@ _Codifié par_:
 _Nouveaux textes_:
 
   - Code des postes et des communications électronique - art. L34-2 (M)
-
-
-###### Article L32-3-3
-
-Les dispositions des articles L. 32-3-1 et L. 32-3-2 sont applicables en Nouvelle-Calédonie, en Polynésie française et dans
-les îles Wallis et Futuna.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L32-3-1, L32-3-2
-
-_Créé par_:
-
-  - Loi n°2001-1062 2001-11-15 art. 71 JORF 16 novembre 2001
-
-_Abrogé par_:
-
-  - Loi n°2003-239 2003-03-18 art. 126 I 1° JORF 19 mars 2003
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. L34-4 (V)
 
 
 ###### Article L32-4
@@ -1887,6 +1856,26 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°96-659 du 26 juillet 1996 - art. 5 () JORF 27 juillet 1996
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+
+###### Article L32-6
+
+Les dispositions des articles L. 32-3-1, L. 32-3-2 et L. 32-5 sont applicables en Nouvelle-Calédonie, en Polynésie française
+et dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications L32-3-1, L32-3-2, L32-5
+
+_Créé par_:
+
+  - Loi n°2003-239 2003-03-18 art. 126 I 2° JORF 19 mars 2003
 
 _Codifié par_:
 
@@ -3461,11 +3450,12 @@ d'assurer et les conditions de leur fourniture.
 
 France Télécom assure la fourniture de tous les services obligatoires.
 
+Les opérateurs de services de télécommunications sont tenus de permettre l'accès par les autorités judiciaires, les services
+de la police et de la gendarmerie nationales, les services d'incendie et de secours et les services d'aide médicale urgente,
+agissant dans le cadre de missions judiciaires ou d'interventions de secours, à leurs listes d'abonnés et d'utilisateurs,
+complètes, non expurgées et mises à jour.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
 
 _Cité par_:
 
@@ -3482,6 +3472,10 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D98-1 (M)
   - Code des postes et des communications électronique - art. D98-7 (V)
   - Code des postes et des communications électronique - art. R10-2 (MMN)
+
+_Modifié par_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 74 () JORF 19 mars 2003
 
 _Codifié par_:
 
@@ -4374,28 +4368,26 @@ _Codifié par_:
   - Décret n°62-273 1962-03-12
 
 
-###### Article L39-2
+###### Article L39-2-1
 
-Sera puni de 150000 euros d'amende [* taux *] quiconque aura contrevenu aux dispositions du deuxième alinéa du III de
-l'article L. 33-1.
+Les dispositions du deuxième alinéa de l'article L. 39-2 sont applicables en Nouvelle-Calédonie, en Polynésie française et
+dans les îles Wallis et Futuna.
+
+Le montant de l'amende prévu par ces dispositions est égal à sa contre-valeur en monnaie locale.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code des postes et télécommunications L33-1
+  - Code des postes et télécommunications L39-2
 
-_Modifié par_:
+_Créé par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2003-239 2003-03-18 art. 126 I 3° JORF 19 mars 2003
 
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. L39-2-1 (V)
 
 
 ###### Article L39-3
@@ -6385,6 +6377,37 @@ _Codifié par_:
 
 
 #### Chapitre V : Dispositions pénales.<a id=47></a>
+
+###### Article L39-2
+
+Sera puni de 150 000 euros d'amende quiconque aura contrevenu aux dispositions du deuxième alinéa du III de l'article L.
+33-1.
+
+Le fait de contrevenir sciamment aux dispositions de l'article L. 32-5 est puni de 30 000 euros d'amende. Les personnes
+morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article L. 121-2 du code pénal, du
+délit prévu au présent alinéa. La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par
+l'article 131-38 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications L33-1, L32-5
+  - Code pénal - art. 131-38 (M)
+  - Code pénal L121-2, 131-38
+
+_Modifié par_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 72 (V) JORF 19 mars 2003
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. L39-2-1 (V)
+
 
 ###### Article L39-3-1
 
