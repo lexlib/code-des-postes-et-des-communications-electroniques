@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1984-10-25
+Version Consolidée au 1985-01-10
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -71,7 +71,7 @@ Version Consolidée au 1984-10-25
     - [LIVRE III : Les services financiers (art. R52-10)](#68)
       - [TITRE Ier : Chèques postaux. (art. R52-10)](#69)
     - [LIVRE IV : L'organisation financière (art. R*53 à R*104)](#70)
-      - [TITRE Ier : Constitution du budget annexe. (art. R*53 à R*55)](#71)
+      - [TITRE Ier : Constitution du budget annexe. (art. R*53 à R54-1)](#71)
       - [TITRE II : Dispositions budgétaires (art. R*56 à R*71)](#72)
         - [CHAPITRE Ier : Fixation des taxes. (art. R*56 à R*57)](#73)
         - [CHAPITRE II : Rémunération des services rendus. (art. R*59 à R60)](#74)
@@ -6473,6 +6473,41 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article R54-1
+
+Le ministre des P.T.T. est autorisé à procéder au recouvrement de la rémunération due par les usagers à un fournisseur de
+services télématiques interactifs ou de services d'informations téléphonées offerts au public lorsque ce fournisseur a conclu
+avec le ministre chargé des P.T.T. une convention en ce sens. La convention fixe dans chaque cas les modalités de calcul de
+cette rémunération qui représente une partie du tarif des redevances perçues auprès des usagers à l'occasion de ces
+communications.
+
+L'agent comptable des P.T.T. reverse au fournisseur la part de recette qui lui revient en application de cette convention.
+
+**Nota:**
+
+[*Dispositions prises en Conseil d'Etat en exécution de l'article 45 de l'ordonnance n° 59-2 du 2 janvier 1959.*]
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°85-31 1985-01-04 art. 1 JORF 10 janvier 1985
+
+_Abrogé par_:
+
+  - Décret n°97-290 du 24 mars 1997 - art. 1 (V) JORF 29 mars 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électronique - art. D301 (M)
+  - Code des postes et des communications électronique - art. D315 (M)
+  - Code des postes et des communications électronique - art. D406-2-1 (V)
 
 
 ### TITRE II : Dispositions budgétaires<a id=72></a>
