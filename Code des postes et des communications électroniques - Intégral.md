@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1962-12-19
+Version Consolidée au 1963-02-23
 ## Contenu: 
   - [Partie législative (art. L1 à L125)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -199,7 +199,7 @@ Version Consolidée au 1962-12-19
       - [TITRE II : Etablissement des lignes (art. D418 à D439)](#196)
         - [CHAPITRE Ier : Etablissement des lignes (art. D418 à D430)](#197)
           - [SECTION 1 : Dispositions générales. (art. D418)](#198)
-          - [SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées). (art. D424)](#199)
+          - [SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées). (art. D422 à D424)](#199)
           - [SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé". (art. D426 à D428)](#200)
           - [SECTION 4 : Faisceaux concédés. (art. D429 à D430)](#201)
         - [CHAPITRE II : Entretien des lignes (art. D432 à D439)](#202)
@@ -12602,6 +12602,31 @@ _Abrogé par_:
 
 
 ##### SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées).<a id=199></a>
+
+###### Article D422
+
+**Nota:**
+
+[*(Abrogé par décret n° 86-1064 du 29 septembre 1986, art. 1er)*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°63-155 1963-02-18 art. 1 JORF 23 février 1963
+
+_Abrogé par_:
+
+  - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+
 
 ###### Article D424
 
