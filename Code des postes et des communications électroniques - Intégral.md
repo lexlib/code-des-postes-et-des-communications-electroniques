@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1980-07-23
+Version Consolidée au 1980-07-30
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -9321,6 +9321,31 @@ _Créé par_:
 _Abrogé par_:
 
   - Décret n°92-382 du 30 mars 1992 - art. 1 (V) JORF 7 avril 1992
+
+
+###### Article D45
+
+Les objets de correspondance non ou insuffisamment affranchis donnent lieu à la perception sur le destinataire et, en cas de
+refus de ce dernier, sur l'expéditeur, d'une taxe égale à l'insuffisance d'affranchissement à laquelle s'ajoute une taxe fixe
+de traitement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°80-592 1980-07-29 art. 1 JORF 30 juillet 1980
+
+_Abrogé par_:
+
+  - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 
 ###### Article D46
