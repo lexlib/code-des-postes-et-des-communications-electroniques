@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1992-04-07
+Version Consolidée au 1992-05-23
 ## Contenu: 
   - [Partie législative (art. L1 à L126)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -92,7 +92,7 @@ Version Consolidée au 1992-04-07
           - [CHAPITRE III : Services relevant de l'article L. 34-5 (art. R11-5)](#89)
         - [CHAPITRE III : Services relevant de l'article L. 34-5 (art. R11-1 à R11-7)](#90)
     - [LIVRE III : Les services financiers (art. R52-10)](#91)
-      - [TITRE Ier : Chèques postaux. (art. R52-10)](#92)
+      - [TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005). (art. R52-10)](#92)
     - [LIVRE IV : L'organisation financière (art. R*53 à R*104)](#93)
       - [TITRE Ier : Constitution du budget annexe. (art. R*53 à R54-3)](#94)
       - [TITRE II : Dispositions budgétaires (art. R*56 à R*71)](#95)
@@ -9597,22 +9597,26 @@ _Codifié par_:
 
 ## LIVRE III : Les services financiers<a id=91></a>
 
-### TITRE Ier : Chèques postaux.<a id=92></a>
+### TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005).<a id=92></a>
 
 ###### Article R52-10
 
-Les dispositions réglementaires fixant les conditions d'application de la loi n° 72-10 du 3 janvier 1972 relative à la
-prévention et à la répression des infractions en matière de chèques sont applicables aux centres de chèques postaux.
+Les dispositions réglementaires fixant les conditions d'application du décret du 30 octobre 1935 modifié et relatives à la
+mise en oeuvre de l'interdiction d'émettre des chèques sont applicables aux centres de chèques postaux.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°72-10 1972-01-03
+  - Décret n°1935-10-30
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°75-903 1975-10-03 art. 43 JORF 5 octobre 1975 rectificatif JORF 29 novembre 1975 et JORF 7 décembre 1975
+  - Décret n°92-456 du 22 mai 1992 - art. 44 () JORF 23 mai 1992
+
+_Abrogé par_:
+
+  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 _Codifié par_:
 
@@ -21773,108 +21777,6 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-###### Article D509
-
-Le chèque postal qui n'a pas été suivi d'effet pour une cause quelconque ne peut donner lieu à protêt. Il est renvoyé ou
-rendu au tireur ou à la personne qui l'a transmis ou présenté au paiement.
-
-Lorsqu'il s'agit d'un chèque postal présenté au paiement par le bénéficiaire et demeuré impayé soit pour défaut ou
-insuffisance de provision, soit parce que le tireur a fait défense de payer pour une cause autre que la perte ou le vol du
-chèque, le règlement judiciaire ou la liquidation des biens du porteur, soit parce que la signature de tirage n'est pas
-conforme au spécimen détenu par le centre, le défaut de paiement est notifié, par le centre intéressé au présentateur, sur la
-demande expresse de celui-ci, au moyen de la remise ou de l'envoi d'un certificat de non-paiement.
-
-Le certificat, établi sur papier libre, est daté et signé par le chef de centre de chèques postaux qui tient le compte du
-tireur, ou par son représentant. Il énonce les causes de non-paiement et, en cas de paiement partiel, le montant de la somme
-qui a été payée.
-
-**Nota:**
-
-[* Les mots " chef d'établissement " sont substitués à ceux de : " receveur " ou " chef de centre ", par l'article 1er du
-décret n° 91-70 du 17 janvier 1991. *]
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Modifié par_:
-
-  - Décret n°72-121 1972-02-14 art. 2 JORF 16 février 1972
-
-_Abrogé par_:
-
-  - Décret n°92-456 du 22 mai 1992 - art. 45 (Ab) JORF 23 mai 1992
-
-
-###### Article D510
-
-Le centre de chèques postaux remet ou envoie sous pli recommandé trois copies du certificat de non-paiement au greffier du
-tribunal de commerce ou du tribunal de grande instance statuant commercialement dans le ressort duquel est situé le domicile
-du tireur du chèque postal.
-
-Sur ces copies, le nom du tireur du chèque est porté en lettres capitales. Au cas où celui-ci serait une femme mariée et où
-le chèque aurait été établi sous le nom patronymique de celle-ci, le centre de chèques indique également, s'il possède ce
-renseignement, le nom du mari.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°92-456 du 22 mai 1992 - art. 45 (Ab) JORF 23 mai 1992
-
-
-###### Article D511
-
-Le chef de centre de chèques postaux poursuit, auprès de la personne qui a présenté le chèque postal au paiement, le
-remboursement des émoluments et droits fiscaux qu'il a versés au greffe pour l'inscription du certificat de non-paiement.
-Lorsque le présentateur du chèque est titulaire d'un compte courant postal, le montant desdits émoluments et droits fiscaux
-est prélevé sur l'avoir disponible au compte. Si, faute d'avoir suffisant, ce prélévement n'est pas possible, ou s'il ne peut
-être effectué que partiellement, ou encore si, n'étant pas titulaire d'un compte courant postal, l'intéressé refuse de
-rembourser les frais avancés par le chef de centre de chèques postaux, le recouvrement des sommes dues ou restant dues est
-poursuivi dans les formes et conditions prévues aux articles 85 et suivants du décret n° 62-1587 du 29 décembre 1962.
-
-**Nota:**
-
-[* Les mots " chef d'établissement " sont substitués à ceux de : " receveur " ou " chef de centre ", par l'article 1er du
-décret n° 91-70 du 17 janvier 1991. *]
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Cite_:
-
-  - Décret n°62-1587 du 29 décembre 1962 - art. 85 (M)
-
-_Modifié par_:
-
-  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
-
-_Abrogé par_:
-
-  - Décret n°92-456 du 22 mai 1992 - art. 45 (Ab) JORF 23 mai 1992
 
 
 ###### Article D512
