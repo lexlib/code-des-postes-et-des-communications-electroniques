@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1977-07-10
+Version Consolidée au 1977-10-11
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -52,7 +52,7 @@ Version Consolidée au 1977-07-10
     - [LIVRE II : Le service des télécommunications (art. R10 à R*52-2)](#49)
       - [TITRE Ier : Dispositions générales (art. R10 à R*20)](#50)
         - [CHAPITRE II : Dispositions pénales. (art. R10)](#51)
-        - [CHAPITRE IV : Téléphone. (art. R*13 à R*20)](#52)
+        - [CHAPITRE IV : Téléphone. (art. R*12 à R*20)](#52)
       - [TITRE III : Servitudes radio-électriques (art. R*21 à R41)](#53)
         - [CHAPITRE Ier : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. R*21 à R*26)](#54)
         - [CHAPITRE II : Servitudes de protection des centres de réception radio-électriques contre les perturbations électromagnétiques. (art. R*28 à R27)](#55)
@@ -4399,6 +4399,61 @@ _Créé par_:
 
 
 #### CHAPITRE IV : Téléphone.<a id=52></a>
+
+###### Article R*12
+
+Un régime forfaitaire est applicable aux abonnements téléphoniques souscrits :
+
+Par les questures de l'Assemblée nationale et du Sénat pour le compte des services et des membres de ces assemblées ;
+
+Par les ministres et les secrétaires d'Etat.
+
+Ce régime donne aux bénéficiaires, contre paiement de la redevance d'abonnement applicable aux abonnements principaux
+ordinaires, le droit à l'exonération des taxes afférentes à l'utilisation du poste jusqu'à concurrence de :
+
+Pour les postes installés dans la circonscription de taxe téléphonique de Paris, 250 taxes de base par mois ;
+
+Pour les postes installés dans la première zone de taxation périphérique de la circonscription de taxe téléphonique de Paris,
+275 taxes de base par mois ;
+
+Pour les postes installés dans la deuxième zone de taxation périphérique de la circonscription de taxe téléphonique de Paris,
+350 taxes de base par mois ;
+
+Pour les autres postes, selon la distance à vol d'oiseau entre Paris et le chef-lieu du département où ils sont installés :
+
+De 25 à 50 kilomètres : 375 taxes de base par mois ;
+
+De 50 à 100 kilomètres : 450 taxes de base par mois ;
+
+De 100 à 200 kilomètres : 550 taxes de base par mois ;
+
+Plus de 200 kilomètres : 625 taxes de base par mois.
+
+Ledit régime est applicable, au choix de chaque membre des assemblées, de chaque ministre ou secrétaire d'Etat, au poste
+téléphonique installé à sa résidence de Paris d'un département de la métropole ou d'un département d'outre-mer.
+
+**Nota:**
+
+[*Dispositions prises en Conseil d'Etat en exécution de l'article 5 de l'ordonnance n° 59-2 du 2 janvier 1959.*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L213
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+_Modifié par_:
+
+  - Décret n°68-274 1968-03-23 art. 1 JORF 26 mars 1968
+
 
 ###### Article R*13
 
