@@ -1,12 +1,12 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1985-11-06
+Version Consolidée au 1986-02-01
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
       - [TITRE Ier : Dispositions générales (art. L1 à L6)](#3)
         - [CHAPITRE Ier : Le monopole postal. (art. L1 à L4)](#4)
           - [(en vigueur jusqu'au 1er novembre 2005). (art. L4)](#5)
-        - [CHAPITRE II : Dérogations à l'inviolabilité et au secret des correspondances. (art. L6)](#6)
+        - [CHAPITRE II : Dérogations à l'inviolabilité et au secret des correspondances. (art. L5 à L6)](#6)
       - [TITRE III : Responsabilité de l'administration. (art. L7 à L13-1)](#7)
       - [TITRE VI : Distribution postale (art. L14 à L15)](#8)
         - [CHAPITRE Ier : Distribution à domicile. (art. L14)](#9)
@@ -440,6 +440,36 @@ _Créé par_:
 
 
 #### CHAPITRE II : Dérogations à l'inviolabilité et au secret des correspondances.<a id=6></a>
+
+###### Article L5
+
+L'administration des postes et télécommunications communique aux autorités judiciaires qui en font la demande en matière
+pénale, au service des contributions directes ainsi qu'au régisseur du service de la redevance de l'audiovisuel les
+changements de domicile dont elle a connaissance.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L13
+  - Loi n°1921-12-31 art. 11
+
+_Créé par_:
+
+  - Loi n°66-948 1966-12-22 art. 34 JORF 23 décembre 1966
+
+_Modifié par_:
+
+  - Loi n°85-1407 1985-12-30 art. 92 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+_Nouveaux textes_:
+
+  - Code des postes et des communications électronique - art. L6 (V)
+
 
 ###### Article L6
 
