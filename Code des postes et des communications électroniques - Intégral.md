@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1987-11-01
+Version Consolidée au 1988-03-09
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -79,7 +79,7 @@ Version Consolidée au 1987-11-01
         - [CHAPITRE IV : Comptabilité administrative. (art. R*65 à R*69)](#76)
         - [CHAPITRE V : Dispositions particulières. (art. R*70 à R*71)](#77)
       - [TITRE III : Comptabilité générale (art. R*72 à R*87)](#78)
-        - [CHAPITRE Ier : Dispositions générales. (art. R*72 à R*80)](#79)
+        - [CHAPITRE Ier : Dispositions générales. (art. R*72 à R80-1)](#79)
         - [CHAPITRE II : Agence comptable. (art. R*81 à R*87)](#80)
       - [TITRE IV : Dispositions financières (art. R*88 à R*92)](#81)
         - [CHAPITRE Ier : Emprunts. (art. R*88 à R*90)](#82)
@@ -7929,6 +7929,30 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article R80-1
+
+La comptabilité matière des cartes prépayées utilisées dans les publiphones est tenue par un comptable justiciable de la Cour
+des comptes.
+
+**Nota:**
+
+[*Dispositions prises en Conseil d'Etat en exécution de l'article 45 de l'ordonnance n° 59-2 du 2 janvier 1959.*]
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°88-221 1988-03-07 art. 1 JORF 9 mars 1988
+
+_Abrogé par_:
+
+  - Décret n°97-290 du 24 mars 1997 - art. 1 (V) JORF 29 mars 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
 
 
 #### CHAPITRE II : Agence comptable.<a id=80></a>
