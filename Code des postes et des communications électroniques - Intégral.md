@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2003-12-20
+Version Consolidée au 2003-12-28
 ## Contenu: 
   - [Partie législative (art. L1 à L129)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -14010,9 +14010,18 @@ _Abrogé par_:
 
 ###### Article D6
 
-Les conditions d'admission des objets de correspondance de toute nature sont fixées par arrêté du ministre des postes et
-télécommunications sous réserve, en ce qui concerne le régime international, des stipulations figurant dans la Convention
-postale universelle.
+Les conditions d'admission des objets de correspondance de toute nature sont fixées par arrêté du ministre des postes et des
+communications électroniques sous réserve, en ce qui concerne le régime international, des stipulations figurant dans la
+Convention postale universelle.
+
+Le silence gardé pendant plus de neuf mois sur la demande d'agrément des expéditeurs de matières radioactives par voie
+postale vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
 
 **Liens relatifs à cet article**
 
@@ -14024,9 +14033,9 @@ _Codifié par_:
 
   - Décret n°62-275 1962-03-12
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+  - Décret n°2003-1264 du 23 décembre 2003 - art. 32 () JORF 28 décembre 2003
 
 
 ###### Article D7
