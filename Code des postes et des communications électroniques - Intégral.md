@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1988-03-09
+Version Consolidée au 1988-05-08
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -71,7 +71,7 @@ Version Consolidée au 1988-03-09
     - [LIVRE III : Les services financiers (art. R52-10)](#68)
       - [TITRE Ier : Chèques postaux. (art. R52-10)](#69)
     - [LIVRE IV : L'organisation financière (art. R*53 à R*104)](#70)
-      - [TITRE Ier : Constitution du budget annexe. (art. R*53 à R54-1)](#71)
+      - [TITRE Ier : Constitution du budget annexe. (art. R*53 à R54-3)](#71)
       - [TITRE II : Dispositions budgétaires (art. R*56 à R*71)](#72)
         - [CHAPITRE Ier : Fixation des taxes. (art. R*56 à R*57)](#73)
         - [CHAPITRE II : Rémunération des services rendus. (art. R*59 à R60)](#74)
@@ -6845,6 +6845,34 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D301 (M)
   - Code des postes et des communications électronique - art. D315 (M)
   - Code des postes et des communications électronique - art. D406-2-1 (V)
+
+
+###### Article R54-3
+
+Le ministre chargé des télécommunications est autorisé à procéder au recouvrement de la rémunération due par les usagers à un
+fournisseur de services de radiomessagerie unilatérale accessible par les réseaux publics commutés, lorsqu'il a conclu avec
+ce dernier une convention en ce sens.
+
+L'agent comptable des postes et télécommunications reverse au fournisseur les sommes perçues pour son compte en application
+de cette convention.
+
+**Nota:**
+
+[*Dispositions prises en Conseil d'Etat en exécution de l'article 45 de l'ordonnance n° 59-2 du 2 janvier 1959.*]
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°88-686 du 6 mai 1988 - art. 1 () JORF 8 mai 1988
+
+_Abrogé par_:
+
+  - Décret n°97-290 du 24 mars 1997 - art. 1 (V) JORF 29 mars 1997
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
 
 
 ### TITRE II : Dispositions budgétaires<a id=72></a>
