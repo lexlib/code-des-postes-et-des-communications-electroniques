@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1970-01-10
+Version Consolidée au 1970-09-15
 ## Contenu: 
   - [Partie législative (art. L1 à L125)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -183,8 +183,8 @@ Version Consolidée au 1970-01-10
               - [4. : Abonnements à ligne partagée. (art. D324 à D327)](#180)
               - [5. : Abonnements spéciaux. (art. D329 à D331)](#181)
             - [Paragraphe 6 : Suspension et résiliation des abonnements. (art. D340 à D341)](#182)
-            - [Paragraphe 7 : Modification des conditions de concession d'un abonnement (art. D344 à D357)](#183)
-              - [1. : Transfert des postes d'abonnement. (art. D344 à D346)](#184)
+            - [Paragraphe 7 : Modification des conditions de concession d'un abonnement (art. D343 à D357)](#183)
+              - [1. : Transfert des postes d'abonnement. (art. D343 à D344)](#184)
               - [2. : Transformation des abonnements. (art. D348 à D357)](#185)
             - [Paragraphe 8 : Dispositions diverses (art. D358 à D360)](#186)
               - [1. : Reprise de l'abonnement après résiliation. (art. D358)](#187)
@@ -198,9 +198,9 @@ Version Consolidée au 1970-01-10
             - [1. : Lignes permanentes. (art. D387 à D398)](#195)
             - [2. : Lignes temporaires. (art. D399 à D400)](#196)
           - [SECTION 4 : Réseaux spéciaux. (art. D401 à D406)](#197)
-      - [TITRE II : Etablissement des lignes (art. D418 à D439)](#198)
-        - [CHAPITRE Ier : Etablissement des lignes (art. D418 à D430)](#199)
-          - [SECTION 1 : Dispositions générales. (art. D418)](#200)
+      - [TITRE II : Etablissement des lignes (art. D415 à D439)](#198)
+        - [CHAPITRE Ier : Etablissement des lignes (art. D415 à D430)](#199)
+          - [SECTION 1 : Dispositions générales. (art. D415)](#200)
           - [SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées). (art. D422 à D424)](#201)
           - [SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé". (art. D426 à D428)](#202)
           - [SECTION 4 : Faisceaux concédés. (art. D429 à D430)](#203)
@@ -12632,6 +12632,32 @@ _Créé par_:
 
 ##### 1. : Transfert des postes d'abonnement.<a id=184></a>
 
+###### Article D343
+
+**Nota:**
+
+[*(Abrogé par décret n° 85-811 du 31 juillet 1985, art. 1er)*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°66-560 1966-07-29 art. 1 JORF 30 juillet 1966
+  - Décret n°70-811 1970-09-09 art. 4 JORF 15 septembre 1970
+
+_Abrogé par_:
+
+  - Décret n°85-811 1985-07-31 art. 1 JORF 1er août 1985
+
+
 ###### Article D344
 
 **Nota:**
@@ -12655,27 +12681,6 @@ _Modifié par_:
 _Abrogé par_:
 
   - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D346
-
-**Nota:**
-
-[*(Abrogé par décret n° 70-811 du 9 septembre 1970)*]
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°70-811 1970-09-09 art. 5 JORF 15 septembre 1970
 
 
 ##### 2. : Transformation des abonnements.<a id=185></a>
@@ -13188,6 +13193,58 @@ _Abrogé par_:
   - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
 
 
+###### Article D383
+
+**Nota:**
+
+[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+  - Décret n°70-811 1970-09-09 art. 4 JORF 15 septembre 1970
+
+_Abrogé par_:
+
+  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
+
+
+###### Article D384
+
+**Nota:**
+
+[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+  - Décret n°70-811 1970-09-09 art. 4 JORF 15 septembre 1970
+
+_Abrogé par_:
+
+  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
+
+
 ###### Article D385
 
 **Nota:**
@@ -13598,11 +13655,11 @@ _Créé par_:
 
 ##### SECTION 1 : Dispositions générales.<a id=200></a>
 
-###### Article D418
+###### Article D415
 
 **Nota:**
 
-[*(Abrogé par décret n° 70-811 du 9 septembre 1970)*]
+[*(Abrogé par décret n° 86-1064 du 29 septembre 1986, art. 1er)*]
 
 **Liens relatifs à cet article**
 
@@ -13614,9 +13671,13 @@ _Créé par_:
 
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
+_Modifié par_:
+
+  - Décret n°70-811 1970-09-09 art. 4 JORF 15 septembre 1970
+
 _Abrogé par_:
 
-  - Décret n°70-811 1970-09-09 art. 5 JORF 15 septembre 1970
+  - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
 ##### SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées).<a id=201></a>
@@ -13640,6 +13701,31 @@ _Créé par_:
 _Modifié par_:
 
   - Décret n°63-155 1963-02-18 art. 1 JORF 23 février 1963
+
+_Abrogé par_:
+
+  - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+
+
+###### Article D423
+
+**Nota:**
+
+[*(Abrogé par décret n° 86-1064 du 29 septembre 1986, art. 1er)*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°70-811 1970-09-09 art. 4 JORF 15 septembre 1970
 
 _Abrogé par_:
 
