@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2001-12-30
+Version Consolidée au 2002-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L129)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -251,18 +251,16 @@ Version Consolidée au 2001-12-30
             - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-6 à D99-10)](#248)
             - [Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7. (art. D99-11 à D99-22)](#249)
           - [SECTION 4 : Accès à la boucle locale (art. D99-23)](#250)
-        - [CHAPITRE IV : Téléphone (art. D365)](#251)
-          - [SECTION 4 : Dispositions particulières au service international. (art. D365)](#252)
-        - [CHAPITRE  V : Services particuliers des télécommunications (art. D369 à D377)](#253)
-          - [SECTION 2 : Liaisons louées (art. D369 à D377)](#254)
-        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1-1 à D406-3)](#255)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#256)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#257)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#258)
-      - [TITRE II : Mandats. (art. D523 à D548)](#259)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#260)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#261)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#262)
+        - [CHAPITRE  V : Services particuliers des télécommunications (art. D369 à D377)](#251)
+          - [SECTION 2 : Liaisons louées (art. D369 à D377)](#252)
+        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1-1 à D406-3)](#253)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#254)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#255)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#256)
+      - [TITRE II : Mandats. (art. D523 à D548)](#257)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#258)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#259)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#260)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -879,8 +877,8 @@ _Créé par_:
 ###### Article L17
 
 Toute personne qui, en récidive, effectue un transport de correspondances en infraction aux dispositions de l'article L. 2
-est punie de 25000 F d'amende [* taux *]. Il y a récidive lorsque le contrevenant a subi dans les trois années qui précèdent
-une condamnation pour infraction aux dispositions de l'article L. 2.
+est punie d'une amende de 3 750 euros. Il y a récidive lorsque le contrevenant a subi dans les trois années qui précèdent une
+condamnation pour infraction aux dispositions de l'article L. 2.
 
 **Liens relatifs à cet article**
 
@@ -896,7 +894,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°99-533 du 25 juin 1999 - art. 19 () JORF 29 juin 1999
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -912,7 +910,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des postes et télécommunications L2
+  - Code des postes et des communications électronique - art. L2 (M)
 
 
 ###### Article L18
@@ -1136,8 +1134,8 @@ _Cite_:
 
 ###### Article L25
 
-La mise en service de machines à affranchir sans l'autorisation de La Poste [*infraction*], toute tentative de fraude dans
-l'emploi des machines sont punies de six mois d'emprisonnement et de 50 000 F d'amende [* taux *] [*sanction*].
+La mise en service de machines à affranchir sans l'autorisation de La Poste, toute tentative de fraude dans l'emploi des
+machines sont punies de six mois d'emprisonnement et de 7 500 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -1148,7 +1146,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 201 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005
 
 _Codifié par_:
 
@@ -1158,7 +1160,7 @@ _Codifié par_:
 ###### Article L26
 
 Toute déclaration frauduleuse de valeurs supérieures à la valeur réellement insérée dans une lettre est punie d'un an
-d'emprisonnement et de 25000 F d'amende [* taux *].
+d'emprisonnement et de 3 750 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -1167,13 +1169,13 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L64 al. 1
   - Loi n°1859-06-04 art. 5
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -4121,8 +4123,8 @@ préalable, en cas de changement substantiel dans la composition du capital soci
 b) Soit, si le manquement n'est pas constitutif d'une infraction pénale, une sanction pécuniaire, dont le montant est
 proportionné à la gravité du manquement et aux avantages qui en sont tirés, sans pouvoir excéder 3 p. 100 du chiffre
 d'affaires hors taxes du dernier exercice clos, taux porté à 5 p. 100 en cas de nouvelle violation de la même obligation. A
-défaut d'activité permettant de déterminer ce plafond, le montant de la sanction ne peut excéder un million de francs, porté
-à deux millions et demi de francs en cas de nouvelle violation de la même obligation.
+défaut d'activité permettant de déterminer ce plafond, le montant de la sanction ne peut excéder 150000 euros, porté à 375000
+euros en cas de nouvelle violation de la même obligation.
 
 Les sanctions sont prononcées après que l'opérateur a reçu notification des griefs et a été mis à même de consulter le
 dossier et de présenter ses observations écrites et verbales.
@@ -4160,7 +4162,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 10 () JORF 28 juillet 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -4276,7 +4278,7 @@ _Nouveaux textes_:
 
 ###### Article L39
 
-Est puni d'un emprisonnement de six mois et d'une amende [* taux *] de 500 000 F le fait :
+Est puni d'un emprisonnement de six mois et d'une amende [* taux *] de 75000 euros le fait :
 
 1° D'établir ou de faire établir un réseau ouvert au public, sans l'autorisation prévue à l'article L. 33-1, ou de le
 maintenir en violation d'une décision de suspension ou de retrait de cette autorisation ;
@@ -4285,6 +4287,15 @@ maintenir en violation d'une décision de suspension ou de retrait de cette auto
 violation d'une décision de suspension ou de retrait de cette autorisation.
 
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. L33-2 (V)
+  - Code des postes et des communications électroni... - art. L39-10 (V)
+  - Code des postes et des communications électroni... - art. L42-1 (V)
+  - Code des postes et des communications électroni... - art. L33-1 (V)
+  - Code des postes et des communications électroni... - art. L39-6 (V)
+  - Code des postes et des communications électroni... - art. L39-9 (V)
 
 _Cite_:
 
@@ -4297,26 +4308,17 @@ _Anciens textes_:
   - Loi n°1837-05-02 1837-05-06 art. unique
   - Loi n°1923-06-30 art. 85
 
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 _Modifié par_:
 
-  - Loi n°96-659 du 26 juillet 1996 - art. 9 (V) JORF 27 juillet 1996
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. L33-1 (V)
-  - Code des postes et des communications électroni... - art. L33-2 (V)
-  - Code des postes et des communications électroni... - art. L39-10 (V)
-  - Code des postes et des communications électroni... - art. L39-6 (V)
-  - Code des postes et des communications électroni... - art. L39-9 (V)
-  - Code des postes et des communications électroni... - art. L42-1 (V)
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L39-1
@@ -4363,7 +4365,7 @@ _Codifié par_:
 
 ###### Article L39-2
 
-Sera puni d'un millions de francs d'amende [* taux *] quiconque aura contrevenu aux dispositions du deuxième alinéa du III de
+Sera puni de 150000 euros d'amende [* taux *] quiconque aura contrevenu aux dispositions du deuxième alinéa du III de
 l'article L. 33-1.
 
 **Liens relatifs à cet article**
@@ -4372,13 +4374,9 @@ _Cite_:
 
   - Code des postes et télécommunications L33-1
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
-
 _Modifié par_:
 
-  - Loi n°96-659 du 26 juillet 1996 - art. 9 (V) JORF 27 juillet 1996
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -4442,35 +4440,6 @@ _Cité par_:
 
   - Code des postes et des communications électroni... - art. L39-3-1 (V)
   - Code des postes et des communications électronique - art. L39-10 (V)
-
-
-###### Article L39-4
-
-Sera puni de trois mois d'emprisonnement et de 200000 F d'amende [* taux *] ou de l'une de ces deux peines seulement
-quiconque aura, sans raison valable, refusé de fournir les informations ou documents ou fait obstacle au déroulement des
-enquêtes mentionnés aux articles L. 32-4 et L. 40.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L32-4, L40
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
-
-_Modifié par_:
-
-  - Loi n°96-659 du 26 juillet 1996 - art. 9 (V) JORF 27 juillet 1996
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. L42-1 (V)
 
 
 ###### Article L39-6
@@ -4568,8 +4537,8 @@ _Codifié par_:
 ###### Article L43
 
 Toute personne qui, sciemment, transmet ou met en circulation, par la voie radioélectrique, des signaux ou appels de
-détresse, faux ou trompeurs [*infraction*], est punie [*sanction*] d'un an d'emprisonnement et de 25000 F d'amende [* taux *]
-ou de l'une de ces deux peines seulement.
+détresse, faux ou trompeurs, est punie d'un an d'emprisonnement et de 3750 euros d'amende [* taux *] ou de l'une de ces deux
+peines seulement.
 
 Les appareils utilisés par le délinquant ou ses complices peuvent être confisqués.
 
@@ -4581,7 +4550,11 @@ Les appareils utilisés par le délinquant ou ses complices peuvent être confis
 
 _Modifié par_:
 
-  - Loi n°96-659 du 26 juillet 1996 - art. 9 (V) JORF 27 juillet 1996
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Transféré par_:
+
+  - Loi n°2004-669 2004-07-09 art. 19 9° JORF 10 juillet 2004
 
 _Cité par_:
 
@@ -4613,6 +4586,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
+
+_Nouveaux textes_:
+
+  - Code des postes et des communications électronique - art. L39-7 (V)
 
 
 ###### Article L44
@@ -5357,12 +5334,12 @@ _Codifié par_:
 
 ###### Article L63
 
-Les infractions aux dispositions du chapitre Ier et des règlements pris pour son application sont passibles [*sanction*] de
-25000 F d'amende [* taux *].
+Les infractions aux dispositions du chapitre Ier et des règlements pris pour son application sont passibles de 3750 euros
+[*taux*] d'amende.
 
 Sur réquisition du ministère public agissant à la demande du ministre intéressé, le tribunal saisi de la poursuite impartit
-aux personnes qui contreviennent aux dispositions du chapitre Ier, sous peine d'une astreinte de 5 F à 50 F par jour de
-retard, un délai pour régulariser la situation.
+aux personnes qui contreviennent aux dispositions du chapitre Ier, sous peine d'une astreinte de 0,75 euros à 7,5 euros par
+jour de retard, un délai pour régulariser la situation.
 
 Dans le cas où le délai n'est pas observé, l'astreinte prononcée court à partir de l'expiration dudit délai jusqu'au jour où
 la situation est effectivement régularisée.
@@ -5379,7 +5356,7 @@ En outre, si, à l'expiration du délai fixé par le jugement, la situation n'a 
 effectuer les travaux d'office aux frais et risques des personnes civilement responsables.
 
 Les personnes qui ont été condamnées par application du présent article et qui, dans les trois années [*délai*] qui suivent,
-commettent une nouvelle infraction aux dispositions du présent article, sont punies de 50000 F d'amende [* taux *] et d'un
+commettent une nouvelle infraction aux dispositions du présent article, sont punies de 7500 euros d'amende [* taux *] et d'un
 mois d'emprisonnement ou de l'une de ces deux peines seulement.
 
 Les infractions aux dispositions du chapitre Ier peuvent être constatées par des procès-verbaux dressés par les officiers de
@@ -5400,7 +5377,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -5452,7 +5429,7 @@ _Codifié par_:
 ###### Article L65
 
 Le fait de déplacer, détériorer, dégrader de quelque manière que ce soit, une installation d'un réseau ouvert au public ou de
-compromettre le fonctionnement d'un tel réseau est puni d'une amende de 10 000 F.
+compromettre le fonctionnement d'un tel réseau est puni d'une amende de 1500 euros.
 
 Lorsqu'il s'agit d'une installation comportant plusieurs câbles, il est prononcé autant d'amendes que de câbles concernés.
 
@@ -5471,8 +5448,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-  - Loi n°96-659 du 26 juillet 1996 - art. 13 (V) JORF 27 juillet 1996
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -5492,7 +5468,7 @@ _Cité par_:
 ###### Article L66
 
 Toute personne qui, par la rupture des fils, par la dégradation des appareils ou par tout autre moyen, cause volontairement
-l'interruption des télécommunications, est punie d'un emprisonnement de deux ans et d'une amende de 25000 F. [* taux *].
+l'interruption des télécommunications, est punie d'un emprisonnement de deux ans et d'une amende de 3 750 euros.
 
 **Liens relatifs à cet article**
 
@@ -5507,7 +5483,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -5516,12 +5492,13 @@ _Codifié par_:
 
 ###### Article L67
 
-Sont punis de vingt ans de détention criminelle et d'une amende de 30 000 F, sans préjudice des peines que pourrait entraîner
-leur complicité avec l'insurrection, les individus qui, dans un mouvement insurrectionnel, ont détruit ou rendu impropres au
-service une ou plusieurs lignes de télécommunications, brisé ou détruit des appareils, envahi, à l'aide de violence ou de
-menaces, un ou plusieurs centraux ou stations de télécommunications, ceux qui ont intercepté par tout autre moyen, avec
-violence et menaces, les télécommunications ou la correspondance par télécommunications entre les divers dépositaires de
-l'autorité publique ou qui se sont opposés avec violence ou menaces au rétablissement des liaisons de télécommunications.
+Sont punis de vingt ans de détention criminelle et d'une amende de 4 500 euros, sans préjudice des peines que pourrait
+entraîner leur complicité avec l'insurrection, les individus qui, dans un mouvement insurrectionnel, ont détruit ou rendu
+impropres au service une ou plusieurs lignes de télécommunications, brisé ou détruit des appareils, envahi, à l'aide de
+violence ou de menaces, un ou plusieurs centraux ou stations de télécommunications, ceux qui ont intercepté par tout autre
+moyen, avec violence et menaces, les télécommunications ou la correspondance par télécommunications entre les divers
+dépositaires de l'autorité publique ou qui se sont opposés avec violence ou menaces au rétablissement des liaisons de
+télécommunications.
 
 **Liens relatifs à cet article**
 
@@ -5531,7 +5508,7 @@ l'autorité publique ou qui se sont opposés avec violence ou menaces au rétabl
 
 _Modifié par_:
 
-  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -5585,8 +5562,8 @@ _Modifié par_:
 
 ###### Article L73
 
-A défaut de la déclaration exigée par l'article L. 72, les infractions prévues audit article sont punies d'une amende de  25
-000 F et, éventuellement, de quatre mois d'emprisonnement.
+A défaut de la déclaration exigée par l'article L. 72, les infractions prévues audit article sont punies d'une amende de 3
+750 euros et, éventuellement, de quatre mois d'emprisonnement.
 
 **Liens relatifs à cet article**
 
@@ -5599,17 +5576,17 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L150
   - Loi n°1884-12-20 art. 16
 
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 _Modifié par_:
 
-  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L74
@@ -5789,7 +5766,7 @@ _Modifié par_:
 
 ###### Article L81
 
-Est punie d'une amende de 25000 F et  d'un emprisonnement de cinq ans  : toute personne qui rompt volontairement un câble
+Est punie d'une amende de 3 750 euros et  d'un emprisonnement de cinq ans  : toute personne qui rompt volontairement un câble
 sous-marin ou lui cause une détérioration qui pourrait interrompre ou entraver, en tout ou partie, les télécommunications.
 
 Les mêmes peines sont prononcées contre les auteurs des tentatives des mêmes faits.
@@ -5798,6 +5775,14 @@ Toutefois, ces dispositions ne s'appliquent pas aux personnes qui auraient été
 de lui causer une détérioration par la nécessité actuelle de protéger leur vie ou d'assurer la sécurité de leur navire.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -5813,14 +5798,6 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L144
   - Loi n°1884-12-20 art. 10
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
-
-_Modifié par_:
-
-  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
 
 
 ##### PARAGRAPHE II : Dispositions spéciales aux eaux territoriales.<a id=38></a>
@@ -6411,6 +6388,36 @@ _Codifié par_:
 _Cite_:
 
   - Code des postes et des communications électroni... - art. L39-3 (V)
+
+
+###### Article L39-4
+
+Sera puni de trois mois d'emprisonnement et de 30 000 euros d'amende ou de l'une de ces deux peines seulement quiconque aura,
+sans raison valable, refusé de fournir les informations ou documents ou fait obstacle au déroulement des enquêtes mentionnés
+aux articles L. 32-4 et L. 40.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. L32-4 (V)
+  - Code des postes et des communications électroni... - art. L40 (V)
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. L42-1 (V)
 
 
 ###### Article L39-5
@@ -21769,6 +21776,30 @@ _Cite_:
   - Code des postes et des communications éléctroniques D366 et D367
 
 
+###### Article D365
+
+Pour la perception sur l'usager, le montant en euros résultant de la conversion de la taxe globale définie à l'article D.
+363, est arrondi au nombre entier multiple de trois immédiatement supérieur.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications D363
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
+
+
 ###### Article D366
 
 Les taxes globales des communications obtenues au départ de France dans les relations équipées de dispositifs à commande
@@ -23696,33 +23727,9 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D99-24 (Ab)
 
 
-#### CHAPITRE IV : Téléphone<a id=251></a>
+#### CHAPITRE  V : Services particuliers des télécommunications<a id=251></a>
 
-##### SECTION 4 : Dispositions particulières au service international.<a id=252></a>
-
-###### Article D365
-
-Pour la perception sur l'usager, le montant en francs français résultant de la conversion de la taxe globale définie à
-l'article D. 363, est arrondi au nombre entier multiple de trois immédiatement supérieur.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D363
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-#### CHAPITRE  V : Services particuliers des télécommunications<a id=253></a>
-
-##### SECTION 2 : Liaisons louées<a id=254></a>
+##### SECTION 2 : Liaisons louées<a id=252></a>
 
 ###### Article D369
 
@@ -23969,7 +23976,7 @@ _Modifié par_:
   - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
 
 
-#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=255></a>
+#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=253></a>
 
 ###### Article D406-1-1
 
@@ -24105,9 +24112,9 @@ _Modifié par_:
   - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
 
 
-## LIVRE III : Les services financiers<a id=256></a>
+## LIVRE III : Les services financiers<a id=254></a>
 
-### TITRE Ier : Chèques postaux.<a id=257></a>
+### TITRE Ier : Chèques postaux.<a id=255></a>
 
 ###### Article D488
 
@@ -24452,7 +24459,7 @@ _Cite_:
   - Code des postes et des communications électroniques L109 al. 1
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=258></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=256></a>
 
 ###### Article D489
 
@@ -24959,7 +24966,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE II : Mandats.<a id=259></a>
+### TITRE II : Mandats.<a id=257></a>
 
 ###### Article D523
 
@@ -25150,26 +25157,6 @@ _Cite_:
   - Code des postes et des communications électronique - art. D524 (M)
 
 
-###### Article D538
-
-Les mandats dont le montant ne dépasse pas cinq nouveaux francs adressés aux militaires et marins désignés à l'article D. 76
-pour bénéficier de la franchise postale, ou expédiés par eux, sont exempts du droit de commission.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D76
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
 ###### Article D544
 
 Dans les relations visées à l'article D. 540, les maxima applicables au montant des mandats postaux ou télégraphiques sont
@@ -25234,7 +25221,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D540 (Ab)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=260></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=258></a>
 
 ###### Article D525
 
@@ -25474,6 +25461,30 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
+###### Article D538
+
+Les mandats dont le montant ne dépasse pas 0,76 euros adressés aux militaires et marins désignés à l'article D. 76 pour
+bénéficier de la franchise postale, ou expédiés par eux, sont exempts du droit de commission.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications D76
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
 ###### Article D539
 
 Les contributions directes et les taxes assimilées, y compris les taxes communales, l'impôt sur le chiffre d'affaires et les
@@ -25648,7 +25659,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=261></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=259></a>
 
 ###### Article D549
 
@@ -25816,25 +25827,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-###### Article D564
-
-Le montant total des valeurs à recouvrer comprises dans un même envoi et le montant des sommes à percevoir sur les
-destinataires des envois à livrer contre remboursement ne peuvent dépasser le maximum en francs des mandats postaux échangés
-dans les mêmes relations, ou une somme équivalente en monnaie locale, ni être supérieurs aux maximums prévus pour les mêmes
-envois dans le régime intérieur des territoires intéressés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=262></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=260></a>
 
 ###### Article D553
 
@@ -26070,6 +26063,28 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Abrogé par_:
+
+  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D564
+
+Le montant total des valeurs à recouvrer comprises dans un même envoi et le montant des sommes à percevoir sur les
+destinataires des envois à livrer contre remboursement ne peuvent dépasser le maximum en euros des mandats postaux échangés
+dans les mêmes relations, ou une somme équivalente en monnaie locale, ni être supérieurs aux maximums prévus pour les mêmes
+envois dans le régime intérieur des territoires intéressés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Abrogé par_:
 
