@@ -1,7 +1,7 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2001-01-01
+Version Consolidée au 2001-07-13
 ## Contenu: 
-  - [Partie législative (art. L1 à L126)](#1)
+  - [Partie législative (art. L1 à L129)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
       - [TITRE Ier : Dispositions générales (art. L1 à L6)](#3)
         - [CHAPITRE Ier : Le monopole postal. (art. L1 à L4)](#4)
@@ -61,199 +61,201 @@ Version Consolidée au 2001-01-01
       - [TITRE Ier : Constitution du budget annexe. (art. L125)](#58)
       - [TITRE II : Dispositions budgétaires (art. L126)](#59)
         - [CHAPITRE V : Dispositions particulières. (art. L126)](#60)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R52-11)](#61)
-    - [LIVRE Ier : Le service postal (art. R1 à R8)](#62)
-      - [TITRE VIII : Dispositions pénales. (art. R1 à R8)](#63)
-    - [LIVRE II : Les communications électroniques (art. R*9-1 à R*52-2-14)](#64)
-      - [TITRE Ier : Dispositions générales (art. R*9-1 à R11-9)](#65)
-        - [Chapitre II : Régime juridique. (art. R*9-1 à R11-9)](#66)
-          - [SECTION 2 : Services (art. R*9-1 à R*9-4)](#67)
-          - [SECTION 3 : Procédure et dispositions communes (art. R9-5 à R9-11)](#68)
-          - [SECTION 4 : De l'interconnexion. (art. R11-1 à R11-9)](#69)
-      - [TITRE VI : Services radioélectriques (art. R*52-1)](#70)
-        - [CHAPITRE Ier : Dispositions générales. (art. R*52-1)](#71)
-      - [TITRE VII : Agence nationale des fréquences (art. R*52-2 à R*52-2-14)](#72)
-        - [Chapitre Ier : Dispositions générales et missions (art. R*52-2 à R*52-2-1)](#73)
-        - [Chapitre II : Organisation et fonctionnement (art. R*52-2-2 à R*52-2-9)](#74)
-        - [Chapitre III : Dispositions financières (art. R*52-2-10 à R*52-2-14)](#75)
-    - [LIVRE II : Les télécommunications (art. R*9 à R52)](#76)
-      - [TITRE Ier : Dispositions générales (art. R*9 à R*14)](#77)
-        - [CHAPITRE Ier : Définitions et principes. (art. R*9)](#78)
-        - [CHAPITRE II : Régime juridique (art. R10-1 à R11-13)](#79)
-          - [SECTION 3 : Procédure et dispositions communes (art. R10-1 à R11)](#80)
-          - [SECTION 5 : Contrôles. (art. R11-10 à R11-13)](#81)
-        - [CHAPITRE III : Téléphone. (art. R*12 à R*14)](#82)
-      - [TITRE II : Prérogatives et servitudes (art. R20-1 à R52)](#83)
-        - [CHAPITRE Ier : Equipements terminaux de télécommunications (art. R20-1 à R20-30-2)](#84)
-          - [SECTION 1 : Définitions. (art. R20-1)](#85)
-          - [SECTION 2 : Evaluation de la conformité des équipements terminaux aux exigences essentielles. (art. R20-2 à R20-16)](#86)
-          - [SECTION 3 : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant l'Espace économique européen. (art. R20-17 à R20-21)](#87)
-          - [SECTION 4 : Raccordement des équipements terminaux aux réseaux ouverts au public. (art. R20-22)](#88)
-          - [SECTION 5 : Admission des installateurs. (art. R20-23 à R20-25)](#89)
-          - [SECTION 6 : Dispositions pénales. (art. R20-26 à R20-30-2)](#90)
-        - [CHAPITRE Ier BIS : Le service public des télécommunications (art. R20-31 à R20-44)](#91)
-          - [SECTION 1 : Le financement du service universel des télécommunications. (art. R20-31 à R20-44)](#92)
-        - [CHAPITRE II : Droits de passage sur le domaine public routier et servitudes (art. R20-45 à R41)](#93)
-          - [SECTION 1 : Droits de passage. (art. R20-45 à R20-54)](#94)
-          - [SECTION 2 : Servitudes. (art. R*20-60 à R20-59)](#95)
-          - [SECTION 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. R*21 à R*26)](#96)
-          - [SECTION 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. R*28 à R27)](#97)
-          - [SECTION 5 : Dispositions pénales. (art. R*42 à R41)](#98)
-        - [CHAPITRE III : Police des liaisons et des installations du réseau de télécommunications (art. R42-1)](#99)
-        - [CHAPITRE IV : Protection des câbles sous-marins (art. R45 à R52)](#100)
-          - [SECTION 2 : Dispositions pénales (art. R45 à R52)](#101)
-            - [PARAGRAPHE I : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#102)
-            - [PARAGRAPHE II : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#103)
-    - [LIVRE III : Les services financiers (art. R52-10 à R52-11)](#104)
-      - [TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005). (art. R52-10 à R52-11)](#105)
-  - [Partie réglementaire - Décrets simples (art. D1 à D569)](#106)
-    - [LIVRE Ier : Le service postal (art. D1 à D95-3)](#107)
-      - [TITRE Ier : Dispositions générales (art. D1 à D36)](#108)
-        - [Chapitre Ier : Le monopole postal. (art. D1 à D2)](#109)
-        - [Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances. (art. D3)](#110)
-        - [Chapitre III : Création des bureaux de poste. (art. D4 à D5)](#111)
-        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D6 à D33)](#112)
-          - [Section 1 : Généralités. (art. D6 à D8)](#113)
-          - [Section 2 : Lettres missives, cartes postales et paquets-poste. (art. D9 à D12)](#114)
-          - [Section 3 : Imprimés et échantillons. (art. D13 à D17)](#115)
-          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#116)
-          - [Section 5 : Magazines sonores. (art. D29 à D31)](#117)
-          - [Section 6 : Dispositions particulières. (art. D32 à D33)](#118)
-        - [Chapitre V : Conditions d'admission des objets de correspondance dans le régime international. (art. D34 à D36)](#119)
-      - [TITRE II : Affranchissement, recommandation et chargement (art. D38 à D57)](#120)
-        - [Chapitre Ier : Affranchissement. (art. D38 à D46)](#121)
-        - [Chapitre II : Recommandation et chargement. (art. D47 à D57)](#122)
-      - [TITRE IV : Franchise postale (art. D73 à D77)](#123)
-      - [TITRE V : Colis postaux. (art. D81 à D89)](#124)
-      - [TITRE VI : Distribution postale (art. D90 à D93)](#125)
-        - [Chapitre Ier : Distribution à domicile. (art. D90 à D92)](#126)
-        - [Chapitre II : Distribution au guichet. (art. D93)](#127)
-      - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#128)
-    - [LIVRE II : Les communications électroniques (art. D96-1 à D487)](#129)
-      - [TITRE Ier : Dispositions générales (art. D96-1 à D406-4)](#130)
-        - [Chapitre Ier : Principes et définitions. (art. D96-1 à D97-10)](#131)
-          - [Paragraphe 1 : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D96-1 à D96-6)](#132)
-          - [Paragraphe 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D96-7 à D96-17)](#133)
-          - [Paragraphe 3 : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D96-18 à D96-24)](#134)
-          - [Paragraphe 4 : Commission consultative des radiocommunications. (art. D97-1)](#135)
-          - [Paragraphe 5 : Commission consultative des réseaux et services de communications électroniques. (art. D97-2)](#136)
-          - [Paragraphe 6 : Organisation et fonctionnement des commissions consultatives. (art. D97-3)](#137)
-          - [Paragraphe 7 : Autorité de régulation des télécommunications (art. D97-4 à D97-10)](#138)
-        - [Chapitre II : Régime juridique (art. D98-3 à D99-26)](#139)
-          - [Section 2 : Réseaux indépendants (art. D98-3 à D99-5)](#140)
-          - [SECTION 3 : Interconnexion (art. D99-7 à D99-9)](#141)
-            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-7 à D99-9)](#142)
-          - [SECTION 4 : Accès à la boucle locale (art. D99-24 à D99-26)](#143)
-        - [CHAPITRE III : Télégraphe (art. D100 à D287)](#144)
-          - [SECTION 1 : Service télégraphique (art. D100 à D267)](#145)
-            - [Paragraphe 2 : Dépôt des télégrammes. (art. D100)](#146)
-            - [Paragraphe 3 : Rédaction des télégrammes (art. D104 à D110)](#147)
-              - [1. : Dispositions générales. (art. D104 à D105)](#148)
-              - [3. : Adresse. (art. D107 à D110)](#149)
-            - [Paragraphe 4 : Compte des mots. (art. D116)](#150)
-            - [Paragraphe 5 : Remise des télégrammes. (art. D117 à D122)](#151)
-            - [Paragraphe 6 : Perception des tarifs. (art. D126 à D128)](#152)
-            - [Paragraphe 7 : Télégrammes spéciaux. (art. D129)](#153)
-            - [Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux (art. D130 à D219-2)](#154)
-              - [1. : Télégrammes relatifs à la sécurité de la vie humaine. (art. D130 à D133)](#155)
-              - [2. : Télégrammes de presse. (art. D134 à D135)](#156)
-              - [3. : Télégrammes des services postaux financiers. (art. D139)](#157)
-              - [4. : Phototélégrammes. (art. D142 à D144)](#158)
-              - [5. : Télégrammes urgents du régime international. (art. D146)](#159)
-              - [20. : Télégrammes illustrés. (art. D182 à D185)](#160)
-              - [22. : Télégrammes avec accusé de réception. (art. D192)](#161)
-              - [24. : Télégrammes sur un compte communications électroniques. (art. D196)](#162)
-              - [28. : Télégrammes R.C.T. du régime international. (art. D213)](#163)
-              - [29. : Radiotélégrammes. (art. D218 à D219-2)](#164)
-            - [Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers (art. D228)](#165)
-              - [1. : Communication au guichet de l'original d'un télégramme. (art. D228)](#166)
-            - [Paragraphe 10 : Télégrammes officiels (art. D234 à D246)](#167)
-              - [1. : Définition. (art. D234)](#168)
-              - [2. : Rédaction. (art. D235)](#169)
-              - [3. : Dépôt. (art. D237)](#170)
-              - [4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels. (art. D241)](#171)
-              - [5. : Circulaires. (art. D243)](#172)
-              - [6. : Application et perception des tarifs. (art. D244)](#173)
-              - [7. : Annulation des télégrammes officiels. (art. D246)](#174)
-            - [Paragraphe 11 : Télégrammes d'Etat (art. D247 à D259)](#175)
-              - [1. : Définition. (art. D247 à D248)](#176)
-              - [2. : Rédaction. (art. D250 à D252)](#177)
-              - [3. : Dépôt. (art. D253 à D254)](#178)
-              - [4. : Application des tarifs. (art. D256 à D257)](#179)
-              - [6. : Remise. (art. D259)](#180)
-            - [Paragraphe 13 : Remboursement. (art. D263 à D265)](#181)
-            - [Paragraphe 14 : Prescriptions diverses. (art. D267)](#182)
-          - [SECTION 3 : Service télex (art. D277 à D287)](#183)
-            - [Paragraphe 1er : Généralités. (art. D277 à D279)](#184)
-            - [Paragraphe 2 : Abonnements. (art. D280 à D284)](#185)
-            - [Paragraphe 3 : Communications. (art. D285 à D286)](#186)
-            - [Paragraphe 4 : Suspension d'une ligne d'abonnement télex. (art. D287)](#187)
-        - [CHAPITRE IV : Téléphone (art. D288 à D367)](#188)
-          - [SECTION 1 : Dispositions générales. (art. D288 à D289)](#189)
-          - [SECTION 2 : Des communications téléphoniques (art. D291-1 à D316)](#190)
-            - [Paragraphe 1er : Dispositions générales. (art. D291-1 à D293-1)](#191)
-            - [Paragraphe 2 : Communications ordinaires (art. D294 à D298)](#192)
-              - [1. : Définition. (art. D294)](#193)
-              - [2. : Limitation de durée. (art. D295)](#194)
-              - [4. : Communication refusée. (art. D297)](#195)
-              - [5. : Récépissé. (art. D298)](#196)
-            - [Paragraphe 3 : Communications spéciales (art. D300 à D307)](#197)
-              - [1. : Indication de durée. (art. D300)](#198)
-              - [2. : Avis d'appel. (art. D301)](#199)
-              - [4. : Communication non facturée par le demandeur ou à facturation différée. (art. D304 à D305)](#200)
-              - [6. : Communication avec un véhicule. (art. D307)](#201)
-            - [Paragraphe 4 : Services spéciaux (art. D308 à D316)](#202)
-              - [1. : Service de réception et de traitement d'appels. (art. D308)](#203)
-              - [2. : Service de la réunion-téléphone. (art. D309)](#204)
-              - [3. : Service du "Mémo-Appel". (art. D310)](#205)
-              - [5. : Renseignements. (art. D312)](#206)
-              - [7. : Communications en dehors des heures normales d'ouverture du service. (art. D315)](#207)
-              - [8. : Service des auditions téléphoniques. (art. D316)](#208)
-          - [SECTION 3 : Des abonnements (art. D317 à D359)](#209)
-            - [Paragraphe 1er : Généralités. (art. D317 à D319)](#210)
-            - [Paragraphe 2 : Abonnements principaux permanents (art. D320 à D331)](#211)
-              - [1. : Différentes catégories. (art. D320)](#212)
-              - [2. : Abonnements principaux ordinaires. (art. D321)](#213)
-              - [3. : Abonnements principaux d'extension. (art. D322 à D323)](#214)
-              - [5. : Abonnements spéciaux. (art. D328 à D331)](#215)
-            - [Paragraphe 3 : Abonnements complémentaires. (art. D332)](#216)
-            - [Paragraphe 4 : Abonnements supplémentaires permanents. (art. D333 à D334)](#217)
-            - [Paragraphe 5 : Abonnements temporaires. (art. D336)](#218)
-            - [Paragraphe 6 : Suspension et résiliation des abonnements. (art. D337 à D342)](#219)
-            - [Paragraphe 7 : Modification des conditions de concession d'un abonnement (art. D347 à D355)](#220)
-              - [3. : Transformation des abonnements. (art. D347 à D355)](#221)
-            - [Paragraphe 8 : Dispositions diverses (art. D359)](#222)
-              - [2. : Listes périodiques d'abonnés. (art. D359)](#223)
-          - [SECTION 4 : Dispositions particulières au service international. (art. D362 à D367)](#224)
-        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#225)
-      - [TITRE II : Etablissement des lignes (art. D407-1 à D407-3)](#226)
-        - [CHAPITRE Ier : Etablissement des lignes (art. D407-1 à D407-3)](#227)
-          - [SECTION 1 : Dispositions générales. (art. D407-1 à D407-3)](#228)
-      - [TITRE VI : Les services radioélectriques (art. D457 à D487)](#229)
-        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D458)](#230)
-        - [CHAPITRE II : Installations et réseaux radioélectriques indépendants. (art. D459 à D463)](#231)
-        - [CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs. (art. D473)](#232)
-        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#233)
-    - [LIVRE II : Les télécommunications (art. D98-1 à D406-3)](#234)
-      - [TITRE Ier : Dispositions générales (art. D98-1 à D406-3)](#235)
-        - [Chapitre II : Régime juridique (art. D98-1 à D99-23)](#236)
-          - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-1 à D98-2)](#237)
-          - [SECTION 3 : Interconnexion (art. D99-6 à D99-22)](#238)
-            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-6 à D99-10)](#239)
-            - [Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7. (art. D99-11 à D99-22)](#240)
-          - [SECTION 4 : Accès à la boucle locale (art. D99-23)](#241)
-        - [CHAPITRE IV : Téléphone (art. D365)](#242)
-          - [SECTION 4 : Dispositions particulières au service international. (art. D365)](#243)
-        - [CHAPITRE  V : Services particuliers des télécommunications (art. D369 à D379)](#244)
-          - [SECTION 2 : Liaisons louées (art. D369 à D379)](#245)
-        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1-1 à D406-3)](#246)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#247)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#248)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#249)
-      - [TITRE II : Mandats. (art. D523 à D548)](#250)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#251)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#252)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#253)
+    - [DISPOSITIONS FINALES (art. L129)](#61)
+      - [(en vigueur jusqu'au 31 décembre 2005). (art. L129)](#62)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R52-11)](#63)
+    - [LIVRE Ier : Le service postal (art. R1 à R8)](#64)
+      - [TITRE VIII : Dispositions pénales. (art. R1 à R8)](#65)
+    - [LIVRE II : Les communications électroniques (art. R*9-1 à R*52-2-14)](#66)
+      - [TITRE Ier : Dispositions générales (art. R*9-1 à R11-9)](#67)
+        - [Chapitre II : Régime juridique. (art. R*9-1 à R11-9)](#68)
+          - [SECTION 2 : Services (art. R*9-1 à R*9-4)](#69)
+          - [SECTION 3 : Procédure et dispositions communes (art. R9-5 à R9-11)](#70)
+          - [SECTION 4 : De l'interconnexion. (art. R11-1 à R11-9)](#71)
+      - [TITRE VI : Services radioélectriques (art. R*52-1)](#72)
+        - [CHAPITRE Ier : Dispositions générales. (art. R*52-1)](#73)
+      - [TITRE VII : Agence nationale des fréquences (art. R*52-2 à R*52-2-14)](#74)
+        - [Chapitre Ier : Dispositions générales et missions (art. R*52-2 à R*52-2-1)](#75)
+        - [Chapitre II : Organisation et fonctionnement (art. R*52-2-2 à R*52-2-9)](#76)
+        - [Chapitre III : Dispositions financières (art. R*52-2-10 à R*52-2-14)](#77)
+    - [LIVRE II : Les télécommunications (art. R*9 à R52)](#78)
+      - [TITRE Ier : Dispositions générales (art. R*9 à R*14)](#79)
+        - [CHAPITRE Ier : Définitions et principes. (art. R*9)](#80)
+        - [CHAPITRE II : Régime juridique (art. R10-1 à R11-13)](#81)
+          - [SECTION 3 : Procédure et dispositions communes (art. R10-1 à R11)](#82)
+          - [SECTION 5 : Contrôles. (art. R11-10 à R11-13)](#83)
+        - [CHAPITRE III : Téléphone. (art. R*12 à R*14)](#84)
+      - [TITRE II : Prérogatives et servitudes (art. R20-1 à R52)](#85)
+        - [CHAPITRE Ier : Equipements terminaux de télécommunications (art. R20-1 à R20-30-2)](#86)
+          - [SECTION 1 : Définitions. (art. R20-1)](#87)
+          - [SECTION 2 : Evaluation de la conformité des équipements terminaux aux exigences essentielles. (art. R20-2 à R20-16)](#88)
+          - [SECTION 3 : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant l'Espace économique européen. (art. R20-17 à R20-21)](#89)
+          - [SECTION 4 : Raccordement des équipements terminaux aux réseaux ouverts au public. (art. R20-22)](#90)
+          - [SECTION 5 : Admission des installateurs. (art. R20-23 à R20-25)](#91)
+          - [SECTION 6 : Dispositions pénales. (art. R20-26 à R20-30-2)](#92)
+        - [CHAPITRE Ier BIS : Le service public des télécommunications (art. R20-31 à R20-44)](#93)
+          - [SECTION 1 : Le financement du service universel des télécommunications. (art. R20-31 à R20-44)](#94)
+        - [CHAPITRE II : Droits de passage sur le domaine public routier et servitudes (art. R20-45 à R41)](#95)
+          - [SECTION 1 : Droits de passage. (art. R20-45 à R20-54)](#96)
+          - [SECTION 2 : Servitudes. (art. R*20-60 à R20-59)](#97)
+          - [SECTION 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. R*21 à R*26)](#98)
+          - [SECTION 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. R*28 à R27)](#99)
+          - [SECTION 5 : Dispositions pénales. (art. R*42 à R41)](#100)
+        - [CHAPITRE III : Police des liaisons et des installations du réseau de télécommunications (art. R42-1)](#101)
+        - [CHAPITRE IV : Protection des câbles sous-marins (art. R45 à R52)](#102)
+          - [SECTION 2 : Dispositions pénales (art. R45 à R52)](#103)
+            - [PARAGRAPHE I : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#104)
+            - [PARAGRAPHE II : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#105)
+    - [LIVRE III : Les services financiers (art. R52-10 à R52-11)](#106)
+      - [TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005). (art. R52-10 à R52-11)](#107)
+  - [Partie réglementaire - Décrets simples (art. D1 à D569)](#108)
+    - [LIVRE Ier : Le service postal (art. D1 à D95-3)](#109)
+      - [TITRE Ier : Dispositions générales (art. D1 à D36)](#110)
+        - [Chapitre Ier : Le monopole postal. (art. D1 à D2)](#111)
+        - [Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances. (art. D3)](#112)
+        - [Chapitre III : Création des bureaux de poste. (art. D4 à D5)](#113)
+        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D6 à D33)](#114)
+          - [Section 1 : Généralités. (art. D6 à D8)](#115)
+          - [Section 2 : Lettres missives, cartes postales et paquets-poste. (art. D9 à D12)](#116)
+          - [Section 3 : Imprimés et échantillons. (art. D13 à D17)](#117)
+          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#118)
+          - [Section 5 : Magazines sonores. (art. D29 à D31)](#119)
+          - [Section 6 : Dispositions particulières. (art. D32 à D33)](#120)
+        - [Chapitre V : Conditions d'admission des objets de correspondance dans le régime international. (art. D34 à D36)](#121)
+      - [TITRE II : Affranchissement, recommandation et chargement (art. D38 à D57)](#122)
+        - [Chapitre Ier : Affranchissement. (art. D38 à D46)](#123)
+        - [Chapitre II : Recommandation et chargement. (art. D47 à D57)](#124)
+      - [TITRE IV : Franchise postale (art. D73 à D77)](#125)
+      - [TITRE V : Colis postaux. (art. D81 à D89)](#126)
+      - [TITRE VI : Distribution postale (art. D90 à D93)](#127)
+        - [Chapitre Ier : Distribution à domicile. (art. D90 à D92)](#128)
+        - [Chapitre II : Distribution au guichet. (art. D93)](#129)
+      - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#130)
+    - [LIVRE II : Les communications électroniques (art. D96-1 à D487)](#131)
+      - [TITRE Ier : Dispositions générales (art. D96-1 à D406-4)](#132)
+        - [Chapitre Ier : Principes et définitions. (art. D96-1 à D97-10)](#133)
+          - [Paragraphe 1 : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D96-1 à D96-6)](#134)
+          - [Paragraphe 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D96-7 à D96-17)](#135)
+          - [Paragraphe 3 : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D96-18 à D96-24)](#136)
+          - [Paragraphe 4 : Commission consultative des radiocommunications. (art. D97-1)](#137)
+          - [Paragraphe 5 : Commission consultative des réseaux et services de communications électroniques. (art. D97-2)](#138)
+          - [Paragraphe 6 : Organisation et fonctionnement des commissions consultatives. (art. D97-3)](#139)
+          - [Paragraphe 7 : Autorité de régulation des télécommunications (art. D97-4 à D97-10)](#140)
+        - [Chapitre II : Régime juridique (art. D98-3 à D99-26)](#141)
+          - [Section 2 : Réseaux indépendants (art. D98-3 à D99-5)](#142)
+          - [SECTION 3 : Interconnexion (art. D99-7 à D99-9)](#143)
+            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-7 à D99-9)](#144)
+          - [SECTION 4 : Accès à la boucle locale (art. D99-24 à D99-26)](#145)
+        - [CHAPITRE III : Télégraphe (art. D100 à D287)](#146)
+          - [SECTION 1 : Service télégraphique (art. D100 à D267)](#147)
+            - [Paragraphe 2 : Dépôt des télégrammes. (art. D100)](#148)
+            - [Paragraphe 3 : Rédaction des télégrammes (art. D104 à D110)](#149)
+              - [1. : Dispositions générales. (art. D104 à D105)](#150)
+              - [3. : Adresse. (art. D107 à D110)](#151)
+            - [Paragraphe 4 : Compte des mots. (art. D116)](#152)
+            - [Paragraphe 5 : Remise des télégrammes. (art. D117 à D122)](#153)
+            - [Paragraphe 6 : Perception des tarifs. (art. D126 à D128)](#154)
+            - [Paragraphe 7 : Télégrammes spéciaux. (art. D129)](#155)
+            - [Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux (art. D130 à D219-2)](#156)
+              - [1. : Télégrammes relatifs à la sécurité de la vie humaine. (art. D130 à D133)](#157)
+              - [2. : Télégrammes de presse. (art. D134 à D135)](#158)
+              - [3. : Télégrammes des services postaux financiers. (art. D139)](#159)
+              - [4. : Phototélégrammes. (art. D142 à D144)](#160)
+              - [5. : Télégrammes urgents du régime international. (art. D146)](#161)
+              - [20. : Télégrammes illustrés. (art. D182 à D185)](#162)
+              - [22. : Télégrammes avec accusé de réception. (art. D192)](#163)
+              - [24. : Télégrammes sur un compte communications électroniques. (art. D196)](#164)
+              - [28. : Télégrammes R.C.T. du régime international. (art. D213)](#165)
+              - [29. : Radiotélégrammes. (art. D218 à D219-2)](#166)
+            - [Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers (art. D228)](#167)
+              - [1. : Communication au guichet de l'original d'un télégramme. (art. D228)](#168)
+            - [Paragraphe 10 : Télégrammes officiels (art. D234 à D246)](#169)
+              - [1. : Définition. (art. D234)](#170)
+              - [2. : Rédaction. (art. D235)](#171)
+              - [3. : Dépôt. (art. D237)](#172)
+              - [4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels. (art. D241)](#173)
+              - [5. : Circulaires. (art. D243)](#174)
+              - [6. : Application et perception des tarifs. (art. D244)](#175)
+              - [7. : Annulation des télégrammes officiels. (art. D246)](#176)
+            - [Paragraphe 11 : Télégrammes d'Etat (art. D247 à D259)](#177)
+              - [1. : Définition. (art. D247 à D248)](#178)
+              - [2. : Rédaction. (art. D250 à D252)](#179)
+              - [3. : Dépôt. (art. D253 à D254)](#180)
+              - [4. : Application des tarifs. (art. D256 à D257)](#181)
+              - [6. : Remise. (art. D259)](#182)
+            - [Paragraphe 13 : Remboursement. (art. D263 à D265)](#183)
+            - [Paragraphe 14 : Prescriptions diverses. (art. D267)](#184)
+          - [SECTION 3 : Service télex (art. D277 à D287)](#185)
+            - [Paragraphe 1er : Généralités. (art. D277 à D279)](#186)
+            - [Paragraphe 2 : Abonnements. (art. D280 à D284)](#187)
+            - [Paragraphe 3 : Communications. (art. D285 à D286)](#188)
+            - [Paragraphe 4 : Suspension d'une ligne d'abonnement télex. (art. D287)](#189)
+        - [CHAPITRE IV : Téléphone (art. D288 à D367)](#190)
+          - [SECTION 1 : Dispositions générales. (art. D288 à D289)](#191)
+          - [SECTION 2 : Des communications téléphoniques (art. D291-1 à D316)](#192)
+            - [Paragraphe 1er : Dispositions générales. (art. D291-1 à D293-1)](#193)
+            - [Paragraphe 2 : Communications ordinaires (art. D294 à D298)](#194)
+              - [1. : Définition. (art. D294)](#195)
+              - [2. : Limitation de durée. (art. D295)](#196)
+              - [4. : Communication refusée. (art. D297)](#197)
+              - [5. : Récépissé. (art. D298)](#198)
+            - [Paragraphe 3 : Communications spéciales (art. D300 à D307)](#199)
+              - [1. : Indication de durée. (art. D300)](#200)
+              - [2. : Avis d'appel. (art. D301)](#201)
+              - [4. : Communication non facturée par le demandeur ou à facturation différée. (art. D304 à D305)](#202)
+              - [6. : Communication avec un véhicule. (art. D307)](#203)
+            - [Paragraphe 4 : Services spéciaux (art. D308 à D316)](#204)
+              - [1. : Service de réception et de traitement d'appels. (art. D308)](#205)
+              - [2. : Service de la réunion-téléphone. (art. D309)](#206)
+              - [3. : Service du "Mémo-Appel". (art. D310)](#207)
+              - [5. : Renseignements. (art. D312)](#208)
+              - [7. : Communications en dehors des heures normales d'ouverture du service. (art. D315)](#209)
+              - [8. : Service des auditions téléphoniques. (art. D316)](#210)
+          - [SECTION 3 : Des abonnements (art. D317 à D359)](#211)
+            - [Paragraphe 1er : Généralités. (art. D317 à D319)](#212)
+            - [Paragraphe 2 : Abonnements principaux permanents (art. D320 à D331)](#213)
+              - [1. : Différentes catégories. (art. D320)](#214)
+              - [2. : Abonnements principaux ordinaires. (art. D321)](#215)
+              - [3. : Abonnements principaux d'extension. (art. D322 à D323)](#216)
+              - [5. : Abonnements spéciaux. (art. D328 à D331)](#217)
+            - [Paragraphe 3 : Abonnements complémentaires. (art. D332)](#218)
+            - [Paragraphe 4 : Abonnements supplémentaires permanents. (art. D333 à D334)](#219)
+            - [Paragraphe 5 : Abonnements temporaires. (art. D336)](#220)
+            - [Paragraphe 6 : Suspension et résiliation des abonnements. (art. D337 à D342)](#221)
+            - [Paragraphe 7 : Modification des conditions de concession d'un abonnement (art. D347 à D355)](#222)
+              - [3. : Transformation des abonnements. (art. D347 à D355)](#223)
+            - [Paragraphe 8 : Dispositions diverses (art. D359)](#224)
+              - [2. : Listes périodiques d'abonnés. (art. D359)](#225)
+          - [SECTION 4 : Dispositions particulières au service international. (art. D362 à D367)](#226)
+        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#227)
+      - [TITRE II : Etablissement des lignes (art. D407-1 à D407-3)](#228)
+        - [CHAPITRE Ier : Etablissement des lignes (art. D407-1 à D407-3)](#229)
+          - [SECTION 1 : Dispositions générales. (art. D407-1 à D407-3)](#230)
+      - [TITRE VI : Les services radioélectriques (art. D457 à D487)](#231)
+        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D458)](#232)
+        - [CHAPITRE II : Installations et réseaux radioélectriques indépendants. (art. D459 à D463)](#233)
+        - [CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs. (art. D473)](#234)
+        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#235)
+    - [LIVRE II : Les télécommunications (art. D98-1 à D406-3)](#236)
+      - [TITRE Ier : Dispositions générales (art. D98-1 à D406-3)](#237)
+        - [Chapitre II : Régime juridique (art. D98-1 à D99-23)](#238)
+          - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-1 à D98-2)](#239)
+          - [SECTION 3 : Interconnexion (art. D99-6 à D99-22)](#240)
+            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-6 à D99-10)](#241)
+            - [Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7. (art. D99-11 à D99-22)](#242)
+          - [SECTION 4 : Accès à la boucle locale (art. D99-23)](#243)
+        - [CHAPITRE IV : Téléphone (art. D365)](#244)
+          - [SECTION 4 : Dispositions particulières au service international. (art. D365)](#245)
+        - [CHAPITRE  V : Services particuliers des télécommunications (art. D369 à D379)](#246)
+          - [SECTION 2 : Liaisons louées (art. D369 à D379)](#247)
+        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1-1 à D406-3)](#248)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#249)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#250)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#251)
+      - [TITRE II : Mandats. (art. D523 à D548)](#252)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#253)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#254)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#255)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -7421,11 +7423,38 @@ _Codifié par_:
   - Décret n°62-273 1962-03-12
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=61></a>
+## DISPOSITIONS FINALES<a id=61></a>
 
-## LIVRE Ier : Le service postal<a id=62></a>
+### (en vigueur jusqu'au 31 décembre 2005).<a id=62></a>
 
-### TITRE VIII : Dispositions pénales.<a id=63></a>
+###### Article L129
+
+Le présent code est applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 46 () JORF 13 juillet 2001
+
+_Transféré par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+_Nouveaux textes_:
+
+  - Code des postes et des communications électronique - art. L141 (V)
+
+
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=63></a>
+
+## LIVRE Ier : Le service postal<a id=64></a>
+
+### TITRE VIII : Dispositions pénales.<a id=65></a>
 
 ###### Article R1
 
@@ -7683,13 +7712,13 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-## LIVRE II : Les communications électroniques<a id=64></a>
+## LIVRE II : Les communications électroniques<a id=66></a>
 
-### TITRE Ier : Dispositions générales<a id=65></a>
+### TITRE Ier : Dispositions générales<a id=67></a>
 
-#### Chapitre II : Régime juridique.<a id=66></a>
+#### Chapitre II : Régime juridique.<a id=68></a>
 
-##### SECTION 2 : Services<a id=67></a>
+##### SECTION 2 : Services<a id=69></a>
 
 ###### Article R*9-1
 
@@ -7836,7 +7865,7 @@ _Cite_:
   - Code des postes et des communications électroniques L34-3, R9-1, L34-4, R9-2
 
 
-##### SECTION 3 : Procédure et dispositions communes<a id=68></a>
+##### SECTION 3 : Procédure et dispositions communes<a id=70></a>
 
 ###### Article R9-5
 
@@ -8151,7 +8180,7 @@ _Cite_:
   - Code des postes et des communications électroniques L33-1, R9-5 à R9-9, L34-3, L34-4, L34-1, R9-8, R9-10
 
 
-##### SECTION 4 : De l'interconnexion.<a id=69></a>
+##### SECTION 4 : De l'interconnexion.<a id=71></a>
 
 ###### Article R11-1
 
@@ -8357,9 +8386,9 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R1-2-13 (M)
 
 
-### TITRE VI : Services radioélectriques<a id=70></a>
+### TITRE VI : Services radioélectriques<a id=72></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=71></a>
+#### CHAPITRE Ier : Dispositions générales.<a id=73></a>
 
 ###### Article R*52-1
 
@@ -8405,9 +8434,9 @@ _Nouveaux textes_:
   - Code des postes et des communications électronique - art. R20-44-5 (V)
 
 
-### TITRE VII : Agence nationale des fréquences<a id=72></a>
+### TITRE VII : Agence nationale des fréquences<a id=74></a>
 
-#### Chapitre Ier : Dispositions générales et missions<a id=73></a>
+#### Chapitre Ier : Dispositions générales et missions<a id=75></a>
 
 ###### Article R*52-2
 
@@ -8567,7 +8596,7 @@ _Nouveaux textes_:
   - Code des postes et des communications électronique - art. R20-44-11 (M)
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=74></a>
+#### Chapitre II : Organisation et fonctionnement<a id=76></a>
 
 ###### Article R*52-2-2
 
@@ -8914,7 +8943,7 @@ _Nouveaux textes_:
   - Code des postes et des communications électronique - art. R20-44-19 (V)
 
 
-#### Chapitre III : Dispositions financières<a id=75></a>
+#### Chapitre III : Dispositions financières<a id=77></a>
 
 ###### Article R*52-2-10
 
@@ -9067,11 +9096,11 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-## LIVRE II : Les télécommunications<a id=76></a>
+## LIVRE II : Les télécommunications<a id=78></a>
 
-### TITRE Ier : Dispositions générales<a id=77></a>
+### TITRE Ier : Dispositions générales<a id=79></a>
 
-#### CHAPITRE Ier : Définitions et principes.<a id=78></a>
+#### CHAPITRE Ier : Définitions et principes.<a id=80></a>
 
 ###### Article R*9
 
@@ -9102,9 +9131,9 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-#### CHAPITRE II : Régime juridique<a id=79></a>
+#### CHAPITRE II : Régime juridique<a id=81></a>
 
-##### SECTION 3 : Procédure et dispositions communes<a id=80></a>
+##### SECTION 3 : Procédure et dispositions communes<a id=82></a>
 
 ###### Article R10-1
 
@@ -9215,7 +9244,7 @@ _Nouveaux textes_:
   - Code des postes et des communications électronique - art. R10-11 (V)
 
 
-##### SECTION 5 : Contrôles.<a id=81></a>
+##### SECTION 5 : Contrôles.<a id=83></a>
 
 ###### Article R11-10
 
@@ -9353,7 +9382,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-#### CHAPITRE III : Téléphone.<a id=82></a>
+#### CHAPITRE III : Téléphone.<a id=84></a>
 
 ###### Article R*12
 
@@ -9447,11 +9476,11 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-### TITRE II : Prérogatives et servitudes<a id=83></a>
+### TITRE II : Prérogatives et servitudes<a id=85></a>
 
-#### CHAPITRE Ier : Equipements terminaux de télécommunications<a id=84></a>
+#### CHAPITRE Ier : Equipements terminaux de télécommunications<a id=86></a>
 
-##### SECTION 1 : Définitions.<a id=85></a>
+##### SECTION 1 : Définitions.<a id=87></a>
 
 ###### Article R20-1
 
@@ -9517,7 +9546,7 @@ _Cite_:
   - Code des postes et télécommunications L32
 
 
-##### SECTION 2 : Evaluation de la conformité des équipements terminaux aux exigences essentielles.<a id=86></a>
+##### SECTION 2 : Evaluation de la conformité des équipements terminaux aux exigences essentielles.<a id=88></a>
 
 ###### Article R20-2
 
@@ -10156,7 +10185,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### SECTION 3 : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant l'Espace économique européen.<a id=87></a>
+##### SECTION 3 : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant l'Espace économique européen.<a id=89></a>
 
 ###### Article R20-17
 
@@ -10323,7 +10352,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R20-25 (M)
 
 
-##### SECTION 4 : Raccordement des équipements terminaux aux réseaux ouverts au public.<a id=88></a>
+##### SECTION 4 : Raccordement des équipements terminaux aux réseaux ouverts au public.<a id=90></a>
 
 ###### Article R20-22
 
@@ -10374,7 +10403,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D375 (Ab)
 
 
-##### SECTION 5 : Admission des installateurs.<a id=89></a>
+##### SECTION 5 : Admission des installateurs.<a id=91></a>
 
 ###### Article R20-23
 
@@ -10486,7 +10515,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R20-3 (V)
 
 
-##### SECTION 6 : Dispositions pénales.<a id=90></a>
+##### SECTION 6 : Dispositions pénales.<a id=92></a>
 
 ###### Article R20-26
 
@@ -10707,9 +10736,9 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-#### CHAPITRE Ier BIS : Le service public des télécommunications<a id=91></a>
+#### CHAPITRE Ier BIS : Le service public des télécommunications<a id=93></a>
 
-##### SECTION 1 : Le financement du service universel des télécommunications.<a id=92></a>
+##### SECTION 1 : Le financement du service universel des télécommunications.<a id=94></a>
 
 ###### Article R20-31
 
@@ -11366,9 +11395,9 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-#### CHAPITRE II : Droits de passage sur le domaine public routier et servitudes<a id=93></a>
+#### CHAPITRE II : Droits de passage sur le domaine public routier et servitudes<a id=95></a>
 
-##### SECTION 1 : Droits de passage.<a id=94></a>
+##### SECTION 1 : Droits de passage.<a id=96></a>
 
 ###### Article R20-45
 
@@ -11693,7 +11722,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### SECTION 2 : Servitudes.<a id=95></a>
+##### SECTION 2 : Servitudes.<a id=97></a>
 
 ###### Article R*20-60
 
@@ -11884,7 +11913,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### SECTION 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.<a id=96></a>
+##### SECTION 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.<a id=98></a>
 
 ###### Article R*21
 
@@ -12147,7 +12176,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### SECTION 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.<a id=97></a>
+##### SECTION 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.<a id=99></a>
 
 ###### Article R*28
 
@@ -12576,7 +12605,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### SECTION 5 : Dispositions pénales.<a id=98></a>
+##### SECTION 5 : Dispositions pénales.<a id=100></a>
 
 ###### Article R*42
 
@@ -12677,7 +12706,7 @@ _Cite_:
   - Loi n°1906-06-15 art. 24
 
 
-#### CHAPITRE III : Police des liaisons et des installations du réseau de télécommunications<a id=99></a>
+#### CHAPITRE III : Police des liaisons et des installations du réseau de télécommunications<a id=101></a>
 
 ###### Article R42-1
 
@@ -12704,11 +12733,11 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-#### CHAPITRE IV : Protection des câbles sous-marins<a id=100></a>
+#### CHAPITRE IV : Protection des câbles sous-marins<a id=102></a>
 
-##### SECTION 2 : Dispositions pénales<a id=101></a>
+##### SECTION 2 : Dispositions pénales<a id=103></a>
 
-##### PARAGRAPHE I : Dispositions applicables aux eaux non territoriales.<a id=102></a>
+##### PARAGRAPHE I : Dispositions applicables aux eaux non territoriales.<a id=104></a>
 
 ###### Article R45
 
@@ -12877,7 +12906,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### PARAGRAPHE II : Dispositions spéciales aux eaux territoriales.<a id=103></a>
+##### PARAGRAPHE II : Dispositions spéciales aux eaux territoriales.<a id=105></a>
 
 ###### Article R50
 
@@ -12971,9 +13000,9 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-## LIVRE III : Les services financiers<a id=104></a>
+## LIVRE III : Les services financiers<a id=106></a>
 
-### TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005).<a id=105></a>
+### TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005).<a id=107></a>
 
 ###### Article R52-10
 
@@ -13025,13 +13054,13 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R725-12 (M)
 
 
-# Partie réglementaire - Décrets simples<a id=106></a>
+# Partie réglementaire - Décrets simples<a id=108></a>
 
-## LIVRE Ier : Le service postal<a id=107></a>
+## LIVRE Ier : Le service postal<a id=109></a>
 
-### TITRE Ier : Dispositions générales<a id=108></a>
+### TITRE Ier : Dispositions générales<a id=110></a>
 
-#### Chapitre Ier : Le monopole postal.<a id=109></a>
+#### Chapitre Ier : Le monopole postal.<a id=111></a>
 
 ###### Article D1
 
@@ -13084,7 +13113,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R613-25 (VD)
 
 
-#### Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances.<a id=110></a>
+#### Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances.<a id=112></a>
 
 ###### Article D3
 
@@ -13113,7 +13142,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### Chapitre III : Création des bureaux de poste.<a id=111></a>
+#### Chapitre III : Création des bureaux de poste.<a id=113></a>
 
 ###### Article D4
 
@@ -13161,9 +13190,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
-#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=112></a>
+#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=114></a>
 
-##### Section 1 : Généralités.<a id=113></a>
+##### Section 1 : Généralités.<a id=115></a>
 
 ###### Article D6
 
@@ -13235,7 +13264,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 2 : Lettres missives, cartes postales et paquets-poste.<a id=114></a>
+##### Section 2 : Lettres missives, cartes postales et paquets-poste.<a id=116></a>
 
 ###### Article D9
 
@@ -13342,7 +13371,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 3 : Imprimés et échantillons.<a id=115></a>
+##### Section 3 : Imprimés et échantillons.<a id=117></a>
 
 ###### Article D13
 
@@ -13493,7 +13522,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### Section 4 : Journaux et écrits périodiques.<a id=116></a>
+##### Section 4 : Journaux et écrits périodiques.<a id=118></a>
 
 ###### Article D18
 
@@ -14105,7 +14134,7 @@ _Modifié par_:
   - Décret n°68-1073 1968-11-22 art. 1 JORF 30 novembre 1968
 
 
-##### Section 5 : Magazines sonores.<a id=117></a>
+##### Section 5 : Magazines sonores.<a id=119></a>
 
 ###### Article D29
 
@@ -14213,7 +14242,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 6 : Dispositions particulières.<a id=118></a>
+##### Section 6 : Dispositions particulières.<a id=120></a>
 
 ###### Article D32
 
@@ -14256,7 +14285,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-#### Chapitre V : Conditions d'admission des objets de correspondance dans le régime international.<a id=119></a>
+#### Chapitre V : Conditions d'admission des objets de correspondance dans le régime international.<a id=121></a>
 
 ###### Article D34
 
@@ -14327,9 +14356,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
-### TITRE II : Affranchissement, recommandation et chargement<a id=120></a>
+### TITRE II : Affranchissement, recommandation et chargement<a id=122></a>
 
-#### Chapitre Ier : Affranchissement.<a id=121></a>
+#### Chapitre Ier : Affranchissement.<a id=123></a>
 
 ###### Article D38
 
@@ -14530,7 +14559,7 @@ _Cite_:
   - Code des postes et des communications éléctroniques D28 et D45
 
 
-#### Chapitre II : Recommandation et chargement.<a id=122></a>
+#### Chapitre II : Recommandation et chargement.<a id=124></a>
 
 ###### Article D47
 
@@ -14838,7 +14867,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 
-### TITRE IV : Franchise postale<a id=123></a>
+### TITRE IV : Franchise postale<a id=125></a>
 
 ###### Article D73
 
@@ -14952,7 +14981,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
-### TITRE V : Colis postaux.<a id=124></a>
+### TITRE V : Colis postaux.<a id=126></a>
 
 ###### Article D81
 
@@ -15259,9 +15288,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
-### TITRE VI : Distribution postale<a id=125></a>
+### TITRE VI : Distribution postale<a id=127></a>
 
-#### Chapitre Ier : Distribution à domicile.<a id=126></a>
+#### Chapitre Ier : Distribution à domicile.<a id=128></a>
 
 ###### Article D90
 
@@ -15362,7 +15391,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### Chapitre II : Distribution au guichet.<a id=127></a>
+#### Chapitre II : Distribution au guichet.<a id=129></a>
 
 ###### Article D93
 
@@ -15391,7 +15420,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-### TITRE VII : Poste maritime.<a id=128></a>
+### TITRE VII : Poste maritime.<a id=130></a>
 
 ###### Article D94-1
 
@@ -15593,13 +15622,13 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-## LIVRE II : Les communications électroniques<a id=129></a>
+## LIVRE II : Les communications électroniques<a id=131></a>
 
-### TITRE Ier : Dispositions générales<a id=130></a>
+### TITRE Ier : Dispositions générales<a id=132></a>
 
-#### Chapitre Ier : Principes et définitions.<a id=131></a>
+#### Chapitre Ier : Principes et définitions.<a id=133></a>
 
-##### Paragraphe 1 : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=132></a>
+##### Paragraphe 1 : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=134></a>
 
 ###### Article D96-1
 
@@ -15782,7 +15811,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D96-3 (M)
 
 
-##### Paragraphe 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=133></a>
+##### Paragraphe 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=135></a>
 
 ###### Article D96-7
 
@@ -16183,7 +16212,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L35-6 (M)
 
 
-##### Paragraphe 3 : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=134></a>
+##### Paragraphe 3 : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=136></a>
 
 ###### Article D96-18
 
@@ -16396,7 +16425,7 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
 
 
-##### Paragraphe 4 : Commission consultative des radiocommunications.<a id=135></a>
+##### Paragraphe 4 : Commission consultative des radiocommunications.<a id=137></a>
 
 ###### Article D97-1
 
@@ -16482,7 +16511,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L34-8 (M)
 
 
-##### Paragraphe 5 : Commission consultative des réseaux et services de communications électroniques.<a id=136></a>
+##### Paragraphe 5 : Commission consultative des réseaux et services de communications électroniques.<a id=138></a>
 
 ###### Article D97-2
 
@@ -16563,7 +16592,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L34-8 (M)
 
 
-##### Paragraphe 6 : Organisation et fonctionnement des commissions consultatives.<a id=137></a>
+##### Paragraphe 6 : Organisation et fonctionnement des commissions consultatives.<a id=139></a>
 
 ###### Article D97-3
 
@@ -16628,7 +16657,7 @@ _Nouveaux textes_:
   - Code des postes et télécommunications électroniques D99-5-1
 
 
-##### Paragraphe 7 : Autorité de régulation des télécommunications<a id=138></a>
+##### Paragraphe 7 : Autorité de régulation des télécommunications<a id=140></a>
 
 ###### Article D97-4
 
@@ -16816,9 +16845,9 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 3 () JORF 30 avril 2005
 
 
-#### Chapitre II : Régime juridique<a id=139></a>
+#### Chapitre II : Régime juridique<a id=141></a>
 
-##### Section 2 : Réseaux indépendants<a id=140></a>
+##### Section 2 : Réseaux indépendants<a id=142></a>
 
 ###### Article D98-3
 
@@ -17195,9 +17224,9 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D99-5-1 (Ab)
 
 
-##### SECTION 3 : Interconnexion<a id=141></a>
+##### SECTION 3 : Interconnexion<a id=143></a>
 
-##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=142></a>
+##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=144></a>
 
 ###### Article D99-7
 
@@ -17392,7 +17421,7 @@ _Créé par_:
   - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
 
 
-##### SECTION 4 : Accès à la boucle locale<a id=143></a>
+##### SECTION 4 : Accès à la boucle locale<a id=145></a>
 
 ###### Article D99-24
 
@@ -17491,11 +17520,11 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
 
 
-#### CHAPITRE III : Télégraphe<a id=144></a>
+#### CHAPITRE III : Télégraphe<a id=146></a>
 
-##### SECTION 1 : Service télégraphique<a id=145></a>
+##### SECTION 1 : Service télégraphique<a id=147></a>
 
-##### Paragraphe 2 : Dépôt des télégrammes.<a id=146></a>
+##### Paragraphe 2 : Dépôt des télégrammes.<a id=148></a>
 
 ###### Article D100
 
@@ -17530,9 +17559,9 @@ _Cité par_:
   - Arrêté du 4 août 2006 - art. 2 (V)
 
 
-##### Paragraphe 3 : Rédaction des télégrammes<a id=147></a>
+##### Paragraphe 3 : Rédaction des télégrammes<a id=149></a>
 
-##### 1. : Dispositions générales.<a id=148></a>
+##### 1. : Dispositions générales.<a id=150></a>
 
 ###### Article D104
 
@@ -17602,7 +17631,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 3. : Adresse.<a id=149></a>
+##### 3. : Adresse.<a id=151></a>
 
 ###### Article D107
 
@@ -17724,7 +17753,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 4 : Compte des mots.<a id=150></a>
+##### Paragraphe 4 : Compte des mots.<a id=152></a>
 
 ###### Article D116
 
@@ -17746,7 +17775,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 5 : Remise des télégrammes.<a id=151></a>
+##### Paragraphe 5 : Remise des télégrammes.<a id=153></a>
 
 ###### Article D117
 
@@ -17836,7 +17865,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 6 : Perception des tarifs.<a id=152></a>
+##### Paragraphe 6 : Perception des tarifs.<a id=154></a>
 
 ###### Article D126
 
@@ -17921,7 +17950,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 7 : Télégrammes spéciaux.<a id=153></a>
+##### Paragraphe 7 : Télégrammes spéciaux.<a id=155></a>
 
 ###### Article D129
 
@@ -17960,9 +17989,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux<a id=154></a>
+##### Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux<a id=156></a>
 
-##### 1. : Télégrammes relatifs à la sécurité de la vie humaine.<a id=155></a>
+##### 1. : Télégrammes relatifs à la sécurité de la vie humaine.<a id=157></a>
 
 ###### Article D130
 
@@ -18049,7 +18078,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 2. : Télégrammes de presse.<a id=156></a>
+##### 2. : Télégrammes de presse.<a id=158></a>
 
 ###### Article D134
 
@@ -18094,7 +18123,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 3. : Télégrammes des services postaux financiers.<a id=157></a>
+##### 3. : Télégrammes des services postaux financiers.<a id=159></a>
 
 ###### Article D139
 
@@ -18118,7 +18147,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 4. : Phototélégrammes.<a id=158></a>
+##### 4. : Phototélégrammes.<a id=160></a>
 
 ###### Article D142
 
@@ -18208,7 +18237,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 5. : Télégrammes urgents du régime international.<a id=159></a>
+##### 5. : Télégrammes urgents du régime international.<a id=161></a>
 
 ###### Article D146
 
@@ -18233,7 +18262,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 20. : Télégrammes illustrés.<a id=160></a>
+##### 20. : Télégrammes illustrés.<a id=162></a>
 
 ###### Article D182
 
@@ -18293,7 +18322,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 22. : Télégrammes avec accusé de réception.<a id=161></a>
+##### 22. : Télégrammes avec accusé de réception.<a id=163></a>
 
 ###### Article D192
 
@@ -18320,7 +18349,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 24. : Télégrammes sur un compte communications électroniques.<a id=162></a>
+##### 24. : Télégrammes sur un compte communications électroniques.<a id=164></a>
 
 ###### Article D196
 
@@ -18351,7 +18380,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 28. : Télégrammes R.C.T. du régime international.<a id=163></a>
+##### 28. : Télégrammes R.C.T. du régime international.<a id=165></a>
 
 ###### Article D213
 
@@ -18377,7 +18406,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 29. : Radiotélégrammes.<a id=164></a>
+##### 29. : Radiotélégrammes.<a id=166></a>
 
 ###### Article D218
 
@@ -18481,9 +18510,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers<a id=165></a>
+##### Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers<a id=167></a>
 
-##### 1. : Communication au guichet de l'original d'un télégramme.<a id=166></a>
+##### 1. : Communication au guichet de l'original d'un télégramme.<a id=168></a>
 
 ###### Article D228
 
@@ -18517,9 +18546,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 10 : Télégrammes officiels<a id=167></a>
+##### Paragraphe 10 : Télégrammes officiels<a id=169></a>
 
-##### 1. : Définition.<a id=168></a>
+##### 1. : Définition.<a id=170></a>
 
 ###### Article D234
 
@@ -18544,7 +18573,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 2. : Rédaction.<a id=169></a>
+##### 2. : Rédaction.<a id=171></a>
 
 ###### Article D235
 
@@ -18576,7 +18605,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 3. : Dépôt.<a id=170></a>
+##### 3. : Dépôt.<a id=172></a>
 
 ###### Article D237
 
@@ -18607,7 +18636,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels.<a id=171></a>
+##### 4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels.<a id=173></a>
 
 ###### Article D241
 
@@ -18629,7 +18658,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 5. : Circulaires.<a id=172></a>
+##### 5. : Circulaires.<a id=174></a>
 
 ###### Article D243
 
@@ -18653,7 +18682,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 6. : Application et perception des tarifs.<a id=173></a>
+##### 6. : Application et perception des tarifs.<a id=175></a>
 
 ###### Article D244
 
@@ -18677,7 +18706,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 7. : Annulation des télégrammes officiels.<a id=174></a>
+##### 7. : Annulation des télégrammes officiels.<a id=176></a>
 
 ###### Article D246
 
@@ -18698,9 +18727,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 11 : Télégrammes d'Etat<a id=175></a>
+##### Paragraphe 11 : Télégrammes d'Etat<a id=177></a>
 
-##### 1. : Définition.<a id=176></a>
+##### 1. : Définition.<a id=178></a>
 
 ###### Article D247
 
@@ -18768,7 +18797,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 2. : Rédaction.<a id=177></a>
+##### 2. : Rédaction.<a id=179></a>
 
 ###### Article D250
 
@@ -18830,7 +18859,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 3. : Dépôt.<a id=178></a>
+##### 3. : Dépôt.<a id=180></a>
 
 ###### Article D253
 
@@ -18870,7 +18899,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 4. : Application des tarifs.<a id=179></a>
+##### 4. : Application des tarifs.<a id=181></a>
 
 ###### Article D256
 
@@ -18919,7 +18948,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### 6. : Remise.<a id=180></a>
+##### 6. : Remise.<a id=182></a>
 
 ###### Article D259
 
@@ -18942,7 +18971,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 13 : Remboursement.<a id=181></a>
+##### Paragraphe 13 : Remboursement.<a id=183></a>
 
 ###### Article D263
 
@@ -19004,7 +19033,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 14 : Prescriptions diverses.<a id=182></a>
+##### Paragraphe 14 : Prescriptions diverses.<a id=184></a>
 
 ###### Article D267
 
@@ -19028,9 +19057,9 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### SECTION 3 : Service télex<a id=183></a>
+##### SECTION 3 : Service télex<a id=185></a>
 
-##### Paragraphe 1er : Généralités.<a id=184></a>
+##### Paragraphe 1er : Généralités.<a id=186></a>
 
 ###### Article D277
 
@@ -19117,7 +19146,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 2 : Abonnements.<a id=185></a>
+##### Paragraphe 2 : Abonnements.<a id=187></a>
 
 ###### Article D280
 
@@ -19244,7 +19273,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 7 () JORF 30 avril 2005
 
 
-##### Paragraphe 3 : Communications.<a id=186></a>
+##### Paragraphe 3 : Communications.<a id=188></a>
 
 ###### Article D285
 
@@ -19297,7 +19326,7 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-##### Paragraphe 4 : Suspension d'une ligne d'abonnement télex.<a id=187></a>
+##### Paragraphe 4 : Suspension d'une ligne d'abonnement télex.<a id=189></a>
 
 ###### Article D287
 
@@ -19325,9 +19354,9 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-#### CHAPITRE IV : Téléphone<a id=188></a>
+#### CHAPITRE IV : Téléphone<a id=190></a>
 
-##### SECTION 1 : Dispositions générales.<a id=189></a>
+##### SECTION 1 : Dispositions générales.<a id=191></a>
 
 ###### Article D288
 
@@ -19390,9 +19419,9 @@ _Modifié par_:
   - Décret n°94-91 du 31 janvier 1994 - art. 1 () JORF 2 février 1994
 
 
-##### SECTION 2 : Des communications téléphoniques<a id=190></a>
+##### SECTION 2 : Des communications téléphoniques<a id=192></a>
 
-##### Paragraphe 1er : Dispositions générales.<a id=191></a>
+##### Paragraphe 1er : Dispositions générales.<a id=193></a>
 
 ###### Article D291-1
 
@@ -19470,9 +19499,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### Paragraphe 2 : Communications ordinaires<a id=192></a>
+##### Paragraphe 2 : Communications ordinaires<a id=194></a>
 
-##### 1. : Définition.<a id=193></a>
+##### 1. : Définition.<a id=195></a>
 
 ###### Article D294
 
@@ -19499,7 +19528,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D97-10 (T)
 
 
-##### 2. : Limitation de durée.<a id=194></a>
+##### 2. : Limitation de durée.<a id=196></a>
 
 ###### Article D295
 
@@ -19524,7 +19553,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### 4. : Communication refusée.<a id=195></a>
+##### 4. : Communication refusée.<a id=197></a>
 
 ###### Article D297
 
@@ -19561,7 +19590,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### 5. : Récépissé.<a id=196></a>
+##### 5. : Récépissé.<a id=198></a>
 
 ###### Article D298
 
@@ -19588,9 +19617,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### Paragraphe 3 : Communications spéciales<a id=197></a>
+##### Paragraphe 3 : Communications spéciales<a id=199></a>
 
-##### 1. : Indication de durée.<a id=198></a>
+##### 1. : Indication de durée.<a id=200></a>
 
 ###### Article D300
 
@@ -19630,7 +19659,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### 2. : Avis d'appel.<a id=199></a>
+##### 2. : Avis d'appel.<a id=201></a>
 
 ###### Article D301
 
@@ -19669,7 +19698,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. R54-1 (Ab)
 
 
-##### 4. : Communication non facturée par le demandeur ou à facturation différée.<a id=200></a>
+##### 4. : Communication non facturée par le demandeur ou à facturation différée.<a id=202></a>
 
 ###### Article D304
 
@@ -19742,7 +19771,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D306 (V)
 
 
-##### 6. : Communication avec un véhicule.<a id=201></a>
+##### 6. : Communication avec un véhicule.<a id=203></a>
 
 ###### Article D307
 
@@ -19764,9 +19793,9 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-##### Paragraphe 4 : Services spéciaux<a id=202></a>
+##### Paragraphe 4 : Services spéciaux<a id=204></a>
 
-##### 1. : Service de réception et de traitement d'appels.<a id=203></a>
+##### 1. : Service de réception et de traitement d'appels.<a id=205></a>
 
 ###### Article D308
 
@@ -19796,7 +19825,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D310 (V)
 
 
-##### 2. : Service de la réunion-téléphone.<a id=204></a>
+##### 2. : Service de la réunion-téléphone.<a id=206></a>
 
 ###### Article D309
 
@@ -19819,7 +19848,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D307 (V)
 
 
-##### 3. : Service du "Mémo-Appel".<a id=205></a>
+##### 3. : Service du "Mémo-Appel".<a id=207></a>
 
 ###### Article D310
 
@@ -19841,7 +19870,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D308 (V)
 
 
-##### 5. : Renseignements.<a id=206></a>
+##### 5. : Renseignements.<a id=208></a>
 
 ###### Article D312
 
@@ -19865,7 +19894,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D314 (M)
 
 
-##### 7. : Communications en dehors des heures normales d'ouverture du service.<a id=207></a>
+##### 7. : Communications en dehors des heures normales d'ouverture du service.<a id=209></a>
 
 ###### Article D315
 
@@ -19912,7 +19941,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. R54-1 (Ab)
 
 
-##### 8. : Service des auditions téléphoniques.<a id=208></a>
+##### 8. : Service des auditions téléphoniques.<a id=210></a>
 
 ###### Article D316
 
@@ -19947,9 +19976,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### SECTION 3 : Des abonnements<a id=209></a>
+##### SECTION 3 : Des abonnements<a id=211></a>
 
-##### Paragraphe 1er : Généralités.<a id=210></a>
+##### Paragraphe 1er : Généralités.<a id=212></a>
 
 ###### Article D317
 
@@ -20057,9 +20086,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 2 : Abonnements principaux permanents<a id=211></a>
+##### Paragraphe 2 : Abonnements principaux permanents<a id=213></a>
 
-##### 1. : Différentes catégories.<a id=212></a>
+##### 1. : Différentes catégories.<a id=214></a>
 
 ###### Article D320
 
@@ -20086,7 +20115,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### 2. : Abonnements principaux ordinaires.<a id=213></a>
+##### 2. : Abonnements principaux ordinaires.<a id=215></a>
 
 ###### Article D321
 
@@ -20108,7 +20137,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### 3. : Abonnements principaux d'extension.<a id=214></a>
+##### 3. : Abonnements principaux d'extension.<a id=216></a>
 
 ###### Article D322
 
@@ -20195,7 +20224,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### 5. : Abonnements spéciaux.<a id=215></a>
+##### 5. : Abonnements spéciaux.<a id=217></a>
 
 ###### Article D328
 
@@ -20312,7 +20341,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 3 : Abonnements complémentaires.<a id=216></a>
+##### Paragraphe 3 : Abonnements complémentaires.<a id=218></a>
 
 ###### Article D332
 
@@ -20355,7 +20384,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 4 : Abonnements supplémentaires permanents.<a id=217></a>
+##### Paragraphe 4 : Abonnements supplémentaires permanents.<a id=219></a>
 
 ###### Article D333
 
@@ -20489,7 +20518,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 5 : Abonnements temporaires.<a id=218></a>
+##### Paragraphe 5 : Abonnements temporaires.<a id=220></a>
 
 ###### Article D336
 
@@ -20522,7 +20551,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 6 : Suspension et résiliation des abonnements.<a id=219></a>
+##### Paragraphe 6 : Suspension et résiliation des abonnements.<a id=221></a>
 
 ###### Article D337
 
@@ -20699,9 +20728,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 7 : Modification des conditions de concession d'un abonnement<a id=220></a>
+##### Paragraphe 7 : Modification des conditions de concession d'un abonnement<a id=222></a>
 
-##### 3. : Transformation des abonnements.<a id=221></a>
+##### 3. : Transformation des abonnements.<a id=223></a>
 
 ###### Article D347
 
@@ -20777,9 +20806,9 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-##### Paragraphe 8 : Dispositions diverses<a id=222></a>
+##### Paragraphe 8 : Dispositions diverses<a id=224></a>
 
-##### 2. : Listes périodiques d'abonnés.<a id=223></a>
+##### 2. : Listes périodiques d'abonnés.<a id=225></a>
 
 ###### Article D359
 
@@ -20819,7 +20848,7 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-##### SECTION 4 : Dispositions particulières au service international.<a id=224></a>
+##### SECTION 4 : Dispositions particulières au service international.<a id=226></a>
 
 ###### Article D362
 
@@ -20978,7 +21007,7 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=225></a>
+#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=227></a>
 
 ###### Article D406-1
 
@@ -21196,11 +21225,11 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-### TITRE II : Etablissement des lignes<a id=226></a>
+### TITRE II : Etablissement des lignes<a id=228></a>
 
-#### CHAPITRE Ier : Etablissement des lignes<a id=227></a>
+#### CHAPITRE Ier : Etablissement des lignes<a id=229></a>
 
-##### SECTION 1 : Dispositions générales.<a id=228></a>
+##### SECTION 1 : Dispositions générales.<a id=230></a>
 
 ###### Article D407-1
 
@@ -21277,9 +21306,9 @@ _Modifié par_:
   - Décret n°97-684 du 30 mai 1997 - art. 3 () JORF 1er juin 1997
 
 
-### TITRE VI : Les services radioélectriques<a id=229></a>
+### TITRE VI : Les services radioélectriques<a id=231></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=230></a>
+#### CHAPITRE Ier : Dispositions générales.<a id=232></a>
 
 ###### Article D457
 
@@ -21353,7 +21382,7 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-#### CHAPITRE II : Installations et réseaux radioélectriques indépendants.<a id=231></a>
+#### CHAPITRE II : Installations et réseaux radioélectriques indépendants.<a id=233></a>
 
 ###### Article D459
 
@@ -21521,7 +21550,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 9 () JORF 30 avril 2005
 
 
-#### CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs.<a id=232></a>
+#### CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs.<a id=234></a>
 
 ###### Article D473
 
@@ -21562,7 +21591,7 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-#### CHAPITRE V : Radiocommunications du service maritime.<a id=233></a>
+#### CHAPITRE V : Radiocommunications du service maritime.<a id=235></a>
 
 ###### Article D483
 
@@ -21734,13 +21763,13 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-## LIVRE II : Les télécommunications<a id=234></a>
+## LIVRE II : Les télécommunications<a id=236></a>
 
-### TITRE Ier : Dispositions générales<a id=235></a>
+### TITRE Ier : Dispositions générales<a id=237></a>
 
-#### Chapitre II : Régime juridique<a id=236></a>
+#### Chapitre II : Régime juridique<a id=238></a>
 
-##### Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1.<a id=237></a>
+##### Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1.<a id=239></a>
 
 ###### Article D98-1
 
@@ -22128,9 +22157,9 @@ _Créé par_:
   - Décret n°96-1175 du 27 décembre 1996 - art. 1 () JORF 29 décembre 1996
 
 
-##### SECTION 3 : Interconnexion<a id=238></a>
+##### SECTION 3 : Interconnexion<a id=240></a>
 
-##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=239></a>
+##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=241></a>
 
 ###### Article D99-6
 
@@ -22199,7 +22228,7 @@ _Créé par_:
   - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
 
 
-##### Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7.<a id=240></a>
+##### Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7.<a id=242></a>
 
 ###### Article D99-11
 
@@ -22687,7 +22716,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D99-24 (Ab)
 
 
-##### SECTION 4 : Accès à la boucle locale<a id=241></a>
+##### SECTION 4 : Accès à la boucle locale<a id=243></a>
 
 ###### Article D99-23
 
@@ -22745,9 +22774,9 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D99-24 (Ab)
 
 
-#### CHAPITRE IV : Téléphone<a id=242></a>
+#### CHAPITRE IV : Téléphone<a id=244></a>
 
-##### SECTION 4 : Dispositions particulières au service international.<a id=243></a>
+##### SECTION 4 : Dispositions particulières au service international.<a id=245></a>
 
 ###### Article D365
 
@@ -22769,9 +22798,9 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-#### CHAPITRE  V : Services particuliers des télécommunications<a id=244></a>
+#### CHAPITRE  V : Services particuliers des télécommunications<a id=246></a>
 
-##### SECTION 2 : Liaisons louées<a id=245></a>
+##### SECTION 2 : Liaisons louées<a id=247></a>
 
 ###### Article D369
 
@@ -23109,7 +23138,7 @@ _Modifié par_:
   - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
 
 
-#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=246></a>
+#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=248></a>
 
 ###### Article D406-1-1
 
@@ -23245,9 +23274,9 @@ _Modifié par_:
   - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
 
 
-## LIVRE III : Les services financiers<a id=247></a>
+## LIVRE III : Les services financiers<a id=249></a>
 
-### TITRE Ier : Chèques postaux.<a id=248></a>
+### TITRE Ier : Chèques postaux.<a id=250></a>
 
 ###### Article D488
 
@@ -23592,7 +23621,7 @@ _Cite_:
   - Code des postes et des communications électroniques L109 al. 1
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=249></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=251></a>
 
 ###### Article D489
 
@@ -24099,7 +24128,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE II : Mandats.<a id=250></a>
+### TITRE II : Mandats.<a id=252></a>
 
 ###### Article D523
 
@@ -24374,7 +24403,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D540 (Ab)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=251></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=253></a>
 
 ###### Article D525
 
@@ -24788,7 +24817,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=252></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=254></a>
 
 ###### Article D549
 
@@ -24974,7 +25003,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=253></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=255></a>
 
 ###### Article D553
 
