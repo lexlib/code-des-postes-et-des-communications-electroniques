@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1987-09-25
+Version Consolidée au 1987-10-31
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -119,7 +119,7 @@ Version Consolidée au 1987-09-25
             - [Paragraphe 1 : Ouverture des bureaux télégraphiques. (art. D97 à D99)](#116)
             - [Paragraphe 2 : Dépôt des télégrammes. (art. D100)](#117)
             - [Paragraphe 3 : Rédaction des télégrammes (art. D104 à D110)](#118)
-              - [1. : Dispositions générales. (art. D104)](#119)
+              - [1. : Dispositions générales. (art. D104 à D105)](#119)
               - [3. : Adresse. (art. D107 à D110)](#120)
             - [Paragraphe 4 : Compte des mots. (art. D116)](#121)
             - [Paragraphe 5 : Remise des télégrammes. (art. D117 à D121)](#122)
@@ -159,7 +159,7 @@ Version Consolidée au 1987-09-25
         - [CHAPITRE IV : Téléphone (art. D288 à D367)](#156)
           - [SECTION 1 : Dispositions générales. (art. D288 à D289)](#157)
           - [SECTION 2 : Des communications téléphoniques (art. D290 à D316)](#158)
-            - [Paragraphe 1er : Dispositions générales. (art. D290 à D293)](#159)
+            - [Paragraphe 1er : Dispositions générales. (art. D290 à D293-1)](#159)
             - [Paragraphe 2 : Communications ordinaires (art. D294 à D298)](#160)
               - [1. : Définition. (art. D294)](#161)
               - [2. : Limitation de durée. (art. D295)](#162)
@@ -11832,6 +11832,56 @@ _Modifié par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
+###### Article D105
+
+Les parties constitutives d'un télégramme déposé pour transmission se présentent dans l'ordre suivant :
+
+a) Le préambule ;
+
+b) L'indication de service TFx, TLXx ou FAXx suivie d'autres indications de service s'il y a lieu ;
+
+c) Adresse ;
+
+d) Texte ;
+
+e) Signature facultative à l'exception de ceux faisant l'objet d'une demande d'accusé de réception.
+
+L'adresse d'un télégramme doit comprendre toutes les indications permettant d'assurer une remise rapide du télégramme, sans
+qu'il soit nécessaire de procéder à des recherches ou de recueillir des renseignements.
+
+Sous réserve des cas particuliers examinés à l'article qui suit, l'adresse complète du télégramme comporte :
+
+- le numéro de téléphone, télex ou télécopie du destinataire ;
+
+- le nom du destinataire (ou une raison sociale ou toute autre dénomination d'établissement) ;
+
+- le nom de la voie publique et le numéro de l'immeuble où se situe le domicile lorsque, dans la localité de destination, il
+existe des dénominations de voies et des numéros d'immeuble, et, le cas échéant, toutes indications telles que bloc,
+escalier, étage, etc. ;
+
+- le nom de la localité de destination ou de son bureau distributeur postal, précédé du numéro de code postal.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications D106
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Modifié par_:
+
+  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1986 en vigueur le 15 mai 1987
+  - Décret n°87-888 1987-10-30 art. 1 JORF 31 octobre 1987
+
+
 ##### 3. : Adresse.<a id=120></a>
 
 ###### Article D107
@@ -13580,6 +13630,27 @@ _Créé par_:
 _Modifié par_:
 
   - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+
+
+###### Article D293-1
+
+Les sommes dues au titre des communications téléphoniques échangées à partir d'un poste d'abonnement font l'objet d'une
+facture adressée à l'abonné. Les conditions d'émission de la facture et de paiement des sommes dues sont fixées par arrêté du
+ministre chargé des télécommunications.
+
+Pendant les six mois qui suivent l'émission de la facture [*délai*], l'administration tient à la disposition de l'abonné soit
+la photographie du compteur, soit le relevé des consommations enregistrées sur support informatique, soit tout autre élément
+justificatif de la facture, établissant en l'état des techniques existantes l'utilisation faite du service téléphonique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°87-888 1987-10-30 art. 1 JORF 31 octobre 1987
 
 
 ##### Paragraphe 2 : Communications ordinaires<a id=160></a>
