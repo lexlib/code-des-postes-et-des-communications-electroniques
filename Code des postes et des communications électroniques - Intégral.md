@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1975-01-04
+Version Consolidée au 1975-08-08
 ## Contenu: 
   - [Partie législative (art. L1 à L125)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -174,72 +174,73 @@ Version Consolidée au 1975-01-04
               - [2. : Avis d'appel. (art. D301)](#171)
               - [3. : Préavis. (art. D302 à D303)](#172)
               - [6. : Communication avec un véhicule. (art. D307)](#173)
-            - [Paragraphe 4 : Services spéciaux (art. D311 à D316)](#174)
-              - [4. : Service de l'heure. (art. D311)](#175)
-              - [6. : Mise en relation directe. (art. D313)](#176)
-              - [7. : Communications en dehors des heures normales d'ouverture du service. (art. D314 à D315)](#177)
-              - [8. : Service des auditions téléphoniques. (art. D316)](#178)
-          - [SECTION 3 : Des abonnements (art. D318 à D360)](#179)
-            - [Paragraphe 1er : Généralités. (art. D318)](#180)
-            - [Paragraphe 2 : Abonnements principaux permanents (art. D324 à D331)](#181)
-              - [4. : Abonnements à ligne partagée. (art. D324 à D327)](#182)
-              - [5. : Abonnements spéciaux. (art. D329 à D331)](#183)
-            - [Paragraphe 6 : Suspension et résiliation des abonnements. (art. D340 à D341)](#184)
-            - [Paragraphe 7 : Modification des conditions de concession d'un abonnement (art. D343 à D357)](#185)
-              - [1. : Transfert des postes d'abonnement. (art. D343 à D344)](#186)
-              - [2. : Transformation des abonnements. (art. D348 à D357)](#187)
-            - [Paragraphe 8 : Dispositions diverses (art. D358 à D360)](#188)
-              - [1. : Reprise de l'abonnement après résiliation. (art. D358)](#189)
-              - [2. : Listes périodiques d'abonnés. (art. D360)](#190)
-          - [SECTION 4 : Dispositions particulières au service international. (art. D362 à D367)](#191)
-        - [CHAPITRE  V : Services particuliers des télécommunications (art. D368 à D406)](#192)
-          - [SECTION 1 : Dispositions générales. (art. D368)](#193)
-          - [SECTION 2 : Liaisons spécialisées (art. D374 à D385)](#194)
-            - [Paragraphe 1er : Régime général. (art. D374 à D385)](#195)
-          - [SECTION 3 : Lignes d'intérêt privé (art. D387 à D400)](#196)
-            - [1. : Lignes permanentes. (art. D387 à D398)](#197)
-            - [2. : Lignes temporaires. (art. D399 à D400)](#198)
-          - [SECTION 4 : Réseaux spéciaux. (art. D401 à D406)](#199)
-      - [TITRE II : Etablissement des lignes (art. D415 à D439)](#200)
-        - [CHAPITRE Ier : Etablissement des lignes (art. D415 à D430)](#201)
-          - [SECTION 1 : Dispositions générales. (art. D415)](#202)
-          - [SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées). (art. D422 à D424)](#203)
-          - [SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé". (art. D426 à D428)](#204)
-          - [SECTION 4 : Faisceaux concédés. (art. D429 à D430)](#205)
-        - [CHAPITRE II : Entretien des lignes (art. D432 à D439)](#206)
-          - [SECTION 1 : Dispositions générales. (art. D432)](#207)
-          - [SECTION 2 : Lignes de télécommunications raccordées au réseau général. (art. D433)](#208)
-          - [SECTION 3 : Lignes étrangères au réseau général des télécommunications. (art. D434 à D438)](#209)
-          - [SECTION 4 : Faisceaux concédés. (art. D439)](#210)
-      - [TITRE IV : Police des liaisons et des installations du réseau de télécommunications (art. D456)](#211)
-        - [CHAPITRE Ier : Dispositions générales. (art. D456)](#212)
-      - [TITRE VI : Services radioélectriques (art. D457 à D487)](#213)
-        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D462)](#214)
-        - [CHAPITRE III : Stations radioélectriques privées. (art. D463 à D472)](#215)
-        - [CHAPITRE IV : Radiocommunications du service aérien (art. D473 à D482-10)](#216)
-          - [SECTION 1 : Généralités. (art. D473 à D474-1)](#217)
-          - [SECTION 2 : Stations installées par les services officiels de l'aéronautique civile. (art. D474-2 à D474-3)](#218)
-          - [SECTION 3 : Stations aéronautiques des aéro-clubs. (art. D474-4 à D474-9)](#219)
-          - [SECTION 4 : Stations aéronautiques, stations fixes aéronautiques, stations de radiophare installées par des entreprises de transport aérien ou des particuliers. (art. D475 à D477)](#220)
-          - [SECTION 5 : Stations installées à bord des aéronefs. (art. D478 à D482-8)](#221)
-          - [SECTION 6 : Dispositions diverses. (art. D482-9 à D482-10)](#222)
-        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#223)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#224)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#225)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D490 à D517)](#226)
-      - [TITRE II : Mandats. (art. D523 à D548)](#227)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#228)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#229)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#230)
-    - [LIVRE IV : L'organisation financière (art. D570 à D579)](#231)
-      - [TITRE II : Dispositions budgétaires (art. D570 à D572)](#232)
-        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. D570)](#233)
-        - [CHAPITRE IV : Comptabilité administrative. (art. D571 à D572)](#234)
-      - [TITRE V : Fonds spéciaux. (art. D573 à D579)](#235)
-  - [Annexes (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#236)
-    - [LIVRE IV : L'organisation financière (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#237)
-      - [TITRE II : Dispositions budgétaires (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#238)
-        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#239)
+            - [Paragraphe 4 : Services spéciaux (art. D308 à D316)](#174)
+              - [1. : Service de réception et de traitement d'appels. (art. D308)](#175)
+              - [4. : Service de l'heure. (art. D311)](#176)
+              - [6. : Mise en relation directe. (art. D313)](#177)
+              - [7. : Communications en dehors des heures normales d'ouverture du service. (art. D314 à D315)](#178)
+              - [8. : Service des auditions téléphoniques. (art. D316)](#179)
+          - [SECTION 3 : Des abonnements (art. D318 à D360)](#180)
+            - [Paragraphe 1er : Généralités. (art. D318)](#181)
+            - [Paragraphe 2 : Abonnements principaux permanents (art. D324 à D331)](#182)
+              - [4. : Abonnements à ligne partagée. (art. D324 à D327)](#183)
+              - [5. : Abonnements spéciaux. (art. D329 à D331)](#184)
+            - [Paragraphe 6 : Suspension et résiliation des abonnements. (art. D340 à D341)](#185)
+            - [Paragraphe 7 : Modification des conditions de concession d'un abonnement (art. D343 à D357)](#186)
+              - [1. : Transfert des postes d'abonnement. (art. D343 à D344)](#187)
+              - [2. : Transformation des abonnements. (art. D348 à D357)](#188)
+            - [Paragraphe 8 : Dispositions diverses (art. D358 à D360)](#189)
+              - [1. : Reprise de l'abonnement après résiliation. (art. D358)](#190)
+              - [2. : Listes périodiques d'abonnés. (art. D360)](#191)
+          - [SECTION 4 : Dispositions particulières au service international. (art. D362 à D367)](#192)
+        - [CHAPITRE  V : Services particuliers des télécommunications (art. D368 à D406)](#193)
+          - [SECTION 1 : Dispositions générales. (art. D368)](#194)
+          - [SECTION 2 : Liaisons spécialisées (art. D374 à D385)](#195)
+            - [Paragraphe 1er : Régime général. (art. D374 à D385)](#196)
+          - [SECTION 3 : Lignes d'intérêt privé (art. D387 à D400)](#197)
+            - [1. : Lignes permanentes. (art. D387 à D398)](#198)
+            - [2. : Lignes temporaires. (art. D399 à D400)](#199)
+          - [SECTION 4 : Réseaux spéciaux. (art. D401 à D406)](#200)
+      - [TITRE II : Etablissement des lignes (art. D415 à D439)](#201)
+        - [CHAPITRE Ier : Etablissement des lignes (art. D415 à D430)](#202)
+          - [SECTION 1 : Dispositions générales. (art. D415)](#203)
+          - [SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées). (art. D422 à D424)](#204)
+          - [SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé". (art. D426 à D428)](#205)
+          - [SECTION 4 : Faisceaux concédés. (art. D429 à D430)](#206)
+        - [CHAPITRE II : Entretien des lignes (art. D432 à D439)](#207)
+          - [SECTION 1 : Dispositions générales. (art. D432)](#208)
+          - [SECTION 2 : Lignes de télécommunications raccordées au réseau général. (art. D433)](#209)
+          - [SECTION 3 : Lignes étrangères au réseau général des télécommunications. (art. D434 à D438)](#210)
+          - [SECTION 4 : Faisceaux concédés. (art. D439)](#211)
+      - [TITRE IV : Police des liaisons et des installations du réseau de télécommunications (art. D456)](#212)
+        - [CHAPITRE Ier : Dispositions générales. (art. D456)](#213)
+      - [TITRE VI : Services radioélectriques (art. D457 à D487)](#214)
+        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D462)](#215)
+        - [CHAPITRE III : Stations radioélectriques privées. (art. D463 à D472)](#216)
+        - [CHAPITRE IV : Radiocommunications du service aérien (art. D473 à D482-10)](#217)
+          - [SECTION 1 : Généralités. (art. D473 à D474-1)](#218)
+          - [SECTION 2 : Stations installées par les services officiels de l'aéronautique civile. (art. D474-2 à D474-3)](#219)
+          - [SECTION 3 : Stations aéronautiques des aéro-clubs. (art. D474-4 à D474-9)](#220)
+          - [SECTION 4 : Stations aéronautiques, stations fixes aéronautiques, stations de radiophare installées par des entreprises de transport aérien ou des particuliers. (art. D475 à D477)](#221)
+          - [SECTION 5 : Stations installées à bord des aéronefs. (art. D478 à D482-8)](#222)
+          - [SECTION 6 : Dispositions diverses. (art. D482-9 à D482-10)](#223)
+        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#224)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#225)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#226)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D490 à D517)](#227)
+      - [TITRE II : Mandats. (art. D523 à D548)](#228)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#229)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#230)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#231)
+    - [LIVRE IV : L'organisation financière (art. D570 à D579)](#232)
+      - [TITRE II : Dispositions budgétaires (art. D570 à D572)](#233)
+        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. D570)](#234)
+        - [CHAPITRE IV : Comptabilité administrative. (art. D571 à D572)](#235)
+      - [TITRE V : Fonds spéciaux. (art. D573 à D579)](#236)
+  - [Annexes (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#237)
+    - [LIVRE IV : L'organisation financière (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#238)
+      - [TITRE II : Dispositions budgétaires (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#239)
+        - [CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours. (art. Annexe II à l'article D570 à Annexe VI à l'article D570)](#240)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -12814,7 +12815,36 @@ _Créé par_:
 
 ##### Paragraphe 4 : Services spéciaux<a id=174></a>
 
-##### 4. : Service de l'heure.<a id=175></a>
+##### 1. : Service de réception et de traitement d'appels.<a id=175></a>
+
+###### Article D308
+
+Dans la mesure où les équipements de télécommunications et les moyens d'exploitation de l'administration des postes et
+télécommunications le permettent, tout abonné titulaire d'un abonnement téléphonique principal peut participer à des services
+de réception et de traitements d'appels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. D307 (V)
+  - Code des postes et des communications électroni... - art. D310 (V)
+
+_Modifié par_:
+
+  - Décret n°70-811 1970-09-09 art. 1 JORF 15 septembre 1970
+  - Décret n°72-915 1972-09-26 art. 1 JORF 8 août 1975
+
+
+##### 4. : Service de l'heure.<a id=176></a>
 
 ###### Article D311
 
@@ -12837,7 +12867,7 @@ _Abrogé par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### 6. : Mise en relation directe.<a id=176></a>
+##### 6. : Mise en relation directe.<a id=177></a>
 
 ###### Article D313
 
@@ -12860,7 +12890,7 @@ _Abrogé par_:
   - Décret n°88-1140 1988-12-21 art. 1 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
 
 
-##### 7. : Communications en dehors des heures normales d'ouverture du service.<a id=177></a>
+##### 7. : Communications en dehors des heures normales d'ouverture du service.<a id=178></a>
 
 ###### Article D314
 
@@ -12912,7 +12942,7 @@ _Cité par_:
   - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
 
 
-##### 8. : Service des auditions téléphoniques.<a id=178></a>
+##### 8. : Service des auditions téléphoniques.<a id=179></a>
 
 ###### Article D316
 
@@ -12937,9 +12967,9 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### SECTION 3 : Des abonnements<a id=179></a>
+##### SECTION 3 : Des abonnements<a id=180></a>
 
-##### Paragraphe 1er : Généralités.<a id=180></a>
+##### Paragraphe 1er : Généralités.<a id=181></a>
 
 ###### Article D318
 
@@ -12956,9 +12986,9 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### Paragraphe 2 : Abonnements principaux permanents<a id=181></a>
+##### Paragraphe 2 : Abonnements principaux permanents<a id=182></a>
 
-##### 4. : Abonnements à ligne partagée.<a id=182></a>
+##### 4. : Abonnements à ligne partagée.<a id=183></a>
 
 ###### Article D324
 
@@ -13044,7 +13074,7 @@ _Abrogé par_:
   - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
 
 
-##### 5. : Abonnements spéciaux.<a id=183></a>
+##### 5. : Abonnements spéciaux.<a id=184></a>
 
 ###### Article D329
 
@@ -13089,7 +13119,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### Paragraphe 6 : Suspension et résiliation des abonnements.<a id=184></a>
+##### Paragraphe 6 : Suspension et résiliation des abonnements.<a id=185></a>
 
 ###### Article D340
 
@@ -13131,9 +13161,9 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### Paragraphe 7 : Modification des conditions de concession d'un abonnement<a id=185></a>
+##### Paragraphe 7 : Modification des conditions de concession d'un abonnement<a id=186></a>
 
-##### 1. : Transfert des postes d'abonnement.<a id=186></a>
+##### 1. : Transfert des postes d'abonnement.<a id=187></a>
 
 ###### Article D343
 
@@ -13186,7 +13216,7 @@ _Abrogé par_:
   - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
 
 
-##### 2. : Transformation des abonnements.<a id=187></a>
+##### 2. : Transformation des abonnements.<a id=188></a>
 
 ###### Article D348
 
@@ -13397,9 +13427,9 @@ _Abrogé par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### Paragraphe 8 : Dispositions diverses<a id=188></a>
+##### Paragraphe 8 : Dispositions diverses<a id=189></a>
 
-##### 1. : Reprise de l'abonnement après résiliation.<a id=189></a>
+##### 1. : Reprise de l'abonnement après résiliation.<a id=190></a>
 
 ###### Article D358
 
@@ -13426,7 +13456,7 @@ _Abrogé par_:
   - Décret n°83-258 1983-03-30 art. 1 et 5 JORF 31 mars 1983 rectificatif JORF 23 avril 1983 en vigueur le 1er avril 1983
 
 
-##### 2. : Listes périodiques d'abonnés.<a id=190></a>
+##### 2. : Listes périodiques d'abonnés.<a id=191></a>
 
 ###### Article D360
 
@@ -13449,7 +13479,7 @@ _Abrogé par_:
   - Décret n°79-440 1979-06-07 art. 1 JORF 8 juin 1979 rectificatif JORF 12 juillet 1979
 
 
-##### SECTION 4 : Dispositions particulières au service international.<a id=191></a>
+##### SECTION 4 : Dispositions particulières au service international.<a id=192></a>
 
 ###### Article D362
 
@@ -13579,9 +13609,9 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### CHAPITRE  V : Services particuliers des télécommunications<a id=192></a>
+#### CHAPITRE  V : Services particuliers des télécommunications<a id=193></a>
 
-##### SECTION 1 : Dispositions générales.<a id=193></a>
+##### SECTION 1 : Dispositions générales.<a id=194></a>
 
 ###### Article D368
 
@@ -13613,9 +13643,9 @@ _Modifié par_:
   - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
 
 
-##### SECTION 2 : Liaisons spécialisées<a id=194></a>
+##### SECTION 2 : Liaisons spécialisées<a id=195></a>
 
-##### Paragraphe 1er : Régime général.<a id=195></a>
+##### Paragraphe 1er : Régime général.<a id=196></a>
 
 ###### Article D374
 
@@ -13773,9 +13803,9 @@ _Abrogé par_:
   - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
 
 
-##### SECTION 3 : Lignes d'intérêt privé<a id=196></a>
+##### SECTION 3 : Lignes d'intérêt privé<a id=197></a>
 
-##### 1. : Lignes permanentes.<a id=197></a>
+##### 1. : Lignes permanentes.<a id=198></a>
 
 ###### Article D387
 
@@ -13952,7 +13982,7 @@ _Abrogé par_:
   - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
 
 
-##### 2. : Lignes temporaires.<a id=198></a>
+##### 2. : Lignes temporaires.<a id=199></a>
 
 ###### Article D399
 
@@ -13996,7 +14026,7 @@ _Abrogé par_:
   - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
 
 
-##### SECTION 4 : Réseaux spéciaux.<a id=199></a>
+##### SECTION 4 : Réseaux spéciaux.<a id=200></a>
 
 ###### Article D401
 
@@ -14131,11 +14161,11 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-### TITRE II : Etablissement des lignes<a id=200></a>
+### TITRE II : Etablissement des lignes<a id=201></a>
 
-#### CHAPITRE Ier : Etablissement des lignes<a id=201></a>
+#### CHAPITRE Ier : Etablissement des lignes<a id=202></a>
 
-##### SECTION 1 : Dispositions générales.<a id=202></a>
+##### SECTION 1 : Dispositions générales.<a id=203></a>
 
 ###### Article D415
 
@@ -14162,7 +14192,7 @@ _Abrogé par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées).<a id=203></a>
+##### SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées).<a id=204></a>
 
 ###### Article D422
 
@@ -14235,7 +14265,7 @@ _Abrogé par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé".<a id=204></a>
+##### SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé".<a id=205></a>
 
 ###### Article D426
 
@@ -14279,7 +14309,7 @@ _Abrogé par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### SECTION 4 : Faisceaux concédés.<a id=205></a>
+##### SECTION 4 : Faisceaux concédés.<a id=206></a>
 
 ###### Article D429
 
@@ -14323,9 +14353,9 @@ _Abrogé par_:
   - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
 
 
-#### CHAPITRE II : Entretien des lignes<a id=206></a>
+#### CHAPITRE II : Entretien des lignes<a id=207></a>
 
-##### SECTION 1 : Dispositions générales.<a id=207></a>
+##### SECTION 1 : Dispositions générales.<a id=208></a>
 
 ###### Article D432
 
@@ -14348,7 +14378,7 @@ _Abrogé par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### SECTION 2 : Lignes de télécommunications raccordées au réseau général.<a id=208></a>
+##### SECTION 2 : Lignes de télécommunications raccordées au réseau général.<a id=209></a>
 
 ###### Article D433
 
@@ -14375,7 +14405,7 @@ _Abrogé par_:
   - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### SECTION 3 : Lignes étrangères au réseau général des télécommunications.<a id=209></a>
+##### SECTION 3 : Lignes étrangères au réseau général des télécommunications.<a id=210></a>
 
 ###### Article D434
 
@@ -14482,7 +14512,7 @@ _Abrogé par_:
   - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
 
 
-##### SECTION 4 : Faisceaux concédés.<a id=210></a>
+##### SECTION 4 : Faisceaux concédés.<a id=211></a>
 
 ###### Article D439
 
@@ -14505,9 +14535,9 @@ _Abrogé par_:
   - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
 
 
-### TITRE IV : Police des liaisons et des installations du réseau de télécommunications<a id=211></a>
+### TITRE IV : Police des liaisons et des installations du réseau de télécommunications<a id=212></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=212></a>
+#### CHAPITRE Ier : Dispositions générales.<a id=213></a>
 
 ###### Article D456
 
@@ -14549,9 +14579,9 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-### TITRE VI : Services radioélectriques<a id=213></a>
+### TITRE VI : Services radioélectriques<a id=214></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=214></a>
+#### CHAPITRE Ier : Dispositions générales.<a id=215></a>
 
 ###### Article D457
 
@@ -14719,7 +14749,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### CHAPITRE III : Stations radioélectriques privées.<a id=215></a>
+#### CHAPITRE III : Stations radioélectriques privées.<a id=216></a>
 
 ###### Article D463
 
@@ -14928,9 +14958,9 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### CHAPITRE IV : Radiocommunications du service aérien<a id=216></a>
+#### CHAPITRE IV : Radiocommunications du service aérien<a id=217></a>
 
-##### SECTION 1 : Généralités.<a id=217></a>
+##### SECTION 1 : Généralités.<a id=218></a>
 
 ###### Article D473
 
@@ -14988,7 +15018,7 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 
-##### SECTION 2 : Stations installées par les services officiels de l'aéronautique civile.<a id=218></a>
+##### SECTION 2 : Stations installées par les services officiels de l'aéronautique civile.<a id=219></a>
 
 ###### Article D474-2
 
@@ -15030,7 +15060,7 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 
-##### SECTION 3 : Stations aéronautiques des aéro-clubs.<a id=219></a>
+##### SECTION 3 : Stations aéronautiques des aéro-clubs.<a id=220></a>
 
 ###### Article D474-4
 
@@ -15164,7 +15194,7 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 
-##### SECTION 4 : Stations aéronautiques, stations fixes aéronautiques, stations de radiophare installées par des entreprises de transport aérien ou des particuliers.<a id=220></a>
+##### SECTION 4 : Stations aéronautiques, stations fixes aéronautiques, stations de radiophare installées par des entreprises de transport aérien ou des particuliers.<a id=221></a>
 
 ###### Article D475
 
@@ -15246,7 +15276,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### SECTION 5 : Stations installées à bord des aéronefs.<a id=221></a>
+##### SECTION 5 : Stations installées à bord des aéronefs.<a id=222></a>
 
 ###### Article D478
 
@@ -15519,7 +15549,7 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 
-##### SECTION 6 : Dispositions diverses.<a id=222></a>
+##### SECTION 6 : Dispositions diverses.<a id=223></a>
 
 ###### Article D482-9
 
@@ -15560,7 +15590,7 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 
-#### CHAPITRE V : Radiocommunications du service maritime.<a id=223></a>
+#### CHAPITRE V : Radiocommunications du service maritime.<a id=224></a>
 
 ###### Article D483
 
@@ -15683,9 +15713,9 @@ _Nouveaux textes_:
   - Code des postes et des communications électronique - art. D406-13 (V)
 
 
-## LIVRE III : Les services financiers<a id=224></a>
+## LIVRE III : Les services financiers<a id=225></a>
 
-### TITRE Ier : Chèques postaux.<a id=225></a>
+### TITRE Ier : Chèques postaux.<a id=226></a>
 
 ###### Article D488
 
@@ -16095,7 +16125,7 @@ _Abrogé par_:
   - Décret n°93-977 1993-07-31 art. 5 JORF 5 août 1993
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=226></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=227></a>
 
 ###### Article D490
 
@@ -16441,7 +16471,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE II : Mandats.<a id=227></a>
+### TITRE II : Mandats.<a id=228></a>
 
 ###### Article D523
 
@@ -16636,7 +16666,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D540 (Ab)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=228></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=229></a>
 
 ###### Article D525
 
@@ -16983,7 +17013,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=229></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=230></a>
 
 ###### Article D549
 
@@ -17169,7 +17199,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=230></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=231></a>
 
 ###### Article D553
 
@@ -17516,11 +17546,11 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-## LIVRE IV : L'organisation financière<a id=231></a>
+## LIVRE IV : L'organisation financière<a id=232></a>
 
-### TITRE II : Dispositions budgétaires<a id=232></a>
+### TITRE II : Dispositions budgétaires<a id=233></a>
 
-#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=233></a>
+#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=234></a>
 
 ###### Article D570
 
@@ -17549,7 +17579,7 @@ _Abrogé par_:
   - Décret n°97-290 du 24 mars 1997 - art. 2 (V) JORF 29 mars 1997
 
 
-#### CHAPITRE IV : Comptabilité administrative.<a id=234></a>
+#### CHAPITRE IV : Comptabilité administrative.<a id=235></a>
 
 ###### Article D571
 
@@ -17647,7 +17677,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D575 (V)
 
 
-### TITRE V : Fonds spéciaux.<a id=235></a>
+### TITRE V : Fonds spéciaux.<a id=236></a>
 
 ###### Article D573
 
@@ -17839,13 +17869,13 @@ _Abrogé par_:
   - Décret n°97-290 du 24 mars 1997 - art. 2 (V) JORF 29 mars 1997
 
 
-# Annexes<a id=236></a>
+# Annexes<a id=237></a>
 
-## LIVRE IV : L'organisation financière<a id=237></a>
+## LIVRE IV : L'organisation financière<a id=238></a>
 
-### TITRE II : Dispositions budgétaires<a id=238></a>
+### TITRE II : Dispositions budgétaires<a id=239></a>
 
-#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=239></a>
+#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.<a id=240></a>
 
 ###### Article Annexe II à l'article D570
 
