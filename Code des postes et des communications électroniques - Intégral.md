@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2001-07-28
+Version Consolidée au 2001-08-05
 ## Contenu: 
   - [Partie législative (art. L1 à L129)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -227,35 +227,37 @@ Version Consolidée au 2001-07-28
             - [Paragraphe 8 : Dispositions diverses (art. D359)](#224)
               - [2. : Listes périodiques d'abonnés. (art. D359)](#225)
           - [SECTION 4 : Dispositions particulières au service international. (art. D362 à D367)](#226)
-        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#227)
-      - [TITRE II : Etablissement des lignes (art. D407-1 à D407-3)](#228)
-        - [CHAPITRE Ier : Etablissement des lignes (art. D407-1 à D407-3)](#229)
-          - [SECTION 1 : Dispositions générales. (art. D407-1 à D407-3)](#230)
-      - [TITRE VI : Les services radioélectriques (art. D457 à D487)](#231)
-        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D458)](#232)
-        - [CHAPITRE II : Installations et réseaux radioélectriques indépendants. (art. D459 à D463)](#233)
-        - [CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs. (art. D473)](#234)
-        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#235)
-    - [LIVRE II : Les télécommunications (art. D98-1 à D406-3)](#236)
-      - [TITRE Ier : Dispositions générales (art. D98-1 à D406-3)](#237)
-        - [Chapitre II : Régime juridique (art. D98-1 à D99-23)](#238)
-          - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-1 à D98-2)](#239)
-          - [SECTION 3 : Interconnexion (art. D99-6 à D99-22)](#240)
-            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-6 à D99-10)](#241)
-            - [Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7. (art. D99-11 à D99-22)](#242)
-          - [SECTION 4 : Accès à la boucle locale (art. D99-23)](#243)
-        - [CHAPITRE IV : Téléphone (art. D365)](#244)
-          - [SECTION 4 : Dispositions particulières au service international. (art. D365)](#245)
-        - [CHAPITRE  V : Services particuliers des télécommunications (art. D369 à D379)](#246)
-          - [SECTION 2 : Liaisons louées (art. D369 à D379)](#247)
-        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1-1 à D406-3)](#248)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#249)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#250)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#251)
-      - [TITRE II : Mandats. (art. D523 à D548)](#252)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#253)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#254)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#255)
+        - [CHAPITRE  V : Services particuliers des communications électroniques (art. D373 à D379)](#227)
+          - [SECTION 2 : Liaisons louées (art. D373 à D379)](#228)
+        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#229)
+      - [TITRE II : Etablissement des lignes (art. D407-1 à D407-3)](#230)
+        - [CHAPITRE Ier : Etablissement des lignes (art. D407-1 à D407-3)](#231)
+          - [SECTION 1 : Dispositions générales. (art. D407-1 à D407-3)](#232)
+      - [TITRE VI : Les services radioélectriques (art. D457 à D487)](#233)
+        - [CHAPITRE Ier : Dispositions générales. (art. D457 à D458)](#234)
+        - [CHAPITRE II : Installations et réseaux radioélectriques indépendants. (art. D459 à D463)](#235)
+        - [CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs. (art. D473)](#236)
+        - [CHAPITRE V : Radiocommunications du service maritime. (art. D483 à D487)](#237)
+    - [LIVRE II : Les télécommunications (art. D98-1 à D406-3)](#238)
+      - [TITRE Ier : Dispositions générales (art. D98-1 à D406-3)](#239)
+        - [Chapitre II : Régime juridique (art. D98-1 à D99-23)](#240)
+          - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-1 à D98-2)](#241)
+          - [SECTION 3 : Interconnexion (art. D99-6 à D99-22)](#242)
+            - [Paragraphe 1 : Principes s'appliquant à tous les opérateurs. (art. D99-6 à D99-10)](#243)
+            - [Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7. (art. D99-11 à D99-22)](#244)
+          - [SECTION 4 : Accès à la boucle locale (art. D99-23)](#245)
+        - [CHAPITRE IV : Téléphone (art. D365)](#246)
+          - [SECTION 4 : Dispositions particulières au service international. (art. D365)](#247)
+        - [CHAPITRE  V : Services particuliers des télécommunications (art. D369 à D377)](#248)
+          - [SECTION 2 : Liaisons louées (art. D369 à D377)](#249)
+        - [CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1-1 à D406-3)](#250)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#251)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D517)](#252)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D489 à D517)](#253)
+      - [TITRE II : Mandats. (art. D523 à D548)](#254)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D525 à D548)](#255)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#256)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D553 à D569)](#257)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -21281,7 +21283,100 @@ _Abrogé par_:
   - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
 
 
-#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=227></a>
+#### CHAPITRE  V : Services particuliers des communications électroniques<a id=227></a>
+
+##### SECTION 2 : Liaisons louées<a id=228></a>
+
+###### Article D373
+
+Les offres de liaisons louées sont maintenues pendant un délai raisonnable. Elles sont supprimées après consultation des
+utilisateurs et associations d'utilisateurs concernés, dans les conditions prévues au 2 de l'article 11 du cahier des charges
+annexé au décret n° 96-1225 du 27 décembre 1996.
+
+Les utilisateurs peuvent saisir l'Autorité de régulation des télécommunications des désaccords relatifs à la date de
+suppression d'une offre de liaisons louées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Cite_:
+
+  - Décret n°96-1225 1996-12-27 annexe
+
+_Modifié par_:
+
+  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
+
+
+###### Article D378
+
+Sans préjudice des recours prévus par le droit communautaire et national, tout utilisateur s'estimant lésé peut saisir
+l'Autorité de régulation des télécommunications du non-respect des dispositions de la présente section. Après avoir entendu
+les parties concernées, celle-ci rend un avis motivé.
+
+Lorsqu'elle constate qu'il y a lieu de poursuivre l'examen du cas, l'Autorité de régulation des télécommunications peut
+demander au ministre chargé des communications électroniques de saisir le président du comité visé à l'article 12 de la
+directive 92/44/CEE modifiée du 5 juin 1992 relative à l'application de la fourniture d'un réseau ouvert aux lignes louées.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et des
+communications éléctroniques devient le code des postes et des communications électroniques. Dans ce code, les mots
+"télécommunication" et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Directive CEE 92-44 1992-06-05 art. 12
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
+
+
+###### Article D379
+
+L'Autorité de régulation des télécommunications rend publiques une fois par an les statistiques relatives aux conditions de
+fourniture des liaisons louées mentionnées aux articles D. 370 et D. 371, concernant notamment les performances relatives au
+délai de fourniture type et au temps de réparation type.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Modifié par_:
+
+  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
+
+_Abrogé par_:
+
+  - Décret n°2004-1301 du 26 novembre 2004 - art. 3 () JORF 30 novembre 2004
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. D370 (M)
+  - Code des postes et des communications électronique - art. D371 (M)
+
+
+#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=229></a>
 
 ###### Article D406-1
 
@@ -21499,11 +21594,11 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-### TITRE II : Etablissement des lignes<a id=228></a>
+### TITRE II : Etablissement des lignes<a id=230></a>
 
-#### CHAPITRE Ier : Etablissement des lignes<a id=229></a>
+#### CHAPITRE Ier : Etablissement des lignes<a id=231></a>
 
-##### SECTION 1 : Dispositions générales.<a id=230></a>
+##### SECTION 1 : Dispositions générales.<a id=232></a>
 
 ###### Article D407-1
 
@@ -21580,9 +21675,9 @@ _Modifié par_:
   - Décret n°97-684 du 30 mai 1997 - art. 3 () JORF 1er juin 1997
 
 
-### TITRE VI : Les services radioélectriques<a id=231></a>
+### TITRE VI : Les services radioélectriques<a id=233></a>
 
-#### CHAPITRE Ier : Dispositions générales.<a id=232></a>
+#### CHAPITRE Ier : Dispositions générales.<a id=234></a>
 
 ###### Article D457
 
@@ -21656,7 +21751,7 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-#### CHAPITRE II : Installations et réseaux radioélectriques indépendants.<a id=233></a>
+#### CHAPITRE II : Installations et réseaux radioélectriques indépendants.<a id=235></a>
 
 ###### Article D459
 
@@ -21824,7 +21919,7 @@ _Abrogé par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 9 () JORF 30 avril 2005
 
 
-#### CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs.<a id=234></a>
+#### CHAPITRE IV : Radiocommunications intéressant la circulation des aéronefs.<a id=236></a>
 
 ###### Article D473
 
@@ -21865,7 +21960,7 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-#### CHAPITRE V : Radiocommunications du service maritime.<a id=235></a>
+#### CHAPITRE V : Radiocommunications du service maritime.<a id=237></a>
 
 ###### Article D483
 
@@ -22037,13 +22132,13 @@ _Transféré par_:
   - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
 
-## LIVRE II : Les télécommunications<a id=236></a>
+## LIVRE II : Les télécommunications<a id=238></a>
 
-### TITRE Ier : Dispositions générales<a id=237></a>
+### TITRE Ier : Dispositions générales<a id=239></a>
 
-#### Chapitre II : Régime juridique<a id=238></a>
+#### Chapitre II : Régime juridique<a id=240></a>
 
-##### Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1.<a id=239></a>
+##### Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1.<a id=241></a>
 
 ###### Article D98-1
 
@@ -22431,9 +22526,9 @@ _Modifié par_:
   - Décret n°2001-626 du 17 juillet 2001 - art. 1 () JORF 18 juillet 2001
 
 
-##### SECTION 3 : Interconnexion<a id=240></a>
+##### SECTION 3 : Interconnexion<a id=242></a>
 
-##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=241></a>
+##### Paragraphe 1 : Principes s'appliquant à tous les opérateurs.<a id=243></a>
 
 ###### Article D99-6
 
@@ -22502,7 +22597,7 @@ _Créé par_:
   - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
 
 
-##### Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7.<a id=242></a>
+##### Paragraphe 2 : Principes s'appliquant aux opérateurs figurant sur la liste établie en application du 7° de l'article L. 36-7.<a id=244></a>
 
 ###### Article D99-11
 
@@ -22990,7 +23085,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D99-24 (Ab)
 
 
-##### SECTION 4 : Accès à la boucle locale<a id=243></a>
+##### SECTION 4 : Accès à la boucle locale<a id=245></a>
 
 ###### Article D99-23
 
@@ -23048,9 +23143,9 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D99-24 (Ab)
 
 
-#### CHAPITRE IV : Téléphone<a id=244></a>
+#### CHAPITRE IV : Téléphone<a id=246></a>
 
-##### SECTION 4 : Dispositions particulières au service international.<a id=245></a>
+##### SECTION 4 : Dispositions particulières au service international.<a id=247></a>
 
 ###### Article D365
 
@@ -23072,21 +23167,15 @@ _Modifié par_:
   - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-#### CHAPITRE  V : Services particuliers des télécommunications<a id=246></a>
+#### CHAPITRE  V : Services particuliers des télécommunications<a id=248></a>
 
-##### SECTION 2 : Liaisons louées<a id=247></a>
+##### SECTION 2 : Liaisons louées<a id=249></a>
 
 ###### Article D369
 
-Pour l'application de la présente section, l'autorité réglementaire nationale, visée à l'article 2 de la directive (C.E.E.)
-n° 92-44 relative à l'application de la fourniture d'un réseau ouvert aux lignes louées, est le ministre chargé des
-télécommunications (direction de la réglementation générale).
+Les liaisons louées sont fournies dans les conditions fixées par la présente section.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Directive CEE 92-44 1992-06-05 art. 2
 
 _Codifié par_:
 
@@ -23094,23 +23183,24 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
+  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
 
 
 ###### Article D370
 
 Les informations concernant les offres de liaisons louées, relatives aux caractéristiques techniques, aux tarifs et aux
 conditions de fourniture des liaisons, sont rendues publiques par l'exploitant public dans les conditions prévues par arrêté
-du ministre chargé des télécommunications. Cet arrêté précise également les modalités selon lesquelles l'exploitant public
-met à disposition du public les informations, établies par l'autorité réglementaire, concernant les conditions d'utilisation
-des liaisons, les procédures de déclaration ou d'autorisation ainsi que les conditions de connexion d'un équipement terminal
-aux liaisons louées.
+du ministre chargé des télécommunications.
 
-Les modifications des offres existantes sont rendues publiques par l'exploitant public dès que possible, et au plus tard dans
-les deux mois avant leur mise en oeuvre, sauf accord de l'autorité réglementaire sur un délai plus court.
+Les conditions d'utilisation des liaisons louées, les procédures de déclaration ou d'autorisation ainsi que les conditions de
+connexion d'un équipement terminal aux liaisons louées sont rendues publiques par l'Autorité de régulation des
+télécommunications.
 
-Les informations concernant les nouveaux types d'offre de liaisons louées sont publiées au plus tard deux mois avant la mise
-en oeuvre de l'offre.
+Les informations relatives à de nouvelles offres et les modifications tarifaires des offres existantes sont publiées par
+l'exploitant public en respectant un délai de préavis d'un mois.
+
+Les modifications des conditions matérielles d'utilisation des liaisons louées sont effectuées conformément au 2 de l'article
+11 du cahier des charges annexé au décret n° 96-1225 du 27 décembre 1996.
 
 **Liens relatifs à cet article**
 
@@ -23118,9 +23208,13 @@ _Codifié par_:
 
   - Décret n°62-275 1962-03-12
 
+_Cite_:
+
+  - Décret n°96-1225 1996-12-27 annexe
+
 _Modifié par_:
 
-  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
+  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
 
 _Cité par_:
 
@@ -23142,15 +23236,11 @@ l'occasion de manifestations temporaires ;
 - les modalités de résiliation des contrats, notamment par l'utilisateur, moyennant le respect d'un délai de préavis
 raisonnable et, à défaut de respect de ce délai, les pénalités raisonnables éventuellement exigées ;
 
-- les principes et modalités d'indemnisation.
+- les modes de remboursement ou d'indemnisation.
 
 L'exploitant public rend publiques les statistiques relatives au délai de fourniture type et au temps de réparation type des
-liaisons louées, selon des modalités de calcul et une périodicité précisées par l'autorité réglementaire.
-
-Lorsqu'il est conduit à fournir, à la demande d'un utilisateur déterminé, une liaison louée correspondant à des
-caractéristiques particulières, l'exploitant public informe l'autorité réglementaire des conditions financières et techniques
-de cette offre. L'autorité réglementaire peut alors, en fonction de la demande du marché, demander à l'exploitant public de
-rendre publiques les conditions de fourniture de ces liaisons particulières.
+liaisons louées, selon des modalités de calcul et une périodicité précisées par arrêté du ministre chargé des
+télécommunications.
 
 **Liens relatifs à cet article**
 
@@ -23164,140 +23254,78 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
+  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
 
 _Cité par_:
 
   - Code des postes et des communications électronique - art. D379 (Ab)
 
 
-###### Article D372
+###### Article D374
 
-Les liaisons dites "de sécurité publique" sont des liaisons reconnues nécessaires pour assurer la sécurité publique et louées
-aux services publics ou aux concessionnaires de service public. L'exploitant public informe l'autorité réglementaire des
-conditions de mise à disposition de ces liaisons.
+Les liaisons louées ne peuvent être soumises à des restrictions d'accès ou d'utilisation que par voie réglementaire.
+
+Les liaisons louées peuvent être connectées à des réseaux ouverts au public ou à d'autres liaisons louées. Dans ce cas,
+aucune restriction autre que celles visées à l'alinéa précédent ne peut être introduite ou maintenue.
+
+Pour assurer la sécurité du fonctionnement et la protection du réseau, l'exploitant public peut, en cas d'urgence, refuser la
+fourniture de liaisons louées, l'interrompre ou réduire la disponibilité de leurs fonctions. Il informe, sans délai, les
+utilisateurs concernés ainsi que l'autorité de régulation des télécommunications, du début et de la fin de la période
+d'urgence, ainsi que des restrictions apportées au service.
+
+On entend par urgence, au sens de la présente section, les cas exceptionnels de force majeure, tels que des conditions
+météorologiques extrêmes, tremblements de terre, inondations, foudre ou incendies. Dans ces cas, l'exploitant public prend
+les dispositions utiles pour garantir le maintien du service à tous les utilisateurs.
+
+En cas de non-respect des conditions d'utilisation des liaisons louées par leurs utilisateurs, l'autorité de régulation des
+télécommunications peut, après avoir entendu les parties concernées, autoriser par décision motivée l'exploitant public à
+refuser la fourniture de ces liaisons louées, à l'interrompre, à en réduire la disponibilité des fonctions ou à adopter toute
+autre mesure spécifique appropriée. Cette décision est notifiée aux parties dans un délai de sept jours suivant son adoption.
+
+L'utilisation de liaisons louées pour fournir au public des services de télécommunications est soumise aux dispositions des
+articles L. 34 et suivants et des textes pris pour leur application.
+
+Lorsque l'exploitant public utilise des liaisons louées pour fournir des services ou fournit des liaisons louées à ses
+filiales ou partenaires, la même catégorie de liaisons louées doit être fournie sur demande aux autres utilisateurs dans des
+conditions identiques et avec la même qualité.
+
+L'exploitant public ne peut déroger aux conditions de fourniture qu'il a publiées, lorsqu'il estime déraisonnable une demande
+qui lui est adressée, qu'après accord de l'Autorité de régulation des télécommunications.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code des postes et télécommunications D369
+  - Code des postes et télécommunications L34
 
 _Codifié par_:
 
   - Décret n°62-275 1962-03-12
 
 _Modifié par_:
-
-  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
-
-_Abrogé par_:
 
   - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
-
-
-###### Article D373
-
-Les offres sont maintenues pendant un délai raisonnable.
-
-En cas de suppression d'une offre, l'autorité réglementaire est tenue informée du calendrier complet de mise en oeuvre de la
-suppression de l'offre. Elle peut allonger les délais prévus par le présent article en fonction des incidences, notamment
-financières, pour les utilisateurs de la suppression d'une offre et de leur prise en charge par l'exploitant public.
-
-L'exploitant public rend publique au moins douze mois à l'avance la date à laquelle les nouvelles demandes cesseront d'être
-satisfaites.
-
-La résiliation des contrats en cours résultant de la suppression de l'offre ne peut intervenir qu'après consultation de
-chaque utilisateur concerné. Elle ne peut, sauf accord de l'utilisateur, prendre effet avant l'expiration d'un délai de six
-mois suivant la date à laquelle il a été mis fin à la commercialisation de l'offre, visée à l'alinéa précédent.
-
-Les utilisateurs peuvent porter à la connaissance de l'autorité réglementaire les désaccords relatifs au retrait de l'offre.
-L'autorité réglementaire doit être saisie au plus tard dans les neuf mois suivant la date à laquelle la décision de
-suppression de l'offre a été rendue publique, en application du troisième alinéa du présent article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
-
-
-###### Article D374
-
-Les liaisons louées ne peuvent être soumises par l'autorité réglementaire à des restrictions d'accès ou d'utilisation qu'en
-vue d'assurer le respect des exigences essentielles définies au 12° de l'article L. 32.
-
-Les liaisons louées peuvent être connectées à des lignes d'abonnement ou à d'autres liaisons louées. Dans ce cas, aucune
-restriction autre que celles visées à l'alinéa précédent ne peut être introduite ou maintenue.
-
-Pour assurer la sécurité du fonctionnement et la protection du réseau, l'exploitant public peut, en cas d'urgence, refuser la
-fourniture de liaisons louées, l'interrompre ou réduire la disponibilité de leurs fonctions. Il informe, sans délai, les
-utilisateurs concernés ainsi que l'autorité réglementaire, du début et de la fin de la période d'urgence, ainsi que des
-restrictions apportées au service.
-
-On entend par urgence, au sens de la présente section, les cas exceptionnels de force majeure, tels que conditions
-météorologiques extrêmes, inondations, foudre ou incendies, actions syndicales ou lock-out, guerres, opérations militaires ou
-troubles civils. Dans ces cas, l'exploitant public prend les dispositions utiles pour garantir le maintien du service à tous
-les utilisateurs.
-
-En cas de non-respect des conditions d'utilisation des liaisons louées par leurs utilisateurs, l'autorité réglementaire peut,
-après avoir entendu les parties concernées, autoriser par décision motivée l'exploitant public à refuser la fourniture de ces
-liaisons louées, à l'interrompre, à en réduire la disponibilité des fonctions ou à adopter toute autre mesure spécifique
-appropriée. Cette décision est notifiée aux parties dans un délai de sept jours suivant son adoption.
-
-L'utilisation de liaisons louées pour fournir au public des services de télécommunications relevant des articles L. 34-2 et
-L. 34-5 est soumise, respectivement, aux dispositions des articles R. 9 et suivants et R. 11-1 et suivants.
-
-Lorsque l'exploitant public utilise des liaisons louées pour fournir des services relevant du domaine concurrentiel et
-notamment ceux visés aux articles L. 34-2, L. 34-3 et L. 34-5, la même catégorie de liaisons louées doit être fournie sur
-demande aux autres utilisateurs, dans des conditions techniques et financières identiques.
-
-L'exploitant public ne peut déroger aux conditions de tarification et de fourniture qu'il a publiées pour répondre à une
-demande déterminée qu'il estime déraisonnable, qu'après accord de l'autorité réglementaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
 
 _Cité par_:
 
   - Code des postes et des communications électronique - art. D377 (V)
 
-_Cite_:
-
-  - Code des postes et télécommunications L32, L34-2, L34-5, R9, R11-1, L34-3
-
 
 ###### Article D375
 
-Lorsque l'équipement terminal d'un utilisateur n'est pas agréé ou n'est plus conforme à l'agrément délivré dans les
-conditions prévues par l'article R. 20-2, le ministre chargé des télécommunications peut, à l'expiration du délai visé à
-l'article R. 20-22 (3°), dernier alinéa, et à défaut pour l'utilisateur de s'être conformé à la mise en demeure, demander à
-l'exploitant public de mettre en place, aux frais de l'intéressé, les dispositifs techniques permettant de mettre fin aux
-perturbations constatées.
-
-En cas d'urgence ou d'impossibilité de mettre fin dans un délai raisonnable aux troubles constatés, l'exploitant public peut,
-à la demande du ministre chargé des télécommunications, suspendre la fourniture de la ou des liaisons louées auxquelles sont
-connectés les terminaux à l'origine des perturbations.
+Lorsqu'un équipement terminal ayant fait l'objet de l'attestation de conformité prévue à l'article R. 20-2 perturbe le bon
+fonctionnement du réseau ou des services ou lorsque le terminal n'a pas fait l'objet d'une attestation de conformité,
+l'Autorité de régulation des télécommunications demande à l'exploitant public de suspendre la fourniture du service dans les
+conditions prévues à l'article R. 20-22.
 
 L'exploitant public informe, dans les plus brefs délais, l'utilisateur de cette suspension et en donne les raisons.
 
 L'exploitant public met fin à la suspension de la fourniture de la ou des liaisons, dès que la perturbation a pris fin ou que
 l'équipement terminal, à l'origine de la perturbation, a été déconnecté.
 
-Indépendamment des cas visés aux alinéas 1 à 4 du présent article, les conditions d'utilisation relatives à l'équipement
-terminal ne peuvent justifier une restriction d'utilisation des liaisons louées fondée sur l'intégrité du réseau ou
-l'interopérabilité des services.
+Indépendamment des cas visés aux premier à troisième alinéas du présent article, les conditions d'utilisation relatives à
+l'équipement terminal ne peuvent justifier une restriction d'utilisation des liaisons louées fondée sur l'intégrité du réseau
+ou l'interopérabilité des services.
 
 **Liens relatifs à cet article**
 
@@ -23311,14 +23339,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
+  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
 
 
 ###### Article D376
 
-L'autorité réglementaire détermine les catégories de liaisons louées conformes à des caractéristiques techniques harmonisées
-dans l'Espace économique européen, dont la fourniture est assurée par l'exploitant public. Cette liste peut être complétée,
-après consultation de l'exploitant public, par une offre obligatoire additionnelle de liaisons louées.
+Le ministre chargé des télécommunications détermine les catégories de liaisons louées conformes à des caractéristiques
+techniques harmonisées dans l'Espace économique européen, dont la fourniture est assurée par l'exploitant public. Cette liste
+peut être complétée après consultation de l'exploitant public, compte tenu de l'évolution du marché et des progrès des
+travaux de normalisation, par une offre obligatoire additionnelle de liaisons louées.
 
 L'offre de liaisons louées relevant d'autres catégories ne dispense pas l'exploitant public de fournir l'ensemble minimal
 défini au premier alinéa du présent article.
@@ -23331,7 +23360,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°95-107 du 31 janvier 1995 - art. 1 () JORF 3 février 1995
+  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
 
 
 ###### Article D377
@@ -23340,79 +23369,54 @@ Les tarifs des liaisons louées respectent le principe de l'orientation vers les
 tranparentes, conformément aux règles suivantes :
 
 - les tarifs des liaisons louées sont indépendants du type d'application que les utilisateurs de lignes louées mettent en
-oeuvre ;
+oeuvre sans préjudice du principe de non-discrimination ;
 
 - ils comportent une redevance initiale de connexion et une redevance périodique qui sont indiquées de façon distincte.
 Lorsque d'autres éléments de tarification sont appliqués, ceux-ci doivent être transparents et fondés sur des critères
 objectifs ;
 
 - les tarifs des liaisons louées s'appliquent aux prestations fournies à l'utilisateur entre les points de terminaison du
-réseau auxquels il a accès. Pour les liaisons louées internationales, des tarifs de demi-circuit peuvent être appliqués.
+réseau auxquels il a accès. Pour les liaisons fournies par plus d'un opérateur, dont l'exploitant public, des tarifs de demi-
+circuits peuvent être appliqués.
 
-Le système de comptabilisation des coûts des liaisons louées par l'exploitant public permet de vérifier le respect du
-principe de l'orientation des tarifs en fonction des coûts.
+Dans le cadre de la comptabilité prévu à l'article 18 du cahier des charges annexé au décret n° 96-1225 du 27 décembre 1996,
+les coûts des liaisons louées incluent :
 
-L'autorité réglementaire approuve ce système de comptabilisation et contrôle son application. Elle rend publics les principes
-de comptabilisation retenus et rend compte des vérifications auxquelles elle a procédé.
+a) Les coûts directs encourus pour l'établissement, l'exploitation et la maintenance des liaisons louées, ainsi que pour leur
+commercialisation et leur facturation ;
+
+b) Une contribution aux coûts communs, c'est-à-dire aux coûts qui ne peuvent être directement imputés ni aux liaisons louées
+ni à d'autres activités. Les coûts communs sont ventilés comme suit :
+
+Chaque fois que cela est possible, la ventilation est effectuée sur la base de l'analyse directe de l'origine des coûts ; 
+
+Lorsqu'une analyse directe n'est pas possible, les coûts sont ventilés sur la base du lien indirect existant avec une autre
+catégorie ou un autre groupe de catégories de coûts pour lesquelles une attribution ou une ventilation directe est possible.
+Le lien indirect est fondé sur des structures de coûts comparables ; 
+
+A défaut, la ventilation est effectuée en fonction du rapport entre l'ensemble des coûts affectés aux liaisons louées selon
+les méthodes décrites au a et à l' du b ci-dessus, et l'ensemble des coûts affectés aux autres services, selon les mêmes
+méthodes.
+
+D'autres méthodes de comptabilisation des coûts des liaisons louées ne peuvent être appliquées qu'après accord de l'Autorité
+de régulation des télécommunications.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
-
-
-###### Article D378
-
-Sans préjudice des recours prévus par le droit communautaire et national, tout utilisateur s'estimant lésé peut saisir
-l'autorité réglementaire du non-respect des dispositions de la présente section. Après avoir entendu les parties concernées,
-celle-ci rend un avis motivé.
-
-Lorsqu'elle constate qu'il y a lieu de poursuivre l'examen du cas, l'autorité réglementaire peut saisir le président du
-comité visé à l'article 12 de la directive (C.E.E.) n° 92-44 relative à l'application de la fourniture d'un réseau ouvert aux
-lignes louées.
-
-**Liens relatifs à cet article**
 
 _Cite_:
 
-  - Directive CEE 92-44 1992-06-05 art. 12
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
+  - Décret n°96-1225 1996-12-27 annexe
 
 _Modifié par_:
 
-  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
+  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
 
 
-###### Article D379
-
-L'autorité réglementaire rend publiques une fois par an les statistiques relatives aux conditions de fourniture des liaisons
-louées mentionnées aux articles D. 370 et D. 371, concernant notamment les performances relatives au délai de fourniture type
-et au temps de réparation type.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D370, D371
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
-
-
-#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=248></a>
+#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=250></a>
 
 ###### Article D406-1-1
 
@@ -23548,9 +23552,9 @@ _Modifié par_:
   - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
 
 
-## LIVRE III : Les services financiers<a id=249></a>
+## LIVRE III : Les services financiers<a id=251></a>
 
-### TITRE Ier : Chèques postaux.<a id=250></a>
+### TITRE Ier : Chèques postaux.<a id=252></a>
 
 ###### Article D488
 
@@ -23895,7 +23899,7 @@ _Cite_:
   - Code des postes et des communications électroniques L109 al. 1
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=251></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=253></a>
 
 ###### Article D489
 
@@ -24402,7 +24406,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE II : Mandats.<a id=252></a>
+### TITRE II : Mandats.<a id=254></a>
 
 ###### Article D523
 
@@ -24677,7 +24681,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D540 (Ab)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=253></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=255></a>
 
 ###### Article D525
 
@@ -25091,7 +25095,7 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=254></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=256></a>
 
 ###### Article D549
 
@@ -25277,7 +25281,7 @@ _Créé par_:
   - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=255></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=257></a>
 
 ###### Article D553
 
