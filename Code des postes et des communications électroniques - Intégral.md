@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1982-03-02
+Version Consolidée au 1982-12-30
 ## Contenu: 
   - [Partie législative (art. L1 à L127)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -3314,6 +3314,22 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article L107-1
+
+L'administration des postes et télécommunications est autorisée à accorder sa garantie aux bénéficiaires des paiements
+effectués par les porteurs de cartes de paiement émises par elle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°82-1126 du 29 décembre 1982 - art. 105 () JORF 30 décembre 1982
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
 
 
 ###### Article L108
