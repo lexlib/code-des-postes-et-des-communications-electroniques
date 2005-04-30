@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2005-04-30
+Version Consolidée au 2005-05-01
 ## Contenu: 
   - [Partie législative (art. L1 à L129)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -142,34 +142,30 @@ Version Consolidée au 2005-04-30
             - [Paragraphe 2 : Commission consultative des réseaux et services de communications électroniques. (art. D99-5)](#139)
             - [Paragraphe 3 : Organisation et fonctionnement des commissions consultatives. (art. D99-5-1)](#140)
           - [section 3 : Interconnexion et accès (art. D99-6 à D99-11)](#141)
-        - [CHAPITRE III : Télégraphe (art. D285 à D287)](#142)
-          - [SECTION 3 : Service télex (art. D285 à D287)](#143)
-            - [Paragraphe 3 : Communications. (art. D285 à D286)](#144)
-            - [Paragraphe 4 : Suspension d'une ligne d'abonnement télex. (art. D287)](#145)
-        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D377)](#146)
-          - [Section 1 : Autorité de régulation des télécommunications (art. D288 à D295)](#147)
-          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#148)
-          - [Section 3 : Liaisons louées. (art. D369 à D377)](#149)
-        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#150)
-      - [TITRE II : Ressources et police (art. D406-5 à D407-3)](#151)
-        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17)](#152)
-          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#153)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des télécommunications. (art. D406-14 à D406-17)](#154)
-        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-3)](#155)
-          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#156)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#157)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D520)](#158)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D488 à D520)](#159)
-      - [TITRE II : Mandats. (art. D535 à D548)](#160)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D523 à D548)](#161)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#162)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D549 à D569)](#163)
-    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#164)
-      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#165)
-      - [Chapitre 1er : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D572)](#166)
-      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D585)](#167)
-      - [Chapitre 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D582 à D586)](#168)
-      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#169)
+        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D377)](#142)
+          - [Section 1 : Autorité de régulation des télécommunications (art. D288 à D295)](#143)
+          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#144)
+          - [Section 3 : Liaisons louées. (art. D369 à D377)](#145)
+        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#146)
+      - [TITRE II : Ressources et police (art. D406-5 à D407-3)](#147)
+        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17)](#148)
+          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#149)
+          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des télécommunications. (art. D406-14 à D406-17)](#150)
+        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-3)](#151)
+          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#152)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#153)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D520)](#154)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D488 à D520)](#155)
+      - [TITRE II : Mandats. (art. D535 à D548)](#156)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D523 à D548)](#157)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#158)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D549 à D569)](#159)
+    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#160)
+      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#161)
+      - [Chapitre 1er : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D572)](#162)
+      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D585)](#163)
+      - [Chapitre 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D582 à D586)](#164)
+      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#165)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -18513,94 +18509,9 @@ _Cite_:
   - Code des postes et des communications électronique - art. L37-3 (M)
 
 
-#### CHAPITRE III : Télégraphe<a id=142></a>
+#### Chapitre IV : La régulation des communications électroniques.<a id=142></a>
 
-##### SECTION 3 : Service télex<a id=143></a>
-
-##### Paragraphe 3 : Communications.<a id=144></a>
-
-###### Article D285
-
-Les taxes applicables aux communications télex demandées à partir des postes d'abonnement sont fixées :
-
-- dans le régime intérieur : dans les conditions fixées par les décrets de taxes ;
-
-- dans le régime international : d'après leur durée et sur les bases fixées par des accords bilatéraux entre l'administration
-des postes et communications électroniques et ses correspondants. Les quotes-parts terminales et de transit françaises sont
-fixées en francs-or par arrêté du ministre des postes et des communications électroniques.
-
-Les taxes et surtaxes applicables aux télégrammes déposés par les abonnés télex dans les bureaux de l'administration sont
-celles prévues pour les télégrammes déposés aux guichets des bureaux de poste.
-
-**Nota:**
-
-Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et télécommunications
-devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication" et
-"télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-###### Article D286
-
-La transmission des communications télex échangées à partir des postes publics télex peut être assurée soit par le personnel
-de l'administration, soit, sur autorisation spéciale, par l'usager.
-
-Les taxes des communications télex des régimes intérieur et international demandées à partir des postes publics télex sont
-celles applicables aux communications demandées à partir des postes d'abonnement, majorées d'une surtaxe ; cette même surtaxe
-est applicable pendant la durée d'utilisation du dispositif de perforation lorsque l'appareil est équipé pour la transmission
-automatique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-##### Paragraphe 4 : Suspension d'une ligne d'abonnement télex.<a id=145></a>
-
-###### Article D287
-
-Un abonné télex ne doit en aucun cas interrompre, sans autorisation préalable de l'administration, l'alimentation en courant
-industriel d'un appareil téléimprimeur mis à sa disposition.
-
-Si une intervention des services de dérangements est provoquée par une interruption volontaire non autorisée du courant
-d'alimentation de l'appareil téléimprimeur, les frais d'intervention sont mis à la charge de l'abonné.
-
-Les lignes d'abonnement ayant fait l'objet d'une autorisation de suspension sont raccordées sur un dispositif spécial du
-centre de rattachement.
-
-Cette autorisation peut être donnée une fois pour toutes pour une suspension systématique à heures fixes ou,
-occasionnellement, sur demande spéciale. Elle donne lieu à perception de taxes spéciales, suivant les différents cas, fixées
-par décret.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-#### Chapitre IV : La régulation des communications électroniques.<a id=146></a>
-
-##### Section 1 : Autorité de régulation des télécommunications<a id=147></a>
+##### Section 1 : Autorité de régulation des télécommunications<a id=143></a>
 
 ###### Article D288
 
@@ -18794,7 +18705,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D97-11 (T)
 
 
-##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=148></a>
+##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=144></a>
 
 ###### Article D301
 
@@ -19495,7 +19406,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L38-1 (M)
 
 
-##### Section 3 : Liaisons louées.<a id=149></a>
+##### Section 3 : Liaisons louées.<a id=145></a>
 
 ###### Article D369
 
@@ -19701,7 +19612,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L38-1 (M)
 
 
-#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=150></a>
+#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=146></a>
 
 ###### Article D406-1
 
@@ -20065,11 +19976,11 @@ _Abrogé par_:
   - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 
-### TITRE II : Ressources et police<a id=151></a>
+### TITRE II : Ressources et police<a id=147></a>
 
-#### Chapitre Ier : Fréquences radioélectriques.<a id=152></a>
+#### Chapitre Ier : Fréquences radioélectriques.<a id=148></a>
 
-##### Section 1 : Dispositions générales<a id=153></a>
+##### Section 1 : Dispositions générales<a id=149></a>
 
 ###### Article D406-5
 
@@ -20333,7 +20244,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D487 (M)
 
 
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des télécommunications.<a id=154></a>
+##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des télécommunications.<a id=150></a>
 
 ###### Article D406-14
 
@@ -20465,9 +20376,9 @@ _Cite_:
   - Code des postes et des communications électronique - art. L42-2 (M)
 
 
-#### CHAPITRE III : Etablissement de lignes<a id=155></a>
+#### CHAPITRE III : Etablissement de lignes<a id=151></a>
 
-##### Section 1 : Dispositions générales.<a id=156></a>
+##### Section 1 : Dispositions générales.<a id=152></a>
 
 ###### Article D407-1
 
@@ -20541,11 +20452,11 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
-## LIVRE III : Les services financiers<a id=157></a>
+## LIVRE III : Les services financiers<a id=153></a>
 
-### TITRE Ier : Chèques postaux.<a id=158></a>
+### TITRE Ier : Chèques postaux.<a id=154></a>
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=159></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=155></a>
 
 ###### Article D488
 
@@ -21349,7 +21260,7 @@ _Cite_:
   - Code des postes et des communications électroniques L109 al. 1
 
 
-### TITRE II : Mandats.<a id=160></a>
+### TITRE II : Mandats.<a id=156></a>
 
 ###### Article D535
 
@@ -21394,7 +21305,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D524 (M)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=161></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=157></a>
 
 ###### Article D523
 
@@ -22010,9 +21921,9 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=162></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=158></a>
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=163></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=159></a>
 
 ###### Article D549
 
@@ -22564,9 +22475,9 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-## LIVRE IV : Dispositions communes et finales<a id=164></a>
+## LIVRE IV : Dispositions communes et finales<a id=160></a>
 
-### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=165></a>
+### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=161></a>
 
 ###### Article D570
 
@@ -22679,7 +22590,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-6 (T)
 
 
-### Chapitre 1er : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=166></a>
+### Chapitre 1er : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=162></a>
 
 ###### Article D572
 
@@ -22716,7 +22627,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-3 (M)
 
 
-### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=167></a>
+### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=163></a>
 
 ###### Article D576
 
@@ -22950,7 +22861,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-16 (T)
 
 
-### Chapitre 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=168></a>
+### Chapitre 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=164></a>
 
 ###### Article D582
 
@@ -23025,7 +22936,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L35-6 (M)
 
 
-### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=169></a>
+### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=165></a>
 
 ###### Article D587
 
