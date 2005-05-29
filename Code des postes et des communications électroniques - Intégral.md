@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2005-05-29
+Version Consolidée au 2005-05-30
 ## Contenu: 
   - [Partie législative (art. L4 à L129)](#1)
     - [LIVRE Ier : Le service postal (art. L4 à L31)](#2)
@@ -71,99 +71,97 @@ Version Consolidée au 2005-05-29
     - [LIVRE II : Les communications électroniques (art. R*9 à R52)](#68)
       - [TITRE Ier : Dispositions générales (art. R*9 à R20-44-4)](#69)
         - [Chapitre Ier : Définitions et principes. (art. R*9 à R*9-1)](#70)
-        - [Chapitre II : Régime juridique. (art. R10-1 à R20-28)](#71)
-          - [SECTION 3 bis : Annuaires universels et services universels de renseignements. (art. R10-1 à R10-8)](#72)
-          - [Section 2 : Annuaires et services de renseignements. (art. R10 à R10-10)](#73)
-          - [SECTION 3 bis : Annuaires universels et services universels de renseignement. (art. R11)](#74)
-          - [Section 4 : Interconnexion et accès aux réseaux. (art. R11-1 à R11-9)](#75)
-          - [Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques. (art. R20-1 à R20-28)](#76)
-            - [Paragraphe I : Dispositions générales. (art. R20-1 à R20-3)](#77)
-            - [Paragraphe II : Evaluation de la conformité des équipements. (art. R20-4 à R20-13)](#78)
-            - [Paragraphe III : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de conformité. (art. R20-14 à R20-16)](#79)
-            - [Paragraphe IV : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats. (art. R20-17 à R20-18)](#80)
-            - [Paragraphe V : Conditions de mise en service, de raccordement et d'utilisation des équipements. (art. R20-19 à R20-24-1)](#81)
-            - [Paragraphe VI : Dispositions pénales. (art. R20-25 à R20-27)](#82)
-            - [Paragraphe VII : Equipements utilisés dans certaines activités de l'Etat. (art. R20-28)](#83)
-        - [Chapitre III : Les obligations de service public. (art. R20-30 à R20-44)](#84)
-          - [Section 1 : Le service universel et les modalités de désignation des opérateurs chargés du service universel. (art. R20-30 à R20-30-12)](#85)
-          - [Section 2 : Financement du service universel des communications électroniques. (art. R*20-41 à R20-44)](#86)
-        - [Chapitre V : Dispositions pénales. (art. R20-44-1 à R20-44-4)](#87)
-      - [TITRE II : Ressources et police (art. R20-44-5 à R52)](#88)
-        - [Chapitre Ier : Fréquences radioélectriques. (art. R20-44-5 à R20-44-26)](#89)
-          - [Section 1 : Dispositions générales. (art. R20-44-5)](#90)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. R20-44-9)](#91)
-          - [Section 3 : Agence nationale des fréquences. (art. R20-44-10 à R20-44-26)](#92)
-            - [Paragraphe Ier : Dispositions générales et missions (art. R20-44-10 à R20-44-11)](#93)
-            - [Paragraphe II : Organisation et fonctionnement (art. R20-44-12 à R20-44-19)](#94)
-            - [Paragraphe III : Dispositions financières (art. R20-44-20 à R20-44-24)](#95)
-            - [Paragraphe IV : Dispositions particulières (art. R20-44-25 à R20-44-26)](#96)
-        - [Chapitre II : Numérotation et adressage. (art. R20-44-27 à R20-44-33)](#97)
-        - [Chapitre III : Droits de passage sur le domaine public routier et servitudes. (art. R*20-60 à R41)](#98)
-          - [Section 2 : Servitudes. (art. R*20-60 à R20-59)](#99)
-          - [Section 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. R*21 à R*26)](#100)
-          - [Section 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. R*28 à R27)](#101)
-          - [Section 5 : Dispositions pénales. (art. R*42 à R41)](#102)
-        - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques. (art. R42-1)](#103)
-        - [Chapitre V : Protection des câbles sous-marins. (art. R45 à R52)](#104)
-          - [Section 2 : Dispositions pénales. (art. R45 à R52)](#105)
-            - [Paragraphe I : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#106)
-            - [Paragraphe II : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#107)
-    - [LIVRE III : Les services financiers (art. R52-10 à R52-11)](#108)
-      - [TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005). (art. R52-10 à R52-11)](#109)
-  - [Partie réglementaire - Décrets simples (art. D1 à D593)](#110)
-    - [LIVRE Ier : Le service postal (art. D1 à D95-3)](#111)
-      - [TITRE Ier : Dispositions générales (art. D1 à D36)](#112)
-        - [Chapitre Ier : Le monopole postal. (art. D1 à D2)](#113)
-        - [Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances. (art. D3)](#114)
-        - [Chapitre III : Création des bureaux de poste. (art. D4 à D5)](#115)
-        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D6 à D33)](#116)
-          - [Section 1 : Généralités. (art. D6 à D8)](#117)
-          - [Section 2 : Lettres missives, cartes postales et paquets-poste. (art. D9 à D12)](#118)
-          - [Section 3 : Imprimés et échantillons. (art. D13 à D17)](#119)
-          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#120)
-          - [Section 5 : Magazines sonores. (art. D29 à D31)](#121)
-          - [Section 6 : Dispositions particulières. (art. D32 à D33)](#122)
-        - [Chapitre V : Conditions d'admission des objets de correspondance dans le régime international. (art. D34 à D36)](#123)
-      - [TITRE II : Affranchissement, recommandation et chargement (art. D38 à D57)](#124)
-        - [Chapitre Ier : Affranchissement. (art. D38 à D46)](#125)
-        - [Chapitre II : Recommandation et chargement. (art. D47 à D57)](#126)
-      - [TITRE IV : Franchise postale (art. D73 à D77)](#127)
-      - [TITRE V : Colis postaux. (art. D81 à D89)](#128)
-      - [TITRE VI : Distribution postale (art. D90 à D93)](#129)
-        - [Chapitre Ier : Distribution à domicile. (art. D90 à D92)](#130)
-        - [Chapitre II : Distribution au guichet. (art. D93)](#131)
-      - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#132)
-    - [LIVRE II : Les communications électroniques (art. D98-1 à D407-3)](#133)
-      - [TITRE Ier : Dispositions générales (art. D98-1 à D406-4)](#134)
-        - [Chapitre II : Régime juridique (art. D98-1 à D99-11)](#135)
-          - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-1 à D98-2-1)](#136)
-          - [Section 2 : Commission consultative des radiocommunications et commission consultative des réseaux et services de communications électroniques (art. D98-3 à D99-5-1)](#137)
-            - [Paragraphe 1 : Commission consultative des radiocommunications. (art. D99-4)](#138)
-            - [Paragraphe 2 : Commission consultative des réseaux et services de communications électroniques. (art. D99-5)](#139)
-            - [Paragraphe 3 : Organisation et fonctionnement des commissions consultatives. (art. D99-5-1)](#140)
-          - [section 3 : Interconnexion et accès (art. D99-6 à D99-11)](#141)
-        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D377)](#142)
-          - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#143)
-          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#144)
-          - [Section 3 : Liaisons louées. (art. D369 à D377)](#145)
-        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#146)
-      - [TITRE II : Ressources et police (art. D406-5 à D407-3)](#147)
-        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17)](#148)
-          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#149)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17)](#150)
-        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-3)](#151)
-          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#152)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#153)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D520)](#154)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D488 à D520)](#155)
-      - [TITRE II : Mandats. (art. D535 à D548)](#156)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D523 à D548)](#157)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#158)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D549 à D569)](#159)
-    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#160)
-      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#161)
-      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#162)
-      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#163)
+        - [Chapitre II : Régime juridique. (art. R10 à R20-28)](#71)
+          - [Section 2 : Annuaires et services de renseignements. (art. R10 à R11)](#72)
+          - [Section 4 : Interconnexion et accès aux réseaux. (art. R11-1 à R11-9)](#73)
+          - [Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques. (art. R20-1 à R20-28)](#74)
+            - [Paragraphe I : Dispositions générales. (art. R20-1 à R20-3)](#75)
+            - [Paragraphe II : Evaluation de la conformité des équipements. (art. R20-4 à R20-13)](#76)
+            - [Paragraphe III : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de conformité. (art. R20-14 à R20-16)](#77)
+            - [Paragraphe IV : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats. (art. R20-17 à R20-18)](#78)
+            - [Paragraphe V : Conditions de mise en service, de raccordement et d'utilisation des équipements. (art. R20-19 à R20-24-1)](#79)
+            - [Paragraphe VI : Dispositions pénales. (art. R20-25 à R20-27)](#80)
+            - [Paragraphe VII : Equipements utilisés dans certaines activités de l'Etat. (art. R20-28)](#81)
+        - [Chapitre III : Les obligations de service public. (art. R20-30 à R20-44)](#82)
+          - [Section 1 : Le service universel et les modalités de désignation des opérateurs chargés du service universel. (art. R20-30 à R20-30-12)](#83)
+          - [Section 2 : Financement du service universel des communications électroniques. (art. R*20-41 à R20-44)](#84)
+        - [Chapitre V : Dispositions pénales. (art. R20-44-1 à R20-44-4)](#85)
+      - [TITRE II : Ressources et police (art. R20-44-5 à R52)](#86)
+        - [Chapitre Ier : Fréquences radioélectriques. (art. R20-44-5 à R20-44-26)](#87)
+          - [Section 1 : Dispositions générales. (art. R20-44-5)](#88)
+          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. R20-44-9)](#89)
+          - [Section 3 : Agence nationale des fréquences. (art. R20-44-10 à R20-44-26)](#90)
+            - [Paragraphe Ier : Dispositions générales et missions (art. R20-44-10 à R20-44-11)](#91)
+            - [Paragraphe II : Organisation et fonctionnement (art. R20-44-12 à R20-44-19)](#92)
+            - [Paragraphe III : Dispositions financières (art. R20-44-20 à R20-44-24)](#93)
+            - [Paragraphe IV : Dispositions particulières (art. R20-44-25 à R20-44-26)](#94)
+        - [Chapitre II : Numérotation et adressage. (art. R20-44-27 à R20-44-33)](#95)
+        - [Chapitre III : Droits de passage sur le domaine public routier et servitudes. (art. R*20-60 à R41)](#96)
+          - [Section 2 : Servitudes. (art. R*20-60 à R20-59)](#97)
+          - [Section 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. R*21 à R*26)](#98)
+          - [Section 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. R*28 à R27)](#99)
+          - [Section 5 : Dispositions pénales. (art. R*42 à R41)](#100)
+        - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques. (art. R42-1)](#101)
+        - [Chapitre V : Protection des câbles sous-marins. (art. R45 à R52)](#102)
+          - [Section 2 : Dispositions pénales. (art. R45 à R52)](#103)
+            - [Paragraphe I : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#104)
+            - [Paragraphe II : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#105)
+    - [LIVRE III : Les services financiers (art. R52-10 à R52-11)](#106)
+      - [TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005). (art. R52-10 à R52-11)](#107)
+  - [Partie réglementaire - Décrets simples (art. D1 à D593)](#108)
+    - [LIVRE Ier : Le service postal (art. D1 à D95-3)](#109)
+      - [TITRE Ier : Dispositions générales (art. D1 à D36)](#110)
+        - [Chapitre Ier : Le monopole postal. (art. D1 à D2)](#111)
+        - [Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances. (art. D3)](#112)
+        - [Chapitre III : Création des bureaux de poste. (art. D4 à D5)](#113)
+        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D6 à D33)](#114)
+          - [Section 1 : Généralités. (art. D6 à D8)](#115)
+          - [Section 2 : Lettres missives, cartes postales et paquets-poste. (art. D9 à D12)](#116)
+          - [Section 3 : Imprimés et échantillons. (art. D13 à D17)](#117)
+          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#118)
+          - [Section 5 : Magazines sonores. (art. D29 à D31)](#119)
+          - [Section 6 : Dispositions particulières. (art. D32 à D33)](#120)
+        - [Chapitre V : Conditions d'admission des objets de correspondance dans le régime international. (art. D34 à D36)](#121)
+      - [TITRE II : Affranchissement, recommandation et chargement (art. D38 à D57)](#122)
+        - [Chapitre Ier : Affranchissement. (art. D38 à D46)](#123)
+        - [Chapitre II : Recommandation et chargement. (art. D47 à D57)](#124)
+      - [TITRE IV : Franchise postale (art. D73 à D77)](#125)
+      - [TITRE V : Colis postaux. (art. D81 à D89)](#126)
+      - [TITRE VI : Distribution postale (art. D90 à D93)](#127)
+        - [Chapitre Ier : Distribution à domicile. (art. D90 à D92)](#128)
+        - [Chapitre II : Distribution au guichet. (art. D93)](#129)
+      - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#130)
+    - [LIVRE II : Les communications électroniques (art. D98-1 à D407-3)](#131)
+      - [TITRE Ier : Dispositions générales (art. D98-1 à D406-4)](#132)
+        - [Chapitre II : Régime juridique (art. D98-1 à D99-11)](#133)
+          - [Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1. (art. D98-1 à D98-2-1)](#134)
+          - [Section 2 : Commission consultative des radiocommunications et commission consultative des réseaux et services de communications électroniques (art. D98-3 à D99-5-1)](#135)
+            - [Paragraphe 1 : Commission consultative des radiocommunications. (art. D99-4)](#136)
+            - [Paragraphe 2 : Commission consultative des réseaux et services de communications électroniques. (art. D99-5)](#137)
+            - [Paragraphe 3 : Organisation et fonctionnement des commissions consultatives. (art. D99-5-1)](#138)
+          - [section 3 : Interconnexion et accès (art. D99-6 à D99-11)](#139)
+        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D377)](#140)
+          - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#141)
+          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#142)
+          - [Section 3 : Liaisons louées. (art. D369 à D377)](#143)
+        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#144)
+      - [TITRE II : Ressources et police (art. D406-5 à D407-3)](#145)
+        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17)](#146)
+          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#147)
+          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17)](#148)
+        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-3)](#149)
+          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#150)
+    - [LIVRE III : Les services financiers (art. D488 à D569)](#151)
+      - [TITRE Ier : Chèques postaux. (art. D488 à D520)](#152)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D488 à D520)](#153)
+      - [TITRE II : Mandats. (art. D535 à D548)](#154)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D523 à D548)](#155)
+      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#156)
+        - [(en vigueur jusqu'au 31 décembre 2005). (art. D549 à D569)](#157)
+    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#158)
+      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#159)
+      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#160)
+      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#161)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -9208,321 +9206,7 @@ _Cite_:
 
 #### Chapitre II : Régime juridique.<a id=71></a>
 
-##### SECTION 3 bis : Annuaires universels et services universels de renseignements.<a id=72></a>
-
-###### Article R10-1
-
-Le fait d'utiliser, dans des opérations de prospection directe, des données à caractère personnel contenues dans les listes
-d'abonnés ou d'utilisateurs du service téléphonique au public relatives aux personnes ayant exprimé leur opposition, par
-application des dispositions du 4 de l'article R. 10, quel que soit le mode d'accès à ces données, est puni, pour chaque
-correspondance ou chaque appel, de l'amende prévue pour les contraventions de la quatrième classe, sans préjudice de
-l'application du premier alinéa de l'article 226-18 du code pénal.
-
-La prospection directe des personnes physiques en violation des dispositions du premier alinéa de l'article L. 34-5 est
-punie, pour chaque communication, de l'amende prévue pour les contraventions de la quatrième classe, sans préjudice de
-l'application du premier alinéa de l'article 226-18 du code pénal.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2003-752 du 1 août 2003 - art. 1 () JORF 6 août 2003
-
-_Cite_:
-
-  - Code pénal - art. 226-18 (M)
-  - Code des postes et des communications électronique - art. L34-5 (M)
-  - Code des postes et des communications électronique - art. R10 (M)
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code de procédure pénale - art. R48-1 (V)
-  - Code des postes et des communications électroni... - art. R10-10 (Ab)
-  - Code des postes et des communications électroni... - art. R10-11 (V)
-  - Code des postes et des communications électronique - art. R11 (T)
-
-
-###### Article R10-2
-
-Les personnes qui ont souscrit un abonnement au service télex peuvent demander à être inscrite gratuitement dans le fichier
-institué par l'article 10 de la loi n° 89-1008 du 31 décembre 1989, établi et mis à jour par l'opérateur chargé du service
-obligatoire de télex en application de l'article L. 35-5.
-
-Est interdite la prospection directe effectuée par télex de toute personne inscrite dans ce fichier. Cette interdiction prend
-effet immédiatement lorsque la demande d'inscription est formulée au moment de la souscription de l'abonnement. Elle prend
-effet deux mois après la date de la demande lorsque celle-ci est postérieure à la souscription de l'abonnement.
-
-Le fait de contrevenir à l'interdiction édictée à l'alinéa précédent est puni, sans préjudice de l'application du premier
-alinéa de l'article 226-18 du code pénal, pour chaque exemplaire du message expédié par télex, de l'amende prévue pour les
-contraventions de la quatrième classe.
-
-Tout fournisseur au public d'un service télex ou tout distributeur d'un tel service fait connaître à chaque abonné la
-possibilité prévue au premier alinéa et lui fait parvenir un formulaire permettant d'exprimer son choix. Lorsque l'abonné
-demande son inscription dans le fichier, le fournisseur du service ou son distributeur lui notifie la date à laquelle son
-inscription est effective.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°89-1008 1989-12-31 art. 10
-  - Code pénal - art. 226-18 (M)
-  - Code des postes et des communications électronique - art. L35-5 (M)
-
-_Modifié par_:
-
-  - Décret n°2003-752 du 1 août 2003 - art. 1 () JORF 6 août 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code de procédure pénale - art. R48-1 (V)
-  - Code des postes et des communications électronique - art. D98-1 (M)
-  - Code des postes et des communications électronique - art. R10-10 (MMN)
-  - Code des postes et des communications électronique - art. R11 (MMN)
-
-
-###### Article R10-3
-
-I. - Les opérateurs établissent les listes d'abonnés et d'utilisateurs mentionnées au troisième alinéa de l'article L. 33-4
-(1).
-
-Ces listes contiennent les données permettant d'identifier les abonnés ou les utilisateurs, d'empêcher toute confusion entre
-les personnes et de prendre connaissance des oppositions qui ont été formulées en application de l'article R. 10.
-
-Sans préjudice des dispositions des 1, 2 et 3 de l'article R. 10, ces données sont constituées par les noms, prénoms et, le
-cas échéant, les raisons sociales ou dénominations sociales, adresses et numéros de téléphone des abonnés au service
-téléphonique au public et de ses utilisateurs. Les abonnés à la téléphonie fixe peuvent demander l'insertion dans les listes
-des données relatives aux autres utilisateurs de la ligne concernée, sous réserve de leur accord, qui doit accompagner la
-demande.
-
-Les opérateurs insèrent dans les listes la mention de la profession ou activité des personnes qui en font la demande sous
-leur responsabilité. Ils peuvent également proposer l'insertion des adresses électroniques des abonnés ou utilisateurs.
-
-Les listes font apparaître les oppositions que les abonnés ou utilisateurs ont formulées en application de l'article R. 10.
-
-II. - Les opérateurs prennent, chacun en ce qui le concerne, les précautions nécessaires afin d'assurer le contrôle de
-l'exactitude des données figurant dans les listes et de la qualité, notamment technique, de ces listes qui doivent être mises
-à jour.
-
-Afin que les données correspondantes soient prises en compte dans ces listes, les distributeurs transmettent à chaque
-opérateur, dans un délai d'un jour suivant la date de la souscription du contrat, les données relatives à l'abonné avec
-lequel un contrat a été signé.
-
-**Nota:**
-
-NOTA : L'article L. 33-4 du code des postes et des communications électroniques a été abrogé par l'article 8 I de la loi n°
-2004-669 du 9 juillet 2004.Le nouvel article L. 33-4 est issu du transfert de l'article L. 34-5 par l'article 8 II de cette
-même loi.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-752 du 1 août 2003 - art. 1 () JORF 6 août 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. R10 (V)
-  - Code des postes et des communications électroni... - art. R10-7 (V)
-
-_Cite_:
-
-  - Code des postes et des communications électronique - art. L33-4 (M)
-
-
-###### Article R10-4
-
-I. - Les opérateurs communiquent les listes d'abonnés et d'utilisateurs prévues au troisième alinéa de l'article L. 33-4 à
-toute personne souhaitant éditer un annuaire universel ou fournir un service universel de renseignements dans les conditions
-suivantes :
-
-- soit sous la forme d'un fichier ;
-
-- soit par accès à une base de données que les opérateurs sont tenus de mettre à jour dans un délai n'excédant pas deux jours
-ouvrables suivant la souscription du contrat par l'abonné ou la réception des données utiles transmises par des
-distributeurs.
-
-Les données communiquées concernent soit l'ensemble des abonnés et des utilisateurs domiciliés en France, soit les abonnés et
-utilisateurs domiciliés dans la ou les communes de la zone géographique faisant l'objet de la demande.
-
-Les modalités d'accès à cette base de données, le format des données ainsi que les caractéristiques du fichier mentionné au
-deuxième alinéa sont définis par accord entre le demandeur et l'opérateur.
-
-Préalablement à toute communication des listes qu'ils ont constituées, les opérateurs en retirent les données relatives aux
-abonnés et utilisateurs qui ont demandé à la fois le bénéfice des dispositions du 1 et du 5 de l'article R. 10.
-
-II. - L'usage des listes obtenues par application du troisième alinéa de l'article L. 33-4 à d'autres fins que la fourniture
-d'annuaires universels ou de services universels de renseignements téléphoniques est interdit.
-
-Sauf stipulations contractuelles contraires, toute vente des listes obtenues par application du troisième alinéa de l'article
-L. 33-4 est interdite.
-
-Sans préjudice de l'application des peines prévues à l'article 226-21 du code pénal, le fait de contrevenir aux dispositions
-du II du présent article est puni, pour chaque abonné concerné, de l'amende prévue pour les contraventions de la quatrième
-classe.
-
-**Nota:**
-
-NOTA : L'article L. 33-4 du code des postes et des communications électroniques a été abrogé par l'article 8 I de la loi n°
-2004-669 du 9 juillet 2004.Le nouvel article L. 33-4 est issu du transfert de l'article L. 34-5 par l'article 8 II de cette
-même loi.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-752 du 1 août 2003 - art. 1 () JORF 6 août 2003
-
-_Cite_:
-
-  - Code pénal - art. 226-21 (M)
-  - Code des postes et des communications électronique - art. L33-4 (M)
-  - Code des postes et des communications électronique - art. R10 (M)
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code de procédure pénale - art. R48-1 (V)
-  - Code des postes et des communications électroni... - art. D98-7 (V)
-  - Code des postes et des communications électroni... - art. R10-10 (Ab)
-  - Code des postes et des communications électroni... - art. R10-11 (V)
-  - Code des postes et des communications électronique - art. D98-1 (M)
-  - Code des postes et des communications électronique - art. R11 (T)
-
-
-###### Article R10-5
-
-Les éditeurs d'annuaire universel et les fournisseurs de service universel de renseignements prennent les mesures nécessaires
-pour préserver, compte tenu des techniques disponibles, la sécurité des informations qui leur ont été communiquées en
-application de l'article L. 33-4 afin d'empêcher l'altération, la destruction ou la communication à des tiers non autorisés
-des fichiers et des données qu'ils contiennent. Ils prennent toutes dispositions, notamment contractuelles, vis-à-vis de
-leurs agents et de leurs partenaires commerciaux afin que ceux-ci respectent la confidentialité des informations qui leur ont
-été, le cas échéant, confiées.
-
-Les éditeurs d'annuaire universel et les fournisseurs de service universel de renseignements ne doivent pas effectuer ou
-permettre à quiconque d'effectuer des opérations tendant à isoler au sein des listes mentionnées au premier alinéa les
-abonnés d'un opérateur ou d'un distributeur particulier.
-
-Les éditeurs d'annuaire universel et les fournisseurs de service universel de renseignements traitent et présentent de
-manière non discriminatoire les données relatives aux abonnés qui leur sont communiquées par les opérateurs. Ils
-s'abstiennent notamment de toute discrimination en fonction de l'opérateur ou du distributeur.
-
-Les insertions publicitaires ou autres prestations permettant aux professionnels qui le souhaitent d'apparaître dans les
-annuaires universels de manière particulière doivent être identifiées comme telles.
-
-Lorsqu'une personne disposant de plusieurs contrats d'abonnement fait usage des droits prévus à l'article R. 10 de manière
-différente selon les opérateurs, les éditeurs d'annuaire universel et les fournisseurs de service universel de renseignements
-doivent appliquer aux données à caractère personnel la concernant soit l'ensemble des protections qu'elle a choisies auprès
-des différents opérateurs, soit la protection la plus forte qu'elle a choisie auprès de l'un des opérateurs.
-
-**Nota:**
-
-NOTA : L'article L. 33-4 du code des postes et des communications électroniques a été abrogé par l'article 8 I de la loi n°
-2004-669 du 9 juillet 2004.Le nouvel article L. 33-4 est issu du transfert de l'article L. 34-5 par l'article 8 II de cette
-même loi.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-752 du 1 août 2003 - art. 1 () JORF 6 août 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cite_:
-
-  - Code des postes et des communications électronique - art. L33-4 (M)
-
-
-###### Article R10-6
-
-La communication des listes d'abonnés et d'utilisateurs, par application du troisième alinéa de l'article L. 33-4, donne lieu
-à rémunération des opérateurs ayant communiqué ces données.
-
-Les tarifs de cette communication, qui reflètent le coût du service rendu, sont établis par chaque opérateur selon les
-principes suivants :
-
-1. Les coûts pris en compte pour la fixation du tarif sont ceux qui sont causés, directement ou indirectement, par la
-fourniture des listes d'abonnés. Ces coûts peuvent notamment comprendre une part liée à l'amortissement du matériel
-informatique et des logiciels nécessaires et une rémunération normale des capitaux employés.
-
-2. Les coûts qui sont spécifiques à la fourniture des listes d'abonnés sont entièrement pris en compte dans la fixation du
-tarif. Les coûts liés à d'autres activités de l'opérateur en sont exclus.
-
-**Nota:**
-
-L'article L. 33-4 du code des postes et des communications électroniques a été abrogé par l'article 8 I de la loi n° 2004-669
-du 9 juillet 2004.Le nouvel article L. 33-4 est issu du transfert de l'article L. 34-5 par l'article 8 II de cette même loi.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-752 du 1 août 2003 - art. 1 () JORF 6 août 2003
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cite_:
-
-  - Code des postes et des communications électronique - art. L33-4 (M)
-
-
-###### Article R10-8
-
-L'annuaire universel sous forme imprimée édité en application de l'article L. 35-4 est publié chaque année à une date portée
-à la connaissance du public.
-
-L'annuaire universel sous forme électronique prévu par les mêmes dispositions permet l'accès immédiat du public, à un tarif
-abordable, aux informations qu'il contient et qui sont régulièrement mises à jour.
-
-L'opérateur chargé, en application de l'article L. 35-2, de fournir la composante du service universel mentionnée au 2° de
-l'article L. 35-1 met gratuitement à la disposition de tout abonné au service téléphonique au public un exemplaire des
-volumes départementaux de l'annuaire universel du département dans lequel l'abonnement a été souscrit ou, lorsqu'il s'agit
-d'un abonnement à la téléphonie mobile, du département où se situe l'adresse de facturation, y compris lorsque l'intéressé a
-fait usage des droits prévus à l'article R. 10. Lorsque plusieurs abonnés ont le même domicile ou lorsque la même personne
-dispose de plusieurs abonnements correspondant à une même adresse, il est mis à disposition un seul exemplaire gratuit. Cet
-opérateur propose à la vente l'annuaire universel à un tarif abordable.
-
-Le service universel de renseignements assuré par cet opérateur est accessible à un tarif abordable.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2004-1222 du 17 novembre 2004 - art. 14 () JORF 19 novembre 2004
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cite_:
-
-  - Code des postes et des communications électronique - art. L35-1 (M)
-  - Code des postes et des communications électronique - art. L35-2 (M)
-  - Code des postes et des communications électronique - art. L35-4 (M)
-  - Code des postes et des communications électronique - art. R10 (M)
-
-
-##### Section 2 : Annuaires et services de renseignements.<a id=73></a>
+##### Section 2 : Annuaires et services de renseignements.<a id=72></a>
 
 ###### Article R10
 
@@ -9599,6 +9283,224 @@ _Cite_:
   - Code des postes et des communications électronique - art. L34-5 (M)
 
 
+###### Article R10-1
+
+Le fait d'utiliser, dans des opérations de prospection directe, des données à caractère personnel contenues dans les listes
+d'abonnés ou d'utilisateurs du service téléphonique au public relatives aux personnes ayant exprimé leur opposition, par
+application des dispositions du 4 de l'article R. 10, quel que soit le mode d'accès à ces données, est puni, pour chaque
+correspondance ou chaque appel, de l'amende prévue pour les contraventions de la quatrième classe, sans préjudice de
+l'application du premier alinéa de l'article 226-18 du code pénal.
+
+La prospection directe des personnes physiques en violation des dispositions du premier alinéa de l'article L. 34-5 est
+punie, pour chaque communication, de l'amende prévue pour les contraventions de la quatrième classe, sans préjudice de
+l'application du premier alinéa de l'article 226-18 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2005-606 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+_Cite_:
+
+  - Code pénal - art. 226-18 (M)
+  - Code des postes et des communications électronique - art. L34-5 (M)
+  - Code des postes et des communications électronique - art. R10 (M)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code de procédure pénale - art. R48-1 (V)
+  - Code des postes et des communications électroni... - art. R10-10 (Ab)
+  - Code des postes et des communications électroni... - art. R10-11 (V)
+  - Code des postes et des communications électronique - art. R11 (T)
+
+
+###### Article R10-3
+
+I. – Les opérateurs établissent les listes d'abonnés et d'utilisateurs mentionnées au quatrième alinéa de l'article L. 34.
+
+Ces listes contiennent les données permettant d'identifier les abonnés ou les utilisateurs, d'empêcher toute confusion entre
+les personnes et de prendre connaissance des oppositions qui ont été formulées en application de l'article R. 10.
+
+Sans préjudice des dispositions des 1,2 et 3 de l'article R. 10, ces données sont constituées par les noms, prénoms et, le
+cas échéant, les raisons sociales ou dénominations sociales, adresses et numéros de téléphone des abonnés au service
+téléphonique au public et de ses utilisateurs. Les abonnés à la téléphonie fixe ou mobile peuvent demander l'insertion dans
+les listes des données relatives aux autres utilisateurs de la ligne concernée, sous réserve de leur accord, qui doit
+accompagner la demande.
+
+Les opérateurs insèrent dans les listes la mention de la profession ou activité des personnes qui en font la demande sous la
+responsabilité du demandeur. Ils peuvent également proposer l'insertion des adresses électroniques des abonnés ou
+utilisateurs. Pour un abonné professionnel, l'opérateur n'insère que le ou les principaux numéros de cet abonné ainsi que
+ceux dont ce dernier a, le cas échéant, demandé l'inscription et ne fait figurer le nom des personnes physiques
+utilisatrices, si l'abonné le demande, qu'après que celui-ci ait attesté avoir recueilli le consentement préalable de ces
+personnes.
+
+Les listes font apparaître les oppositions que les abonnés ou utilisateurs ont formulées en application de l'article R. 10.
+
+II. – Les opérateurs prennent, chacun en ce qui le concerne, les précautions nécessaires afin d'assurer le contrôle de
+l'exactitude des données figurant dans les listes et de la qualité, notamment technique, de ces listes qui doivent être mises
+à jour sous réserve des dispositions du quatrième alinéa du I du présent article.
+
+Afin que les données correspondantes soient prises en compte dans ces listes, les distributeurs transmettent à chaque
+opérateur, dans un délai d'un jour suivant la date de la souscription du contrat, les données relatives à l'abonné avec
+lequel un contrat a été signé.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2005-606 2005-05-27 art. 1 I, II, V JORF 29 mai 2005
+  - Décret n°2005-606 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. L34 (V)
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R10 (V)
+  - Code des postes et des communications électroni... - art. R10-7 (V)
+
+
+###### Article R10-4
+
+I. – Les opérateurs communiquent, sous la forme d'un fichier transmis sur support électronique, les listes d'abonnés et
+d'utilisateurs prévues au quatrième alinéa de l'article L. 34, à toute personne souhaitant éditer un annuaire universel ou
+fournir un service universel de renseignements.
+
+Les données communiquées concernent soit l'ensemble des abonnés et des utilisateurs domiciliés en France, soit les abonnés et
+utilisateurs domiciliés dans la ou les communes de la zone géographique faisant l'objet de la demande.
+
+Les modalités d'accès à cette base de données, le format des données ainsi que les caractéristiques du fichier mentionné au
+deuxième alinéa sont définis par accord entre le demandeur et l'opérateur.
+
+Préalablement à toute communication des listes qu'ils ont constituées, les opérateurs en retirent les données relatives aux
+abonnés et utilisateurs qui bénéficient des dispositions du 1 de l'article R. 10.
+
+II. – L'usage des listes obtenues par application du quatrième alinéa de l'article L. 34 à d'autres fins que la fourniture
+d'annuaires universels ou de services universels de renseignements téléphoniques est interdit.
+
+Sauf stipulations contractuelles contraires, toute vente des listes obtenues par application du quatrième alinéa de l'article
+L. 34 est interdite.
+
+Sans préjudice de l'application des peines prévues à l'article 226-21 du code pénal, le fait de contrevenir aux dispositions
+du II du présent article est puni, pour chaque abonné concerné, de l'amende prévue pour les contraventions de la quatrième
+classe.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2005-606 2005-05-27 art. 1 I, II, VI JORF 29 mai 2005
+  - Décret n°2005-606 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+_Cite_:
+
+  - Code pénal - art. 226-21 (V)
+  - Code des postes et des communications électroni... - art. L34 (V)
+  - Code des postes et des communications électroni... - art. R10 (V)
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code de procédure pénale - art. R48-1 (V)
+  - Code des postes et des communications électroni... - art. D98-7 (V)
+  - Code des postes et des communications électroni... - art. R10-10 (Ab)
+  - Code des postes et des communications électroni... - art. R10-11 (V)
+  - Code des postes et des communications électronique - art. D98-1 (M)
+  - Code des postes et des communications électronique - art. R11 (T)
+
+
+###### Article R10-5
+
+Les éditeurs d'annuaire universel et les fournisseurs de service universel de renseignements prennent les mesures nécessaires
+pour préserver, compte tenu des techniques disponibles, la sécurité des informations qui leur ont été communiquées en
+application de l'article L. 34 afin d'empêcher l'altération, la destruction ou la communication à des tiers non autorisés des
+fichiers et des données qu'ils contiennent. Ils prennent toutes dispositions, notamment contractuelles, vis-à-vis de leurs
+agents et de leurs partenaires commerciaux afin que ceux-ci respectent la confidentialité des informations qui leur ont été,
+le cas échéant, confiées. 
+
+Les éditeurs d'annuaire universel et les fournisseurs de service universel de renseignements ne doivent pas effectuer ou
+permettre à quiconque d'effectuer des opérations tendant à isoler au sein des listes mentionnées au premier alinéa les
+abonnés d'un opérateur ou d'un distributeur particulier. 
+
+Les éditeurs d'annuaire universel et les fournisseurs de service universel de renseignements traitent et présentent de
+manière non discriminatoire les données relatives aux abonnés qui leur sont communiquées par les opérateurs. Ils
+s'abstiennent notamment de toute discrimination en fonction de l'opérateur ou du distributeur. 
+
+Les insertions publicitaires ou autres prestations permettant aux professionnels qui le souhaitent d'apparaître dans les
+annuaires universels de manière particulière doivent être identifiées comme telles. 
+
+Lorsqu'une personne dispose de plusieurs contrats d'abonnement, elle peut faire usage des droits prévus à l'article R. 10 de
+manière différente pour chaque abonnement. Pour les abonnements qu'une personne a choisi d'inscrire dans les listes d'abonnés
+et si elle n'a pas choisi le même degré de protection pour chacun d'entre eux, les opérateurs, les éditeurs d'annuaires
+universels et les fournisseurs de services universels de renseignements doivent appliquer aux données à caractère personnel
+relatives à cet abonné la protection la plus forte qu'il a choisie. 
+
+Les éditeurs d'annuaires universels et les fournisseurs de services universels de renseignements sont tenus de mettre à jour
+les informations publiées dans un délai de deux jours ouvrables suivant la réception des informations utiles, pour les
+annuaires sous forme électronique et pour les services de renseignements, et dans un délai compatible avec la périodicité de
+leur publication, dans le cas des annuaires imprimés.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2005-606 2005-05-27 art. 1 I, II, VII JORF 29 mai 2005
+  - Décret n°2005-606 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. L34 (V)
+  - Code des postes et des communications électroni... - art. R10 (V)
+
+
+###### Article R10-6
+
+La communication des listes d'abonnés et d'utilisateurs, par application du quatrième alinéa de l'article L. 34, donne lieu à
+rémunération des opérateurs ayant communiqué ces données. 
+
+Les tarifs de cette communication, qui reflètent le coût du service rendu, sont établis par chaque opérateur selon les
+principes suivants : 
+
+1. Les coûts pris en compte pour la fixation du tarif sont ceux qui sont causés, directement ou indirectement, par la
+fourniture des listes d'abonnés. Ces coûts peuvent notamment comprendre une part liée à l'amortissement du matériel
+informatique et des logiciels nécessaires et une rémunération normale des capitaux employés. 
+
+2. Les coûts qui sont spécifiques à la fourniture des listes d'abonnés sont entièrement pris en compte dans la fixation du
+tarif. Les coûts liés à d'autres activités de l'opérateur en sont exclus.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2005-606 2005-05-27 art. 1 I, II JORF 29 mai 2005
+  - Décret n°2005-606 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. L34 (V)
+
+
 ###### Article R10-7
 
 Sous réserve des dispositions des 1,2,3 et 5 de l'article R. 10, tout annuaire universel sous forme imprimée ou électronique
@@ -9638,6 +9540,35 @@ _Cite_:
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 302 bis KH (V)
+
+
+###### Article R10-8
+
+L'annuaire universel sous forme imprimée édité en application de l'article L. 35-4 est publié chaque année à une date portée
+à la connaissance du public.
+
+L'annuaire universel sous forme électronique prévu par les mêmes dispositions permet l'accès immédiat du public, à un tarif
+abordable, aux informations qu'il contient et qui sont régulièrement mises à jour.
+
+L'opérateur chargé, en application de l'article L. 35-2, de fournir la composante du service universel mentionnée au 2° de
+l'article L. 35-1 met gratuitement à la disposition de tout abonné au service téléphonique au public un exemplaire des
+volumes départementaux de l'annuaire universel du département dans lequel l'abonnement a été souscrit ou, lorsqu'il s'agit
+d'un abonnement à la téléphonie mobile, du département où se situe l'adresse de facturation, y compris lorsque l'intéressé a
+fait usage des droits prévus à l'article R. 10. Lorsque plusieurs abonnés ont le même domicile ou lorsque la même personne
+dispose de plusieurs abonnements correspondant à une même adresse, il est mis à disposition un seul exemplaire gratuit. Cet
+opérateur propose à la vente l'annuaire universel à un tarif abordable.
+
+Le service universel de renseignements assuré par cet opérateur est accessible à un tarif abordable.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2005-606 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
 
 
 ###### Article R10-9
@@ -9700,19 +9631,22 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### SECTION 3 bis : Annuaires universels et services universels de renseignement.<a id=74></a>
-
 ###### Article R11
 
 Ainsi que le prévoit l'article R. 48-1 du code de procédure pénale, les dispositions de l'article 529 du code de procédure
-pénale relatives à l'amende forfaitaire sont applicables aux infractions définies aux articles R. 10-1, R. 10-2, R. 10-4 et
-R. 10-9 du présent code.
+pénale relatives à l'amende forfaitaire sont applicables aux infractions définies aux articles R. 10-1, R. 10-4 et R. 10-9 du
+présent code.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2003-752 du 1 août 2003 - art. 1 () JORF 6 août 2003
+  - Décret n°2005-606 2005-05-27 art. 1 I, IV JORF 29 mai 2005
+  - Décret n°2005-606 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+_Transféré par_:
+
+  - Décret n°2006-358 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
 
 _Codifié par_:
 
@@ -9721,7 +9655,6 @@ _Codifié par_:
 _Cite_:
 
   - Code des postes et des communications électronique - art. R10-1 (M)
-  - Code des postes et des communications électronique - art. R10-2 (M)
   - Code des postes et des communications électronique - art. R10-4 (M)
   - Code des postes et des communications électronique - art. R10-9 (M)
   - CODE DE PROCEDURE PENALE - art. 529 (M)
@@ -9736,7 +9669,7 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L78
 
 
-##### Section 4 : Interconnexion et accès aux réseaux.<a id=75></a>
+##### Section 4 : Interconnexion et accès aux réseaux.<a id=73></a>
 
 ###### Article R11-1
 
@@ -9943,9 +9876,9 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R1-2-13 (M)
 
 
-##### Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques.<a id=76></a>
+##### Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques.<a id=74></a>
 
-##### Paragraphe I : Dispositions générales.<a id=77></a>
+##### Paragraphe I : Dispositions générales.<a id=75></a>
 
 ###### Article R20-1
 
@@ -10071,7 +10004,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R20-28 (M)
 
 
-##### Paragraphe II : Evaluation de la conformité des équipements.<a id=78></a>
+##### Paragraphe II : Evaluation de la conformité des équipements.<a id=76></a>
 
 ###### Article R20-4
 
@@ -10458,7 +10391,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Paragraphe III : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de conformité.<a id=79></a>
+##### Paragraphe III : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de conformité.<a id=77></a>
 
 ###### Article R20-14
 
@@ -10541,7 +10474,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Paragraphe IV : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats.<a id=80></a>
+##### Paragraphe IV : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats.<a id=78></a>
 
 ###### Article R20-17
 
@@ -10592,7 +10525,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. R20-4 (M)
 
 
-##### Paragraphe V : Conditions de mise en service, de raccordement et d'utilisation des équipements.<a id=81></a>
+##### Paragraphe V : Conditions de mise en service, de raccordement et d'utilisation des équipements.<a id=79></a>
 
 ###### Article R20-19
 
@@ -10814,7 +10747,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Paragraphe VI : Dispositions pénales.<a id=82></a>
+##### Paragraphe VI : Dispositions pénales.<a id=80></a>
 
 ###### Article R20-25
 
@@ -10922,7 +10855,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R20-30-1 (M)
 
 
-##### Paragraphe VII : Equipements utilisés dans certaines activités de l'Etat.<a id=83></a>
+##### Paragraphe VII : Equipements utilisés dans certaines activités de l'Etat.<a id=81></a>
 
 ###### Article R20-28
 
@@ -10952,9 +10885,9 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R20-30-1 (M)
 
 
-#### Chapitre III : Les obligations de service public.<a id=84></a>
+#### Chapitre III : Les obligations de service public.<a id=82></a>
 
-##### Section 1 : Le service universel et les modalités de désignation des opérateurs chargés du service universel.<a id=85></a>
+##### Section 1 : Le service universel et les modalités de désignation des opérateurs chargés du service universel.<a id=83></a>
 
 ###### Article R20-30
 
@@ -11380,7 +11313,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Section 2 : Financement du service universel des communications électroniques.<a id=86></a>
+##### Section 2 : Financement du service universel des communications électroniques.<a id=84></a>
 
 ###### Article R*20-41
 
@@ -12038,7 +11971,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-#### Chapitre V : Dispositions pénales.<a id=87></a>
+#### Chapitre V : Dispositions pénales.<a id=85></a>
 
 ###### Article R20-44-1
 
@@ -12174,11 +12107,11 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R20-44-1 (V)
 
 
-### TITRE II : Ressources et police<a id=88></a>
+### TITRE II : Ressources et police<a id=86></a>
 
-#### Chapitre Ier : Fréquences radioélectriques.<a id=89></a>
+#### Chapitre Ier : Fréquences radioélectriques.<a id=87></a>
 
-##### Section 1 : Dispositions générales.<a id=90></a>
+##### Section 1 : Dispositions générales.<a id=88></a>
 
 ###### Article R20-44-5
 
@@ -12217,7 +12150,7 @@ _Anciens textes_:
   - Code des postes et des communications électroniques R52-1
 
 
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=91></a>
+##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=89></a>
 
 ###### Article R20-44-9
 
@@ -12254,9 +12187,9 @@ _Cite_:
   - Code des postes et des communications électronique - art. L42-2 (M)
 
 
-##### Section 3 : Agence nationale des fréquences.<a id=92></a>
+##### Section 3 : Agence nationale des fréquences.<a id=90></a>
 
-##### Paragraphe Ier : Dispositions générales et missions<a id=93></a>
+##### Paragraphe Ier : Dispositions générales et missions<a id=91></a>
 
 ###### Article R20-44-10
 
@@ -12417,7 +12350,7 @@ _Anciens textes_:
   - Code des postes et des communications électroniques R52-2-1
 
 
-##### Paragraphe II : Organisation et fonctionnement<a id=94></a>
+##### Paragraphe II : Organisation et fonctionnement<a id=92></a>
 
 ###### Article R20-44-12
 
@@ -12739,7 +12672,7 @@ _Anciens textes_:
   - Code des postes et des communications électroniques R52-2-9
 
 
-##### Paragraphe III : Dispositions financières<a id=95></a>
+##### Paragraphe III : Dispositions financières<a id=93></a>
 
 ###### Article R20-44-20
 
@@ -12898,7 +12831,7 @@ _Anciens textes_:
   - Code des postes et des communications électroniques R52-2-14
 
 
-##### Paragraphe IV : Dispositions particulières<a id=96></a>
+##### Paragraphe IV : Dispositions particulières<a id=94></a>
 
 ###### Article R20-44-25
 
@@ -13015,7 +12948,7 @@ _Anciens textes_:
   - Code des postes et des communications électroniques R52-2-16
 
 
-#### Chapitre II : Numérotation et adressage.<a id=97></a>
+#### Chapitre II : Numérotation et adressage.<a id=95></a>
 
 ###### Article R20-44-27
 
@@ -13238,9 +13171,9 @@ _Cite_:
   - Code des postes et des communications électronique - art. L44 (M)
 
 
-#### Chapitre III : Droits de passage sur le domaine public routier et servitudes.<a id=98></a>
+#### Chapitre III : Droits de passage sur le domaine public routier et servitudes.<a id=96></a>
 
-##### Section 2 : Servitudes.<a id=99></a>
+##### Section 2 : Servitudes.<a id=97></a>
 
 ###### Article R*20-60
 
@@ -13442,7 +13375,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. R20-58 (M)
 
 
-##### Section 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.<a id=100></a>
+##### Section 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.<a id=98></a>
 
 ###### Article R*21
 
@@ -13676,7 +13609,7 @@ _Cite_:
   - Code des postes et des communications électroniques R25
 
 
-##### Section 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.<a id=101></a>
+##### Section 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.<a id=99></a>
 
 ###### Article R*28
 
@@ -14055,7 +13988,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R*33 (V)
 
 
-##### Section 5 : Dispositions pénales.<a id=102></a>
+##### Section 5 : Dispositions pénales.<a id=100></a>
 
 ###### Article R*42
 
@@ -14139,7 +14072,7 @@ _Cite_:
   - Loi n°1906-06-15 art. 24
 
 
-#### Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.<a id=103></a>
+#### Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.<a id=101></a>
 
 ###### Article R42-1
 
@@ -14168,11 +14101,11 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-#### Chapitre V : Protection des câbles sous-marins.<a id=104></a>
+#### Chapitre V : Protection des câbles sous-marins.<a id=102></a>
 
-##### Section 2 : Dispositions pénales.<a id=105></a>
+##### Section 2 : Dispositions pénales.<a id=103></a>
 
-##### Paragraphe I : Dispositions applicables aux eaux non territoriales.<a id=106></a>
+##### Paragraphe I : Dispositions applicables aux eaux non territoriales.<a id=104></a>
 
 ###### Article R45
 
@@ -14327,7 +14260,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Paragraphe II : Dispositions spéciales aux eaux territoriales.<a id=107></a>
+##### Paragraphe II : Dispositions spéciales aux eaux territoriales.<a id=105></a>
 
 ###### Article R50
 
@@ -14416,9 +14349,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R51 (V)
 
 
-## LIVRE III : Les services financiers<a id=108></a>
+## LIVRE III : Les services financiers<a id=106></a>
 
-### TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005).<a id=109></a>
+### TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005).<a id=107></a>
 
 ###### Article R52-10
 
@@ -14470,13 +14403,13 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R725-12 (M)
 
 
-# Partie réglementaire - Décrets simples<a id=110></a>
+# Partie réglementaire - Décrets simples<a id=108></a>
 
-## LIVRE Ier : Le service postal<a id=111></a>
+## LIVRE Ier : Le service postal<a id=109></a>
 
-### TITRE Ier : Dispositions générales<a id=112></a>
+### TITRE Ier : Dispositions générales<a id=110></a>
 
-#### Chapitre Ier : Le monopole postal.<a id=113></a>
+#### Chapitre Ier : Le monopole postal.<a id=111></a>
 
 ###### Article D1
 
@@ -14529,7 +14462,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R613-25 (VD)
 
 
-#### Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances.<a id=114></a>
+#### Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances.<a id=112></a>
 
 ###### Article D3
 
@@ -14556,7 +14489,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
-#### Chapitre III : Création des bureaux de poste.<a id=115></a>
+#### Chapitre III : Création des bureaux de poste.<a id=113></a>
 
 ###### Article D4
 
@@ -14602,9 +14535,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
-#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=116></a>
+#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=114></a>
 
-##### Section 1 : Généralités.<a id=117></a>
+##### Section 1 : Généralités.<a id=115></a>
 
 ###### Article D6
 
@@ -14683,7 +14616,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 2 : Lettres missives, cartes postales et paquets-poste.<a id=118></a>
+##### Section 2 : Lettres missives, cartes postales et paquets-poste.<a id=116></a>
 
 ###### Article D9
 
@@ -14790,7 +14723,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 3 : Imprimés et échantillons.<a id=119></a>
+##### Section 3 : Imprimés et échantillons.<a id=117></a>
 
 ###### Article D13
 
@@ -14937,7 +14870,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 4 : Journaux et écrits périodiques.<a id=120></a>
+##### Section 4 : Journaux et écrits périodiques.<a id=118></a>
 
 ###### Article D18
 
@@ -15467,7 +15400,7 @@ _Modifié par_:
   - Décret n°68-1073 1968-11-22 art. 1 JORF 30 novembre 1968
 
 
-##### Section 5 : Magazines sonores.<a id=121></a>
+##### Section 5 : Magazines sonores.<a id=119></a>
 
 ###### Article D29
 
@@ -15573,7 +15506,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 6 : Dispositions particulières.<a id=122></a>
+##### Section 6 : Dispositions particulières.<a id=120></a>
 
 ###### Article D32
 
@@ -15616,7 +15549,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-#### Chapitre V : Conditions d'admission des objets de correspondance dans le régime international.<a id=123></a>
+#### Chapitre V : Conditions d'admission des objets de correspondance dans le régime international.<a id=121></a>
 
 ###### Article D34
 
@@ -15687,9 +15620,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
-### TITRE II : Affranchissement, recommandation et chargement<a id=124></a>
+### TITRE II : Affranchissement, recommandation et chargement<a id=122></a>
 
-#### Chapitre Ier : Affranchissement.<a id=125></a>
+#### Chapitre Ier : Affranchissement.<a id=123></a>
 
 ###### Article D38
 
@@ -15870,7 +15803,7 @@ _Cite_:
   - Code des postes et des communications électroniques
 
 
-#### Chapitre II : Recommandation et chargement.<a id=126></a>
+#### Chapitre II : Recommandation et chargement.<a id=124></a>
 
 ###### Article D47
 
@@ -16178,7 +16111,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 
-### TITRE IV : Franchise postale<a id=127></a>
+### TITRE IV : Franchise postale<a id=125></a>
 
 ###### Article D73
 
@@ -16292,7 +16225,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
-### TITRE V : Colis postaux.<a id=128></a>
+### TITRE V : Colis postaux.<a id=126></a>
 
 ###### Article D81
 
@@ -16563,9 +16496,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
-### TITRE VI : Distribution postale<a id=129></a>
+### TITRE VI : Distribution postale<a id=127></a>
 
-#### Chapitre Ier : Distribution à domicile.<a id=130></a>
+#### Chapitre Ier : Distribution à domicile.<a id=128></a>
 
 ###### Article D90
 
@@ -16647,7 +16580,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 11
 
 
-#### Chapitre II : Distribution au guichet.<a id=131></a>
+#### Chapitre II : Distribution au guichet.<a id=129></a>
 
 ###### Article D93
 
@@ -16674,7 +16607,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 11
 
 
-### TITRE VII : Poste maritime.<a id=132></a>
+### TITRE VII : Poste maritime.<a id=130></a>
 
 ###### Article D94-1
 
@@ -16868,13 +16801,13 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
-## LIVRE II : Les communications électroniques<a id=133></a>
+## LIVRE II : Les communications électroniques<a id=131></a>
 
-### TITRE Ier : Dispositions générales<a id=134></a>
+### TITRE Ier : Dispositions générales<a id=132></a>
 
-#### Chapitre II : Régime juridique<a id=135></a>
+#### Chapitre II : Régime juridique<a id=133></a>
 
-##### Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1.<a id=136></a>
+##### Section 1 : Clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L. 33-1 et L. 34-1.<a id=134></a>
 
 ###### Article D98-1
 
@@ -17372,7 +17305,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L34-1 (M)
 
 
-##### Section 2 : Commission consultative des radiocommunications et commission consultative des réseaux et services de communications électroniques<a id=137></a>
+##### Section 2 : Commission consultative des radiocommunications et commission consultative des réseaux et services de communications électroniques<a id=135></a>
 
 ###### Article D98-3
 
@@ -17689,7 +17622,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L36-7 (M)
 
 
-##### Paragraphe 1 : Commission consultative des radiocommunications.<a id=138></a>
+##### Paragraphe 1 : Commission consultative des radiocommunications.<a id=136></a>
 
 ###### Article D99-4
 
@@ -17768,7 +17701,7 @@ _Cite_:
   - Code des postes et des communications électroniques L33-1, L33-2, L33-3, L34-8, L44, L42, L42-1 à L42-3
 
 
-##### Paragraphe 2 : Commission consultative des réseaux et services de communications électroniques.<a id=139></a>
+##### Paragraphe 2 : Commission consultative des réseaux et services de communications électroniques.<a id=137></a>
 
 ###### Article D99-5
 
@@ -17835,7 +17768,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L44 (M)
 
 
-##### Paragraphe 3 : Organisation et fonctionnement des commissions consultatives.<a id=140></a>
+##### Paragraphe 3 : Organisation et fonctionnement des commissions consultatives.<a id=138></a>
 
 ###### Article D99-5-1
 
@@ -17896,7 +17829,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. D99-5
 
 
-##### section 3 : Interconnexion et accès<a id=141></a>
+##### section 3 : Interconnexion et accès<a id=139></a>
 
 ###### Article D99-6
 
@@ -18163,9 +18096,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L37-3 (V)
 
 
-#### Chapitre IV : La régulation des communications électroniques.<a id=142></a>
+#### Chapitre IV : La régulation des communications électroniques.<a id=140></a>
 
-##### Section 1 : Autorité de régulation des communications électroniques et des postes<a id=143></a>
+##### Section 1 : Autorité de régulation des communications électroniques et des postes<a id=141></a>
 
 ###### Article D288
 
@@ -18362,7 +18295,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D97-11 (T)
 
 
-##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=144></a>
+##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=142></a>
 
 ###### Article D301
 
@@ -19073,7 +19006,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L38-1 (V)
 
 
-##### Section 3 : Liaisons louées.<a id=145></a>
+##### Section 3 : Liaisons louées.<a id=143></a>
 
 ###### Article D369
 
@@ -19303,7 +19236,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L38-1 (M)
 
 
-#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=146></a>
+#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=144></a>
 
 ###### Article D406-1
 
@@ -19667,11 +19600,11 @@ _Abrogé par_:
   - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 
-### TITRE II : Ressources et police<a id=147></a>
+### TITRE II : Ressources et police<a id=145></a>
 
-#### Chapitre Ier : Fréquences radioélectriques.<a id=148></a>
+#### Chapitre Ier : Fréquences radioélectriques.<a id=146></a>
 
-##### Section 1 : Dispositions générales<a id=149></a>
+##### Section 1 : Dispositions générales<a id=147></a>
 
 ###### Article D406-5
 
@@ -19935,7 +19868,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D487 (M)
 
 
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=150></a>
+##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=148></a>
 
 ###### Article D406-14
 
@@ -20066,9 +19999,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L42-1 (V)
 
 
-#### CHAPITRE III : Etablissement de lignes<a id=151></a>
+#### CHAPITRE III : Etablissement de lignes<a id=149></a>
 
-##### Section 1 : Dispositions générales.<a id=152></a>
+##### Section 1 : Dispositions générales.<a id=150></a>
 
 ###### Article D407-1
 
@@ -20142,11 +20075,11 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
-## LIVRE III : Les services financiers<a id=153></a>
+## LIVRE III : Les services financiers<a id=151></a>
 
-### TITRE Ier : Chèques postaux.<a id=154></a>
+### TITRE Ier : Chèques postaux.<a id=152></a>
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=155></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=153></a>
 
 ###### Article D488
 
@@ -20950,7 +20883,7 @@ _Cite_:
   - Code des postes et des communications électroniques L109 al. 1
 
 
-### TITRE II : Mandats.<a id=156></a>
+### TITRE II : Mandats.<a id=154></a>
 
 ###### Article D535
 
@@ -20995,7 +20928,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. D524 (M)
 
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=157></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=155></a>
 
 ###### Article D523
 
@@ -21611,9 +21544,9 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=158></a>
+### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=156></a>
 
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=159></a>
+#### (en vigueur jusqu'au 31 décembre 2005).<a id=157></a>
 
 ###### Article D549
 
@@ -22165,9 +22098,9 @@ _Abrogé par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-## LIVRE IV : Dispositions communes et finales<a id=160></a>
+## LIVRE IV : Dispositions communes et finales<a id=158></a>
 
-### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=161></a>
+### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=159></a>
 
 ###### Article D570
 
@@ -22311,7 +22244,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-6 (T)
 
 
-### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=162></a>
+### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=160></a>
 
 ###### Article D576
 
@@ -22618,7 +22551,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-17 (T)
 
 
-### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=163></a>
+### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=161></a>
 
 ###### Article D587
 
