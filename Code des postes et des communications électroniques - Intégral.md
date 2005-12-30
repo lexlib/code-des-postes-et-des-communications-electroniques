@@ -1,7 +1,7 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2005-11-01
+Version Consolidée au 2005-12-31
 ## Contenu: 
-  - [Partie législative (art. L1 à L129)](#1)
+  - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
       - [TITRE Ier : Dispositions générales (art. L1 à L11)](#3)
         - [Chapitre Ier : Le service universel postal et les obligations du service postal. (art. L1 à L3-4)](#4)
@@ -20,149 +20,131 @@ Version Consolidée au 2005-11-01
           - [Section 4 : Interconnexion et accès au réseau. (art. L34-8 à L34-8-1)](#17)
           - [Section 5 : Equipements radioélectriques et terminaux. (art. L34-9 à L34-9-1)](#18)
         - [Chapitre III : Les obligations de service public. (art. L35 à L35-8)](#19)
-        - [Chapitre IV : La régulation des communications électroniques. (art. L36-1 à L38-3)](#20)
-          - [SECTION  1 : Autorité de régulation des télécommunications. (art. L36-1 à L36-14)](#21)
-          - [Section 1 : Autorité de régulation des communications électroniques et des postes. (art. L36-5 à L36-13)](#22)
-          - [Section  2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. L37-1 à L38-3)](#23)
-        - [Chapitre V : Dispositions pénales. (art. L39 à L40-1)](#24)
-      - [TITRE II : Ressources et police (art. L41 à L86)](#25)
-        - [Chapitre Ier : Fréquences radioélectriques. (art. L41 à L43)](#26)
-          - [Section 1 : Dispositions générales. (art. L41 à L41-3)](#27)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. L42 à L42-4)](#28)
-          - [Section 3 : Agence nationale des fréquences. (art. L43)](#29)
-        - [Chapitre II : Numérotation et adressage. (art. L44 à L45)](#30)
-        - [Chapitre III : Droits de passage et servitudes. (art. L45-1 à L64)](#31)
-          - [Section 1 : Occupation du domaine public et servitudes sur les propriétés privées. (art. L45-1 à L53)](#32)
-          - [Section 2 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. L54 à L56-1)](#33)
-          - [Section 3 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. L57 à L62-1)](#34)
-          - [Section 4 : Dispositions pénales. (art. L63 à L64)](#35)
-        - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques. (art. L65 à L67)](#36)
-          - [Section 1 : Dispositions générales. (art. L65 à L65-1)](#37)
-          - [Section 2 : Dispositions pénales. (art. L66 à L67)](#38)
-        - [Chapitre V : Protection des câbles sous-marins. (art. L72 à L86)](#39)
-          - [Section 1 : Dispositions générales. (art. L72)](#40)
-          - [Section 2 : Dispositions pénales. (art. L73 à L86)](#41)
-            - [Paragraphe I : Dispositions spéciales aux eaux non territoriales. (art. L77 à L81)](#42)
-            - [Paragraphe II : Dispositions spéciales aux eaux territoriales. (art. L82 à L86)](#43)
-      - [TITRE VI : Services radioélectriques (art. L96-1)](#44)
-        - [Chapitre Ier : Dispositions générales. (art. L96-1)](#45)
-      - [TITRE VIII : Assignations de fréquence relatives aux systèmes satellitaires. (art. L97-2 à L97-4)](#46)
-    - [LIVRE III : Les services financiers (art. L98 à L124)](#47)
-      - [TITRE Ier : Chèques postaux. (art. L98 à L109)](#48)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. L98 à L109)](#49)
-      - [TITRE II : Mandats. (art. L110 à L116)](#50)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. L110 à L116)](#51)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement (art. L117 à L124)](#52)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. L117 à L124)](#53)
-    - [LIVRE IV : Dispositions communes et finales (art. L125 à L128)](#54)
-      - [(en vigueur jusqu'au 31 décembre 2005). (art. L125 à L128)](#55)
-    - [DISPOSITIONS FINALES (art. L129)](#56)
-      - [(en vigueur jusqu'au 31 décembre 2005). (art. L129)](#57)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R2 à R52-11)](#58)
-    - [LIVRE Ier : Le service postal (art. R2 à R1-11)](#59)
-      - [TITRE VIII : Dispositions pénales. (art. R2 à R8)](#60)
-      - [TITRE Ier : Le service universel postal (art. R1 à R1-11)](#61)
-        - [CHAPITRE Ier : Le traitement des réclamations des usagers par le prestataire du service universel postal (art. R1)](#62)
-        - [CHAPITRE II : Le Médiateur du service universel postal (art. R1-1 à R1-11)](#63)
-          - [SECTION 1 : Modalités de désignation, compétences et moyens du Médiateur (art. R1-1 à R1-7)](#64)
-          - [SECTION 2 : Les procédures suivies par le Médiateur (art. R1-8 à R1-11)](#65)
-    - [LIVRE II : Les communications électroniques (art. R*9 à R52)](#66)
-      - [TITRE Ier : Dispositions générales (art. R*9 à R20-44-4)](#67)
-        - [Chapitre Ier : Définitions et principes. (art. R*9 à R*9-1)](#68)
-        - [Chapitre II : Régime juridique. (art. R10 à R20-28)](#69)
-          - [Section 2 : Annuaires et services de renseignements. (art. R10 à R11)](#70)
-          - [Section 4 : Interconnexion et accès aux réseaux. (art. R11-1 à R11-9)](#71)
-          - [Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques. (art. R20-1 à R20-28)](#72)
-            - [Paragraphe I : Dispositions générales. (art. R20-1 à R20-3)](#73)
-            - [Paragraphe II : Evaluation de la conformité des équipements. (art. R20-4 à R20-13)](#74)
-            - [Paragraphe III : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de conformité. (art. R20-14 à R20-16)](#75)
-            - [Paragraphe IV : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats. (art. R20-17 à R20-18)](#76)
-            - [Paragraphe V : Conditions de mise en service, de raccordement et d'utilisation des équipements. (art. R20-19 à R20-24-1)](#77)
-            - [Paragraphe VI : Dispositions pénales. (art. R20-25 à R20-27)](#78)
-            - [Paragraphe VII : Equipements utilisés dans certaines activités de l'Etat. (art. R20-28)](#79)
-        - [Chapitre III : Les obligations de service public. (art. R20-30 à R20-44)](#80)
-          - [Section 1 : Le service universel et les modalités de désignation des opérateurs chargés du service universel. (art. R20-30 à R20-30-12)](#81)
-          - [Section 2 : Financement du service universel des communications électroniques. (art. R*20-41 à R20-44)](#82)
-        - [Chapitre V : Dispositions pénales. (art. R20-44-1 à R20-44-4)](#83)
-      - [TITRE II : Ressources et police (art. R20-44-5 à R52)](#84)
-        - [Chapitre Ier : Fréquences radioélectriques. (art. R20-44-5 à R20-44-26)](#85)
-          - [Section 1 : Dispositions générales. (art. R20-44-5 à R20-44-7)](#86)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. R20-44-9)](#87)
-          - [Section 3 : Agence nationale des fréquences. (art. R20-44-10 à R20-44-26)](#88)
-            - [Paragraphe Ier : Dispositions générales et missions (art. R20-44-10 à R20-44-11)](#89)
-            - [Paragraphe II : Organisation et fonctionnement (art. R20-44-12 à R20-44-19)](#90)
-            - [Paragraphe III : Dispositions financières (art. R20-44-20 à R20-44-24)](#91)
-            - [Paragraphe IV : Dispositions particulières (art. R20-44-25 à R20-44-26)](#92)
-        - [Chapitre II : Numérotation et adressage. (art. R20-44-27 à R20-44-33)](#93)
-        - [Chapitre III : Droits de passage sur le domaine public routier et servitudes. (art. R*20-60 à R41)](#94)
-          - [Section 2 : Servitudes. (art. R*20-60 à R20-59)](#95)
-          - [Section 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. R*21 à R*26)](#96)
-          - [Section 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. R*28 à R27)](#97)
-          - [Section 5 : Dispositions pénales. (art. R*42 à R41)](#98)
-        - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques. (art. R42-1)](#99)
-        - [Chapitre V : Protection des câbles sous-marins. (art. R45 à R52)](#100)
-          - [Section 2 : Dispositions pénales. (art. R45 à R52)](#101)
-            - [Paragraphe I : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#102)
-            - [Paragraphe II : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#103)
-    - [LIVRE III : Les services financiers (art. R52-10 à R52-11)](#104)
-      - [TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005). (art. R52-10 à R52-11)](#105)
-  - [Partie réglementaire - Décrets simples (art. D1 à D593)](#106)
-    - [LIVRE Ier : Le service postal (art. D1 à D95-3)](#107)
-      - [TITRE Ier : Dispositions générales (art. D1 à D36)](#108)
-        - [Chapitre Ier : Le monopole postal. (art. D1 à D2)](#109)
-        - [Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances. (art. D3)](#110)
-        - [Chapitre III : Création des bureaux de poste. (art. D4 à D5)](#111)
-        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D6 à D33)](#112)
-          - [Section 1 : Généralités. (art. D6 à D8)](#113)
-          - [Section 2 : Lettres missives, cartes postales et paquets-poste. (art. D9 à D12)](#114)
-          - [Section 3 : Imprimés et échantillons. (art. D13 à D17)](#115)
-          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#116)
-          - [Section 5 : Magazines sonores. (art. D29 à D31)](#117)
-          - [Section 6 : Dispositions particulières. (art. D32 à D33)](#118)
-        - [Chapitre V : Conditions d'admission des objets de correspondance dans le régime international. (art. D34 à D36)](#119)
-      - [TITRE II : Affranchissement, recommandation et chargement (art. D38 à D57)](#120)
-        - [Chapitre Ier : Affranchissement. (art. D38 à D46)](#121)
-        - [Chapitre II : Recommandation et chargement. (art. D47 à D57)](#122)
-      - [TITRE IV : Franchise postale (art. D73 à D77)](#123)
-      - [TITRE V : Colis postaux. (art. D81 à D89)](#124)
-      - [TITRE VI : Distribution postale (art. D90 à D93)](#125)
-        - [Chapitre Ier : Distribution à domicile. (art. D90 à D92)](#126)
-        - [Chapitre II : Distribution au guichet. (art. D93)](#127)
-      - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#128)
-    - [LIVRE II : Les communications électroniques (art. D98 à D407-3)](#129)
-      - [TITRE Ier : Dispositions générales (art. D98 à D406-4)](#130)
-        - [Chapitre II : Régime juridique (art. D98 à D99-11)](#131)
-          - [Section 1 : Réseaux et services (art. D98 à D99-3)](#132)
-            - [Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public. (art. D98 à D98-2)](#133)
-            - [Paragraphe 2 : Obligations des opérateurs. (art. D98-3 à D98-12)](#134)
-            - [Paragraphe 3 : Conditions d'exploitation des réseaux indépendants. (art. D99 à D99-3)](#135)
-          - [Section 2 : Commission consultative des radiocommunications et commission consultative des réseaux et services de communications électroniques (art. D99-4 à D99-5-1)](#136)
-            - [Paragraphe 1 : Commission consultative des radiocommunications. (art. D99-4)](#137)
-            - [Paragraphe 2 : Commission consultative des réseaux et services de communications électroniques. (art. D99-5)](#138)
-            - [Paragraphe 3 : Organisation et fonctionnement des commissions consultatives. (art. D99-5-1)](#139)
-          - [section 3 : Interconnexion et accès (art. D99-6 à D99-11)](#140)
-        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D377)](#141)
-          - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#142)
-          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#143)
-          - [Section 3 : Liaisons louées. (art. D369 à D377)](#144)
-        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#145)
-      - [TITRE II : Ressources et police (art. D406-5 à D407-3)](#146)
-        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17)](#147)
-          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#148)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17)](#149)
-        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-3)](#150)
-          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#151)
-    - [LIVRE III : Les services financiers (art. D488 à D569)](#152)
-      - [TITRE Ier : Chèques postaux. (art. D488 à D520)](#153)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D488 à D520)](#154)
-      - [TITRE II : Mandats. (art. D535 à D548)](#155)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D523 à D548)](#156)
-      - [TITRE III : Valeurs à recouvrer et envois contre remboursement. (art. D549 à D569)](#157)
-        - [(en vigueur jusqu'au 31 décembre 2005). (art. D549 à D569)](#158)
-    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#159)
-      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#160)
-      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#161)
-      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#162)
+        - [Chapitre IV : La régulation des communications électroniques. (art. L36-5 à L38-3)](#20)
+          - [Section 1 : Autorité de régulation des communications électroniques et des postes. (art. L36-5 à L36-13)](#21)
+          - [Section  2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. L37-1 à L38-3)](#22)
+        - [Chapitre V : Dispositions pénales. (art. L39 à L40-1)](#23)
+      - [TITRE II : Ressources et police (art. L41 à L86)](#24)
+        - [Chapitre Ier : Fréquences radioélectriques. (art. L41 à L43)](#25)
+          - [Section 1 : Dispositions générales. (art. L41 à L41-3)](#26)
+          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. L42 à L42-4)](#27)
+          - [Section 3 : Agence nationale des fréquences. (art. L43)](#28)
+        - [Chapitre II : Numérotation et adressage. (art. L44 à L45)](#29)
+        - [Chapitre III : Droits de passage et servitudes. (art. L45-1 à L64)](#30)
+          - [Section 1 : Occupation du domaine public et servitudes sur les propriétés privées. (art. L45-1 à L53)](#31)
+          - [Section 2 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. L54 à L56-1)](#32)
+          - [Section 3 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. L57 à L62-1)](#33)
+          - [Section 4 : Dispositions pénales. (art. L63 à L64)](#34)
+        - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques. (art. L65 à L67)](#35)
+          - [Section 1 : Dispositions générales. (art. L65 à L65-1)](#36)
+          - [Section 2 : Dispositions pénales. (art. L66 à L67)](#37)
+        - [Chapitre V : Protection des câbles sous-marins. (art. L72 à L86)](#38)
+          - [Section 1 : Dispositions générales. (art. L72)](#39)
+          - [Section 2 : Dispositions pénales. (art. L73 à L86)](#40)
+            - [Paragraphe I : Dispositions spéciales aux eaux non territoriales. (art. L77 à L81)](#41)
+            - [Paragraphe II : Dispositions spéciales aux eaux territoriales. (art. L82 à L86)](#42)
+      - [TITRE VI : Services radioélectriques (art. L96-1)](#43)
+        - [Chapitre Ier : Dispositions générales. (art. L96-1)](#44)
+      - [TITRE VIII : Assignations de fréquence relatives aux systèmes satellitaires. (art. L97-2 à L97-4)](#45)
+    - [LIVRE III : Dispositions communes et finales (art. L125 à L141)](#46)
+      - [TITRE Ier : Dispositions communes (art. L125 à L135)](#47)
+      - [TITRE II : Dispositions finales. (art. L140 à L141)](#48)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R2 à R52)](#49)
+    - [LIVRE Ier : Le service postal (art. R2 à R1-11)](#50)
+      - [TITRE VIII : Dispositions pénales. (art. R2 à R8)](#51)
+      - [TITRE Ier : Le service universel postal (art. R1 à R1-11)](#52)
+        - [CHAPITRE Ier : Le traitement des réclamations des usagers par le prestataire du service universel postal (art. R1)](#53)
+        - [CHAPITRE II : Le Médiateur du service universel postal (art. R1-1 à R1-11)](#54)
+          - [SECTION 1 : Modalités de désignation, compétences et moyens du Médiateur (art. R1-1 à R1-7)](#55)
+          - [SECTION 2 : Les procédures suivies par le Médiateur (art. R1-8 à R1-11)](#56)
+    - [LIVRE II : Les communications électroniques (art. R*9 à R52)](#57)
+      - [TITRE Ier : Dispositions générales (art. R*9 à R20-44-4)](#58)
+        - [Chapitre Ier : Définitions et principes. (art. R*9 à R*9-1)](#59)
+        - [Chapitre II : Régime juridique. (art. R10 à R20-28)](#60)
+          - [Section 2 : Annuaires et services de renseignements. (art. R10 à R11)](#61)
+          - [Section 4 : Interconnexion et accès aux réseaux. (art. R11-1 à R11-9)](#62)
+          - [Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques. (art. R20-1 à R20-28)](#63)
+            - [Paragraphe I : Dispositions générales. (art. R20-1 à R20-3)](#64)
+            - [Paragraphe II : Evaluation de la conformité des équipements. (art. R20-4 à R20-13)](#65)
+            - [Paragraphe III : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de conformité. (art. R20-14 à R20-16)](#66)
+            - [Paragraphe IV : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats. (art. R20-17 à R20-18)](#67)
+            - [Paragraphe V : Conditions de mise en service, de raccordement et d'utilisation des équipements. (art. R20-19 à R20-24-1)](#68)
+            - [Paragraphe VI : Dispositions pénales. (art. R20-25 à R20-27)](#69)
+            - [Paragraphe VII : Equipements utilisés dans certaines activités de l'Etat. (art. R20-28)](#70)
+        - [Chapitre III : Les obligations de service public. (art. R20-30 à R20-44)](#71)
+          - [Section 1 : Le service universel et les modalités de désignation des opérateurs chargés du service universel. (art. R20-30 à R20-30-12)](#72)
+          - [Section 2 : Financement du service universel des communications électroniques. (art. R*20-41 à R20-44)](#73)
+        - [Chapitre V : Dispositions pénales. (art. R20-44-1 à R20-44-4)](#74)
+      - [TITRE II : Ressources et police (art. R20-44-5 à R52)](#75)
+        - [Chapitre Ier : Fréquences radioélectriques. (art. R20-44-5 à R20-44-26)](#76)
+          - [Section 1 : Dispositions générales. (art. R20-44-5 à R20-44-7)](#77)
+          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. R20-44-9)](#78)
+          - [Section 3 : Agence nationale des fréquences. (art. R20-44-10 à R20-44-26)](#79)
+            - [Paragraphe Ier : Dispositions générales et missions (art. R20-44-10 à R20-44-11)](#80)
+            - [Paragraphe II : Organisation et fonctionnement (art. R20-44-12 à R20-44-19)](#81)
+            - [Paragraphe III : Dispositions financières (art. R20-44-20 à R20-44-24)](#82)
+            - [Paragraphe IV : Dispositions particulières (art. R20-44-25 à R20-44-26)](#83)
+        - [Chapitre II : Numérotation et adressage. (art. R20-44-27 à R20-44-33)](#84)
+        - [Chapitre III : Droits de passage sur le domaine public routier et servitudes. (art. R*20-60 à R41)](#85)
+          - [Section 2 : Servitudes. (art. R*20-60 à R20-59)](#86)
+          - [Section 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. R*21 à R*26)](#87)
+          - [Section 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. R*28 à R27)](#88)
+          - [Section 5 : Dispositions pénales. (art. R*42 à R41)](#89)
+        - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques. (art. R42-1)](#90)
+        - [Chapitre V : Protection des câbles sous-marins. (art. R45 à R52)](#91)
+          - [Section 2 : Dispositions pénales. (art. R45 à R52)](#92)
+            - [Paragraphe I : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#93)
+            - [Paragraphe II : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#94)
+  - [Partie réglementaire - Décrets simples (art. D1 à D593)](#95)
+    - [LIVRE Ier : Le service postal (art. D1 à D95-3)](#96)
+      - [TITRE Ier : Dispositions générales (art. D1 à D36)](#97)
+        - [Chapitre Ier : Le monopole postal. (art. D1 à D2)](#98)
+        - [Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances. (art. D3)](#99)
+        - [Chapitre III : Création des bureaux de poste. (art. D4 à D5)](#100)
+        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D6 à D33)](#101)
+          - [Section 1 : Généralités. (art. D6 à D8)](#102)
+          - [Section 2 : Lettres missives, cartes postales et paquets-poste. (art. D9 à D12)](#103)
+          - [Section 3 : Imprimés et échantillons. (art. D13 à D17)](#104)
+          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#105)
+          - [Section 5 : Magazines sonores. (art. D29 à D31)](#106)
+          - [Section 6 : Dispositions particulières. (art. D32 à D33)](#107)
+        - [Chapitre V : Conditions d'admission des objets de correspondance dans le régime international. (art. D34 à D36)](#108)
+      - [TITRE II : Affranchissement, recommandation et chargement (art. D38 à D57)](#109)
+        - [Chapitre Ier : Affranchissement. (art. D38 à D46)](#110)
+        - [Chapitre II : Recommandation et chargement. (art. D47 à D57)](#111)
+      - [TITRE IV : Franchise postale (art. D73 à D77)](#112)
+      - [TITRE V : Colis postaux. (art. D81 à D89)](#113)
+      - [TITRE VI : Distribution postale (art. D90 à D93)](#114)
+        - [Chapitre Ier : Distribution à domicile. (art. D90 à D92)](#115)
+        - [Chapitre II : Distribution au guichet. (art. D93)](#116)
+      - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#117)
+    - [LIVRE II : Les communications électroniques (art. D98 à D407-3)](#118)
+      - [TITRE Ier : Dispositions générales (art. D98 à D406-4)](#119)
+        - [Chapitre II : Régime juridique (art. D98 à D99-11)](#120)
+          - [Section 1 : Réseaux et services (art. D98 à D99-3)](#121)
+            - [Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public. (art. D98 à D98-2)](#122)
+            - [Paragraphe 2 : Obligations des opérateurs. (art. D98-3 à D98-12)](#123)
+            - [Paragraphe 3 : Conditions d'exploitation des réseaux indépendants. (art. D99 à D99-3)](#124)
+          - [Section 2 : Commission consultative des radiocommunications et commission consultative des réseaux et services de communications électroniques (art. D99-4 à D99-5-1)](#125)
+            - [Paragraphe 1 : Commission consultative des radiocommunications. (art. D99-4)](#126)
+            - [Paragraphe 2 : Commission consultative des réseaux et services de communications électroniques. (art. D99-5)](#127)
+            - [Paragraphe 3 : Organisation et fonctionnement des commissions consultatives. (art. D99-5-1)](#128)
+          - [section 3 : Interconnexion et accès (art. D99-6 à D99-11)](#129)
+        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D377)](#130)
+          - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#131)
+          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#132)
+          - [Section 3 : Liaisons louées. (art. D369 à D377)](#133)
+        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#134)
+      - [TITRE II : Ressources et police (art. D406-5 à D407-3)](#135)
+        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17)](#136)
+          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#137)
+          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17)](#138)
+        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-3)](#139)
+          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#140)
+    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#141)
+      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#142)
+      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#143)
+      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#144)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -3852,229 +3834,7 @@ _Cite_:
 
 #### Chapitre IV : La régulation des communications électroniques.<a id=20></a>
 
-##### SECTION  1 : Autorité de régulation des télécommunications.<a id=21></a>
-
-###### Article L36-1
-
-L'Autorité de régulation des télécommunications est composée de cinq membres nommés en raison de leur qualification dans les
-domaines juridique, technique et de l'économie des territoires pour un mandat de six ans. Trois membres, dont le président,
-sont nommés par décret. Les deux autres membres sont respectivement nommés par le Président de l'Assemblée nationale et le
-Président du Sénat.
-
-Les membres de l'autorité nommés par décret sont renouvelés par tiers tous les deux ans.
-
-Les membres de l'autorité ne sont pas révocables.
-
-L'Autorité de régulation des télécommunications ne peut délibérer que si trois au moins de ses membres sont présents. Elle
-délibère à la majorité des membres présents.
-
-Si l'un des membres de l'autorité ne peut exercer son mandat jusqu'à son terme, le membre nommé pour le remplacer exerce ses
-fonctions pour la durée du mandat restant à courir.
-
-Pour la constitution de l'autorité, le président est nommé pour six ans. La durée du mandat des deux autres membres nommés
-par décret est fixée, par tirage au sort, à quatre ans pour l'un et à deux ans pour l'autre. La durée du mandat des deux
-membres nommés par les présidents des assemblées parlementaires est fixée, par tirage au sort, à quatre ans pour l'un et six
-ans pour l'autre.
-
-Le mandat des membres de l'autorité n'est pas renouvelable. Toutefois, cette règle n'est pas applicable aux membres dont le
-mandat, en application de l'un ou l'autre des deux alinéas ci-dessus, n'a pas excédé deux ans.
-
-Les membres de l'autorité ne peuvent être nommés au-delà de l'âge de soixante-cinq ans.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Nouveaux textes_:
-
-  - Code des postes et des communications électronique - art. L130 (M)
-  - Code des postes et des communications électronique - art. L130 (V)
-
-
-###### Article L36-2
-
-La fonction de membre de l'Autorité de régulation des télécommunications est incompatible avec toute activité
-professionnelle, tout mandat électif national, tout autre emploi public et toute détention, directe ou indirecte, d'intérêts
-dans une entreprise du secteur des communications électroniques, de l'audiovisuel ou de l'informatique. Les membres de
-l'Autorité de régulation des télécommunications ne peuvent être membres de la Commission supérieure du service public des
-postes et des communications électroniques.
-
-Les membres de l'autorité sont tenus au secret professionnel pour les faits, actes et renseignements dont ils ont pu avoir
-connaissance en raison de leurs fonctions. Ils sont tenus à l'obligation de discrétion pour ce qui concerne les procédures de
-règlement de différends et de sanctions conduites par ou devant l'autorité et les délibérations correspondantes.
-
-Afin de garantir l'indépendance et la dignité de leurs fonctions, et pendant la durée de celles-ci, les membres de l'autorité
-ne prennent, à titre personnel, aucune position publique sur des questions ayant fait ou susceptibles de faire l'objet d'une
-décision de la part de l'autorité.
-
-Le président et les membres de l'autorité reçoivent respectivement un traitement égal à celui afférent à la première et à la
-seconde des deux catégories supérieures des emplois de l'Etat classés hors échelle.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2004-669 2004-07-09 art. 14 I, II JORF 10 juillet 2004
-  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
-
-_Transféré par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Nouveaux textes_:
-
-  - Code des postes et des communications électronique - art. L131 (V)
-
-
-###### Article L36-3
-
-L'Autorité de régulation des télécommunications dispose de services qui sont placés sous l'autorité de son président.
-
-L'autorité peut employer des fonctionnaires en position d'activité dans les mêmes conditions que le ministère chargé des
-communications électroniques. Elle peut recruter des agents contractuels.
-
-Les personnels des services de l'autorité sont tenus au secret professionnel pour les faits, actes et renseignements dont ils
-ont pu avoir connaissance en raison de leurs fonctions.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
-
-_Transféré par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Nouveaux textes_:
-
-  - Code des postes et des communications électronique - art. L132 (M)
-  - Code des postes et des communications électronique - art. L132 (V)
-
-
-###### Article L36-4
-
-Les ressources de l'Autorité de régulation des télécommunications comprennent des rémunérations pour services rendus et des
-taxes et redevances dans les conditions fixées par les lois de finances ou par décret en Conseil d'Etat.
-
-L'autorité propose au ministre chargé des communications électroniques, lors de l'élaboration du projet de loi de finances de
-l'année, les crédits nécessaires, en sus des ressources mentionnées au premier alinéa, à l'accomplissement de ses missions.
-
-Ces crédits sont inscrits au budget général de l'Etat. Les dispositions de la loi du 10 août 1922 relative à l'organisation
-du contrôle des dépenses engagées ne sont pas applicables à leur gestion.
-
-Le président de l'autorité est ordonnateur des dépenses. Il présente les comptes de l'autorité au contrôle de la Cour des
-comptes.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°1922-08-10
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
-
-_Transféré par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Nouveaux textes_:
-
-  - Code des postes et des communications électronique - art. L133 (M)
-  - Code des postes et des communications électronique - art. L133 (V)
-
-
-###### Article L36-12
-
-Pour l'accomplissement des missions qui sont confiées à l'Autorité de régulation des télécommunications, le président de
-l'autorité a qualité pour agir en justice.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
-
-_Transféré par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Nouveaux textes_:
-
-  - Code des postes et des communications électronique - art. L134 (V)
-
-
-###### Article L36-14
-
-L'Autorité de régulation des télécommunications établit chaque année, avant le 30 juin, un rapport public qui rend compte de
-son activité et de l'application des dispositions législatives et réglementaires relatives aux communications électroniques.
-Elle y dresse une analyse des principales décisions prises par les autorités de régulation des communications électroniques
-dans les Etats membres de la Communauté européenne au cours de l'année écoulée, en vue de permettre l'établissement d'une
-comparaison des différents types de contrôles exercés et de leurs effets sur les marchés. Ce rapport est adressé au
-Gouvernement et au Parlement. Il est adressé également à la Commission supérieure du service public des postes et des
-communications électroniques. L'autorité peut suggérer dans ce rapport toute modification législative ou réglementaire que
-lui paraissent appeler les évolutions du secteur des communications électroniques et le développement de la concurrence.
-
-L'autorité rend compte de ses activités, et notamment des progrès réalisés eu égard aux objectifs mentionnés à l'article L.
-32-1, devant les commissions permanentes du Parlement compétentes, à leur demande. Ces dernières peuvent consulter l'autorité
-sur toute question relevant de sa compétence.
-
-L'autorité peut procéder aux expertises, mener les études, recueillir les données et mener toutes actions d'information sur
-le secteur des communications électroniques. A cette fin, les opérateurs ayant effectué la déclaration prévue à l'article L.
-33-1 sont tenus de lui fournir les informations statistiques concernant l'utilisation, la zone de couverture et les modalités
-d'accès à leur service.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2004-669 2004-07-09 art. 14 I, art. 17 III, IV JORF 10 juillet 2004
-  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
-  - Loi n°2004-669 du 9 juillet 2004 - art. 17 () JORF 10 juillet 2004
-
-_Transféré par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Nouveaux textes_:
-
-  - Code des postes et des communications électronique - art. L135 (V)
-
-_Cite_:
-
-  - Code des postes et des communications électronique - art. L32-1 (M)
-  - Code des postes et des communications électronique - art. L33-1 (M)
-
-
-##### Section 1 : Autorité de régulation des communications électroniques et des postes.<a id=22></a>
+##### Section 1 : Autorité de régulation des communications électroniques et des postes.<a id=21></a>
 
 ###### Article L36-5
 
@@ -4569,7 +4329,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L32-4 (V)
 
 
-##### Section  2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=23></a>
+##### Section  2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=22></a>
 
 ###### Article L37-1
 
@@ -4921,7 +4681,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L38-1 (V)
 
 
-#### Chapitre V : Dispositions pénales.<a id=24></a>
+#### Chapitre V : Dispositions pénales.<a id=23></a>
 
 ###### Article L39
 
@@ -5392,11 +5152,11 @@ _Codifié par_:
   - Décret n°62-273 1962-03-12
 
 
-### TITRE II : Ressources et police<a id=25></a>
+### TITRE II : Ressources et police<a id=24></a>
 
-#### Chapitre Ier : Fréquences radioélectriques.<a id=26></a>
+#### Chapitre Ier : Fréquences radioélectriques.<a id=25></a>
 
-##### Section 1 : Dispositions générales.<a id=27></a>
+##### Section 1 : Dispositions générales.<a id=26></a>
 
 ###### Article L41
 
@@ -5532,7 +5292,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L41 (M)
 
 
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=28></a>
+##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=27></a>
 
 ###### Article L42
 
@@ -5810,7 +5570,7 @@ _Anciens textes_:
   - Code des postes et télécommunications L90
 
 
-##### Section 3 : Agence nationale des fréquences.<a id=29></a>
+##### Section 3 : Agence nationale des fréquences.<a id=28></a>
 
 ###### Article L43
 
@@ -5906,7 +5666,7 @@ _Codifié par_:
   - Décret n°62-273 1962-03-12
 
 
-#### Chapitre II : Numérotation et adressage.<a id=30></a>
+#### Chapitre II : Numérotation et adressage.<a id=29></a>
 
 ###### Article L44
 
@@ -6050,9 +5810,9 @@ _Codifié par_:
   - Décret n°62-273 1962-03-12
 
 
-#### Chapitre III : Droits de passage et servitudes.<a id=31></a>
+#### Chapitre III : Droits de passage et servitudes.<a id=30></a>
 
-##### Section 1 : Occupation du domaine public et servitudes sur les propriétés privées.<a id=32></a>
+##### Section 1 : Occupation du domaine public et servitudes sur les propriétés privées.<a id=31></a>
 
 ###### Article L45-1
 
@@ -6316,7 +6076,7 @@ _Codifié par_:
   - Décret n°62-273 1962-03-12
 
 
-##### Section 2 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.<a id=33></a>
+##### Section 2 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.<a id=32></a>
 
 ###### Article L54
 
@@ -6467,7 +6227,7 @@ _Codifié par_:
   - Décret n°62-273 1962-03-12
 
 
-##### Section 3 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.<a id=34></a>
+##### Section 3 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.<a id=33></a>
 
 ###### Article L57
 
@@ -6671,7 +6431,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L56-1
 
 
-##### Section 4 : Dispositions pénales.<a id=35></a>
+##### Section 4 : Dispositions pénales.<a id=34></a>
 
 ###### Article L63
 
@@ -6761,9 +6521,9 @@ _Cite_:
   - Code des postes et des communications électronique - art. L62 (M)
 
 
-#### Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.<a id=36></a>
+#### Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.<a id=35></a>
 
-##### Section 1 : Dispositions générales.<a id=37></a>
+##### Section 1 : Dispositions générales.<a id=36></a>
 
 ###### Article L65
 
@@ -6829,7 +6589,7 @@ _Anciens textes_:
   - Code des postes et télécommunications L95
 
 
-##### Section 2 : Dispositions pénales.<a id=38></a>
+##### Section 2 : Dispositions pénales.<a id=37></a>
 
 ###### Article L66
 
@@ -6883,9 +6643,9 @@ _Anciens textes_:
   - Décret-loi 1851-12-27 art. 4
 
 
-#### Chapitre V : Protection des câbles sous-marins.<a id=39></a>
+#### Chapitre V : Protection des câbles sous-marins.<a id=38></a>
 
-##### Section 1 : Dispositions générales.<a id=40></a>
+##### Section 1 : Dispositions générales.<a id=39></a>
 
 ###### Article L72
 
@@ -6916,7 +6676,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R51 (V)
 
 
-##### Section 2 : Dispositions pénales.<a id=41></a>
+##### Section 2 : Dispositions pénales.<a id=40></a>
 
 ###### Article L73
 
@@ -7023,7 +6783,7 @@ _Codifié par_:
   - Décret n°62-273 1962-03-12
 
 
-##### Paragraphe I : Dispositions spéciales aux eaux non territoriales.<a id=42></a>
+##### Paragraphe I : Dispositions spéciales aux eaux non territoriales.<a id=41></a>
 
 ###### Article L77
 
@@ -7154,7 +6914,7 @@ _Anciens textes_:
   - Loi n°1884-12-20 art. 10
 
 
-##### Paragraphe II : Dispositions spéciales aux eaux territoriales.<a id=43></a>
+##### Paragraphe II : Dispositions spéciales aux eaux territoriales.<a id=42></a>
 
 ###### Article L82
 
@@ -7297,9 +7057,9 @@ _Anciens textes_:
   - Loi n°1884-12-20 art. 15
 
 
-### TITRE VI : Services radioélectriques<a id=44></a>
+### TITRE VI : Services radioélectriques<a id=43></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=45></a>
+#### Chapitre Ier : Dispositions générales.<a id=44></a>
 
 ###### Article L96-1
 
@@ -7332,7 +7092,7 @@ _Nouveaux textes_:
   - Code des postes et des communications électroni... - art. L34-9-2 (Ab)
 
 
-### TITRE VIII : Assignations de fréquence relatives aux systèmes satellitaires.<a id=46></a>
+### TITRE VIII : Assignations de fréquence relatives aux systèmes satellitaires.<a id=45></a>
 
 ###### Article L97-2
 
@@ -7516,1080 +7276,9 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 
-## LIVRE III : Les services financiers<a id=47></a>
+## LIVRE III : Dispositions communes et finales<a id=46></a>
 
-### TITRE Ier : Chèques postaux.<a id=48></a>
-
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=49></a>
-
-###### Article L98
-
-Le service des chèques postaux est géré par l'exploitant public La Poste.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L168
-  - Loi n°1941-11-17  art. 1
-
-_Modifié par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-
-###### Article L99
-
-Peuvent se faire ouvrir des comptes courants postaux, sous réserve de l'agrément de La Poste, les personnes physiques et les
-personnes morales administratives ou privées, ainsi que tous services publics et groupements d'intérêts de caractère public
-ou privé.
-
-Les demandes d'ouverture de comptes sont établies sur papier libre [*formalités*] ; les spécimens de la signature habituelle
-du titulaire et des personnes autorisées à tirer des chèques sont également recueillis sur papier libre.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L170
-  - Loi n°1941-11-17 art. 3
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-
-###### Article L100
-
-Le chèque postal est signé par le tireur et porte la date du jour où il est tiré. Il indique le lieu d'où il est émis ainsi
-que la somme pour laquelle il est tiré.
-
-Cette somme doit être libellée en chiffres et en toutes lettres, le montant en lettres prévalant en cas de différence.
-Toutefois, des exceptions à ces principes peuvent être fixées par décret.
-
-Le chèque postal est payable à vue. Toute mention contraire est réputée non écrite. Le chèque postal présenté au paiement
-avant le jour indiqué comme date d'émission est payable le jour de la présentation.
-
-Le chèque postal sans indication du lieu de sa création est considéré comme émis dans le lieu de la résidence du tireur
-désigné dans l'intitulé du compte courant reproduit sur le titre.
-
-Le chèque postal sans désignation de bénéficiaire vaut comme un chèque au porteur.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L172-1
-  - Loi n°55-1551 du 28 novembre 1955 - art. 1, v. init.
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Cité par_:
-
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 93
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-###### Article L101
-
-Lorsque le chèque postal est présenté au paiement par le bénéficiaire, celui-ci ne peut refuser un paiement partiel.
-
-Si la provision est inférieure au montant du chèque, le bénéficiaire a le droit d'en demander le paiement jusqu'à concurrence
-de la provision, après déduction de la taxe applicable à l'opération effectuée.
-
-En cas de paiement partiel, le centre de chèques postaux, détenteur du compte du tireur, peut exiger que la mention de ce
-paiement soit faite sur le chèque et qu'une quittance lui en soit donnée.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L172-2
-  - Loi n°55-1551 du 28 novembre 1955 - art. 1, v. init.
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-_Modifié par_:
-
-  - Décret n°72-120 1972-02-14 art. 1 JORF 16 février 1972
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-
-###### Article L101-1
-
-Toute personne qui remet au bénéficiaire un chèque postal en paiement doit justifier de son identité au moyen d'un document
-officiel portant sa photographie.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°72-10 1972-01-03 art. 9 JORF 5 janvier 1972
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-
-###### Article L104
-
-Le bénéficiaire peut réclamer à celui contre lequel il exerce son recours :
-
-1° La somme impayée sur le montant du chèque postal ;
-
-2° Les intérêts au taux légal à partir de la date de présentation du titre, telle qu'elle est indiquée par le certificat de
-non-paiement ;
-
-Les dispositions qui répriment les infractions en matière de chèques bancaires sont de plein droit applicables au chèque
-postal ; il en est de même des dispositions des articles L. 131-72, L. 131- 73, L. 131-75 à L. 131-82, L. 163-1 et L. 163-9
-du code monétaire et financier et de l'article 73-2 du décret du 30 octobre 1935 unifiant le droit en matière de chèques
-ainsi que celles concernant les attributions dévolues à la Banque de France ou aux établissements ayant reçu le privilège
-d'émission, pour la prévention et la répression de ces infractions. Toutefois le chèque postal ne peut être endossé.
-
-Les autres dispositions concernant le chèque bancaire ne sont pas applicables au chèque postal.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L172-5
-  - Loi n°55-1551 du 28 novembre 1955 - art. 1, v. init.
-
-_Cite_:
-
-  - Décret n°1935-10-30 art. 73-2
-
-_Modifié par_:
-
-  - Loi n°91-1382 du 30 décembre 1991 - art. 19 () JORF 1er janvier 1992
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-
-###### Article L105
-
-Le chèque postal de paiement peut recevoir un barrement spécial avant d'être présenté à l'encaissement.
-
-Le barrement s'effectue au moyen de deux barres parallèles apposées au recto.
-
-Le nom du banquier désigné est inscrit entre les barres. Le biffage du barrement ou du nom du banquier désigné est réputé non
-avenu.
-
-Le chèque postal barré ne peut être payé qu'au banquier désigné par une chambre de compensation ou par virement à son compte
-courant postal, ou au bénéficiaire, par virement à son compte courant postal. Si le bénéficiaire du chèque postal barré est
-le tireur lui-même, le chèque peut également lui être payé en numéraire. Le banquier désigné peut recourir à un autre
-banquier pour l'encaissement par une chambre de compensation.
-
-Un chèque postal peut porter deux barrements au maximum dont l'un pour l'encaissement par une chambre de compensation.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L173
-  - Loi n°1941-11-17 art. 7 al. 1 à 3 et 5
-
-_Modifié par_:
-
-  - Loi n°78-1239 du 29 décembre 1978 - art. 85 () JORF 30 décembre 1978
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D501 (Ab)
-
-
-###### Article L106
-
-Tout chèque postal barré ou non pour lequel la provision correspondante existe à la disposition du tireur doit être certifié
-par le centre de chèques postaux intéressé si le tireur ou le porteur le demande, sauf la faculté pour le tiré de remplacer
-ce chèque par un chèque émis sur sa propre caisse.
-
-La provision du chèque postal certifié reste bloquée jusqu'à l'expiration du délai de validité du titre.
-
-Les mesures d'application du présent article sont déterminées par décret en Conseil d'Etat.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L174
-  - Loi n°48-1288 1948-08-18 art. 2
-  - Loi n°1941-11-17 art. 7
-  - Loi n°1942-03-26 art. 1
-
-_Modifié par_:
-
-  - Loi n°72-10 1972-01-03 art. 12 JORF 5 janvier 1972
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-###### Article L106-1
-
-Il n'est admis d'opposition par le tireur au paiement d'un chèque postal présenté par le bénéficiaire [*condition*] qu'en cas
-de perte du chèque ou de redressement judiciaire.
-
-Si, malgré cette défense, le tireur fait opposition pour d'autres causes, le juge des référés, même dans le cas où une
-instance au principal est engagée, doit, sur la demande du porteur, ordonner la mainlevée de l'opposition.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°72-10 1972-01-03 art. 13 JORF 5 janvier 1972
-
-_Modifié par_:
-
-  - Loi n°85-98 1985-01-25 art. 233 JORF 26 janvier 1985
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-
-###### Article L107
-
-La Poste est responsable des sommes qu'elle a reçues pour être portées au crédit des comptes courants postaux.
-
-Lorsqu'il est fait usage de mandats ordinaires ou télégraphiques de versement, les dispositions de l'article L. 113 sont
-applicables.
-
-La Poste n'est pas responsable des retards qui peuvent se produire dans l'exécution du service.
-
-Les réclamations relatives aux opérations sur comptes courants postaux sont admises dans les délais de prescription du droit
-commun.
-
-En cas de réclamation, les règles relatives à la perception et au remboursement des taxes prévues en matière de mandats sont
-applicables aux chèques postaux.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L175
-  - Loi n°1941-11-17 art. 8
-  - Loi n°48-1288 1948-08-18 art. 2
-
-_Modifié par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Cite_:
-
-  - Code des postes et des communications électronique - art. L113 (M)
-
-
-###### Article L107-1
-
-La Poste est autorisée à accorder sa garantie aux bénéficiaires des paiements effectués par les porteurs de cartes de
-paiement émises par elle.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-
-###### Article L108
-
-En cas de changement dans la condition civile ou la situation légale du titulaire du compte courant postal, avis doit en être
-donné au centre de chèques postaux détenteur de ce compte. La Poste ne peut être tenue responsable des conséquences pouvant
-résulter des modifications qui ne lui auraient pas été notifiées.
-
-Au regard de La Poste tout chèque de paiement régulièrement porté au débit du compte du tireur est considéré comme payé. A
-partir de la transformation du chèque en mandat, lorsque le paiement a lieu par ce moyen, la responsabilité pécuniaire
-encourue par La Poste est la même qu'en matière de mandat.
-
-Le titulaire d'un compte courant postal est seul responsable des conséquences résultant de l'emploi abusif, de la perte ou de
-la disparition des formules de chèques qui lui ont été remises par La poste.
-
-La responsabilité d'un faux paiement ou d'un faux virement résultant d'indications d'assignation ou d'un virement inexactes
-ou incomplètes incombe au tireur du chèque.
-
-La seule possession par La Poste d'un chèque au porteur suffit pour valoir libération au regard du titulaire du compte.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L176
-  - Loi n°48-1288 1948-08-18 art. 2
-  - Loi n°1941-11-17 art. 8
-
-_Modifié par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-
-###### Article L109
-
-Est acquis à l'Etat le solde de tout compte courant postal qui n'a fait l'objet, de la part des ayants droit, d'aucune
-opération ou réclamation depuis trente ans.
-
-La Poste peut prononcer d'office la clôture d'un compte courant, notamment pour utilisation abusive ou lorsqu'un ou plusieurs
-chèques postaux ont été tirés par le titulaire sans provision suffisante.
-
-En cas de décès du titulaire, le compte est clôturé à la date où le décès est porté à la connaissance du service détenteur du
-compte. Le remboursement du solde a lieu à la diligence du centre de chèques détenteur par mandat ou par virement postal au
-profit des héritiers.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L177
-  - Loi n°1941-11-17 art. 9
-
-_Modifié par_:
-
-  - Loi n°94-679 du 8 août 1994 - art. 82 () JORF 10 août 1994
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-
-### TITRE II : Mandats.<a id=50></a>
-
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=51></a>
-
-###### Article L110
-
-Dans le régime intérieur français, les envois de fonds peuvent être effectués [*modalités*] au moyen de mandats émis par La
-Poste et transmis par voie postale ou par voie télégraphique.
-
-Les mandats acheminés par voie postale peuvent être, soit des mandats ordinaires transmis au bénéficiaire par les soins de
-l'expéditeur, soit des mandats-cartes acheminés directement du bureau de poste d'émission au bureau chargé du paiement.
-
-La transmission des mandats par voie télégraphique est soumise à toutes les règles applicables aux télégrammes privés et
-notamment à celles de l'article L. 37 sous réserve des dispositions de l'article L. 113.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L179
-  - Loi n°1943-06-29 art. 1
-
-_Modifié par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Cite_:
-
-  - Code des postes et des communications éléctroniques L37 et L113
-
-
-###### Article L111
-
-Les mandats émis et payés par La Poste sont exemptés de tout droit de timbre.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L182
-  - Loi n°1943-06-29 art. 4
-
-_Modifié par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-
-###### Article L112
-
-Les taxes et droits de commission perçus au profit de La Poste lui sont acquis alors même que les mandats demeurent impayés.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L185
-  - Loi n°1943-06-29 art. 9
-
-_Modifié par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-
-###### Article L113
-
-Sous réserve des dispositions des articles L. 115 et L. 116, La Poste est responsable des sommes converties en mandats
-jusqu'au moment où elles ont été payées dans les conditions prévues par les règlements.
-
-Pour les mandats ordinaires au porteur, La Poste est valablement libérée par le seul fait qu'elle est rentrée en possession
-du titre, sans qu'il ait été exigé de la personne qui l'a présenté au paiement ni acquit, ni justification d'identité, à
-moins que le titre n'ait été transformé en mandat nominatif par l'inscription du nom du bénéficiaire.
-
-La Poste n'est pas responsable des retards qui peuvent se produire dans l'exécution du service.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. L107 (Ab)
-
-_Cite_:
-
-  - Code des postes et des communications éléctroniques L115 et L116
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L189
-  - Loi n°1943-06-29 art. 13
-
-
-###### Article L114
-
-La Poste est valablement libérée par le paiement des mandats effectués entre les mains et contre décharge des vaguemestres
-civils ou militaires régulièrement accrédités auprès des receveurs des postes.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L190
-  - Loi n°1943-06-29 art. 14
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-
-###### Article L115
-
-Le montant des mandats de toute nature dont le paiement ou le remboursement n'a pas été réclamé par les ayants droit dans le
-délai de deux ans à partir du jour du versement des fonds est [*prescription acquisitive*] définitivement acquis à l'Etat.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L191
-  - Loi n°1943-06-29 art. 15
-
-_Modifié par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-
-###### Article L116
-
-Passé le délai de deux ans à partir du jour du versement des fonds, les réclamations afférentes aux mandats de toute nature
-ne sont plus recevables, quels qu'en soient l'objet et le motif.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L116
-  - Loi n°1943-06-29 art. 16
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-
-### TITRE III : Valeurs à recouvrer et envois contre remboursement<a id=52></a>
-
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=53></a>
-
-###### Article L117
-
-Dans le régime intérieur français, les quittances, factures, billets, traites et, généralement, toutes les valeurs
-commerciales ou autres, protestables ou non protestables, peuvent être recouvrés, sous réserve des exceptions déterminées par
-arrêté du ministre des postes et communications électroniques, par l'entremise du service postal.
-
-Le montant maximum des valeurs à recouvrer, ainsi que le nombre et le montant des valeurs pouvant être incluses dans un même
-envoi, sont fixés par arrêté du ministre des postes et communications électroniques.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L193
-  - Loi n°45-0195 1945-12-31 art. 103 al. 1 et 2
-  - Loi n°53-26 1953-01-28 art. 1
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-###### Article L118
-
-Dans le régime intérieur français, les objets de correspondance déterminés par arrêté du ministre des postes et
-communications électroniques peuvent être envoyés contre remboursement. Le montant de ce remboursement, dont le maximum est
-fixé par arrêté du ministre des postes et communications électronique, est indépendant de la valeur intrinsèque de l'objet
-et, le cas échéant, de la déclaration de valeur.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L194
-  - Loi n°45-0195 1945-12-31 art. 103 al. 1 et 3
-  - Loi n°53-26 1953-01-28 art. 12
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-###### Article L119
-
-Pour le recouvrement des chèques et des effets de commerce qui lui sont remis en exécution du présent titre, La Poste ne
-peut, en aucun cas, se voir opposer les obligations incombant au porteur par la législation et la réglementation en vigueur.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L195
-  - Loi n°53-26 1953-01-28 art. 3
-
-_Modifié par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-
-###### Article L120
-
-Le montant des valeurs à recouvrer ou des sommes à percevoir sur le destinataire des envois contre remboursement doit être
-acquitté en une seule fois. Il n'est pas admis de paiement partiel.
-
-Un paiement effectué ne peut donner lieu à répétition contre La Poste de la part de celui qui a remis les fonds.
-
-La Poste est dispensée de toute formalité touchant à la constatation du non-paiement.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L196
-  - Loi n°53-26 1953-01-28 art. 5 et 6
-
-_Modifié par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-
-###### Article L121
-
-A la condition d'être titulaire d'un compte courant postal, l'expéditeur peut demander que les chèques et effets non
-recouvrés soient remis, dans les conditions fixées par La Poste, à un notaire ou à un huissier, en vue de l'établissement
-d'un protêt.
-
-L'expéditeur qui use de cette faculté autorise de ce fait le prélèvement du montant des frais de protêt et de la taxe postale
-de présentation perçue par La Poste sur l'avoir de son compte courant postal.
-
-L'expéditeur est tenu de maintenir au crédit de son compte courant postal une somme suffisante pour permettre le prélèvement
-de ces frais. Il conserve la faculté d'en demander le remboursement au débiteur protesté.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L198
-  - Loi n°53-26 1953-01-28 art. 7
-
-_Modifié par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-
-###### Article L122
-
-Au cours des transmissions postales et opérations préparatoires à la remise des valeurs ou objets aux intéressés, la
-responsabilité de La Poste est la même qu'en matière de correspondance postale de la catégorie à laquelle appartiennent les
-envois, suivant qu'il s'agit d'objets ordinaires, recommandés ou avec valeur déclarée.
-
-A partir du moment où les valeurs ou objets ont été remis au débiteur ou au destinataire, La Poste est responsable des sommes
-encaissées ou qui auraient dû l'être. Lorsque ces sommes ont été converties en mandats ou versées au crédit d'un compte
-courant postal, sa responsabilité est la même qu'en matière de mandats ou de titres du service des chèques postaux.
-
-En cas de refus de paiement à présentation d'une valeur soumise à protêt, La Poste est déchargée par la remise de cette
-valeur à un notaire ou à un huissier.
-
-La Poste n'est pas responsable des retards dans l'exécution du service, notamment en ce qui concerne la présentation à
-domicile des effets protestables et la remise des effets impayés au notaire ou à l'huissier chargé de dresser le protêt.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L200
-  - Loi n°53-26 1953-01-28 art. 9
-
-_Modifié par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. L123 (Ab)
-
-
-###### Article L123
-
-Dans les cas prévus au deuxième alinéa de l'article L. 122 ci-dessus, les réclamations concernant les valeurs à recouvrer et
-les envois contre remboursement sont reçues dans le délai de deux ans à partir du dépôt.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L201
-  - Loi n°53-26 1953-01-28 art. 10
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-_Cite_:
-
-  - Code des postes et des communications électronique - art. L122 (M)
-
-
-###### Article L124
-
-Les dispositions du présent titre ne sont applicables ni aux valeurs bancaires ou autres remises à l'encaissement aux centres
-de chèques par les titulaires de comptes courants postaux, ni aux envois de colis postaux.
-
-**Nota:**
-
-NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
-transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
-
-NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L202
-  - Loi n°53-26 1953-01-28 art. 11
-
-_Abrogé par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-## LIVRE IV : Dispositions communes et finales<a id=54></a>
-
-### (en vigueur jusqu'au 31 décembre 2005).<a id=55></a>
+### TITRE Ier : Dispositions communes<a id=47></a>
 
 ###### Article L125
 
@@ -8604,12 +7293,12 @@ avis sur les projets de modification de la législation applicable à ces secteu
 Poste et des opérateurs chargés du service universel des communications électroniques et les projets de contrats de plan de
 La Poste. Elle est consultée par les ministres chargés des postes et des communications électroniques lors de la préparation
 des directives communautaires relatives à ces secteurs. Elle peut être consultée par l'Autorité de régulation des
-télécommunications et par les commissions permanentes de l'Assemblée nationale et du Sénat sur les questions relevant de sa
-compétence.
+communications électroniques et des postes et par les commissions permanentes de l'Assemblée nationale et du Sénat sur les
+questions relevant de sa compétence.
 
-Elle peut saisir l'Autorité de régulation des télécommunications sur des questions concernant la compétence de cette autorité
-en matière de contrôle et de sanction du respect, par les opérateurs, des obligations de service public et de service
-universel qui leur sont applicables en vertu du présent code.
+Elle peut saisir l'Autorité de régulation des communications électroniques et des postes sur des questions concernant la
+compétence de cette autorité en matière de contrôle et de sanction du respect, par les opérateurs, des obligations de service
+public et de service universel qui leur sont applicables en vertu du présent code.
 
 Elle peut suggérer les modifications de nature législative et réglementaire que lui paraît appeler l'évolution technologique,
 économique et sociale des activités postales et de communications électroniques.
@@ -8618,8 +7307,9 @@ Elle adresse des recommandations au Gouvernement pour l'exercice d'une concurren
 communications électroniques.
 
 Elle établit un rapport annuel qui est remis au Parlement et au Premier ministre. Ce rapport comprend une évaluation de
-l'action de l'Autorité de régulation des télécommunications, pour ce qui concerne le service public des communications
-électroniques. Elle peut, en outre, faire connaître, à tout moment, ses observations et ses recommandations.
+l'action de l'Autorité de régulation des communications électroniques et des postes, pour ce qui concerne le service public
+des postes et celui des communications électroniques. Elle peut, en outre, faire connaître, à tout moment, ses observations
+et ses recommandations.
 
 Elle peut recueillir toutes les informations utiles à l'accomplissement de ses missions et notamment demander aux ministres
 chargés des postes et des communications électroniques de faire procéder à toute étude ou investigation concernant La Poste
@@ -8632,12 +7322,6 @@ Un décret fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L204
-  - Loi n°1923-06-30 art. 70
-  - Loi n°1940-10-05 art. 1
-
 _Cité par_:
 
   - Loi n°90-568 du 2 juillet 1990 - art. 8 (M)
@@ -8645,217 +7329,452 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-669 du 9 juillet 2004 - art. 26 () JORF 10 juillet 2004
+  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005
+  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
+  - Décret n°2005-1068 du 30 août 2005 - art. 5 (V) JORF 31 août 2005
 
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
 
+_Anciens textes_:
 
-###### Article L126
+  - Code des postes, télégraphes et téléphones L204
+  - Loi n°1923-06-30 art. 70
+  - Loi n°1940-10-05 art. 1
 
-La prescription est acquise au profit de l'exploitant public pour toutes demandes en restitution du prix de ses prestations
-présentées après un délai d'un an à compter du jour du paiement.
 
-La prescription est acquise au profit de l'usager pour les sommes dues en paiement des prestations de l'exploitant public
-lorsque celui-ci ne les a pas réclamées dans un délai d'un an courant à compter de la date de leur exigibilité.
+###### Article L130
+
+L'Autorité de régulation des communications électroniques et des postes est composée de sept membres nommés en raison de leur
+qualification économique, juridique et technique, dans les domaines des communications électroniques, des postes et de
+l'économie des territoires pour un mandat de six ans. Trois membres, dont le président, sont nommés par décret. Deux membres
+sont nommés par le Président de l'Assemblée nationale et deux par le Président du Sénat.
+
+Les membres de l'autorité nommés par décret sont renouvelés par tiers tous les deux ans.
+
+Les membres de l'autorité ne sont pas révocables.
+
+L'Autorité de régulation des communications électroniques et des postes ne peut délibérer que si cinq au moins de ses membres
+sont présents. Elle délibère à la majorité des membres présents.
+
+Si l'un des membres de l'autorité ne peut exercer son mandat jusqu'à son terme, le membre nommé pour le remplacer exerce ses
+fonctions pour la durée du mandat restant à courir.
+
+Le mandat des membres de l'autorité n'est pas renouvelable. Toutefois, cette règle n'est pas applicable aux membres dont le
+mandat, en application de l'alinéa ci-dessus, n'a pas excédé deux ans.
+
+Les membres de l'autorité ne peuvent être nommés au-delà de l'âge de soixante-cinq ans.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005
+
+- art. 13 II et III : Les membres de l'autorité visée à l'article L. 130 du code des postes et des communications
+électroniques qui sont en fonction à la date de publication de la présente loi exercent leur mandat jusqu'à son terme. Dès la
+publication de la présente loi, le Président de l'Assemblée nationale et le Président du Sénat nomment chacun un membre
+supplémentaire de l'Autorité de régulation des communications électroniques et des postes, pour un mandat de six ans prolongé
+jusqu'au 31 décembre de la dernière année de ce mandat.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2004-669 du 9 juillet 2004 - art. 26 () JORF 10 juillet 2004
+  - Décret n°2005-1068 2005-05-30 art. 5 JORF 31 août 2005
 
-_Transféré par_:
+_Créé par_:
 
   - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005
+  - Loi n°2005-516 du 20 mai 2005 - art. 13 (V) JORF 21 mai 2005
+  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
   - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
 
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
 
-_Nouveaux textes_:
+_Cité par_:
 
-  - Code des postes et des communications électronique - art. L11 (M)
-  - Code des postes et des communications électronique - art. L11 (V)
+  - Code de la consommation - art. L121-83 (VT)
+  - Code de la consommation - art. L224-30 (V)
 
 _Anciens textes_:
 
-  - Code des postes, télégraphes et téléphones L228-1
-  - Loi n°1926-04-29 art. 92 al. 1, 2, 3 et 4
+  - Code des postes et des communications électronique - art. L36-1 (M)
+  - Code des postes et des communications électronique - art. L36-1 (MMN)
 
 
-###### Article L128
+###### Article L131
+
+La fonction de membre de l'Autorité de régulation des communications électroniques et des postes est incompatible avec toute
+activité professionnelle, tout mandat électif national, tout autre emploi public et toute détention, directe ou indirecte,
+d'intérêts dans une entreprise du secteur postal ou des secteurs des communications électroniques, de l'audiovisuel ou de
+l'informatique. Les membres de l'Autorité de régulation des communications électroniques et des postes ne peuvent être
+membres de la Commission supérieure du service public des postes et des communications électroniques.
+
+Les membres de l'autorité sont tenus au secret professionnel pour les faits, actes et renseignements dont ils ont pu avoir
+connaissance en raison de leurs fonctions. Ils sont tenus à l'obligation de discrétion pour ce qui concerne les procédures de
+règlement de différends et de sanctions conduites par ou devant l'autorité et les délibérations correspondantes.
+
+Afin de garantir l'indépendance et la dignité de leurs fonctions, et pendant la durée de celles-ci, les membres de l'autorité
+ne prennent, à titre personnel, aucune position publique sur des questions ayant fait ou susceptibles de faire l'objet d'une
+décision de la part de l'autorité.
+
+Le président et les membres de l'autorité reçoivent respectivement un traitement égal à celui afférent à la première et à la
+seconde des deux catégories supérieures des emplois de l'Etat classés hors échelle.
+
+Lorsqu'il est occupé par un fonctionnaire, l'emploi permanent de membre de l'autorité est un emploi ouvrant droit à pension
+au titre du code des pensions civiles et militaires de retraite.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005
+  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
+
+_Modifié par_:
+
+  - Décret n°2005-1068 du 30 août 2005 - art. 5 (V) JORF 31 août 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+_Anciens textes_:
+
+  - Code des postes et des communications électronique - art. L36-2 (M)
+  - Code des postes et des communications électronique - art. L36-2 (T)
+
+
+###### Article L132
+
+L'Autorité de régulation des communications électroniques et des postes dispose de services qui sont placés sous l'autorité
+de son président.
+
+L'autorité peut employer des fonctionnaires en position d'activité dans les mêmes conditions que le ministère chargé des
+communications électroniques. Elle peut recruter des agents contractuels.
+
+Les personnels des services de l'autorité sont tenus au secret professionnel pour les faits, actes et renseignements dont ils
+ont pu avoir connaissance en raison de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005
+  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
+
+_Modifié par_:
+
+  - Décret n°2005-1068 du 30 août 2005 - art. 5 (V) JORF 31 août 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+_Anciens textes_:
+
+  - Code des postes et des communications électronique - art. L36-3 (M)
+  - Code des postes et des communications électronique - art. L36-3 (T)
+
+
+###### Article L133
+
+Les ressources de l'Autorité de régulation des communications électroniques et des postes comprennent des rémunérations pour
+services rendus et des taxes et redevances dans les conditions fixées par les lois de finances ou par décret en Conseil
+d'Etat.
+
+L'autorité propose aux ministres compétents, lors de l'élaboration du projet de loi de finances de l'année, les crédits
+nécessaires, en sus des ressources mentionnées au premier alinéa, à l'accomplissement de ses missions.
+
+Ces crédits sont inscrits au budget général de l'Etat. Les dispositions de la loi du 10 août 1922 relative à l'organisation
+du contrôle des dépenses engagées ne sont pas applicables à leur gestion.
+
+Le président de l'autorité est ordonnateur des dépenses. Il présente les comptes de l'autorité au contrôle de la Cour des
+comptes.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2005-1068 du 30 août 2005 - art. 5 (V) JORF 31 août 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+_Anciens textes_:
+
+  - Code des postes et des communications électronique - art. L36-4 (M)
+  - Code des postes et des communications électronique - art. L36-4 (T)
+
+_Cite_:
+
+  - Loi n°1922-08-10
+
+_Créé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005
+  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
+
+
+###### Article L134
+
+Pour l'accomplissement des missions qui sont confiées à l'Autorité de régulation des communications électroniques et des
+postes, le président de l'autorité a qualité pour agir en justice.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005
+  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
+
+_Modifié par_:
+
+  - Décret n°2005-1068 du 30 août 2005 - art. 5 (V) JORF 31 août 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+_Anciens textes_:
+
+  - Code des postes et des communications électronique - art. L36-12 (M)
+  - Code des postes et des communications électronique - art. L36-12 (T)
+
+
+###### Article L135
+
+L'Autorité de régulation des communications électroniques et des postes établit chaque année, avant le 30 juin, un rapport
+public qui rend compte de son activité et de l'application des dispositions législatives et réglementaires relatives aux
+communications électroniques et aux activités postales. Elle y dresse une analyse des principales décisions prises par les
+autorités de régulation des communications électroniques et des postes dans les Etats membres de la Communauté européenne au
+cours de l'année écoulée, en vue de permettre l'établissement d'une comparaison des différents types de contrôles exercés et
+de leurs effets sur les marchés. Ce rapport est adressé au Gouvernement et au Parlement. Il est adressé également à la
+Commission supérieure du service public des postes et des communications électroniques. L'autorité peut suggérer dans ce
+rapport toute modification législative ou réglementaire que lui paraissent appeler les évolutions du secteur des
+communications électroniques et de celui des postes et le développement de la concurrence.
+
+L'autorité rend compte de ses activités, et notamment des progrès réalisés eu égard aux objectifs mentionnés à l'article L.
+32-1, devant les commissions permanentes du Parlement compétentes, à leur demande. Ces dernières peuvent consulter l'autorité
+sur toute question relevant de sa compétence.
+
+L'autorité peut procéder aux expertises, mener les études, recueillir les données et mener toutes actions d'information sur
+le secteur des communications électroniques et sur celui des postes. A cette fin, le prestataire du service universel postal,
+les titulaires de l'autorisation prévue à l'article L. 3, les opérateurs ayant effectué la déclaration prévue à l'article L.
+33-1 sont tenus de lui fournir les informations statistiques concernant l'utilisation, la zone de couverture et les modalités
+d'accès à leur service. Les ministres compétents sont tenus informés des résultats de ces travaux.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005
+  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
+
+_Modifié par_:
+
+  - Décret n°2005-1068 du 30 août 2005 - art. 5 (V) JORF 31 août 2005
+
+_Codifié par_:
+
+  - Décret n°62-273 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R1-1-15 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L3 (M)
+  - Code des postes et des communications électronique - art. L32-1 (M)
+  - Code des postes et des communications électronique - art. L33-1 (M)
+
+_Anciens textes_:
+
+  - Code des postes et des communications électronique - art. L36-14 (M)
+  - Code des postes et des communications électronique - art. L36-14 (T)
+
+
+### TITRE II : Dispositions finales.<a id=48></a>
+
+###### Article L140
 
 Le présent code se substitue, dans les conditions prévues par l'article 34 de la Constitution et la loi n° 52-233 du 27
 février 1952, aux dispositions législatives contenues dans les articles suivants du code des postes, télégraphes et
 téléphones en tant qu'elles concernaient le service des postes, télégraphes et téléphones : art. L. 1, L. 2, L. 3, al. 2, L.
 4 à L. 10, L. 12 à L. 14, L. 33 à L. 39, L. 48, L. 50, L. 59, al. 5, L. 63, L. 64, L. 67, L. 68, L. 69, al. 1, L. 71 à L. 77,
 L. 79 à L. 84, L. 85, al. 1, L. 86 à L. 88, L. 93, al. 1 et 2, L. 94, L. 95, L. 97, L. 103, L. 104, L. 105, al. 1 à 6 et 8 à
-10, L. 106, L. 109, 2 dernières phrases du 3e alinéa, L. 110 à L. 113, L. 114, al. 2, L. 116, L. 125 à L. 131, L. 133, L. 135
+10, L. 106, L. 109,2 dernières phrases du 3e alinéa, L. 110 à L. 113, L. 114, al. 2, L. 116, L. 125 à L. 131, L. 133, L. 135
 à L. 137, L. 139, L. 144 à L. 149, L. 150, al. 1 et 2, L. 151 à L. 155, L. 157 à L. 159, L. 161, L. 162, L. 164 à L. 167, L.
 168, al. 1, L. 170, al. 1 et 2, L. 172-1 à L. 177, L. 179, al. 1 à 3, L. 182, L. 185, L. 189 à L. 192, L. 193 à L. 196, L.
-198, L. 200 à L. 202, L. 204, al. 1, L. 218 et L. 228-1.
+198, L. 200 à L. 202, L. 204, al. 1, L. 218 et L. 228-1. 
 
-Article 48, 2°, de la loi du 31 mars 1941 approuvant le décret du 6 septembre 1929 et notamment son article 1er.
+Article 48,2°, de la loi du 31 mars 1913 approuvant le décret du 6 septembre 1929 et notamment son article 1er. 
 
-Demeurent abrogés, aux termes de l'article 230 de l'ancien code, modifié, D. n° 54-680, 14 juin 1954, art. 6 et D. n° 57-192,
-13 fév. 1957, les textes législatifs suivants :
+Demeurent abrogés, aux termes de l'article 230 de l'ancien code, modifié, D. n° 54-680,14 juin 1954, art. 6 et D. n°
+57-192,13 fév. 1957, les textes législatifs suivants : 
 
-Décret des 23-30 juillet 1793, article 1er.
+Décret des 23-30 juillet 1793, article 1er. 
 
-Loi du 5 nivôse an V, article 14, alinéa 3.
+Loi du 5 nivôse an V, article 14, alinéa 3. 
 
-Arrêté du 27 prairial de l'an IX, articles 1er à 3, 5 et 9.
+Arrêté du 27 prairial de l'an IX, articles 1er à 3,5 et 9. 
 
-Arrêté des consuls du 19 germinal de l'an IX.
+Arrêté des consuls du 19 germinal de l'an IX. 
 
-Loi du 21 avril 1832, article 47.
+Loi du 21 avril 1832, article 47. 
 
-Loi du 2 mai 1837, article unique.
+Loi du 2 mai 1837, article unique. 
 
-Ordonnance du 19 février 1843.
+Ordonnance du 19 février 1843. 
 
-Loi du 29 novembre 1850, article 1er, alinéa 2, articles 3 à 6.
+Loi du 29 novembre 1850, article 1er, alinéa 2, articles 3 à 6. 
 
-Décret-loi du 27 décembre 1851.
+Décret-loi du 27 décembre 1851. 
 
-Loi du 20 mai 1854, article 1er, dernier alinéa.
+Loi du 20 mai 1854, article 1er, dernier alinéa. 
 
-Loi du 22 juin 1854, articles 20, 21 et 22.
+Loi du 22 juin 1854, articles 20,21 et 22. 
 
-Loi du 4 juin 1859, articles 1er à 3, 5 à 7, alinéa 1er, et article 9.
+Loi du 4 juin 1859, articles 1er à 3,5 à 7, alinéa 1er, et article 9. 
 
-Loi du 3 juillet 1861, article 1er.
+Loi du 3 juillet 1861, article 1er. 
 
-Loi du 20 décembre 1872, article 22, alinéa 1er.
+Loi du 20 décembre 1872, article 22, alinéa 1er. 
 
-Loi du 25 janvier 1873, sauf article 6.
+Loi du 25 janvier 1873, sauf article 6. 
 
-Loi du 5 avril 1878, article unique.
+Loi du 5 avril 1878, article unique. 
 
-Loi du 6 avril 1878, article 8.
+Loi du 6 avril 1878, article 8. 
 
-Loi du 20 avril 1882, articles 1er et 2.
+Loi du 20 avril 1882, articles 1er et 2. 
 
-Loi du 20 décembre 1884.
+Loi du 20 décembre 1884. 
 
-Loi du 28 juillet 1885.
+Loi du 28 juillet 1885. 
 
-Loi du 26 janvier 1892, article 30, alinéas 1er, 2 et 3.
+Loi du 26 janvier 1892, article 30, alinéas 1er, 2 et 3. 
 
-Loi du 12 avril 1892, article 4, 2°.
+Loi du 12 avril 1892, article 4,2°. 
 
-Loi du 25 décembre 1895, article 15, alinéas 5 et suivants.
+Loi du 25 décembre 1895, article 15, alinéas 5 et suivants. 
 
-Loi du 30 mars 1902, article 24.
+Loi du 30 mars 1902, article 24. 
 
-Loi du 17 avril 1906, article 17.
+Loi du 17 avril 1906, article 17. 
 
-Loi du 8 avril 1910, article 45, et loi du 13 juillet 1911, article 19.
+Loi du 8 avril 1910, article 45, et loi du 13 juillet 1911, article 19. 
 
-Loi du 27 février 1912, article 14.
+Loi du 27 février 1912, article 14. 
 
-Loi du 30 juillet 1913, article 25, par. 1er.
+Loi du 30 juillet 1913, article 25, par. 1er. 
 
-Loi du 31 décembre 1918, article 20.
+Loi du 31 décembre 1918, article 20. 
 
-Loi du 12 août 1919, article 10.
+Loi du 12 août 1919, article 10. 
 
-Loi du 31 décembre 1921, article 11.
+Loi du 31 décembre 1921, article 11. 
 
-Loi du 30 juin 1922, article 2.
+Loi du 30 juin 1922, article 2. 
 
-Loi du 30 juin 1923, articles 70 à 79, 81, 85, 90 à 93.
+Loi du 30 juin 1923, articles 70 à 79,81,85,90 à 93. 
 
-Loi du 27 décembre 1923, article 44.
+Loi du 27 décembre 1923, article 44. 
 
-Loi du 22 mars 1924, article 89.
+Loi du 22 mars 1924, article 89. 
 
-Loi du 13 juillet 1925, article 162.
+Loi du 13 juillet 1925, article 162. 
 
-Loi du 9 août 1925, article 5.
+Loi du 9 août 1925, article 5. 
 
-Loi du 29 avril 1926, article 67, alinéa 1er, 92, alinéas 1er, 2, 3, 4, 94 et 97.
+Loi du 29 avril 1926, article 67, alinéa 1er, 92, alinéas 1er, 2,3,4,94 et 97. 
 
-Loi du 30 juin 1926, article 28.
+Loi du 30 juin 1926, article 28. 
 
-Loi du 19 décembre 1926, article 40, alinéas 1er, 4 et 5 ; article 41, alinéas 2 et 4 ; article 50.
+Loi du 19 décembre 1926, article 40, alinéas 1er, 4 et 5 ; article 41, alinéas 2 et 4 ; article 50. 
 
-Décret du 28 décembre 1926.
+Décret du 28 décembre 1926. 
 
-Loi du 27 décembre 1927, article 52.
+Loi du 27 décembre 1927, article 52. 
 
-Loi du 30 juin 1928, article 28.
+Loi du 30 juin 1928, article 28. 
 
-Loi du 29 décembre 1929, article 27.
+Loi du 29 décembre 1929, article 27. 
 
-Loi du 16 avril 1930, article 94.
+Loi du 16 avril 1930, article 94. 
 
-Loi du 31 mars 1931, articles 52, 55.
+Loi du 31 mars 1931, articles 52,55. 
 
-Loi du 31 mars 1932, articles 63.
+Loi du 31 mars 1932, articles 63. 
 
-Loi du 31 décembre 1935, article 46.
+Loi du 31 décembre 1935, article 46. 
 
-Loi du 15 juin 1938, articles 1er à 4.
+Loi du 15 juin 1938, articles 1er à 4. 
 
-Décret du 17 juin 1938, article 1er.
+Décret du 17 juin 1938, article 1er. 
 
-Loi du 31 décembre 1938, article 54.
+Loi du 31 décembre 1938, article 54. 
 
-Loi du 5 octobre 1940, article 1er.
+Loi du 5 octobre 1940, article 1er. 
 
-Loi du 17 juillet 1941, articles 2 et 3.
+Loi du 17 juillet 1941, articles 2 et 3. 
 
-Loi du 28 octobre 1941, article 1er.
+Loi du 28 octobre 1941, article 1er. 
 
-Loi du 17 novembre 1941.
+Loi du 17 novembre 1941. 
 
-Loi du 5 février 1942, article 1er.
+Loi du 5 février 1942, article 1er. 
 
-Loi du 26 mars 1942, article 1er.
+Loi du 26 mars 1942, article 1er. 
 
-Loi du 31 décembre 1942, article 48, alinéa 1er.
+Loi du 31 décembre 1942, article 48, alinéa 1er. 
 
-Loi du 29 juin 1943.
+Loi du 29 juin 1943. 
 
-Loi du 27 octobre 1943, articles 1er et 2.
+Loi du 27 octobre 1943, articles 1er et 2. 
 
-Ordonnance n° 45-524 du 31 mars 1945, article 45.
+Ordonnance n° 45-524 du 31 mars 1945, article 45. 
 
-Ordonnance n° 45-2250 du 4 octobre 1945, articles 63 et 64.
+Ordonnance n° 45-2250 du 4 octobre 1945, articles 63 et 64. 
 
-Loi n° 45-0195 du 31 décembre 1945, articles 102 et 103, alinéas 1er, 2, 3, 5 et 6.
+Loi n° 45-0195 du 31 décembre 1945, articles 102 et 103, alinéas 1er, 2,3,5 et 6. 
 
-Loi n° 47-1465 du 8 août 1947, article 108.
+Loi n° 47-1465 du 8 août 1947, article 108. 
 
-Loi n° 48-1113 du 10 juillet 1948, article unique.
+Loi n° 48-1113 du 10 juillet 1948, article unique. 
 
-Loi n° 48-1288 du 18 août 1948, article 2.
+Loi n° 48-1288 du 18 août 1948, article 2. 
 
-Loi n° 48-1992 du 31 décembre 1948, article 46.
+Loi n° 48-1992 du 31 décembre 1948, article 46. 
 
-Loi n° 49-211 du 16 février 1949, articles 1er, 2 et 3.
+Loi n° 49-211 du 16 février 1949, articles 1er, 2 et 3. 
 
-Loi n° 49-758 du 9 juin 1949.
+Loi n° 49-758 du 9 juin 1949. 
 
-Loi n° 49-759 du 9 juin 1949.
+Loi n° 49-759 du 9 juin 1949. 
 
-Loi n° 49-946 du 16 juillet 1949, article 17.
+Loi n° 49-946 du 16 juillet 1949, article 17. 
 
-Loi n° 50-928 du 8 août 1950, article 34.
+Loi n° 50-928 du 8 août 1950, article 34. 
 
-Loi n° 51-570 du 20 mai 1951, article 10.
+Loi n° 51-570 du 20 mai 1951, article 10. 
 
-Loi n° 51-633 du 24 mai 1951, articles 2 et 3.
+Loi n° 51-633 du 24 mai 1951, articles 2 et 3. 
 
-Loi n° 51-1506 du 31 décembre 1951, articles 2 et 3.
+Loi n° 51-1506 du 31 décembre 1951, articles 2 et 3. 
 
-Loi n° 52-401 du 14 avril 1952, article 70-VII.
+Loi n° 52-401 du 14 avril 1952, article 70-VII. 
 
-Loi n° 53-26 du 28 janvier 1953, articles 1er à 13 inclus, excepté l'alinéa 1er de l'article 12.
+Loi n° 53-26 du 28 janvier 1953, articles 1er à 13 inclus, excepté l'alinéa 1er de l'article 12. 
 
 Loi n° 53-1333 du 31 décembre 1953, article 9.
 
@@ -8863,138 +7782,51 @@ Loi n° 53-1333 du 31 décembre 1953, article 9.
 
 _Cite_:
 
-  - Arrêté AN09-PR-27 27 prairial an IX art. 1er à 3, 5 et 9
-  - Arrêté des consuls AN10-GE-19 19 germinal de l'an X
-  - Code des postes, télégraphes et téléphones art. L1, L2, L3 al. 2, L4 à L10, L12 à L14, L33 à L39, L48, L50, L59 al. 5, L63, L64, L67, L68, L69 al. 1, L71 à L77, L79 à L84, L85 al. 1, L86 à L88, L93 al. 1 et 2, L94, L95, L97, L103, L104, L105 al. 1 à
-  - Constitution 1958-04-10 art. 34
-  - Décret n°1793-07-23 1793-07-30 art. 1er
-  - Décret n°1926-12-28
-  - Décret n°1929-09-06 art. 1
-  - Décret n°1938-06-17 art. 1er
-  - Décret n°54-680 1954-06-14 art. 6
-  - Décret n°57-192 1957-02-13
-  - Loi n°1832-04-21 art. 47
-  - Loi n°1850-11-29 art. 1er al. 2 et 3 à 6
-  - Loi n°1854-05-20 art. 1er
-  - Loi n°1854-06-22 art. 20, 21 et 22
-  - Loi n°1859-06-04 art. 1er à 3, 5 à 7 al. 1er, et art. 9
-  - Loi n°1861-07-03 art. 1er
-  - Loi n°49-946 du 16 juillet 1949 - art. 17, v. init.
-  - Loi n°50-928 1950-08-08 art. 34
-  - Décret-loi 1851-12-27
-  - Loi n°1872-12-20 art. 22 al. 1er
-  - Loi n°1873-01-25 1873 art. 6
-  - Loi n°1878-04-06 art. 8
-  - Loi n°1882-04-20 art. 1er et 2
-  - Loi n°1884-12-20
-  - Loi n°1885-07-28
-  - Loi n°1892-01-26 art. 30 al. 1er, 2 et 3
-  - Loi n°1892-04-12 art. 4 2°
-  - Loi n°1895-12-25 art. 15 al. 5 et suivants
-  - Loi n°1902-03-30 art. 24
-  - Loi n°1906-04-17 art. 17
-  - Loi n°1910-04-08 art. 45
-  - Loi n°1911-07-13 art. 19
-  - Loi n°1912-02-27 art. 14
-  - Loi n°1913-07-30 art. 25 par. 1er
-  - Loi n°1918-12-31 art. 20
-  - Loi n°1919-08-12 art. 10
-  - Loi n°1921-12-31 art. 11
-  - Loi n°1922-06-30 art. 2
-  - Loi n°1923-06-30 art. 70 à 79, 81, 85, 90 à 93
-  - Loi n°1923-12-27 art. 44
-  - Loi n°1924-03-22 art. 89
-  - Loi n°1925-07-13 art. 162
-  - Loi n°1925-08-09 art. 5
-  - Loi n°1926-04-29 art. 67 al. 1er, 92 al. 1er, 2, 3 et 4, 94 et 97
-  - Loi n°1926-06-30 art. 28
-  - Loi n°1926-12-19 art. 40 al. 1er, 4 et 5, 41 al. 2 et 4 et 50
-  - Loi n°1927-12-27 art. 52
-  - Loi n°1928-06-30 art. 28
-  - Loi n°1929-12-29 art. 27
-  - Loi n°1930-04-16 art. 94
-  - Loi n°1932-03-31 art. 63
-  - Loi n°1935-12-31 art. 46
-  - Loi n°1938-06-15 art. 1er à 4
-  - Loi n°1938-12-31 art. 54
-  - Loi n°1940-10-05 art. 1er
-  - Loi n°1941-03-31 art. 48, 52 et 55
-  - Loi n°1941-07-17 art. 2 et 3
-  - Loi n°1941-10-28 art. 1er
-  - Loi n°1941-11-17
-  - Loi n°1942-02-05 art. 1er
-  - Loi n°1942-03-26 art. 1er
-  - Loi n°1942-12-31 art. 48 al. 1er
-  - Loi n°1943-06-29
-  - Loi n°1943-10-27 art. 1er et 2
-  - Ordonnance 45-524 1945-03-31 art. 45
-  - Ordonnance 45-2250 1945-10-04 art. 63 et 64
-  - Loi n°45-0195 1945-12-31 art. 102 et 103 al. 1er, 2, 3, 5 et 6
-  - Loi n°47-1465 1947-08-08 art. 108
-  - Loi n°48-1288 1948-08-18 art. 2
-  - Loi n°48-1992 1948-12-31 art. 46
-  - Loi n°49-211 1949-02-16 art. 1er, 2 et 3
-  - Loi n°49-758 1949-06-09
-  - Loi n°49-759 1949-06-09
-  - Loi n°51-570 du 20 mai 1951 - art. 10, v. init.
-  - Loi n°51-633 1951-05-24 art. 2 et 3
-  - Loi n°51-1506 1951-12-31 art. 2 et 3
-  - Loi n°52-233 1952-02-27
-  - Loi n°52-401 1952-04-14 art. 70-VII
-  - Loi n°53-26 1953-01-28 art. 1er à 12 al. 1 et 13
-  - Loi AN05-NI-05 5 nivôse an V art. 14 al. 3
-  - Loi n°53-1333 du 31 décembre 1953 - art. 9, v. init.
-  - Ordonnance 1843-02-19
+  - Loi n°52-223 du 27 février 1952 (V)
+  - Constitution du 4 octobre 1958 - art. 34 (V)
+
+_Créé par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
+
+_Modifié par_:
+
+  - Décret n°2005-1068 du 30 août 2005 - art. 5 (V) JORF 31 août 2005
 
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-_Nouveaux textes_:
-
-  - Code des postes et des communications électronique - art. L140 (V)
-
-_Transféré par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
+  - Code des postes et des communications électronique - art. L128 (T)
 
 
-## DISPOSITIONS FINALES<a id=56></a>
-
-### (en vigueur jusqu'au 31 décembre 2005).<a id=57></a>
-
-###### Article L129
+###### Article L141
 
 Le présent code est applicable à Mayotte.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 46 () JORF 13 juillet 2001
-
-_Transféré par_:
+_Modifié par_:
 
   - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
+  - Décret n°2005-1068 du 30 août 2005 - art. 5 (V) JORF 31 août 2005
 
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code des postes et des communications électronique - art. L141 (V)
+  - Code des postes et des communications électronique - art. L129 (T)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=58></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=49></a>
 
-## LIVRE Ier : Le service postal<a id=59></a>
+## LIVRE Ier : Le service postal<a id=50></a>
 
-### TITRE VIII : Dispositions pénales.<a id=60></a>
+### TITRE VIII : Dispositions pénales.<a id=51></a>
 
 ###### Article R2
 
@@ -9219,9 +8051,9 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-### TITRE Ier : Le service universel postal<a id=61></a>
+### TITRE Ier : Le service universel postal<a id=52></a>
 
-#### CHAPITRE Ier : Le traitement des réclamations des usagers par le prestataire du service universel postal<a id=62></a>
+#### CHAPITRE Ier : Le traitement des réclamations des usagers par le prestataire du service universel postal<a id=53></a>
 
 ###### Article R1
 
@@ -9261,9 +8093,9 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L3 al.1 et L7
 
 
-#### CHAPITRE II : Le Médiateur du service universel postal<a id=63></a>
+#### CHAPITRE II : Le Médiateur du service universel postal<a id=54></a>
 
-##### SECTION 1 : Modalités de désignation, compétences et moyens du Médiateur<a id=64></a>
+##### SECTION 1 : Modalités de désignation, compétences et moyens du Médiateur<a id=55></a>
 
 ###### Article R1-1
 
@@ -9439,7 +8271,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### SECTION 2 : Les procédures suivies par le Médiateur<a id=65></a>
+##### SECTION 2 : Les procédures suivies par le Médiateur<a id=56></a>
 
 ###### Article R1-8
 
@@ -9644,11 +8476,11 @@ _Cite_:
   - Code des postes et des communications électronique - art. R1-9 (Ab)
 
 
-## LIVRE II : Les communications électroniques<a id=66></a>
+## LIVRE II : Les communications électroniques<a id=57></a>
 
-### TITRE Ier : Dispositions générales<a id=67></a>
+### TITRE Ier : Dispositions générales<a id=58></a>
 
-#### Chapitre Ier : Définitions et principes.<a id=68></a>
+#### Chapitre Ier : Définitions et principes.<a id=59></a>
 
 ###### Article R*9
 
@@ -9726,9 +8558,9 @@ _Cite_:
   - Code des postes et des communications électroniques - art. R20-44-1
 
 
-#### Chapitre II : Régime juridique.<a id=69></a>
+#### Chapitre II : Régime juridique.<a id=60></a>
 
-##### Section 2 : Annuaires et services de renseignements.<a id=70></a>
+##### Section 2 : Annuaires et services de renseignements.<a id=61></a>
 
 ###### Article R10
 
@@ -10191,7 +9023,7 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L78
 
 
-##### Section 4 : Interconnexion et accès aux réseaux.<a id=71></a>
+##### Section 4 : Interconnexion et accès aux réseaux.<a id=62></a>
 
 ###### Article R11-1
 
@@ -10398,9 +9230,9 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R1-2-13 (M)
 
 
-##### Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques.<a id=72></a>
+##### Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques.<a id=63></a>
 
-##### Paragraphe I : Dispositions générales.<a id=73></a>
+##### Paragraphe I : Dispositions générales.<a id=64></a>
 
 ###### Article R20-1
 
@@ -10526,7 +9358,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R20-28 (M)
 
 
-##### Paragraphe II : Evaluation de la conformité des équipements.<a id=74></a>
+##### Paragraphe II : Evaluation de la conformité des équipements.<a id=65></a>
 
 ###### Article R20-4
 
@@ -10913,7 +9745,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Paragraphe III : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de conformité.<a id=75></a>
+##### Paragraphe III : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de conformité.<a id=66></a>
 
 ###### Article R20-14
 
@@ -10996,7 +9828,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Paragraphe IV : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats.<a id=76></a>
+##### Paragraphe IV : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats.<a id=67></a>
 
 ###### Article R20-17
 
@@ -11047,7 +9879,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. R20-4 (M)
 
 
-##### Paragraphe V : Conditions de mise en service, de raccordement et d'utilisation des équipements.<a id=77></a>
+##### Paragraphe V : Conditions de mise en service, de raccordement et d'utilisation des équipements.<a id=68></a>
 
 ###### Article R20-19
 
@@ -11269,7 +10101,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Paragraphe VI : Dispositions pénales.<a id=78></a>
+##### Paragraphe VI : Dispositions pénales.<a id=69></a>
 
 ###### Article R20-25
 
@@ -11377,7 +10209,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R20-30-1 (M)
 
 
-##### Paragraphe VII : Equipements utilisés dans certaines activités de l'Etat.<a id=79></a>
+##### Paragraphe VII : Equipements utilisés dans certaines activités de l'Etat.<a id=70></a>
 
 ###### Article R20-28
 
@@ -11407,9 +10239,9 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R20-30-1 (M)
 
 
-#### Chapitre III : Les obligations de service public.<a id=80></a>
+#### Chapitre III : Les obligations de service public.<a id=71></a>
 
-##### Section 1 : Le service universel et les modalités de désignation des opérateurs chargés du service universel.<a id=81></a>
+##### Section 1 : Le service universel et les modalités de désignation des opérateurs chargés du service universel.<a id=72></a>
 
 ###### Article R20-30
 
@@ -11835,7 +10667,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Section 2 : Financement du service universel des communications électroniques.<a id=82></a>
+##### Section 2 : Financement du service universel des communications électroniques.<a id=73></a>
 
 ###### Article R*20-41
 
@@ -12492,7 +11324,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-#### Chapitre V : Dispositions pénales.<a id=83></a>
+#### Chapitre V : Dispositions pénales.<a id=74></a>
 
 ###### Article R20-44-1
 
@@ -12628,11 +11460,11 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R20-44-1 (V)
 
 
-### TITRE II : Ressources et police<a id=84></a>
+### TITRE II : Ressources et police<a id=75></a>
 
-#### Chapitre Ier : Fréquences radioélectriques.<a id=85></a>
+#### Chapitre Ier : Fréquences radioélectriques.<a id=76></a>
 
-##### Section 1 : Dispositions générales.<a id=86></a>
+##### Section 1 : Dispositions générales.<a id=77></a>
 
 ###### Article R20-44-5
 
@@ -12730,7 +11562,7 @@ _Anciens textes_:
   - Code des postes et des communications électroniques R52-1
 
 
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=87></a>
+##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=78></a>
 
 ###### Article R20-44-9
 
@@ -12767,9 +11599,9 @@ _Cite_:
   - Code des postes et des communications électronique - art. L42-2 (M)
 
 
-##### Section 3 : Agence nationale des fréquences.<a id=88></a>
+##### Section 3 : Agence nationale des fréquences.<a id=79></a>
 
-##### Paragraphe Ier : Dispositions générales et missions<a id=89></a>
+##### Paragraphe Ier : Dispositions générales et missions<a id=80></a>
 
 ###### Article R20-44-10
 
@@ -12947,7 +11779,7 @@ _Anciens textes_:
   - Code des postes et des communications électroniques R52-2-1
 
 
-##### Paragraphe II : Organisation et fonctionnement<a id=90></a>
+##### Paragraphe II : Organisation et fonctionnement<a id=81></a>
 
 ###### Article R20-44-12
 
@@ -13272,7 +12104,7 @@ _Anciens textes_:
   - Code des postes et des communications électroniques R52-2-9
 
 
-##### Paragraphe III : Dispositions financières<a id=91></a>
+##### Paragraphe III : Dispositions financières<a id=82></a>
 
 ###### Article R20-44-20
 
@@ -13434,7 +12266,7 @@ _Anciens textes_:
   - Code des postes et des communications électroniques R52-2-14
 
 
-##### Paragraphe IV : Dispositions particulières<a id=92></a>
+##### Paragraphe IV : Dispositions particulières<a id=83></a>
 
 ###### Article R20-44-25
 
@@ -13551,7 +12383,7 @@ _Anciens textes_:
   - Code des postes et des communications électroniques R52-2-16
 
 
-#### Chapitre II : Numérotation et adressage.<a id=93></a>
+#### Chapitre II : Numérotation et adressage.<a id=84></a>
 
 ###### Article R20-44-27
 
@@ -13766,9 +12598,9 @@ _Cite_:
   - Code des postes et des communications électronique - art. L44 (M)
 
 
-#### Chapitre III : Droits de passage sur le domaine public routier et servitudes.<a id=94></a>
+#### Chapitre III : Droits de passage sur le domaine public routier et servitudes.<a id=85></a>
 
-##### Section 2 : Servitudes.<a id=95></a>
+##### Section 2 : Servitudes.<a id=86></a>
 
 ###### Article R*20-60
 
@@ -13970,7 +12802,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. R20-58 (M)
 
 
-##### Section 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.<a id=96></a>
+##### Section 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.<a id=87></a>
 
 ###### Article R*21
 
@@ -14203,7 +13035,7 @@ _Cite_:
   - Code des postes et des communications électroniques R25
 
 
-##### Section 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.<a id=97></a>
+##### Section 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.<a id=88></a>
 
 ###### Article R*28
 
@@ -14581,7 +13413,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R*33 (V)
 
 
-##### Section 5 : Dispositions pénales.<a id=98></a>
+##### Section 5 : Dispositions pénales.<a id=89></a>
 
 ###### Article R*42
 
@@ -14665,7 +13497,7 @@ _Cite_:
   - Loi n°1906-06-15 art. 24
 
 
-#### Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.<a id=99></a>
+#### Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.<a id=90></a>
 
 ###### Article R42-1
 
@@ -14694,11 +13526,11 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-#### Chapitre V : Protection des câbles sous-marins.<a id=100></a>
+#### Chapitre V : Protection des câbles sous-marins.<a id=91></a>
 
-##### Section 2 : Dispositions pénales.<a id=101></a>
+##### Section 2 : Dispositions pénales.<a id=92></a>
 
-##### Paragraphe I : Dispositions applicables aux eaux non territoriales.<a id=102></a>
+##### Paragraphe I : Dispositions applicables aux eaux non territoriales.<a id=93></a>
 
 ###### Article R45
 
@@ -14853,7 +13685,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Paragraphe II : Dispositions spéciales aux eaux territoriales.<a id=103></a>
+##### Paragraphe II : Dispositions spéciales aux eaux territoriales.<a id=94></a>
 
 ###### Article R50
 
@@ -14942,67 +13774,13 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R51 (V)
 
 
-## LIVRE III : Les services financiers<a id=104></a>
+# Partie réglementaire - Décrets simples<a id=95></a>
 
-### TITRE Ier : Chèques postaux (en vigueur jusqu'au 31 décembre 2005).<a id=105></a>
+## LIVRE Ier : Le service postal<a id=96></a>
 
-###### Article R52-10
+### TITRE Ier : Dispositions générales<a id=97></a>
 
-Les dispositions réglementaires fixant les conditions d'application du décret du 30 octobre 1935 modifié et relatives à la
-mise en oeuvre de l'interdiction d'émettre des chèques sont applicables aux centres de chèques postaux.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°1935-10-30
-
-_Modifié par_:
-
-  - Décret n°92-456 du 22 mai 1992 - art. 44 () JORF 23 mai 1992
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R52-11
-
-Les actes relatifs aux cessions, aux saisies conservatoires et aux saisies-attribution pratiquées à l'encontre des titulaires
-de comptes courants postaux sont notifiés au centre de chèques postaux où sont tenus les comptes faisant l'objet de ces
-actes.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°93-977 du 31 juillet 1993 - art. 12 () JORF 5 août 1993
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cité par_:
-
-  - Code de la sécurité sociale. - art. R652-2 (T)
-  - Code rural et de la pêche maritime - art. R725-12 (M)
-
-
-# Partie réglementaire - Décrets simples<a id=106></a>
-
-## LIVRE Ier : Le service postal<a id=107></a>
-
-### TITRE Ier : Dispositions générales<a id=108></a>
-
-#### Chapitre Ier : Le monopole postal.<a id=109></a>
+#### Chapitre Ier : Le monopole postal.<a id=98></a>
 
 ###### Article D1
 
@@ -15055,7 +13833,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R613-25 (VD)
 
 
-#### Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances.<a id=110></a>
+#### Chapitre II : Dérogations à l'inviolabilité et au secret des correspondances.<a id=99></a>
 
 ###### Article D3
 
@@ -15082,7 +13860,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
-#### Chapitre III : Création des bureaux de poste.<a id=111></a>
+#### Chapitre III : Création des bureaux de poste.<a id=100></a>
 
 ###### Article D4
 
@@ -15128,9 +13906,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
-#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=112></a>
+#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=101></a>
 
-##### Section 1 : Généralités.<a id=113></a>
+##### Section 1 : Généralités.<a id=102></a>
 
 ###### Article D6
 
@@ -15209,7 +13987,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 2 : Lettres missives, cartes postales et paquets-poste.<a id=114></a>
+##### Section 2 : Lettres missives, cartes postales et paquets-poste.<a id=103></a>
 
 ###### Article D9
 
@@ -15316,7 +14094,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 3 : Imprimés et échantillons.<a id=115></a>
+##### Section 3 : Imprimés et échantillons.<a id=104></a>
 
 ###### Article D13
 
@@ -15463,7 +14241,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 4 : Journaux et écrits périodiques.<a id=116></a>
+##### Section 4 : Journaux et écrits périodiques.<a id=105></a>
 
 ###### Article D18
 
@@ -15993,7 +14771,7 @@ _Modifié par_:
   - Décret n°68-1073 1968-11-22 art. 1 JORF 30 novembre 1968
 
 
-##### Section 5 : Magazines sonores.<a id=117></a>
+##### Section 5 : Magazines sonores.<a id=106></a>
 
 ###### Article D29
 
@@ -16099,7 +14877,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-##### Section 6 : Dispositions particulières.<a id=118></a>
+##### Section 6 : Dispositions particulières.<a id=107></a>
 
 ###### Article D32
 
@@ -16142,7 +14920,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
-#### Chapitre V : Conditions d'admission des objets de correspondance dans le régime international.<a id=119></a>
+#### Chapitre V : Conditions d'admission des objets de correspondance dans le régime international.<a id=108></a>
 
 ###### Article D34
 
@@ -16213,9 +14991,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
-### TITRE II : Affranchissement, recommandation et chargement<a id=120></a>
+### TITRE II : Affranchissement, recommandation et chargement<a id=109></a>
 
-#### Chapitre Ier : Affranchissement.<a id=121></a>
+#### Chapitre Ier : Affranchissement.<a id=110></a>
 
 ###### Article D38
 
@@ -16396,7 +15174,7 @@ _Cite_:
   - Code des postes et des communications électroniques
 
 
-#### Chapitre II : Recommandation et chargement.<a id=122></a>
+#### Chapitre II : Recommandation et chargement.<a id=111></a>
 
 ###### Article D47
 
@@ -16704,7 +15482,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 
-### TITRE IV : Franchise postale<a id=123></a>
+### TITRE IV : Franchise postale<a id=112></a>
 
 ###### Article D73
 
@@ -16818,7 +15596,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
-### TITRE V : Colis postaux.<a id=124></a>
+### TITRE V : Colis postaux.<a id=113></a>
 
 ###### Article D81
 
@@ -17089,9 +15867,9 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
-### TITRE VI : Distribution postale<a id=125></a>
+### TITRE VI : Distribution postale<a id=114></a>
 
-#### Chapitre Ier : Distribution à domicile.<a id=126></a>
+#### Chapitre Ier : Distribution à domicile.<a id=115></a>
 
 ###### Article D90
 
@@ -17173,7 +15951,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 11
 
 
-#### Chapitre II : Distribution au guichet.<a id=127></a>
+#### Chapitre II : Distribution au guichet.<a id=116></a>
 
 ###### Article D93
 
@@ -17200,7 +15978,7 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 11
 
 
-### TITRE VII : Poste maritime.<a id=128></a>
+### TITRE VII : Poste maritime.<a id=117></a>
 
 ###### Article D94-1
 
@@ -17394,15 +16172,15 @@ _Abrogé par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
-## LIVRE II : Les communications électroniques<a id=129></a>
+## LIVRE II : Les communications électroniques<a id=118></a>
 
-### TITRE Ier : Dispositions générales<a id=130></a>
+### TITRE Ier : Dispositions générales<a id=119></a>
 
-#### Chapitre II : Régime juridique<a id=131></a>
+#### Chapitre II : Régime juridique<a id=120></a>
 
-##### Section 1 : Réseaux et services<a id=132></a>
+##### Section 1 : Réseaux et services<a id=121></a>
 
-##### Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public.<a id=133></a>
+##### Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public.<a id=122></a>
 
 ###### Article D98
 
@@ -17492,7 +16270,7 @@ _Modifié par_:
   - Décret n°2005-862 du 26 juillet 2005 - art. 1 () JORF 29 juillet 2005
 
 
-##### Paragraphe 2 : Obligations des opérateurs.<a id=134></a>
+##### Paragraphe 2 : Obligations des opérateurs.<a id=123></a>
 
 ###### Article D98-3
 
@@ -18136,7 +16914,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D98-3 (V)
 
 
-##### Paragraphe 3 : Conditions d'exploitation des réseaux indépendants.<a id=135></a>
+##### Paragraphe 3 : Conditions d'exploitation des réseaux indépendants.<a id=124></a>
 
 ###### Article D99
 
@@ -18219,9 +16997,9 @@ _Modifié par_:
   - Décret n°2005-862 du 26 juillet 2005 - art. 1 () JORF 29 juillet 2005
 
 
-##### Section 2 : Commission consultative des radiocommunications et commission consultative des réseaux et services de communications électroniques<a id=136></a>
+##### Section 2 : Commission consultative des radiocommunications et commission consultative des réseaux et services de communications électroniques<a id=125></a>
 
-##### Paragraphe 1 : Commission consultative des radiocommunications.<a id=137></a>
+##### Paragraphe 1 : Commission consultative des radiocommunications.<a id=126></a>
 
 ###### Article D99-4
 
@@ -18300,7 +17078,7 @@ _Cite_:
   - Code des postes et des communications électroniques L33-1, L33-2, L33-3, L34-8, L44, L42, L42-1 à L42-3
 
 
-##### Paragraphe 2 : Commission consultative des réseaux et services de communications électroniques.<a id=138></a>
+##### Paragraphe 2 : Commission consultative des réseaux et services de communications électroniques.<a id=127></a>
 
 ###### Article D99-5
 
@@ -18367,7 +17145,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L44 (M)
 
 
-##### Paragraphe 3 : Organisation et fonctionnement des commissions consultatives.<a id=139></a>
+##### Paragraphe 3 : Organisation et fonctionnement des commissions consultatives.<a id=128></a>
 
 ###### Article D99-5-1
 
@@ -18428,7 +17206,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. D99-5
 
 
-##### section 3 : Interconnexion et accès<a id=140></a>
+##### section 3 : Interconnexion et accès<a id=129></a>
 
 ###### Article D99-6
 
@@ -18695,9 +17473,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L37-3 (V)
 
 
-#### Chapitre IV : La régulation des communications électroniques.<a id=141></a>
+#### Chapitre IV : La régulation des communications électroniques.<a id=130></a>
 
-##### Section 1 : Autorité de régulation des communications électroniques et des postes<a id=142></a>
+##### Section 1 : Autorité de régulation des communications électroniques et des postes<a id=131></a>
 
 ###### Article D288
 
@@ -18894,7 +17672,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D97-11 (T)
 
 
-##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=143></a>
+##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=132></a>
 
 ###### Article D301
 
@@ -19605,7 +18383,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L38-1 (V)
 
 
-##### Section 3 : Liaisons louées.<a id=144></a>
+##### Section 3 : Liaisons louées.<a id=133></a>
 
 ###### Article D369
 
@@ -19835,7 +18613,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L38-1 (M)
 
 
-#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=145></a>
+#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=134></a>
 
 ###### Article D406-1
 
@@ -20199,11 +18977,11 @@ _Abrogé par_:
   - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 
-### TITRE II : Ressources et police<a id=146></a>
+### TITRE II : Ressources et police<a id=135></a>
 
-#### Chapitre Ier : Fréquences radioélectriques.<a id=147></a>
+#### Chapitre Ier : Fréquences radioélectriques.<a id=136></a>
 
-##### Section 1 : Dispositions générales<a id=148></a>
+##### Section 1 : Dispositions générales<a id=137></a>
 
 ###### Article D406-5
 
@@ -20467,7 +19245,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D487 (M)
 
 
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=149></a>
+##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=138></a>
 
 ###### Article D406-14
 
@@ -20598,9 +19376,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L42-1 (V)
 
 
-#### CHAPITRE III : Etablissement de lignes<a id=150></a>
+#### CHAPITRE III : Etablissement de lignes<a id=139></a>
 
-##### Section 1 : Dispositions générales.<a id=151></a>
+##### Section 1 : Dispositions générales.<a id=140></a>
 
 ###### Article D407-1
 
@@ -20674,2032 +19452,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
-## LIVRE III : Les services financiers<a id=152></a>
+## LIVRE IV : Dispositions communes et finales<a id=141></a>
 
-### TITRE Ier : Chèques postaux.<a id=153></a>
-
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=154></a>
-
-###### Article D488
-
-La gestion du service des chèques postaux est confiée à l'administration des postes et communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L168 al. 2
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D489
-
-La tenue des comptes courants postaux est assurée par des centres régionaux.
-
-Ces centres de chèques postaux sont ouverts dans les villes désignées ci-après : Ajaccio, Bordeaux, Châlons-sur-Marne,
-Clermont-Ferrand, Dijon, Grenoble, Lille, Limoges, Lyon, Marseille, Montpellier, Nancy, Nantes, Orléans, Paris, Rennes,
-Rouen, Strasbourg et Toulouse, Pointe-à-Pitre (Guadeloupe), Cayenne (Guyane), Fort-de-France  (Martinique), Saint-Denis
-(Réunion).
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L169
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Modifié par_:
-
-  - Décret n°70-1295 1970-12-23 art. 12 JORF 31 décembre 1970
-  - Décret n°77-110 1977-01-28 art. 1 JORF 6 février 1977
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D490
-
-Une même personne peut demander l'ouverture de plusieurs comptes courants dans un même centre de chèques ou dans des centres
-différents [*cumul*]. Une demande distincte doit être établie pour chacun des comptes à ouvrir.
-
-Les personnes et les collectivités admises à se faire ouvrir des comptes courants postaux peuvent être tenues d'effectuer un
-dépôt de garantie dont le montant est fixé par décret.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L170 al. 3
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D491
-
-Les demandes d'ouverture de comptes courants postaux sont remises au chef d'établissement, receveur-distributeur ou gérant du
-bureau de poste qui dessert le domicile du demandeur. Elles peuvent également être déposées, pour être transmises à ce
-bureau, dans un établissement postal quelconque ou remises au préposé, en cours de tournée, dans les cas et conditions prévus
-par les règlements en vigueur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Modifié par_:
-
-  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D491-1
-
-Les titulaires de comptes courants postaux peuvent accréditer auprès des centres de chèques postaux détenteurs de leurs
-comptes une ou plusieurs personnes. Les procurations données à cet effet sont établies sur papier libre ; elles peuvent être
-générales ou limitées à une ou certaines opérations. Les spécimens de signature du titulaire ou de ses mandataires sont
-également recueillis sur papier libre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D492
-
-L'administration des postes et communications électroniques est autorisée à publier une liste des titulaires de comptes
-courants postaux. Cette liste est livrée au public aux conditions fixées par arrêté du ministre des postes et des
-communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D493
-
-Aucune limite n'est fixée pour l'actif des comptes courants postaux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D494
-
-Sont portés au crédit des comptes courants postaux :
-
-1° Le montant des mandats de versement émis à la demande soit des titulaires pour alimenter leur propre compte, soit de
-tiers ;
-
-2° Le montant des mandats postaux et télégraphiques de toutes catégories adressés ou remis par le bénéficiaire ou à sa
-demande au centre de chèques postaux teneur de son compte ;
-
-3° Les virements ordonnés par d'autres titulaires de comptes courants postaux ;
-
-4° Le montant des chèques bancaires et des effets de commerce encaissés dans les conditions prévues à l'article D. 499 ;
-
-5° Le montant des opérations effectuées au moyen de cartes de paiement, dans la limite, éventuellement, de la garantie prévue
-à l'article L. 107-1.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L107-1 et D499
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L171
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Cité par_:
-
-  - Décret n°64-345 du 18 avril 1964 - art. 6 (V)
-
-_Modifié par_:
-
-  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
-  - Décret n°84-288 1984-04-17 art. 1 JORF 19 avril 1984
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D496
-
-Les virements postaux entre la France et les pays adhérents à l'arrangement de l'Union postale universelle concernant les
-virements postaux sont effectués dans les conditions déterminées par cet arrangement et son règlement, sous réserve de
-l'application des régimes particuliers.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrangement 1974-07-05, signé à Lausanne
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D497
-
-Dans le régime intérieur français, tous les bureaux de poste de plein exercice, les établissements de receveur-distributeur
-et les autres établissements secondaires participent, dans les conditions et dans les limites fixées par les règlements en
-vigueur :
-
-A l'émission des mandats de versement aux comptes courants postaux ;
-
-Au paiement des mandats émis par les centres de chèques postaux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Modifié par_:
-
-  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D499
-
-Les chèques bancaires et effets de commerce peuvent être remis à l'encaissement au centre de chèques postaux qui tient le
-compte à créditer. Toutefois, les banques ainsi que les établissements de crédit à statut légal spécial ne sont pas autorisés
-à utiliser ce mode d'encaissement.
-
-Lorsque les chèques bancaires et effets de commerce visés à l'alinéa précédent donnent lieu à l'établissement d'un protêt, le
-montant des frais de protêt est prélevé sur l'avoir disponible au compte courant postal au profit duquel aurait dû être
-effectué l'encaissement. Si, faute d'avoir suffisant, ce prélèvement n'est pas possible ou s'il ne peut être effectué que
-partiellement, le recouvrement des sommes dues ou restant dues est poursuivi dans les formes et conditions prévues aux
-articles 85, 86, 87 et 89 du décret n° 62-1587 du 29 décembre 1962.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Cite_:
-
-  - Décret n°62-1587 du 29 décembre 1962 - art. 85 (M)
-  - Décret n°62-1587 du 29 décembre 1962 - art. 86 (M)
-  - Décret n°62-1587 du 29 décembre 1962 - art. 87 (M)
-  - Décret n°62-1587 du 29 décembre 1962 - art. 89 (M)
-
-_Modifié par_:
-
-  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
-  - Décret n°70-1295 1970-12-23 art. 13 JORF 31 décembre 1970
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D500
-
-Sont portés au débit des comptes :
-
-1° Le montant des chèques postaux tirés sur ces comptes par les titulaires ou leurs représentants autorisés ;
-
-2° Le montant des ordres de débit régulièrement établis ;
-
-3° Le montant des taxes relatives à l'exécution des opérations ou au fonctionnement des comptes ;
-
-4° Le montant des opérations régulièrement effectuées au moyen des cartes de paiement délivrées par l'administration des
-postes et communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D501
-
-L'administration des postes et communications électroniques fournit aux titulaires de comptes courants postaux des formules
-de chèques comportant, notamment, imprimés par les soins du centre de chèques postaux, le nom et le numéro sous lesquels le
-compte est ouvert. Ces formules permettent aux titulaires de procéder à l'émission de chèques payables :
-
-Soit en numéraire, à eux-mêmes (chèque de retrait), à une tierce personne dénommée (chèque d'assignation) ou au porteur ;
-
-Soit par inscription à un compte courant postal. Le titre, qui peut être barré ou non barré, doit comporter le numéro du
-compte courant postal du bénéficiaire. Il est dénommé "chèque de virement" ;
-
-Soit par inscription à un compte bancaire. Dans ce cas, le chèque reçoit un barrement spécial dans les conditions prévues à
-l'article L. 105.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-_Cite_:
-
-  - Code des postes et des communications électronique - art. L105 (Ab)
-
-
-###### Article D501-1
-
-Les titulaires de comptes courants postaux peuvent, sous réserve de son agrément, obtenir de l'administration des postes et
-communications électroniques la délivrance de cartes de paiement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D502
-
-Le titulaire de compte courant postal peut, au moyen d'un seul chèque, assigner des paiements ou des virements au profit d'un
-ou de plusieurs bénéficiaires qu'il désigne. Dans ce cas, il est joint au chèque dénommé "chèque multiple" un mandat ou une
-fiche de virement par bénéficiaire et un bordereau récapitulatif.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D503
-
-L'administration des postes et communications électroniques peut autoriser, lorsqu'elle le juge opportun, comme il est prévu
-à l'article L. 100, alinéa 2, les tireurs de chèques postaux à ne faire figurer sur les titres que la somme en lettres ou la
-somme en chiffres lorsque l'inscription de cette somme a lieu par un procédé mécanique offrant des garanties de sécurité
-jugées suffisantes.
-
-Les chèques multiples, en cas de différence entre la somme en lettres et la somme en chiffres, sont acceptés pour la somme en
-chiffres lorsque celle-ci est conforme au total dûment vérifié du bordereau correspondant.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-_Cite_:
-
-  - Code des postes et des communications électroniques L100 al. 2
-
-
-###### Article D504
-
-Le chèque au porteur est payable à vue au guichet des établissements spécialement désignés à cet effet. Le paiement est
-effectué sans acquit et sans justification d'identité.
-
-Tout chèque au porteur peut être, avant paiement, transformé soit en chèque d'assignation par l'inscription sur le titre du
-nom et de l'adresse du bénéficiaire, soit en chèque de virement par l'indication sur le titre du nom et du numéro du compte
-courant postal du bénéficiaire.
-
-Les chèques barrés au porteur sont payables dans les mêmes conditions que les chèques postaux barrés portant désignation du
-bénéficiaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Modifié par_:
-
-  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D505
-
-Lorsque les mentions figurant sur le chèque postal sont incomplètes ou illisibles ou encore lorsque le chèque contient des
-ratures, surcharges, grattages ou lavages, l'administration des postes et communications électroniques est en droit de
-retarder ou de ne pas exécuter l'opération.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D506
-
-Lorsque le chèque postal est présenté au paiement par son bénéficiaire, un paiement partiel jusqu'à concurrence de l'avoir
-disponible peut avoir lieu dans les conditions prévues à l'article L. 101. Quand le bénéficiaire a demandé la délivrance d'un
-certificat de non-paiement, le centre en dresse un pour le surplus.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L101
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Modifié par_:
-
-  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
-  - Décret n°72-121 1972-02-14 art. 1 JORF 16 février 1972
-  - Décret n°81-256 1981-03-13 art. 3 JORF 20 mars 1981
-  - Décret n°84-288 1984-04-17 art. 4 JORF 19 avril 1984
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D506-1
-
-Sauf dans les cas prévus par les lois et règlements en vigueur, une opération ne peut être inscrite au débit d'un compte
-courant postal pour un montant supérieur à l'avoir disponible au compte, après déduction des taxes éventuellement
-applicables.
-
-L'opération exécutée au-delà de l'avoir disponible peut donner lieu à perception de frais [*agios*] proportionnels au montant
-et à la durée de l'insuffisance de provision constatée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°84-288 1984-04-17 art. 3 JORF 19 avril 1984
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D507
-
-A l'exclusion des chèques postaux barrés présentés en chambres de compensation des banquiers, les chèques postaux doivent
-être adressés sous pli fermé ou remis directement aux centres de chèques postaux intéressés.
-
-Sous réserve qu'ils ne soient pas barrés et qu'ils ne comportent pas l'indication du numéro du compte courant postal du
-bénéficiaire, les chèques postaux peuvent être payés aux guichets spéciaux de paiements à vue.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°96-199 du 13 mars 1996 - art. 1 () JORF 15 mars 1996 en vigueur le 31 mars 1996
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D508
-
-Sur demande écrite du titulaire d'un compte courant postal, sont exécutés, par débit de ce compte :
-
-- les ordres de virement, donnés une fois pour toutes, à inscrire au crédit d'un ou plusieurs autres comptes désignés ;
-
-- les ordres de prélèvement émis par les organismes autorisés à cet effet par l'administration des postes et communications
-électroniques ;
-
-- les ordres de paiement de chèques bancaires et effets de commerce domiciliés dans le centre de chèques postaux teneur du
-compte.
-
-Ces opérations sont effectuées selon les modalités prévues par les règlements en vigueur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D512
-
-Le délai de validité du chèque postal est fixé à un an. Ce délai est décompté de quantième en quantième ; il court de la date
-d'émission jusqu'à la date à laquelle le chèque parvient au centre de chèques teneur du compte à débiter, ou est présenté au
-paiement, au guichet d'un bureau de poste. Lorsque le chèque postal est émis dans un pays où est en usage un calendrier autre
-que le calendrier grégorien, le jour de l'émission est ramené au jour correspondant au calendrier grégorien.
-
-Au regard de l'administration des postes et communications électroniques, le chèque postal périmé est nul et de nul effet ;
-il est renvoyé ou rendu au tireur ou à la personne qui l'a transmis ou présenté au paiement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D513
-
-A l'issue de chaque journée au cours de laquelle des inscriptions ont été faites au crédit ou au débit d'un compte courant
-postal, le centre de chèques postaux adresse au titulaire un relevé des diverses inscriptions effectuées. Ce relevé,
-accompagné de pièces justificatives, fait apparaître le nouveau solde du compte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D514
-
-Le titulaire d'un compte peut être informé par des avis périodiques de l'avoir existant à son compte. Il a également la
-faculté de se faire notifier l'avoir de son compte à une date déterminée ou d'obtenir la copie de son compte pour une période
-déterminée. Ces communications supplémentaires donnent lieu à redevance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D515
-
-Le titulaire d'un compte courant peut demander le transfert d'un centre de chèques à un autre centre de chèques du compte
-courant ouvert à son nom. La demande de transfert doit être formulée par écrit, datée et signée, adressée au centre de
-chèques détenteur du compte courant.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D516
-
-Le titulaire d'un compte peut demander à toute époque la clôture de ce compte.
-
-La demande doit faire l'objet d'une déclaration écrite, datée et signée, adressée au centre de chèques détenteur du compte
-courant.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D517
-
-Tout versement effectué sur un compte, postérieurement à la clôture de ce compte, est remboursé d'office à la partie
-versante.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D518
-
-Lorsque le compte en instance de clôture a été apuré, le montant net de l'avoir restant en compte est remboursé à l'ayant
-droit par chèque postal. L'administration des postes et communications électroniques peut exiger que les formules de chèques
-restées sans emploi entre les mains de l'intéressé ainsi que les cartes de paiement délivrées au titre du compte lui soient
-restituées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D519
-
-Lorsque le solde d'un compte clôturé est égal ou inférieur à la taxe éventuellement applicable au chèque postal de
-remboursement, ce solde est acquis au budget annexe des postes et communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D520
-
-Trois mois avant l'échéance du délai légal de prescription fixé par l'article L. 109, alinéa 1er, l'administration des postes
-et communications électroniques avise, par lettre recommandée, les titulaires de comptes ou leurs ayants droit, de la
-déchéance dont ils sont menacés. Cet avis est adressé au dernier domicile connu, d'après les pièces qui se trouvent en la
-possession du centre de chèques postaux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-_Cite_:
-
-  - Code des postes et des communications électroniques L109 al. 1
-
-
-### TITRE II : Mandats.<a id=155></a>
-
-###### Article D535
-
-A moins qu'ils ne soient payés par inscription au crédit d'un compte courant postal, les mandats-lettres sont, sauf les
-exceptions prévues par les règlements, payables au guichet des bureaux de poste.
-
-Sous les mêmes réserves et si leur montant ne dépasse pas la somme fixée en exécution de l'article D. 524 sont payables à
-domicile :
-
-1° Les mandats-cartes postaux ;
-
-2° Les mandats télégraphiques dont le paiement à domicile a été expressément demandé par l'expéditeur ou le bénéficiaire.
-
-Peuvent également être payés à domicile les mandats-lettres répondant à la condition de montant susvisée dont le paiement a
-été retardé par suite d'une faute de service.
-
-Le nombre de présentations successives à domicile est au maximum de deux.
-
-L'administration est autorisée à différer le paiement à domicile d'un certain nombre de mandats lorsque leur montant total
-dépasse, pour une même tournée, un maximum fixé par arrêté du ministre des postes et des communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R11
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-_Cite_:
-
-  - Code des postes et des communications électronique - art. D524 (M)
-
-
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=156></a>
-
-###### Article D523
-
-Les conditions dans lesquelles les différentes catégories de bureaux de poste concourent à l'exécution du service des mandats
-postaux et télégraphiques sont fixées par arrêté du ministre des postes et des communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L180
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D524
-
-Le montant au-delà duquel l'administration se réserve la possibilité de faire effectuer le paiement des mandats-cartes au
-guichet des bureaux de poste est fixé par arrêté du ministre des postes et des communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L181
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D535 (Ab)
-
-
-###### Article D525
-
-Outre les taxes et droits de commission de nature postale, il peut être perçu, dans les conditions fixées par les textes
-applicables en la matière, une taxe de change sur les mandats échangés entre la métropole, d'une part, les départements
-d'outre-mer, les autres territoires ou pays d'outre-mer, d'autre part.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L183
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D526
-
-L'expéditeur d'un mandat peut demander qu'il lui soit donné avis du paiement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L184
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D527
-
-Est interdit le fractionnement du montant des mandats adressés par un même expéditeur au même bénéficiaire lorsque ce
-fractionnement est fait intentionnellement en vue de bénéficier d'une réduction ou d'une exemption de taxe.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L186
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D528
-
-Les mandats sont nominatifs. Par exception, dans la limite du montant maximum fixé par arrêté du ministre des postes et des
-communications électroniques, les mandats-lettres peuvent être au porteur sans autre indication que celle de la somme à
-payer.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L187
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D529
-
-Les mandats sont payables à vue dans les conditions prévues par les règlements, pendant un délai qui peut varier avec leur
-origine, leur destination, la qualité de l'expéditeur ou du destinataire et qui est fixé par arrêté du ministre des postes et
-des communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L188
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D530
-
-Toute somme destinée à être transformée en mandat donne lieu à la délivrance d'un reçu entre les mains de la partie versante.
-
-Aucun reçu n'est toutefois établi lorsque le mandat résulte de la transformation d'un autre mandat ou d'un chèque postal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R6
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D531
-
-Les maximums applicables au montant des mandats postaux ou télégraphiques sont fixés par arrêté du ministre des postes et des
-communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R7
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D532
-
-L'expéditeur d'un mandat au porteur visé à l'article D. 528 a la faculté de rendre le titre nominatif en y portant lui-même
-la désignation du bénéficiaire.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D528
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R8
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Modifié par_:
-
-  - Décret n°81-256 1981-03-13 art. 3 JORF 20 mars 1981
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D533
-
-L'avis de paiement prévu à l'article D. 526 peut être demandé dans tous les cas au moment du dépôt de fonds.
-
-La demande peut également en être faite dans le délai de recevabilité des réclamations à partir de la date d'émission du
-mandat lorsqu'il s'agit soit d'un mandat-carte ou d'un mandat télégraphique, soit d'un mandat ordinaire ayant donné lieu à
-l'établissement d'un avis d'émission ou payable par un bureau de poste expressément désigné.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D526
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R9
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Modifié par_:
-
-  - Décret n°81-256 1981-03-13 art. 3 JORF 20 mars 1981
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D534
-
-Les mandats-cartes postaux et les mandats télégraphiques distribués et payés par exprès sont passibles du droit spécial
-applicable aux objets de correspondances postales ou aux télégrammes à distribuer par exprès.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R10
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D536
-
-Hormis le cas où l'expéditeur a expressément demandé qu'un mandat soit payable par un bureau désigné à l'exclusion de tout
-autre, les mandats peuvent être payés par un bureau de poste ou un centre de chèques postaux autre que celui qui figure sur
-le titre, dans les conditions prévues par les règlements.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R12
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D537
-
-Les réclamations pour non-paiement des mandats n'ayant pas fait l'objet d'une demande d'avis de paiement sont soumises à la
-taxe quelle que soit la qualité de la personne qui formule la réclamation. Cette taxe n'est pas due par le réclamant s'il est
-établi que le non-paiement provient d'une faute de service.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R13
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D538
-
-Les mandats dont le montant ne dépasse pas 0,76 euros adressés aux militaires et marins désignés à l'article D. 76 pour
-bénéficier de la franchise postale, ou expédiés par eux, sont exempts du droit de commission.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D76
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D539
-
-Les contributions directes et les taxes assimilées, y compris les taxes communales, l'impôt sur le chiffre d'affaires et les
-taxes assimilées et les contributions indirectes peuvent être acquittés par l'intermédiaire du service postal au moyen d'un
-mandat spécial appelé "mandat-contributions".
-
-Le reçu est libératoire, s'il est délivré en échange d'un mandat-contributions régulièrement établi.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D540
-
-Des envois de fonds peuvent être effectués, dans les relations entre la France métropolitaine et les départements d'outre-
-mer, d'une part, et les territoires d'outre-mer, d'autre part, au moyen de mandats par voie postale ou par voie
-télégraphique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. D544 (Ab)
-  - Code des postes et des communications électronique - art. D545 (Ab)
-
-
-###### Article D541
-
-Les envois de fonds visés à l'article D. 540 sont soumis, d'une manière générale, aux règles du régime intérieur français.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D540
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D542
-
-Les établissements postaux des différentes catégories concourent à l'exécution du service des mandats échangés dans les
-relations visées à l'article D. 540, selon leurs attributions et leur importance, dans les limites fixées par chaque
-administration.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D540
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D544
-
-Dans les relations visées à l'article D. 540, les maxima applicables au montant des mandats postaux ou télégraphiques sont
-fixés par arrêté du ministre des postes et des communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-_Cite_:
-
-  - Code des postes et des communications électronique - art. D540 (Ab)
-
-
-###### Article D545
-
-Dans les relations visées à l'article D. 540, le montant total des envois quotidiens qu'un même expéditeur est admis à
-adresser à un même bénéficiaire est en principe illimité.
-
-Toutefois, le nombre de ces envois peut être momentanément limité. La décision doit être prise sur proposition ou après avis
-du trésorier du territoire intéressé, soit par le ministre des postes et des communications électroniques au départ de la
-France métropolitaine et des départements d'outre-mer, soit par le chef du territoire au départ de celui-ci.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-_Cite_:
-
-  - Code des postes et des communications électronique - art. D540 (Ab)
-
-
-###### Article D546
-
-L'échange des mandats de poste entre, d'une part, la France métropolitaine et les départements d'outre-mer et, d'autre part,
-les pays adhérents à l'arrangement de l'Union postale universelle concernant les mandats de poste et les bons postaux de
-voyage, s'effectue dans les conditions déterminées par cet arrangement et son règlement, sous réserve de l'application des
-régimes particuliers.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrangement 1974-07-05, signé à Lausanne
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D547
-
-L'échange des mandats entre, d'une part, la France métropolitaine et les départements d'outre-mer et, d'autre part, les pays
-non adhérents à l'arrangement de l'Union postale universelle concernant les mandats de poste et les bons postaux de voyage,
-s'effectue dans les conditions fixées par des accords particuliers.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrangement 1974-07-05, signé à Lausanne
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D548
-
-Le service des bons postaux de voyage, dans les relations entre, d'une part, la France métropolitaine et les départements
-d'outre-mer et, d'autre part, les pays adhérents à l'arrangement de l'Union postale universelle concernant les mandats de
-poste et les bons postaux de voyage, est assuré dans les conditions déterminées par cet arrangement et son règlement, sous
-réserve de l'application des régimes particuliers.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrangement 1974-07-05, signé à Lausanne
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-### TITRE III : Valeurs à recouvrer et envois contre remboursement.<a id=157></a>
-
-#### (en vigueur jusqu'au 31 décembre 2005).<a id=158></a>
-
-###### Article D549
-
-Les établissements postaux des différentes catégories concourent à l'exécution du service des valeurs à recouvrer et des
-envois contre remboursement selon leurs attributions et leur importance dans les limites fixées par le ministre des postes et
-des communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R14
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D550
-
-Les conditions d'admission par le service postal des valeurs à recouvrer et des envois contre remboursement sont fixées par
-arrêté du ministre des postes et des communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R15
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D551
-
-Les valeurs confiées à la poste pour recouvrement ainsi que les sommes à percevoir sur le destinataire des envois postaux
-contre remboursement sont, en principe, recouvrables à domicile. Toutefois, l'administration des postes et communications
-électroniques peut en imposer le paiement aux guichets des bureaux de poste dans les conditions prévues par ses règlements,
-notamment lorsque les fonds à encaisser dépassent une somme déterminée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L197
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D552
-
-Les fonds recouvrés, déduction faite des droits et taxes perçus par le bureau chargé du recouvrement, sont transmis à
-l'expéditeur des valeurs ou objets, soit par inscription au crédit de son compte courant postal, soit par mandat, soit par
-tout autre moyen admis par l'administration des postes et communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L199
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D553
-
-Les valeurs à recouvrer et envois contre remboursement sont considérés comme refusés lorsque les intéressés ne consentent pas
-à acquitter la somme indiquée par l'expéditeur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R16
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D554
-
-Lorsque l'expéditeur refuse d'acquitter la taxe dont sont passibles les valeurs à recouvrer ou les envois contre
-remboursement qui lui sont renvoyés, le recouvrement de la taxe est poursuivi à l'expiration d'un délai de trois jours dans
-les conditions prévues à l'article L. 126.
-
-**Nota:**
-
-NOTA : Loi n° 2005-516 du 20 mai 2005 art. 27 : l'article L. 126 est transféré à l'article L. 11 du code des postes et des
-communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L126
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R17
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D555
-
-La répartition, entre les notaires et huissiers, des valeurs à recouvrer à soumettre au protêt, est faite par
-l'administration des postes et communications électroniques, de manière à répondre aux convenances du service postal.
-Toutefois, l'expéditeur peut désigner à ses risques et périls le notaire ou l'huissier à qui les valeurs doivent être
-confiées.
-
-Les valeurs à protester sont, dans tous les cas, remises à l'officier ministériel contre reçu.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R18
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D556
-
-Lorsqu'une valeur est payée entre ses mains, avant clôture du protêt, le notaire ou l'huissier doit en verser, dans les
-vingt-quatre heures [*délai*], le montant intégral à la caisse du chef d'établissement des postes, à charge pour celui-ci
-d'assurer la transmission des fonds à l'expéditeur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R19
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D557
-
-En cas de non-paiement de la valeur, le notaire ou l'huissier qui a fait le protêt remet au bureau de poste, au plus tard le
-douzième jour après l'échéance, l'effet protesté, les originaux des actes intervenus ainsi qu'un état dûment quittancé de ses
-frais et débours dont le montant lui est réglé par l'administration des P.T.T.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R20
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Modifié par_:
-
-  - Décret n°81-256 1981-03-13 art. 3 JORF 20 mars 1981
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D558
-
-Tout notaire ou huissier qui refuse de dresser un protêt doit produire une déclaration écrite et signée indiquant les motifs
-de son refus.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R21
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D559
-
-Si l'avoir du compte courant postal de l'expéditeur des valeurs protestées ne permet pas le prélèvement prévu à l'article L.
-121, le recouvrement des sommes dues est poursuivi dans les formes et conditions prévues aux articles 85 et suivants du
-décret n° 62-1587 du 29 décembre 1962.
-
-**Nota:**
-
-NOTA : L'article L. 121 est abrogé par l'article 16 IV de la loi n° 2005-516 du 20 mai 2005, au plus tard le 1er janvier
-2006.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L121
-  - Décret n°62-1587 du 29 décembre 1962 - art. 85 (M)
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones R22
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D560
-
-Les agents de l'administration des postes et communications électroniques chargés du recouvrement des effets négociables ou
-non négociables, des factures et des chèques venant de l'étranger et payables en France sont autorisés à apposer et à
-oblitérer les timbres mobiles représentant les droits à percevoir en exécution des lois en vigueur, dans les conditions
-fixées aux articles 405 E et 405 F de l'annexe I au code général des impôts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN1 405 E et 405 F
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D561
-
-Les services postaux des valeurs à recouvrer et des envois contre remboursement fonctionnent dans les relations entre la
-France métropolitaine et les départements d'outre-mer, d'une part, les territoires d'outre-mer, d'autre part.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D562
-
-Dans les relations visées à l'article précédent, les valeurs à recouvrer et les envois contre remboursement sont soumis,
-d'une manière générale, aux règles du régime intérieur français.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D561
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D563
-
-Les établissements postaux des différentes catégories concourent à l'exécution du service des valeurs à recouvrer et des
-envois contre remboursement dans les relations visées à l'article D. 561 selon leurs attributions et leur importance dans les
-limites fixées par chaque administration.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D561
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D564
-
-Le montant total des valeurs à recouvrer comprises dans un même envoi et le montant des sommes à percevoir sur les
-destinataires des envois à livrer contre remboursement ne peuvent dépasser le maximum en euros des mandats postaux échangés
-dans les mêmes relations, ou une somme équivalente en monnaie locale, ni être supérieurs aux maximums prévus pour les mêmes
-envois dans le régime intérieur des territoires intéressés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D565
-
-Les opérations auxquelles le service des valeurs à recouvrer et des envois contre remboursement donne lieu dans les relations
-visées à l'article D. 561 sont passibles des droits et taxes en vigueur dans les territoires d'origine et de destination.
-
-Lorsque l'expéditeur résidant en France métropolitaine ou dans les départements d'outre-mer refuse d'acquitter la taxe dont
-sont passibles les valeurs à recouvrer ou les envois contre remboursement qui lui sont renvoyés, le recouvrement de cette
-taxe est poursuivi dans les conditions prévues aux articles L. 126 et D. 554.
-
-**Nota:**
-
-NOTA : Loi n° 2005-516 du 20 mai 2005 art. 27 : l'article L. 126 est transféré à l'article L. 11 du code des postes et des
-communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L126, D554 et D561
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D566
-
-Lorsque, dans les relations visées à l'article D. 561, l'émission des mandats donne lieu à la perception d'une taxe de
-change, le montant des valeurs à recouvrer et envois contre remboursement est majoré, avant présentation, d'une somme égale à
-la taxe de change applicable au mandat de règlement de compte.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D561
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D567
-
-Le service des valeurs protestables peut être introduit dans les relations visées à l'article D. 561 après accord entre les
-administrations intéressées.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D561
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D568
-
-L'échange des valeurs à recouvrer et des envois contre remboursement entre, d'une part, la France et les départements
-d'outre-mer et, d'autre part, les pays adhérents aux arrangements de l'Union postale universelle concernant respectivement
-les recouvrements et les envois contre remboursement, s'effectue dans les conditions déterminées par ces arrangements et les
-règlements correspondants, sous réserve de l'application des régimes particuliers.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrangement 1974-07-05, signé à Lausanne
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-###### Article D569
-
-L'échange des valeurs à recouvrer et des envois contre remboursement entre, d'une part, la France métropolitaine et les
-départements d'outre-mer et, d'autre part, les pays non adhérents aux arrangements de l'Union postale universelle concernant
-respectivement les recouvrements et les envois contre remboursement, s'effectue dans les conditions fixées par des accords
-particuliers.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrangement 1974-07-05, signé à Lausanne
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-
-## LIVRE IV : Dispositions communes et finales<a id=159></a>
-
-### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=160></a>
+### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=142></a>
 
 ###### Article D570
 
@@ -22843,7 +19598,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-6 (T)
 
 
-### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=161></a>
+### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=143></a>
 
 ###### Article D576
 
@@ -23150,7 +19905,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-17 (T)
 
 
-### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=162></a>
+### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=144></a>
 
 ###### Article D587
 
