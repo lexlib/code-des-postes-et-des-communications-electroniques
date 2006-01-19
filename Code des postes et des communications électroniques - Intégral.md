@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-01-20
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -121,7 +121,7 @@ Version Consolidée au 2006-01-01
       - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#118)
     - [LIVRE II : Les communications électroniques (art. D98 à D407-3)](#119)
       - [TITRE Ier : Dispositions générales (art. D98 à D406-4)](#120)
-        - [Chapitre II : Régime juridique (art. D98 à D99-11)](#121)
+        - [Chapitre II : Régime juridique (art. D98 à D101)](#121)
           - [Section 1 : Réseaux et services (art. D98 à D99-3)](#122)
             - [Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public. (art. D98 à D98-2)](#123)
             - [Paragraphe 2 : Obligations des opérateurs. (art. D98-3 à D98-12)](#124)
@@ -131,21 +131,22 @@ Version Consolidée au 2006-01-01
             - [Paragraphe 2 : Commission consultative des réseaux et services de communications électroniques. (art. D99-5)](#128)
             - [Paragraphe 3 : Organisation et fonctionnement des commissions consultatives. (art. D99-5-1)](#129)
           - [section 3 : Interconnexion et accès (art. D99-6 à D99-11)](#130)
-        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D377)](#131)
-          - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#132)
-          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#133)
-          - [Section 3 : Liaisons louées. (art. D369 à D377)](#134)
-        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#135)
-      - [TITRE II : Ressources et police (art. D406-5 à D407-3)](#136)
-        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17)](#137)
-          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#138)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17)](#139)
-        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-3)](#140)
-          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#141)
-    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#142)
-      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#143)
-      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#144)
-      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#145)
+          - [Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques. (art. D100 à D101)](#131)
+        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D377)](#132)
+          - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#133)
+          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#134)
+          - [Section 3 : Liaisons louées. (art. D369 à D377)](#135)
+        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#136)
+      - [TITRE II : Ressources et police (art. D406-5 à D407-3)](#137)
+        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17)](#138)
+          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#139)
+          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17)](#140)
+        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-3)](#141)
+          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#142)
+    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#143)
+      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#144)
+      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#145)
+      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#146)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -17758,9 +17759,64 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L37-3 (V)
 
 
-#### Chapitre IV : La régulation des communications électroniques.<a id=131></a>
+##### Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques.<a id=131></a>
 
-##### Section 1 : Autorité de régulation des communications électroniques et des postes<a id=132></a>
+###### Article D100
+
+Peut procéder à la vérification sur place du respect des valeurs limites prévues à l'article L. 34-9-1 tout organisme qui
+remplit les conditions suivantes :
+
+– être accrédité dans le domaine " essais ", pour la mesure de champs électromagnétiques in situ, par le Comité français
+d'accréditation (COFRAC) ou par un organisme d'accréditation ayant signé l'accord de reconnaissance multilatéral " essais "
+dans le cadre de la coordination européenne des organismes d'accréditation (European co-operation for accreditation) ;
+
+– ne pas être un exploitant de réseau ou un fournisseur de services de communications électroniques, ne pas participer
+directement à la fabrication, à la commercialisation, à l'installation ou à la maintenance d'équipements utilisés dans les
+réseaux de communications électroniques ou d'installations radioélectriques ni représenter les parties engagées dans ces
+activités.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°2006-61 du 18 janvier 2006 - art. 1 () JORF 20 janvier 2006
+
+_Cité par_:
+
+  - Arrêté du 4 août 2006 - art. 2 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. L34-9-1 (V)
+
+
+###### Article D101
+
+La vérification mentionnée à l'article D. 100 s'effectue conformément aux dispositions prévues par le décret n° 2002-775 du 3
+mai 2002.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Cite_:
+
+  - Décret n°2002-775 du 3 mai 2002 (V)
+
+_Créé par_:
+
+  - Décret n°2006-61 du 18 janvier 2006 - art. 1 () JORF 20 janvier 2006
+
+
+#### Chapitre IV : La régulation des communications électroniques.<a id=132></a>
+
+##### Section 1 : Autorité de régulation des communications électroniques et des postes<a id=133></a>
 
 ###### Article D288
 
@@ -17957,7 +18013,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D97-11 (T)
 
 
-##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=133></a>
+##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=134></a>
 
 ###### Article D301
 
@@ -18668,7 +18724,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L38-1 (V)
 
 
-##### Section 3 : Liaisons louées.<a id=134></a>
+##### Section 3 : Liaisons louées.<a id=135></a>
 
 ###### Article D369
 
@@ -18898,7 +18954,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L38-1 (M)
 
 
-#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=135></a>
+#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=136></a>
 
 ###### Article D406-1
 
@@ -19262,11 +19318,11 @@ _Abrogé par_:
   - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 
-### TITRE II : Ressources et police<a id=136></a>
+### TITRE II : Ressources et police<a id=137></a>
 
-#### Chapitre Ier : Fréquences radioélectriques.<a id=137></a>
+#### Chapitre Ier : Fréquences radioélectriques.<a id=138></a>
 
-##### Section 1 : Dispositions générales<a id=138></a>
+##### Section 1 : Dispositions générales<a id=139></a>
 
 ###### Article D406-5
 
@@ -19530,7 +19586,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D487 (M)
 
 
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=139></a>
+##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=140></a>
 
 ###### Article D406-14
 
@@ -19661,9 +19717,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L42-1 (V)
 
 
-#### CHAPITRE III : Etablissement de lignes<a id=140></a>
+#### CHAPITRE III : Etablissement de lignes<a id=141></a>
 
-##### Section 1 : Dispositions générales.<a id=141></a>
+##### Section 1 : Dispositions générales.<a id=142></a>
 
 ###### Article D407-1
 
@@ -19737,9 +19793,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
-## LIVRE IV : Dispositions communes et finales<a id=142></a>
+## LIVRE IV : Dispositions communes et finales<a id=143></a>
 
-### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=143></a>
+### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=144></a>
 
 ###### Article D570
 
@@ -19883,7 +19939,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-6 (T)
 
 
-### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=144></a>
+### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=145></a>
 
 ###### Article D576
 
@@ -20190,7 +20246,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-17 (T)
 
 
-### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=145></a>
+### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=146></a>
 
 ###### Article D587
 
