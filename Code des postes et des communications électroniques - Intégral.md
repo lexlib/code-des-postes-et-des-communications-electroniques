@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2006-01-24
+Version Consolidée au 2006-01-28
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -141,12 +141,13 @@ Version Consolidée au 2006-01-24
         - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17)](#138)
           - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#139)
           - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17)](#140)
-        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-3)](#141)
-          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#142)
-    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#143)
-      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#144)
-      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#145)
-      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#146)
+        - [Chapitre II : Numérotation et adressage. (art. D406-19)](#141)
+        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-3)](#142)
+          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#143)
+    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#144)
+      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#145)
+      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#146)
+      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#147)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -19821,9 +19822,48 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L42-1 (V)
 
 
-#### CHAPITRE III : Etablissement de lignes<a id=141></a>
+#### Chapitre II : Numérotation et adressage.<a id=141></a>
 
-##### Section 1 : Dispositions générales.<a id=142></a>
+###### Article D406-19
+
+I. - L'opérateur donneur ne peut facturer les coûts de portage à l'abonné.
+
+II. - L'opérateur receveur informe l'opérateur attributaire du portage du numéro.
+
+L'opérateur attributaire fait droit aux demandes raisonnables des opérateurs concernant la mise à disposition et la
+transmission des informations relatives aux numéros portés dont il est l'attributaire ainsi que l'identification des
+exploitants de réseau ouvert au public ouvrant l'interconnexion pour ces numéros.
+
+L'opérateur attributaire peut recouvrer les coûts encourus pour la transmission des informations mentionnées à l'alinéa
+précédent.
+
+III. - Les opérateurs qui fournissent des prestations à d'autres opérateurs au titre de la conservation des numéros doivent
+être en mesure de démontrer que les tarifs d'accès et d'interconnexion associés reflètent les coûts correspondants.
+L'Autorité de régulation des communications électroniques et des postes peut demander à ces opérateurs de justifier
+intégralement leurs tarifs et, si nécessaire, en exiger l'adaptation.
+
+IV. - Pour la mise en oeuvre du III du présent article, l'Autorité de régulation des communications électroniques et des
+postes précise, en tant que de besoin, les mécanismes de recouvrement des coûts, les méthodes de tarification et les méthodes
+de comptabilisation des coûts, qui peuvent être distinctes de celles appliquées par l'opérateur. Elle peut également prendre
+en compte les prix en vigueur sur les marchés comparables en France ou à l'étranger. Elle veille à ce que les méthodes
+retenues promeuvent l'efficacité économique, favorisent une concurrence durable et optimisent les avantages pour le
+consommateur. Elle veille également à assurer une rémunération raisonnable des capitaux employés, compte tenu du risque
+encouru.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 1962-03-12
+
+_Créé par_:
+
+  - Décret n°2006-82 du 27 janvier 2006 - art. 1 () JORF 28 janvier 2006
+
+
+#### CHAPITRE III : Etablissement de lignes<a id=142></a>
+
+##### Section 1 : Dispositions générales.<a id=143></a>
 
 ###### Article D407-1
 
@@ -19897,9 +19937,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
-## LIVRE IV : Dispositions communes et finales<a id=143></a>
+## LIVRE IV : Dispositions communes et finales<a id=144></a>
 
-### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=144></a>
+### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=145></a>
 
 ###### Article D570
 
@@ -20043,7 +20083,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-6 (T)
 
 
-### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=145></a>
+### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=146></a>
 
 ###### Article D576
 
@@ -20350,7 +20390,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-17 (T)
 
 
-### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=146></a>
+### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=147></a>
 
 ###### Article D587
 
