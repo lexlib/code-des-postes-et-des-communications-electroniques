@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2006-05-05
+Version Consolidée au 2006-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -5292,15 +5292,11 @@ Est également soumise à autorisation administrative l'utilisation d'une instal
 réception de signaux transmis sur les fréquences attribuées par le Premier ministre, en application de l'article L. 41, pour
 les besoins de la défense nationale ou de la sécurité publique.
 
-L'utilisation, par les titulaires d'autorisation, de fréquences radioélectriques disponibles sur le territoire de la
-République constitue un mode d'occupation privatif du domaine public de l'Etat.
+Conformément à l'article L. 2124-26 du code général de la propriété des personnes publiques, l'utilisation, par les
+titulaires d'autorisation, de fréquences radioélectriques disponibles sur le territoire de la République constitue un mode
+d'occupation privatif du domaine public de l'Etat.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2004-669 2004-07-09 art. 21 I, II JORF 10 juillet 2004
-  - Loi n°2004-669 du 9 juillet 2004 - art. 21 () JORF 10 juillet 2004
 
 _Cité par_:
 
@@ -5315,19 +5311,24 @@ _Cité par_:
   - Code des postes et des communications électronique - art. L41-2 (M)
   - Code des postes et des communications électronique - art. R*52-1 (T)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code des postes et télécommunications L89
-  - Code des postes et des communications électronique - art. L89 (T)
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiqu - art. L2124-26 (V)
+  - Code des postes et des communications électronique - art. L33-3 (M)
+  - Code des postes et des communications électronique - art. L41 (M)
 
 _Codifié par_:
 
   - Décret n°62-273 1962-03-12
 
-_Cite_:
+_Anciens textes_:
 
-  - Code des postes et des communications électronique - art. L33-3 (M)
-  - Code des postes et des communications électronique - art. L41 (M)
+  - Code des postes et des communications électronique - art. L89 (T)
+  - Code des postes et télécommunications L89
 
 
 ###### Article L41-2
