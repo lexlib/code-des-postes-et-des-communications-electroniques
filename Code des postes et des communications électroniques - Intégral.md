@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2006-08-17
+Version Consolidée au 2006-12-23
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -67,7 +67,7 @@ Version Consolidée au 2006-08-17
         - [Chapitre Ier : Définitions et principes. (art. R*9 à R*9-1)](#64)
         - [Chapitre II : Régime juridique. (art. R10 à R20-28)](#65)
           - [Section 2 : Annuaires et services de renseignements. (art. R10 à R10-11)](#66)
-          - [Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques. (art. R10-12 à R10-14)](#67)
+          - [Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques. (art. R10-12 à R10-22)](#67)
           - [Section 4 : Interconnexion et accès aux réseaux. (art. R11-1 à R11-9)](#68)
           - [Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques. (art. R20-1 à R20-28)](#69)
             - [Paragraphe I : Dispositions générales. (art. R20-1 à R20-3)](#70)
@@ -9474,6 +9474,244 @@ _Cite_:
 
   - Code des postes et des communications électronique - art. L34-1 (M)
   - Code des postes et des communications électronique - art. R10-13 (V)
+
+
+###### Article R10-15
+
+Les agents mentionnés au premier alinéa de l'article L. 34-1-1 sont désignés par les chefs des services de police et de
+gendarmerie nationales chargés des missions de prévention des actes de terrorisme, dont la liste est fixée par l'arrêté prévu
+à l'article 33 de la loi n° 2006-64 du 23 janvier 2006. Ils sont habilités par le directeur général ou central dont ils
+relèvent.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2006-64 du 23 janvier 2006 - art. 33
+  - Code des postes et des communications électroniques - art. L34-1-1
+
+_Créé par_:
+
+  - Décret n°2006-1651 du 22 décembre 2006 - art. 1 () JORF 23 décembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2014-1576 du 24 décembre 2014 - art. 2
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R10-18 (VT)
+  - Code des postes et des communications électroni... - art. R10-19 (VT)
+  - Code des postes et des communications électroni... - art. R10-22 (VD)
+
+
+###### Article R10-16
+
+Afin de permettre la désignation de la personnalité qualifiée mentionnée à l'article L. 34-1-1 et de ses adjoints, le
+ministre de l'intérieur transmet à la commission nationale de contrôle des interceptions de sécurité une liste d'au moins
+trois personnes, choisies en raison de leur compétence et de leur impartialité, pour chaque poste à pourvoir. Ces
+propositions motivées sont adressées à la commission au moins trois mois avant le terme du mandat de la personnalité
+qualifiée et de ses adjoints. 
+
+La décision de la commission désignant la personnalité qualifiée et ses adjoints est notifiée au ministre de l'intérieur et
+publiée au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2006-1651 du 22 décembre 2006 - art. 1 () JORF 23 décembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2014-1576 du 24 décembre 2014 - art. 2
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L34-1-1
+
+
+###### Article R10-17
+
+Les demandes de communication de données prévues à l'article L. 34-1-1 comportent les informations suivantes : 
+
+a) Le nom, le prénom et la qualité du demandeur, ainsi que son service d'affectation et l'adresse de celui-ci ; 
+
+b) La nature des données dont la communication est demandée et, le cas échéant, la période concernée ; 
+
+c) La motivation de la demande.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2006-1651 du 22 décembre 2006 - art. 1 () JORF 23 décembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2014-1576 du 24 décembre 2014 - art. 2
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R10-18 (VT)
+  - Code des postes et des communications électroni... - art. R10-19 (VT)
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L34-1-1
+
+
+###### Article R10-18
+
+Les demandes mentionnées à l'article R. 10-17 sont transmises à la personnalité qualifiée mentionnée à l'article L. 34-1-1
+par un agent désigné dans les conditions prévues à l'article R. 10-15. 
+
+Ces demandes et les décisions de la personnalité qualifiée sont enregistrées et conservées pendant une durée maximale d'un an
+dans un traitement automatisé mis en oeuvre par le ministère de l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2006-1651 du 22 décembre 2006 - art. 1 () JORF 23 décembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2014-1576 du 24 décembre 2014 - art. 2
+
+_Codifié par_:
+
+  - Décret n°62-274 du 12 mars 1962
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. R10-20 (VT)
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L34-1-1
+  - Code des postes et des communications électroniques - art. R10-15
+  - Code des postes et des communications électroniques - art. R10-17
+
+
+###### Article R10-19
+
+Les demandes approuvées par la personnalité qualifiée sont adressées, sans leur motivation, par un agent désigné dans les
+conditions prévues à l'article R. 10-15 aux opérateurs et personnes mentionnés au I de l'article L. 34-1, qui transmettent
+sans délai les données demandées à l'auteur de la demande.
+
+Les transmissions prévues à l'alinéa précédent sont effectuées selon des modalités assurant leur sécurité, leur intégrité et
+leur suivi, définies par une convention conclue avec l'opérateur concerné ou, à défaut, par un arrêté conjoint du ministre de
+l'intérieur et du ministre chargé des communications électroniques.
+
+Les données fournies par les opérateurs et personnes mentionnés au I de l'article L. 34-1 sont enregistrées et conservées
+pendant une durée maximale de trois ans dans des traitements automatisés mis en oeuvre par le ministère de l'intérieur et le
+ministère de la défense.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2006-1651 du 22 décembre 2006 - art. 1 () JORF 23 décembre 2006
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L34-1 (M)
+  - Code des postes et des communications électronique - art. R10-15 (V)
+
+
+###### Article R10-20
+
+Une copie de chaque demande est transmise, dans un délai maximal de sept jours à compter de l'approbation de la personnalité
+qualifiée, à la Commission nationale de contrôle des interceptions de sécurité. Un arrêté du ministre de l'intérieur, pris
+après avis de celle-ci, définit les modalités de cette transmission. 
+
+La commission peut en outre, à tout moment, avoir accès aux données enregistrées dans les traitements automatisés mentionnés
+aux articles R. 10-18 et R. 10-19. Elle peut également demander des éclaircissements sur la motivation des demandes
+approuvées par la personnalité qualifiée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2006-1651 du 22 décembre 2006 - art. 1 () JORF 23 décembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2014-1576 du 24 décembre 2014 - art. 2
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. R10-18 (VT)
+
+
+###### Article R10-21
+
+Les surcoûts identifiables et spécifiques supportés par les opérateurs et personnes mentionnés au I de l'article L. 34-1 pour
+la fourniture des données prévue par l'article L. 34-1-1 font l'objet d'un remboursement par l'Etat par référence aux tarifs
+et selon des modalités fixés par un arrêté conjoint du ministre de l'intérieur et des ministres chargés du budget et des
+communications électroniques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2006-1651 du 22 décembre 2006 - art. 1 () JORF 23 décembre 2006
+
+_Cité par_:
+
+  - Arrêté du 26 mars 2012 - art. 1 (Ab)
+  - Arrêté du 12 janvier 2018 - art. 3
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. L34-1 (M)
+  - Code des postes et des communications électronique - art. L34-1-1 (Ab)
+
+
+###### Article R10-22
+
+Indépendamment de leur application de plein droit à Mayotte, les dispositions de la présente section sont applicables en
+Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. Les dispositions des articles R. 10-15 à R.
+10-21 sont en outre applicables dans les Terres australes et antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2006-1651 du 22 décembre 2006 - art. 1 () JORF 23 décembre 2006
+
+_Codifié par_:
+
+  - Décret n°62-274 1962-03-12
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. R10-15 (V)
 
 
 ##### Section 4 : Interconnexion et accès aux réseaux.<a id=68></a>
