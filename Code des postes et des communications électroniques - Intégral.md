@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2007-02-08
+Version Consolidée au 2007-03-07
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -7545,8 +7545,9 @@ _Codifié par_:
 
 L'Autorité de régulation des communications électroniques et des postes est composée de sept membres nommés en raison de leur
 qualification économique, juridique et technique, dans les domaines des communications électroniques, des postes et de
-l'économie des territoires pour un mandat de six ans. Trois membres, dont le président, sont nommés par décret. Deux membres
-sont nommés par le Président de l'Assemblée nationale et deux par le Président du Sénat.
+l'économie des territoires pour un mandat de six ans. Le président est nommé par décret, après avis des commissions du
+Parlement compétentes en matière de postes et de communications électroniques. Deux membres sont nommés par décret. Deux
+membres sont nommés par le Président de l'Assemblée nationale et deux par le Président du Sénat.
 
 Les membres de l'autorité nommés par décret sont renouvelés par tiers tous les deux ans.
 
@@ -7565,7 +7566,7 @@ Les membres de l'autorité ne peuvent être nommés au-delà de l'âge de soixan
 
 **Nota:**
 
-NOTA : Loi 2005-516 du 20 mai 2005
+Loi 2005-516 du 20 mai 2005
 
 - art. 13 II et III : Les membres de l'autorité visée à l'article L. 130 du code des postes et des communications
 électroniques qui sont en fonction à la date de publication de la présente loi exercent leur mandat jusqu'à son terme. Dès la
@@ -7575,12 +7576,9 @@ jusqu'au 31 décembre de la dernière année de ce mandat.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005
-  - Loi n°2005-516 du 20 mai 2005 - art. 13 (V) JORF 21 mai 2005
-  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
+  - Loi n°2007-309 du 5 mars 2007 - art. 17 () JORF 7 mars 2007
 
 _Codifié par_:
 
@@ -7596,10 +7594,6 @@ _Anciens textes_:
 
   - Code des postes et des communications électronique - art. L36-1 (M)
   - Code des postes et des communications électronique - art. L36-1 (MMN)
-
-_Modifié par_:
-
-  - Décret n°2005-1068 2005-05-30 art. 5 JORF 31 août 2005
 
 
 ###### Article L131
