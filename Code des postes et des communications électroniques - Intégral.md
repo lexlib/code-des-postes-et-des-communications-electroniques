@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2007-03-07
+Version Consolidée au 2007-05-11
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -17203,8 +17203,9 @@ _Abrogé par_:
 
 ###### Article D18
 
-Les journaux et écrits périodiques présentant un lien avec l'actualité, apprécié au regard de l'objet de la publication,
-peuvent bénéficier du tarif de presse s'ils remplissent les conditions suivantes :
+Les journaux et écrits périodiques présentant un lien direct avec l'actualité, apprécié au regard de l'objet de la
+publication et présentant un apport éditorial significatif, peuvent bénéficier du tarif de presse s'ils remplissent les
+conditions suivantes :
 
 1° Avoir un caractère d'intérêt général quant à la diffusion de la pensée : instruction, éducation, information, récréation
 du public ;
@@ -17228,13 +17229,13 @@ prestations de services ne présentant pas un lien avec l'objet principal de la 
 Un arrêté conjoint du ministre chargé de la communication, du ministre chargé des postes et du ministre chargé du budget
 précise, en tant que de besoin, les modalités d'application de la présente disposition ;
 
-5° Avoir au plus les deux tiers de leur surface consacrés à la publicité, aux annonces judiciaires et légales et aux annonces
-classées sans que ces dernières excèdent la moitié de la surface totale ;
+5° Avoir au plus les deux tiers de leur surface consacrés à la publicité, aux annonces classées, sans que ces dernières
+n'excèdent la moitié de la surface totale et aux annonces judiciaires et légales ;
 
 6° N'être assimilables, malgré l'apparence de journaux ou de revues qu'elles pourraient présenter, à aucune des publications
 visées sous les catégories suivantes :
 
-a) Feuilles d'annonces, tracts, guides, prospectus, catalogues, almanachs ;
+a) Feuilles d'annonces, tracts, guides, prospectus, catalogues, almanachs, répertoires, index, lexiques ;
 
 b) Ouvrages publiés par livraison et dont la publication embrasse une période de temps limitée ou qui constituent le
 complément ou la mise à jour d'ouvrages déjà parus. Toutefois, ce complément ou cette mise à jour peut bénéficier du tarif de
@@ -17252,17 +17253,16 @@ radiodiffusion et de télévision et des cotes de valeurs mobilières ;
 e) Publications ayant pour objet principal d'informer sur la vie interne d'un groupement quelle que soit sa forme juridique
 ou constituant un instrument de publicité ou de propagande pour celui-ci ;
 
-f) Publications dont le prix est compris dans une cotisation à une association ou à un groupement quelconque.
+f) Publications dont le prix est compris dans une cotisation à une association ou à un groupement quelconque ;
+
+7° N'être pas susceptible de choquer le lecteur par une représentation dégradante de la personne humaine portant atteinte à
+sa dignité et à la décence ou présentant sous un jour favorable la violence.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°97-37 du 17 janvier 1997 - art. 1 () JORF 19 janvier 1997
 
 _Cité par_:
 
@@ -17279,6 +17279,10 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. D20 (V)
   - Code des postes et des communications électroni... - art. D27 (V)
   - Code des postes et des communications électroni... - art. D27-1 (V)
+
+_Modifié par_:
+
+  - Décret n°2007-787 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
 
 _Cite_:
 
@@ -17330,29 +17334,9 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D19-3 (V)
 
 
-###### Article D19-1
-
-Les publications éditées par l'administration de l'Etat, par les établissements publics de l'Etat à l'exception de ceux qui
-ont un caractère industriel et commercial ou pour le compte de ceux-ci sont taxées au tarif des publications administratives.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°97-37 du 17 janvier 1997 - art. 1 () JORF 19 janvier 1997
-
-_Abrogé par_:
-
-  - Décret n°2007-787 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
-
-
 ###### Article D19-2
 
-Les journaux et publications de périodicité au maximum bimensuelle remplissant les conditions prévues à l'article D. 18 et
+Les journaux et publications de périodicité au maximum hebdomadaire remplissant les conditions prévues à l'article D. 18 et
 présentant un caractère d'information politique et générale paient le tarif de presse réduit d'un montant forfaitaire à
 l'exemplaire financé par l'Etat.
 
@@ -17372,15 +17356,14 @@ réduit d'un montant forfaitaire majoré à l'exemplaire financé par l'Etat.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code des postes et télécommunications D18
-  - Décret n°86-616 1986-03-12
-  - Décret n°89-528 1989-07-28
-
 _Codifié par_:
 
   - Décret n°62-275 1962-03-12
+
+_Cite_:
+
+  - Décret n°86-616 1986-03-12
+  - Décret n°89-528 1989-07-28
 
 _Cité par_:
 
@@ -17402,24 +17385,19 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2004-1393 du 22 décembre 2004 - art. 1 () JORF 24 décembre 2004 en vigueur le 1er janvier 2005
+  - Décret n°2007-787 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
 
 
 ###### Article D19-3
 
-Pour bénéficier des tarifs de presse, du tarif spécifique ou du tarif des publications administratives, ou encore des
-réductions prévues à l'article D. 19-2, les journaux et écrits périodiques doivent avoir reçu un certificat d'inscription
+Pour bénéficier des tarifs de presse, les journaux et écrits périodiques doivent avoir reçu un certificat d'inscription
 délivré par la commission paritaire des publications et agences de presse ou l'une de ses sous-commissions et être classés
-dans l'une des catégories visées aux articles D. 18, D. 19 ou D. 19-1. En outre, le certificat d'inscription mentionne si la
-publication bénéficie de l'abattement prévu à l'article D. 19-2. Les journaux et écrits périodiques doivent en outre,
-préalablement à toute expédition, être enregistrés à la direction départementale des postes dont relève le bureau de dépôt.
-Cet enregistrement est gratuit.
+dans l'une des catégories visées aux articles D. 18 ou D. 19. En outre, le certificat d'inscription mentionne si la
+publication bénéficie des dispositions de l'article D. 19-2. Les journaux et écrits périodiques doivent préalablement à toute
+expédition être enregistrés à la direction départementale des postes dont relève le lieu de dépôt. Cet enregistrement est
+gratuit.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D18, D19 et D19-2
 
 _Codifié par_:
 
@@ -17427,7 +17405,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-1393 du 22 décembre 2004 - art. 1 () JORF 24 décembre 2004 en vigueur le 1er janvier 2005
+  - Décret n°2007-787 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. D18 (M)
+  - Code des postes et des communications électronique - art. D19 (M)
+  - Code des postes et des communications électronique - art. D19-2 (M)
 
 
 ###### Article D19-4
@@ -17513,34 +17497,9 @@ _Créé par_:
 
 ###### Article D20
 
-Sont taxés comme imprimés ordinaires :
-
-1° Les feuilles d'annonces, les prospectus, les catalogues, les almanachs, les livres et les brochures, les ouvrages publiés
-par livraisons et dont la publication embrasse une période limitée, ainsi que tous écrits périodiques qui, sous l'apparence
-de journaux d'information, ont pour objet principal la recherche ou le développement des transactions d'entreprises
-commerciales, industrielles, bancaires ou autres et ceux qui sont en réalité des instruments de publicité ou de réclame au
-service d'établissements, de sociétés, d'entreprises ou de particuliers ;
-
-2° Les journaux et écrits périodiques et leurs suppléments lorsque plus des deux tiers des uns ou des autres sont consacrés à
-des réclames et annonces ainsi qu'à des avis incitant aux transactions commerciales, ou lorsque la publicité pour un même
-annonceur excède 10 p. 100 de la superficie totale du journal.
-
-Toutefois, le pourcentage de publicité pour un même annonceur peut atteindre 25 p. 100 de la superficie totale de la
-publicité à la condition que ce pourcentage demeure exceptionnel et ne porte pas sur plus de :
-
-- quatre numéros par trimestre pour les publications quotidiennes ;
-
-- deux numéros par trimestre pour les publications hebdomadaires ;
-
-- un numéro par trimestre pour les publications paraissant une ou deux fois par mois ;
-
-- un numéro par an pour les autres publications.
-
-L'envoi à titre exceptionnel de numéros dans lesquels les annonces dépassent les proportions ci-dessus ne fait pas perdre aux
-exemplaires réguliers expédiés ultérieurement le bénéfice du tarif réduit.
-
-Sont notamment considérées comme annonces toutes insertions ayant pour objet de signaler, de faire connaître, de recommander
-ce qui pourrait être l'objet d'une transaction.
+Les journaux et écrits périodiques ainsi que leurs suppléments, les numéros spéciaux et les hors-séries consacrant au plus 20
+% de leur surface totale à la publicité au profit d'un seul et même annonceur, sans préjudice des dispositions du 6° c de
+l'article D. 18, peuvent bénéficier des tarifs de presse.
 
 **Liens relatifs à cet article**
 
@@ -17548,39 +17507,27 @@ _Codifié par_:
 
   - Décret n°62-275 1962-03-12
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+  - Décret n°2007-787 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. D18 (V)
 
 
 ###### Article D21
 
-Les journaux et écrits périodiques étrangers sont soumis au tarif des plis non urgents ou au tarif des imprimés selon leur
-destination.
+Les journaux et écrits périodiques édités dans un Etat non membre de l'Union européenne sont soumis à une tarification
+adaptée distincte du tarif de presse.
 
-Toutefois cette disposition ne s'applique pas aux publications des pays de la Communauté économique européenne instituée par
-le traité de Rome qui bénéficient du tarif préférentiel de presse dans les mêmes conditions que les publications françaises.
+Les journaux et écrits périodiques édités dans un Etat non membre de l'Union européenne, déposés à La Poste en France,
+bénéficient des tarifs de presse lorsque le pays considéré admet par réciprocité les journaux et écrits périodiques français
+remis à l'opérateur postal sur son territoire au bénéfice du tarif prévu par sa réglementation interne en faveur des objets
+de même catégorie.
 
-L'administration des postes et communications électroniques est autorisée à faire bénéficier du tarif préférentiel de presse
-les publications étrangères déposées à la poste en France, lorsque le pays considéré admet par réciprocité les journaux et
-écrits périodiques français mis à la poste sur son territoire, au bénéfice du tarif prévu par sa réglementation interne en
-faveur des objets de même catégorie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-
-###### Article D23
-
-Les journaux et écrits périodiques peuvent, sans supplément de taxe, comporter des annotations manuscrites ou imprimées
-autorisées par arrêté du ministre des postes et des communications électroniques.
+Le ministre chargé des postes publie la liste des Etats avec lesquels est établi un accord de réciprocité tel que prévu à
+l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
@@ -17589,10 +17536,6 @@ _Codifié par_:
   - Décret n°62-275 1962-03-12
 
 _Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
 
   - Décret n°2007-787 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
 
@@ -17620,39 +17563,21 @@ _Modifié par_:
   - Décret n°97-37 du 17 janvier 1997 - art. 1 () JORF 19 janvier 1997
 
 
-###### Article D26
-
-Le lieu de publication, au point de vue de l'application de la taxe, est celui où le journal est imprimé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-_Abrogé par_:
-
-  - Décret n°2007-787 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
-
-
 ###### Article D27
 
 Est considérée comme un supplément à un écrit périodique toute publication détachée paraissant périodiquement ou constituant
 une addition occasionnée par l'abondance des sujets traités ou destinée à compléter ou à illustrer le texte d'une
 publication.
 
-Le supplément doit satisfaire aux mêmes conditions de fond et de forme que la publication principale. Tout supplément doit
-porter la mention "supplément" suivie de l'indication du titre et de la date ou du numéro de la publication à laquelle il se
-rattache.
+Le supplément a la possibilité de voyager dans le réseau postal séparément des écrits périodiques auxquels il se rattache.
+Dans ce cas, il doit satisfaire aux mêmes conditions de fond et de forme qu'une publication principale. Le supplément doit en
+particulier porter la mention "supplément" en page de couverture. Il doit également comporter l'indication du titre ainsi que
+la date et le numéro de parution de chaque publication à laquelle il se rattache.
 
-Le supplément ne peut pas être vendu isolément, ni faire l'objet d'un abonnement séparé.
+Le nombre d'exemplaires diffusés ne peut excéder celui des publications dont il constitue un complément : il ne peut ni être
+vendu isolément, ni faire l'objet d'un abonnement séparé, ni d'une distribution gratuite de façon autonome.
 
-Lorsque le supplément n'est pas déposé dans le même établissement que la publication principale à laquelle il se rattache, il
-est taxé séparément.
+Le tarif postal est déterminé en fonction du poids global de chaque envoi.
 
 **Liens relatifs à cet article**
 
@@ -17662,7 +17587,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-1393 du 22 décembre 2004 - art. 1 () JORF 24 décembre 2004 en vigueur le 1er janvier 2005
+  - Décret n°2007-787 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
 
 _Cité par_:
 
@@ -17694,37 +17619,19 @@ _Créé par_:
 
 ###### Article D28
 
-Des imprimés ou échantillons peuvent, lorsque leur présentation le permet, être encartés dans un journal ou écrit périodique.
-
-Le ou les encartages ainsi insérés dans une même publication sont passibles, outre la taxe afférente à la publication elle-
-même, d'une taxe distincte calculée, selon leur poids total, au tarif des "imprimés et échantillons".
-
-Les cartes ou enveloppes-réponses mentionnées à l'article D. 46 et diffusées sous le couvert d'une publication périodique
-donnent lieu à la perception d'une taxe particulière, indépendante de celle applicable aux autres encartages et calculée
-d'après le poids total des cartes ou enveloppes insérées, sur la base du tarif "imprimés et échantillons". Cette taxe est
-exigible, quel que soit le mode d'insertion de la correspondance-réponse, même si la carte destinée à la réponse est à
-détacher d'une page normale de publication.
-
-La taxe totale à percevoir ne doit en aucun cas excéder celle qui serait applicable à un envoi de même poids affranchi au
-tarif de la catégorie "imprimés et échantillons" ou "paquets-poste", selon le cas.
+Les documents imprimés sur papier ou sur support cartonné accompagnant une publication peuvent être admis au tarif de presse
+sous réserve d'être annoncés au sommaire de la publication. L'appréciation de la publication au regard des critères
+d'éligibilité aux tarifs de presse s'effectue sur l'ensemble constitué par la publication principale et ses encarts.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D46
 
 _Codifié par_:
 
   - Décret n°62-275 1962-03-12
 
-_Créé par_:
-
-  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars et JORF 8 avril 1962
-
 _Modifié par_:
 
-  - Décret n°68-1073 1968-11-22 art. 1 JORF 30 novembre 1968
+  - Décret n°2007-787 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
 
 
 ##### Section 5 : Magazines sonores.<a id=134></a>
