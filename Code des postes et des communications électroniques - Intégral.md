@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2008-05-25
+Version Consolidée au 2008-06-01
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -17,7 +17,7 @@ Version Consolidée au 2008-05-25
           - [Section 1 : Réseaux et services. (art. L33 à L33-5)](#14)
           - [Section 2 : Annuaires et services de renseignements. (art. L34)](#15)
           - [Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques. (art. L34-1 à L34-6)](#16)
-          - [Section 4 : Interconnexion et accès au réseau. (art. L34-8 à L34-8-1)](#17)
+          - [Section 4 : Interconnexion et accès au réseau. (art. L34-8 à L34-8-2)](#17)
           - [Section 5 : Equipements radioélectriques et terminaux. (art. L34-9 à L34-9-1)](#18)
           - [Section 6 : Dispositions particulières aux prestations d'itinérance intranationale. (art. L34-10)](#19)
         - [Chapitre III : Les obligations de service public. (art. L35 à L35-8)](#20)
@@ -3336,6 +3336,33 @@ _Cité par_:
 **Liens**:
 
   - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
+
+
+###### Article L34-8-2
+
+Les opérateurs qui commercialisent un service téléphonique ouvert au public formulent une offre d'interconnexion visant à
+permettre à leurs clients d'appeler gratuitement certains numéros identifiés à cet effet au sein du plan national de
+numérotation. La prestation correspondante d'acheminement de ces appels à destination de l'opérateur exploitant du numéro est
+commercialisée à un tarif raisonnable dans les conditions prévues au I de l'article L. 34-8.
+
+**Nota:**
+
+Loi n° 2008-3 du 3 janvier 2008, article 20 : L'article L. 34-8-2 du code des postes et des communications électroniques
+entre en vigueur le 1er juin 2008.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-3 du 3 janvier 2008 - art. 18
+
+_Cité par_:
+
+  - Loi n°2008-3 du 3 janvier 2008 - art. 20 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L34-8
 
 
 ##### Section 5 : Equipements radioélectriques et terminaux.<a id=18></a>
