@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2008-08-22
+Version Consolidée au 2008-11-15
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -1051,17 +1051,17 @@ _Cité par_:
 
 ###### Article L5-8
 
-Le président de l'Autorité de régulation des communications électroniques et des postes saisit le Conseil de la concurrence
+Le président de l'Autorité de régulation des communications électroniques et des postes saisit l'Autorité de la concurrence
 des abus de position dominante et des pratiques entravant le libre exercice de la concurrence dont il peut avoir connaissance
 dans le domaine des activités postales, notamment lorsqu'un différend lui est soumis en application des articles L. 5-4 et L.
-5-5. Lorsque le Conseil de la concurrence est saisi dans le cadre d'une procédure d'urgence, il se prononce dans les trente
-jours ouvrables suivant la date de la saisine. 
+5-5. Lorsque l'Autorité de la concurrence est saisie dans le cadre d'une procédure d'urgence, elle se prononce dans les
+trente jours ouvrables suivant la date de la saisine. 
 
-Le président de l'Autorité de régulation des communications électroniques et des postes peut également saisir pour avis le
-Conseil de la concurrence de toute autre question relevant de sa compétence.
+Le président de l'Autorité de régulation des communications électroniques et des postes peut également saisir pour avis
+l'Autorité de la concurrence de toute autre question relevant de sa compétence. 
 
-Le Conseil de la concurrence communique à l'Autorité de régulation des communications électroniques et des postes toute
-saisine entrant dans le champ de compétence de celle-ci et recueille son avis sur les pratiques dont il est saisi dans le
+L'Autorité de la concurrence communique à l'Autorité de régulation des communications électroniques et des postes toute
+saisine entrant dans le champ de compétence de celle-ci et recueille son avis sur les pratiques dont elle est saisie dans le
 domaine des activités postales. 
 
 Le président de l'Autorité de régulation des communications électroniques et des postes informe le procureur de la République
@@ -1069,18 +1069,13 @@ des faits qui sont susceptibles de recevoir une qualification pénale.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005 en vigueur le 1er novembre 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
+  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
 
 _Cite_:
 
-  - Code des postes et des communications électronique - art. L5-4 (V)
-  - Code des postes et des communications électronique - art. L5-5 (V)
+  - Code des postes et des communications électroni... - art. L5-4 (V)
 
 _Anciens textes_:
 
@@ -2381,7 +2376,7 @@ seuil fixé par arrêté des ministres chargés des communications électronique
 le plan comptable l'activité déclarée.
 
 En outre, lorsqu'ils disposent dans un secteur d'activité autre que les communications électroniques d'un monopole ou d'une
-position dominante appréciée après avis du Conseil de la concurrence, et que les infrastructures utilisées peuvent être
+position dominante appréciée après avis de l'Autorité de la concurrence, et que les infrastructures utilisées peuvent être
 séparées physiquement, ils sont tenus, dans l'intérêt d'un bon exercice de la concurrence, d'individualiser cette activité
 sur le plan juridique.
 
@@ -2496,11 +2491,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
+  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
 
 _Cite_:
 
@@ -3334,7 +3325,7 @@ communications électroniques et des postes à sa demande.
 Lorsque cela est indispensable pour respecter les objectifs définis à l'article L. 32-1, l'autorité peut imposer, de manière
 objective, transparente, non discriminatoire et proportionnée, les modalités de l'accès ou de l'interconnexion :
 
-a) Soit de sa propre initiative, après avis du Conseil de la concurrence, consultation publique et notification à la
+a) Soit de sa propre initiative, après avis de l'Autorité de la concurrence, consultation publique et notification à la
 Commission européenne et aux autorités compétentes des autres Etats membres de la Communauté européenne ; la décision est
 adoptée dans des conditions de procédure préalablement publiées par l'autorité ;
 
@@ -3395,11 +3386,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
+  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
 
 _Cite_:
 
@@ -3416,7 +3403,7 @@ génération. Celle-ci détermine les conditions techniques et financières de f
 Elle est communiquée à l'Autorité de régulation des communications électroniques et des postes. 
 
 Pour garantir l'égalité des conditions de concurrence ou l'interopérabilité des services, l'Autorité de régulation des
-communications électroniques et des postes peut, après avis du Conseil de la concurrence, demander la modification des
+communications électroniques et des postes peut, après avis de l'Autorité de la concurrence, demander la modification des
 accords d'itinérance locale déjà conclus. 
 
 Les différends relatifs à la conclusion ou à l'exécution de la convention d'itinérance locale sont soumis à l'Autorité de
@@ -3424,17 +3411,9 @@ régulation des communications électroniques et des postes, conformément à l'
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
-
 _Modifié par_:
 
-  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
+  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
 
 _Cité par_:
 
@@ -4497,14 +4476,14 @@ _Modifié par_:
 
 ###### Article L36-10
 
-Le président de l'Autorité de régulation des communications électroniques et des postes saisit le Conseil de la concurrence
+Le président de l'Autorité de régulation des communications électroniques et des postes saisit l'Autorité de la concurrence
 des abus de position dominante et des pratiques entravant le libre exercice de la concurrence dont il pourrait avoir
 connaissance dans le secteur des communications électroniques. Cette saisine peut être introduite dans le cadre d'une
-procédure d'urgence, auquel cas le Conseil de la concurrence est appelé à se prononcer dans les trente jours ouvrables
-suivant la date de la saisine. Il peut également le saisir pour avis de toute autre question relevant de sa compétence. Le
-Conseil de la concurrence communique à l'Autorité de régulation des communications électroniques et des postes toute saisine
-entrant dans le champ de compétence de celle-ci et recueille son avis sur les pratiques dont il est saisi dans le secteur des
-communications électroniques. 
+procédure d'urgence, auquel cas l'Autorité de la concurrence est appelée à se prononcer dans les trente jours ouvrables
+suivant la date de la saisine. Il peut également la saisir pour avis de toute autre question relevant de sa compétence.
+L'Autorité de la concurrence communique à l'Autorité de régulation des communications électroniques et des postes toute
+saisine entrant dans le champ de compétence de celle-ci et recueille son avis sur les pratiques dont elle est saisie dans le
+secteur des communications électroniques. 
 
 Le président de l'Autorité de régulation des communications électroniques et des postes informe le procureur de la République
 des faits qui sont susceptibles de recevoir une qualification pénale.
@@ -4513,11 +4492,7 @@ des faits qui sont susceptibles de recevoir une qualification pénale.
 
 _Modifié par_:
 
-  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
+  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
 
 _Cité par_:
 
@@ -4678,18 +4653,18 @@ _Cite_:
 ###### Article L37-1
 
 L'Autorité de régulation des communications électroniques et des postes détermine, au regard notamment des obstacles au
-développement d'une concurrence effective, et après avis du Conseil de la concurrence, les marchés du secteur des
+développement d'une concurrence effective, et après avis de l'Autorité de la concurrence, les marchés du secteur des
 communications électroniques pertinents, en vue de l'application des articles L. 38, L. 38-1 et L. 38-2.
 
-Après avoir analysé l'état et l'évolution prévisible de la concurrence sur ces marchés, l'autorité établit, après avis du
-Conseil de la concurrence, la liste des opérateurs réputés exercer une influence significative sur chacun de ces marchés, au
-sens des dispositions de l'alinéa suivant.
+Après avoir analysé l'état et l'évolution prévisible de la concurrence sur ces marchés, l'autorité établit, après avis de
+l'Autorité de la concurrence, la liste des opérateurs réputés exercer une influence significative sur chacun de ces marchés,
+au sens des dispositions de l'alinéa suivant. 
 
 Est réputé exercer une influence significative sur un marché du secteur des communications électroniques tout opérateur qui,
 pris individuellement ou conjointement avec d'autres, se trouve dans une position équivalente à une position dominante lui
 permettant de se comporter de manière indépendante vis-à-vis de ses concurrents, de ses clients et des consommateurs. Dans ce
 cas, l'opérateur peut également être réputé exercer une influence significative sur un autre marché étroitement lié au
-premier.
+premier. 
 
 Un décret précise les modalités d'application du présent article, notamment les conditions de reconduction et la fréquence
 minimale des analyses mentionnées au premier alinéa, ainsi que les cas dans lesquels l'autorité est tenue, eu égard aux
@@ -4699,11 +4674,7 @@ attributions du Conseil supérieur de l'audiovisuel, de recueillir préalablemen
 
 _Modifié par_:
 
-  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
+  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
 
 _Cité par_:
 
@@ -20934,7 +20905,7 @@ le cas échéant, dans la décision adoptée par la Commission européenne en ap
 sont considérés comme pertinents.
 
 Les projets de mesures pris en application du premier alinéa de l'article L. 37-1 font l'objet d'une consultation publique
-dans les conditions prévues aux articles L. 32-1 et D. 304. Ils sont soumis pour avis au Conseil de la concurrence et,
+dans les conditions prévues aux articles L. 32-1 et D. 304. Ils sont soumis pour avis à l'Autorité de la concurrence et,
 lorsqu'ils incluent la diffusion de la radio et de la télévision dans le périmètre d'un marché pertinent, au Conseil
 supérieur de l'audiovisuel, qui se prononcent dans un délai de six semaines. Elles font l'objet d'une consultation de la
 Commission européenne et des autorités compétentes des autres Etats membres de la Communauté européenne dans les conditions
@@ -20960,13 +20931,9 @@ par ce réexamen.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
 _Modifié par_:
 
-  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
 
 _Cité par_:
 
@@ -20998,8 +20965,8 @@ significative sur ces marchés en concertation avec les autorités compétentes 
 européenne.
 
 Les projets de mesures pris en application du deuxième alinéa de l'article L. 37-1 font l'objet d'une consultation publique
-dans les conditions prévues aux articles L. 32-1 et D. 304. Ils sont soumis pour avis au Conseil de la concurrence et,
-lorsqu'ils concernent des marchés pertinents sur lesquels il a été saisi en application de l'article D. 301, au Conseil
+dans les conditions prévues aux articles L. 32-1 et D. 304. Ils sont soumis pour avis à l'Autorité de la concurrence et,
+lorsqu'ils concernent des marchés pertinents sur lesquels elle a été saisie en application de l'article D. 301, au Conseil
 supérieur de l'audiovisuel, qui se prononcent dans un délai de 6 semaines. Ils font l'objet d'une consultation de la
 Commission européenne et des autorités compétentes des autres Etats membres de la Communauté européenne dans les conditions
 prévues aux articles L. 37-3 et D. 305.
@@ -21050,13 +21017,9 @@ Cette liste n'est pas exhaustive et les caractéristiques mentionnées ne sont p
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
 _Modifié par_:
 
-  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
 
 _Cite_:
 
@@ -21143,7 +21106,7 @@ publique prévue au III de l'article L. 32-1 si ce délai est plus long.
 
 La notification indique, s'il y a lieu, le caractère confidentiel des informations transmises, et comporte tous les documents
 nécessaires à la justification et la motivation et facilitant l'examen des décisions dont l'adoption est envisagée, notamment
-le résultat de la consultation organisée au titre du III de l'article L. 32-1 et, le cas échéant, l'avis du Conseil de la
+le résultat de la consultation organisée au titre du III de l'article L. 32-1 et, le cas échéant, l'avis de l'Autorité de la
 concurrence. Si la Commission européenne indique que la notification est incomplète, le délai mentionné au premier alinéa
 commence à courir à compter de la réception des compléments requis. La notification peut être retirée à tout moment.
 
@@ -21154,13 +21117,9 @@ les conditions prévues aux deux premiers alinéas du présent article, à l'exc
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
 _Modifié par_:
 
-  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
 
 _Cité par_:
 
