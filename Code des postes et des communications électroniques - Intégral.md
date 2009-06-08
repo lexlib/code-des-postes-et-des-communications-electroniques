@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-06-09
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -149,7 +149,7 @@ Version Consolidée au 2009-05-14
         - [Chapitre II : Distribution au guichet. (art. D93)](#146)
       - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#147)
     - [LIVRE II : Les communications électroniques (art. D98 à D407-3)](#148)
-      - [TITRE Ier : Dispositions générales (art. D98 à D406-4)](#149)
+      - [TITRE Ier : Dispositions générales (art. D98 à D377)](#149)
         - [Chapitre II : Régime juridique (art. D98 à D101)](#150)
           - [Section 1 : Réseaux et services (art. D98 à D99-3)](#151)
             - [Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public. (art. D98 à D98-2)](#152)
@@ -165,18 +165,17 @@ Version Consolidée au 2009-05-14
           - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#162)
           - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#163)
           - [Section 3 : Liaisons louées. (art. D369 à D377)](#164)
-        - [Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques. (art. D406-1 à D406-4)](#165)
-      - [TITRE II : Ressources et police (art. D406-5 à D407-3)](#166)
-        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17)](#167)
-          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#168)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17)](#169)
-        - [Chapitre II : Numérotation et adressage. (art. D406-18 à D406-19)](#170)
-        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-3)](#171)
-          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#172)
-    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#173)
-      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#174)
-      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#175)
-      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#176)
+      - [TITRE II : Ressources et police (art. D406-5 à D407-3)](#165)
+        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17)](#166)
+          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#167)
+          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17)](#168)
+        - [Chapitre II : Numérotation et adressage. (art. D406-18 à D406-19)](#169)
+        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-3)](#170)
+          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#171)
+    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#172)
+      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#173)
+      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#174)
+      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#175)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -22220,375 +22219,11 @@ _Cite_:
   - Code des postes et des communications électronique - art. L38-1 (M)
 
 
-#### Chapitre VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.<a id=165></a>
+### TITRE II : Ressources et police<a id=165></a>
 
-###### Article D406-1
+#### Chapitre Ier : Fréquences radioélectriques.<a id=166></a>
 
-Il est créé auprès du ministre chargé des communications électroniques un conseil consultatif appelé Conseil supérieur de la
-télématique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-
-###### Article D406-1-1
-
-Le Conseil supérieur de la télématique comprend :
-
-1. Un conseiller d'Etat, en activité ou honoraire, président ;
-
-2. Un magistrat de la Cour de cassation, en activité ou honoraire, vice-président ;
-
-3. Un magistrat, juge des enfants ou ayant exercé les fonctions de juge des enfants ;
-
-4. Douze représentants de professionnels, dont :
-
-a) Cinq personnes désignées sur proposition des principaux groupements ou syndicats de fournisseurs ou d'éditeurs de services
-télématiques ;
-
-b) Deux représentants de la presse désignés sur proposition des principaux syndicats représentatifs ;
-
-c) Cinq représentants des fournisseurs de moyens télématiques et des opérateurs, dont un représentant de l'opérateur public
-chargé du service universel, un représentant des fournisseurs de moyens télématiques et trois représentants désignés sur
-proposition des principaux groupements ou syndicats d'opérateurs ;
-
-5. Sept représentants des utilisateurs de services télématiques, dont :
-
-a) Trois personnes désignées sur proposition des principales associations familiales ;
-
-b) Quatre personnes désignées sur proposition des principaux groupements, associations, ou syndicats de consommateurs
-intéressés ;
-
-6. Deux représentants de l'Etat, dont un représentant du ministère chargé des communications électroniques et un représentant
-du ministère chargé de la communication.
-
-Un suppléant est désigné pour chacun des membres titulaires mentionnés aux 4, 5 et 6. Les membres du conseil ainsi que les
-suppléants sont nommés pour trois ans, par arrêté conjoint des ministres chargés de la justice, des communications
-électroniques et de la communication.
-
-Lorsqu'un membre titulaire ou suppléant cesse ses fonctions ou perd la qualité en raison de laquelle il a été nommé, un
-nouveau membre est nommé pour la durée restant à courir jusqu'au renouvellement du conseil.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-
-###### Article D406-1-2
-
-Le Conseil supérieur de la télématique est chargé de formuler des recommandations de nature déontologique, visant notamment à
-la protection de la jeunesse, applicables aux services offerts par les accès télématiques anonymes écrits ou vocaux et à
-leurs conditions d'accès ; ces recommandations prennent en particulier la forme de propositions concernant les contrats types
-souscrits par les opérateurs entre eux ou avec les fournisseurs de services et, le cas échéant, avec les fournisseurs de
-moyens télématiques.
-
-Le Conseil supérieur de la télématique peut être saisi pour avis par les opérateurs de ces projets de contrats types ainsi
-que de leurs projets de modification. Il peut être saisi par chacun de ses membres de propositions de modification de ces
-mêmes contrats. Les avis rendus par le Conseil supérieur de la télématique à cette occasion sont publics.
-
-Le Conseil supérieur de la télématique peut être consulté par le ministre chargé des communications électroniques sur toutes
-questions ayant trait aux conditions générales de développement de la télématique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-
-###### Article D406-1-3
-
-Le Conseil supérieur de la télématique peut recevoir de tout intéressé des réclamations portant sur le respect des
-recommandations de nature déontologique. Le président du conseil peut saisir le comité de la télématique anonyme de tout
-manquement au respect des recommandations déontologiques dont il a connaissance. Lorsque ces faits sont de nature à motiver
-des poursuites pénales, il en informe le procureur de la République compétent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-
-###### Article D406-1-4
-
-Le Conseil supérieur de la télématique se réunit au moins trois fois par an, sur convocation de son président.
-
-Lors des votes, en cas de partage des voix, celle du président est prépondérante.
-
-Le Conseil supérieur de la télématique est assisté d'un rapporteur général désigné par son président.
-
-Le Conseil supérieur de la télématique établit son règlement intérieur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-
-###### Article D406-1-5
-
-Le Conseil supérieur de la télématique établit un rapport annuel remis aux ministres chargés de la justice, des
-communications électroniques et de la communication.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-
-###### Article D406-2
-
-Il est institué auprès du Conseil supérieur de la télématique un comité consultatif appelé comité de la télématique anonyme.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications R54-1
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-
-###### Article D406-2-1
-
-Le comité de la télématique anonyme est composé de sept membres choisis au sein du Conseil supérieur de la télématique, dont
-le vice-président de ce conseil, président, un représentant du ministre chargé de la communication, deux représentants des
-utilisateurs et trois représentants de la presse et des fournisseurs ou éditeurs de services, dont au moins un représentant
-la presse.
-
-Les membres du comité de la télématique anonyme sont désignés par arrêté conjoint des ministres chargés des communications
-électroniques et de la communication, sur proposition du président du Conseil supérieur de la télématique. Leur
-renouvellement s'effectue à chaque renouvellement du Conseil supérieur de la télématique.
-
-Chaque membre du comité, à l'exception du président, a un suppléant désigné dans les mêmes conditions que lui.
-
-Lorsqu'un membre titulaire ou suppléant cesse ses fonctions ou perd la qualité en raison de laquelle il a été nommé, un
-nouveau membre est nommé pour la durée restant à courir jusqu'au renouvellement du comité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-_Cite_:
-
-  - Code des postes et des communications électronique - art. R54-1 (Ab)
-
-
-###### Article D406-2-2
-
-Le comité de la télématique anonyme peut être saisi, par l'une ou l'autre des parties au contrat, en cas de différend
-relatif :
-
-A. - Au respect des recommandations de nature déontologique applicables aux services offerts sur les accès télématiques
-anonymes, écrits ou vocaux, et à leurs conditions d'accès ;
-
-B. - Aux clauses des contrats conclus entre les opérateurs et les fournisseurs de services ou de moyens télématiques ayant
-une incidence déontologique.
-
-Il peut être consulté par un opérateur avant que celui-ci ne décide la résiliation ou la suspension d'un contrat passé avec
-un fournisseur de services télématiques et, éventuellement, un centre serveur, sauf dans le cas où cette décision est prise à
-la requête de l'autorité judiciaire ou dans le cas de non-exécution de clauses strictement commerciales.
-
-Il peut être consulté par un opérateur sur le raccordement d'un service à une catégorie d'accès télématique anonyme. Il peut
-être saisi, pour avis, par un fournisseur de services auquel a été refusé le bénéfice d'un accès télématique anonyme, écrit
-ou vocal, professionnel ou grand public.
-
-Après avoir recueilli les observations écrites des parties, le comité de la télématique anonyme émet un avis dans un délai de
-deux mois à compter de sa saisine. En cas d'urgence, ce délai est ramené à quinze jours.
-
-Lorsqu'il constate une violation des recommandations visées à l'article D. 406-1-2, le comité recommande les mesures de
-nature à y mettre fin, notamment la suspension ou la résiliation du contrat. Ces avis sont motivés et notifiés au fournisseur
-de service télématique intéressé, à l'opérateur concerné ainsi qu'au président du Conseil supérieur de la télématique. Ils
-sont publics, à l'exception de toute mention relative à l'identité du fournisseur de service.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D406-1-2
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Décret n°2002-219 du 20 février 2002 - art. 3 () JORF 21 février 2002
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-
-###### Article D406-2-3
-
-Le président du Conseil supérieur de la télématique approuve le règlement intérieur du comité de la télématique anonyme
-proposé par son président.
-
-Le ou les rapporteurs chargés de l'instruction des dossiers sont désignés par le président du Conseil supérieur de la
-télématique.
-
-Lors des votes, en cas de partage égal des voix, celle du président du comité de la télématique anonyme est prépondérante.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Créé par_:
-
-  - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-
-###### Article D406-3
-
-Le Conseil supérieur de la télématique et le comité de la télématique anonyme disposent d'un secrétariat commun, placé sous
-l'autorité du président et du vice-président du Conseil supérieur de la télématique.
-
-Les présidents du conseil et du comité peuvent faire appel à des experts.
-
-Les moyens de fonctionnement du Conseil supérieur de la télématique, du comité de la télématique anonyme et de leur
-secrétariat sont assurés par le ministère chargé des communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-
-###### Article D406-4
-
-Selon des conditions par elle définies et sous réserve du droit des tiers, l'administration chargée des communications
-électroniques met à la disposition des fournisseurs de service ou de leurs mandataires des codes d'accès aux services
-Télétel.
-
-Deux catégories de codes d'accès sont offertes :
-
-Les codes d'accès de catégorie I permettant l'accès aux services Télétel par une double numérotation :
-
-- numérotation téléphonique à quatre chiffres permettant d'aboutir à un point d'accès Télétel ;
-
-- numérotation par un code alphanumérique appelé code de service.
-
-Les codes d'accès de catégorie 2 correspondant à des numéros téléphoniques à huit chiffres de la forme 36PQ MCDU, dont les
-quatre derniers chiffres permettent l'accès direct à un service Télétel.
-
-Cette mise à disposition de code d'accès donne lieu au paiement de frais et redevances perçus auprès des fournisseurs de
-service ou de leurs mandataires dûment désignés.
-
-Les conditions d'émission de la facture et le paiement des sommes dues sont celles prévues pour les abonnements
-téléphoniques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-
-### TITRE II : Ressources et police<a id=166></a>
-
-#### Chapitre Ier : Fréquences radioélectriques.<a id=167></a>
-
-##### Section 1 : Dispositions générales<a id=168></a>
+##### Section 1 : Dispositions générales<a id=167></a>
 
 ###### Article D406-5
 
@@ -22852,7 +22487,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D487 (M)
 
 
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=169></a>
+##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=168></a>
 
 ###### Article D406-14
 
@@ -22983,7 +22618,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L42-1 (V)
 
 
-#### Chapitre II : Numérotation et adressage.<a id=170></a>
+#### Chapitre II : Numérotation et adressage.<a id=169></a>
 
 ###### Article D406-18
 
@@ -23096,9 +22731,9 @@ _Créé par_:
   - Décret n°2006-82 du 27 janvier 2006 - art. 1 () JORF 28 janvier 2006
 
 
-#### CHAPITRE III : Etablissement de lignes<a id=171></a>
+#### CHAPITRE III : Etablissement de lignes<a id=170></a>
 
-##### Section 1 : Dispositions générales.<a id=172></a>
+##### Section 1 : Dispositions générales.<a id=171></a>
 
 ###### Article D407-1
 
@@ -23172,9 +22807,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
-## LIVRE IV : Dispositions communes et finales<a id=173></a>
+## LIVRE IV : Dispositions communes et finales<a id=172></a>
 
-### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=174></a>
+### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=173></a>
 
 ###### Article D570
 
@@ -23318,7 +22953,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-6 (T)
 
 
-### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=175></a>
+### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=174></a>
 
 ###### Article D576
 
@@ -23625,7 +23260,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-17 (T)
 
 
-### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=176></a>
+### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=175></a>
 
 ###### Article D587
 
