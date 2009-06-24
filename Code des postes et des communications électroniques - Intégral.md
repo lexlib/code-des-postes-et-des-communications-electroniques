@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2009-06-20
+Version Consolidée au 2009-06-25
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -155,27 +155,26 @@ Version Consolidée au 2009-06-20
             - [Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public. (art. D98 à D98-2)](#152)
             - [Paragraphe 2 : Obligations des opérateurs. (art. D98-3 à D98-12)](#153)
             - [Paragraphe 3 : Conditions d'exploitation des réseaux indépendants. (art. D99 à D99-3)](#154)
-          - [Section 2 : Commission consultative des radiocommunications et commission consultative des réseaux et services de communications électroniques (art. D99-4 à D99-5-1)](#155)
-            - [Paragraphe 1 : Commission consultative des radiocommunications. (art. D99-4)](#156)
-            - [Paragraphe 2 : Commission consultative des réseaux et services de communications électroniques. (art. D99-5)](#157)
-            - [Paragraphe 3 : Organisation et fonctionnement des commissions consultatives. (art. D99-5-1)](#158)
-          - [section 3 : Interconnexion et accès (art. D99-6 à D99-11)](#159)
-          - [Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques. (art. D100 à D101)](#160)
-        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D377)](#161)
-          - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#162)
-          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#163)
-          - [Section 3 : Liaisons louées. (art. D369 à D377)](#164)
-      - [TITRE II : Ressources et police (art. D406-5 à D407-3)](#165)
-        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17)](#166)
-          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#167)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17)](#168)
-        - [Chapitre II : Numérotation et adressage. (art. D406-18 à D406-19)](#169)
-        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-3)](#170)
-          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#171)
-    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#172)
-      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#173)
-      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#174)
-      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#175)
+          - [Section 2 :  Commission consultative des communications électroniques (art. D99-4 à D99-5)](#155)
+            - [Paragraphe 1 : Composition et attributions de la commission consultative (art. D99-4)](#156)
+            - [Paragraphe 2 : Organisation et fonctionnement   de la commission consultative (art. D99-5)](#157)
+          - [section 3 : Interconnexion et accès (art. D99-6 à D99-11)](#158)
+          - [Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques. (art. D100 à D101)](#159)
+        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D377)](#160)
+          - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#161)
+          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#162)
+          - [Section 3 : Liaisons louées. (art. D369 à D377)](#163)
+      - [TITRE II : Ressources et police (art. D406-5 à D407-3)](#164)
+        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17)](#165)
+          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#166)
+          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17)](#167)
+        - [Chapitre II : Numérotation et adressage. (art. D406-18 à D406-19)](#168)
+        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-3)](#169)
+          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#170)
+    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#171)
+      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#172)
+      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#173)
+      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#174)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -20590,216 +20589,135 @@ _Modifié par_:
   - Décret n°2005-862 du 26 juillet 2005 - art. 1 () JORF 29 juillet 2005
 
 
-##### Section 2 : Commission consultative des radiocommunications et commission consultative des réseaux et services de communications électroniques<a id=155></a>
+##### Section 2 :  Commission consultative des communications électroniques<a id=155></a>
 
-##### Paragraphe 1 : Commission consultative des radiocommunications.<a id=156></a>
+##### Paragraphe 1 : Composition et attributions de la commission consultative<a id=156></a>
 
 ###### Article D99-4
 
-La commission consultative des radiocommunications est composée de vingt et un membres nommés par arrêté du ministre chargé
-des communications électroniques, après avis de l'Autorité de régulation des communications électroniques et des postes. Elle
-comprend :
+La commission consultative des communications électroniques est composée de vingt-quatre membres nommés par arrêté du
+ministre chargé des communications électroniques. 
 
-- sept représentants des exploitants de réseaux et fournisseurs de services radioélectriques ;
+Elle comprend :
 
-- sept représentants des utilisateurs de ces réseaux et services, professionnels et particuliers ;
+- huit représentants des exploitants de réseaux et des fournisseurs de services de communications électroniques ;
 
-- sept personnalités qualifiées.
+- huit représentants des utilisateurs de réseaux et des services, professionnels et particuliers ;
 
-La commission est consultée par l'autorité compétente sur :
+- huit personnalités qualifiées. 
 
-- les projets portant sur les règles qui s'appliquent aux catégories de réseaux mentionnées aux articles L. 33-1 et L. 33-2
-qui utilisent des fréquences radioélectriques ;
+La commission est consultée par le ministre chargé des communications électroniques ou par l'Autorité de régulation des
+communications électroniques et des postes sur tout projet de mesure visant à fixer ou à modifier :
 
-- les projets de spécifications et de prescriptions techniques applicables à ces réseaux et services ; la commission tient
-alors compte des normes, avis ou recommandations émanant des instances européennes et internationales ;
+- les procédures de déclaration et les règles qui s'appliquent aux catégories de réseaux, services de communications
+électroniques ou installations en application des articles L. 33-1, L. 33-2 et L. 33-3 qui utilisent ou non des fréquences
+radioélectriques ;
 
-- les projets visant à fixer les conditions dans lesquelles les réseaux radioélectriques indépendants peuvent être connectés
-à un réseau ouvert au public ;
+- les conditions dans lesquelles les réseaux indépendants peuvent être connectés à un réseau ouvert au public ;
 
-- les projets déterminant les catégories d'installation qui peuvent être établies librement en application de l'article L.
-33-3 et leurs conditions d'utilisation ;
+- les catégories d'installation qui peuvent être établies librement en application de l'article L. 33-3 et leurs conditions
+d'utilisation ;
 
-- les projets visant à définir les prescriptions relatives à l'interconnexion et à la numérotation mentionnées aux articles
-L. 34-8 et L. 44 ;
+- les prescriptions relatives à l'interconnexion et à l'accès aux réseaux et à la numérotation en application des articles L.
+34-8 et L. 44 ;
 
-- les projets visant à fixer ou à modifier, conformément à l'article L. 42, les conditions techniques et d'exploitation des
-fréquences ou bandes de fréquences dont l'assignation est confiée à l'Autorité de régulation des communications électroniques
-et des postes et à définir les procédures d'attribution de ces fréquences, leurs conditions d'utilisation et de cession en
-application des articles L. 42-1 à L. 42-3.
+- les conditions techniques et d'exploitation des fréquences ou bandes de fréquences dont l'assignation est confiée à
+l'Autorité de régulation des communications électroniques et des postes ainsi que les procédures d'attribution de ces
+fréquences, leurs conditions d'utilisation et de cession en application des articles L. 42 à L. 42-3. 
 
 La commission peut être saisie, par le ministre chargé des communications électroniques ou par l'Autorité de régulation des
 communications électroniques et des postes, de demandes d'avis, d'études ou de toute autre question relevant de son domaine
 de compétence. Elle peut décider, à l'initiative de son président et avec l'accord de la majorité de ses membres, de se
 saisir de toute question entrant dans son domaine de compétence. Elle en informe alors le ministre chargé des communications
-électroniques et l'Autorité de régulation des communications électroniques et des postes.
+électroniques et l'Autorité de régulation des communications électroniques et des postes. 
 
-Le président de la commission consultative des radiocommunications transmet les avis émis par cette instance au ministre
-chargé des communications électroniques et à l'Autorité de régulation des communications électroniques et des postes. Le
-ministre transmet à la Commission supérieure du service public des postes et des communications électroniques les avis que la
-commission consultative des radiocommunications a émis sur les projets mentionnés au deuxième alinéa du présent article. Les
-avis émis par la commission peuvent être rendus publics, soit à l'initiative de l'autorité qui les a sollicités, soit à
+Le président de la commission consultative des communications électroniques transmet les avis émis par cette instance au
+ministre chargé des communications électroniques, à la Commission supérieure du service public des postes et des
+communications électroniques et à l'Autorité de régulation des communications électroniques et des postes. 
+
+Les avis émis par la commission peuvent être rendus publics, soit à l'initiative de l'autorité qui les a sollicités, soit à
 l'initiative du président de la commission, avec l'accord de la majorité des membres de cette instance et après que
 l'autorité de saisine en a été informée.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
 _Modifié par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. D99-5-1 (Ab)
-
-_Anciens textes_:
-
-  - Code des postes et des communications électronique - art. D97-1 (M)
-
-_Cite_:
-
-  - Code des postes et des communications électronique - art. L33-1 (M)
-  - Code des postes et des communications électronique - art. L33-2 (M)
-  - Code des postes et des communications électronique - art. L33-3 (M)
-  - Code des postes et des communications électronique - art. L34-8 (M)
-  - Code des postes et des communications électronique - art. L42 (M)
-  - Code des postes et des communications électronique - art. L44 (M)
-  - Code des postes et des communications électroniques L33-1, L33-2, L33-3, L34-8, L44, L42, L42-1 à L42-3
-
-
-##### Paragraphe 2 : Commission consultative des réseaux et services de communications électroniques.<a id=157></a>
-
-###### Article D99-5
-
-La commission consultative des réseaux et services de communications électroniques est composée de vingt et un membres nommés
-par arrêté du ministre chargé des communications électroniques, après avis de l'Autorité de régulation des communications
-électroniques et des postes. Elle comprend :
-
-- sept représentants des exploitants de réseaux et fournisseurs de services autres que radioélectriques ;
-
-- sept représentants des utilisateurs de ces réseaux et services, professionnels et particuliers ;
-
-- sept personnalités qualifiées.
-
-La commission est consultée par l'autorité compétente sur :
-
-- les projets visant à définir les procédures de déclaration et à fixer ou modifier les conditions techniques et
-d'exploitation des réseaux et services de communications électroniques autres que radioélectriques mentionnés aux articles L.
-33-1, L. 33-2 et L. 33-3 ;
-
-- les projets de spécifications et de prescriptions techniques applicables à ces réseaux et services ; la commission tient
-alors compte des normes, avis ou recommandations émanant des instances européennes et internationales ;
-
-- les projets visant à définir les prescriptions relatives à l'interconnexion et à la numérotation mentionnées aux articles
-L. 34-8 et L. 44.
-
-La commission peut être saisie, par le ministre chargé des communications électroniques ou par l'Autorité de régulation des
-communications électroniques et des postes, de demandes d'avis, d'études ou de toute autre question relevant de son domaine
-de compétence. Elle peut décider, à l'initiative de son président et avec l'accord de la majorité de ses membres, de se
-saisir de toute question entrant dans son domaine de compétence. Elle en informe alors le ministre chargé des communications
-électroniques et l'Autorité de régulation des communications électroniques et des postes.
-
-Le président de la commission consultative des réseaux et services de communications électroniques transmet les avis émis par
-cette instance au ministre chargé des communications électroniques et à l'Autorité de régulation des communications
-électroniques et des postes. Le ministre transmet à la Commission supérieure du service public des postes et des
-communications électroniques les avis que la commission consultative des réseaux et services de communications électroniques
-a émis sur les projets sur lesquels elle a été consultée. Les avis émis par la commission peuvent être rendus publics, soit à
-l'initiative de l'autorité qui les a sollicités, soit à l'initiative du président de la commission, avec l'accord de la
-majorité des membres de cette instance et après que l'autorité de saisine en a été informée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-_Cité par_:
-
-  - Code des postes et des communications électroni... - art. D99-5-1 (Ab)
-
-_Anciens textes_:
-
-  - Code des postes et des communications électronique - art. D97-2 (M)
-
-_Cite_:
-
-  - Code des postes et des communications électronique - art. L33-1 (M)
-  - Code des postes et des communications électronique - art. L33-2 (M)
-  - Code des postes et des communications électronique - art. L33-3 (M)
-  - Code des postes et des communications électronique - art. L34-8 (M)
-  - Code des postes et des communications électronique - art. L44 (M)
-
-
-##### Paragraphe 3 : Organisation et fonctionnement des commissions consultatives.<a id=158></a>
-
-###### Article D99-5-1
-
-Le président de chacune des commissions mentionnées aux articles D. 99-4 et D. 99-5 est désigné par le ministre chargé des
-communications électroniques, après avis de l'Autorité de régulation des communications électroniques et des postes, parmi
-les personnalités qualifiées, membres de ces commissions. Il a voix prépondérante en cas de partage des voix.
-
-Les membres des commissions sont nommés pour trois ans. Ils perdent cette qualité en même temps que les mandats ou les
-fonctions au titre desquels ils ont été désignés. En cas de vacance d'un siège en cours de mandat, la durée de la nouvelle
-nomination est limitée à la période restant à courir.
-
-Lorsqu'un membre d'une des commissions n'a pas assisté à trois réunions consécutives, le ministre chargé des communications
-électroniques peut, si le président de la commission le propose, procéder au remplacement dudit membre.
-
-Le ministre chargé des communications électroniques ou son représentant et le président de l'Autorité de régulation des
-communications électroniques et des postes ou son représentant assistent de plein droit, sans voix délibérative, aux réunions
-de chacune des commissions consultatives.
-
-Chacune des commissions consultatives se réunit au moins deux fois par an, sur proposition de son président ou à la demande
-de la majorité de ses membres.
-
-Le président de chaque commission convoque les membres aux réunions et fixe l'ordre du jour de celles-ci.
-
-Chacune des commissions adopte son règlement intérieur.
-
-Chacune des commissions peut s'adjoindre, à titre permanent, un ou plusieurs groupes techniques spécialisés.
-
-Chaque commission peut créer des groupes de travail, désigner des rapporteurs pour l'instruction de questions particulières
-et entendre des experts.
-
-Les membres des commissions veillent à garantir la confidentialité des faits, informations ou documents dont ils ont
-connaissance dans l'exercice ou à l'occasion de leurs fonctions au sein de ces dernières.
-
-Chacune des commissions est dotée d'un secrétariat assuré par l'Autorité de régulation des communications électroniques et
-des postes et d'un secrétariat adjoint assuré par le ministère chargé des communications électroniques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
-_Modifié par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-_Abrogé par_:
 
   - Décret n°2009-764 du 23 juin 2009 - art. 1
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Code des postes et des communications électronique - art. D97-3 (M)
+  - Décret n°2015-1566 du 1er décembre 2015 - art. 1
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. D99-5 (Ab)
+  - Code des postes et des communications électroni... - art. D99-5-1 (Ab)
 
 _Cite_:
 
-  - Code des postes et des communications électroniques - art. D99-4
-  - Code des postes et des communications électroniques - art. D99-5
+  - Code des postes et des communications électroniques - art. L33-1
+  - Code des postes et des communications électroniques - art. L34-8
+  - Code des postes et des communications électroniques - art. L42
+  - Code des postes et des communications électroniques - art. L44
 
 
-##### section 3 : Interconnexion et accès<a id=159></a>
+##### Paragraphe 2 : Organisation et fonctionnement   de la commission consultative<a id=157></a>
+
+###### Article D99-5
+
+Le président de la commission mentionnée à l'article D. 99-4 est désigné par le ministre chargé des communications
+électroniques, après avis de l'Autorité de régulation des communications électroniques et des postes, parmi les personnalités
+qualifiées, membres de cette commission. Il a voix prépondérante en cas de partage des voix. 
+
+Les membres de la commission sont nommés pour trois ans. Les membres qui n'exercent plus les fonctions au titre desquelles
+ils avaient été désignés sont remplacés. En cas de vacance, le mandat des nouveaux membres expire à la date à laquelle aurait
+normalement pris fin celui de leur prédécesseur. 
+
+Les membres désignés, sauf les personnalités qualifiées, peuvent se faire représenter par un membre de l'organisme auquel ils
+appartiennent. Toutefois, lorsque le membre titulaire de la commission n'a pas assisté personnellement à trois réunions
+consécutives, le ministre chargé des communications électroniques peut, si le président de la commission le propose, procéder
+au remplacement dudit membre. 
+
+Le ministre chargé des communications électroniques ou son représentant et le président de l'Autorité de régulation des
+communications électroniques et des postes ou son représentant assistent de plein droit, sans voix délibérative, aux réunions
+de la commission consultative. 
+
+La commission consultative se réunit au moins deux fois par an, sur proposition de son président ou à la demande de la
+majorité de ses membres. 
+
+Le président de la commission convoque les membres aux réunions et fixe l'ordre du jour de celles-ci. 
+
+La commission adopte son règlement intérieur, lequel prévoit notamment qu'elle peut s'adjoindre, à titre permanent ou
+temporaire, un ou plusieurs groupes techniques spécialisés, créer des groupes de travail, désigner des rapporteurs pour
+l'instruction de questions particulières ou entendre des experts. 
+
+Les membres de la commission veillent à garantir la confidentialité des faits, informations ou documents dont ils ont
+connaissance dans l'exercice ou à l'occasion de leurs fonctions au sein de cette dernière. 
+
+La commission est dotée d'un secrétariat assuré par l'Autorité de régulation des communications électroniques et des postes
+et d'un secrétariat adjoint assuré par le ministère chargé des communications électroniques.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-764 du 23 juin 2009 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2015-1566 du 1er décembre 2015 - art. 1
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. D99-4 (Ab)
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. D99-5-1 (Ab)
+
+
+##### section 3 : Interconnexion et accès<a id=158></a>
 
 ###### Article D99-6
 
@@ -21066,7 +20984,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L37-3 (V)
 
 
-##### Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques.<a id=160></a>
+##### Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques.<a id=159></a>
 
 ###### Article D100
 
@@ -21121,9 +21039,9 @@ _Créé par_:
   - Décret n°2006-61 du 18 janvier 2006 - art. 1 () JORF 20 janvier 2006
 
 
-#### Chapitre IV : La régulation des communications électroniques.<a id=161></a>
+#### Chapitre IV : La régulation des communications électroniques.<a id=160></a>
 
-##### Section 1 : Autorité de régulation des communications électroniques et des postes<a id=162></a>
+##### Section 1 : Autorité de régulation des communications électroniques et des postes<a id=161></a>
 
 ###### Article D288
 
@@ -21320,7 +21238,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D97-11 (T)
 
 
-##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=163></a>
+##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=162></a>
 
 ###### Article D301
 
@@ -22019,7 +21937,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L38-1 (V)
 
 
-##### Section 3 : Liaisons louées.<a id=164></a>
+##### Section 3 : Liaisons louées.<a id=163></a>
 
 ###### Article D369
 
@@ -22249,11 +22167,11 @@ _Cite_:
   - Code des postes et des communications électronique - art. L38-1 (M)
 
 
-### TITRE II : Ressources et police<a id=165></a>
+### TITRE II : Ressources et police<a id=164></a>
 
-#### Chapitre Ier : Fréquences radioélectriques.<a id=166></a>
+#### Chapitre Ier : Fréquences radioélectriques.<a id=165></a>
 
-##### Section 1 : Dispositions générales<a id=167></a>
+##### Section 1 : Dispositions générales<a id=166></a>
 
 ###### Article D406-5
 
@@ -22517,7 +22435,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D487 (M)
 
 
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=168></a>
+##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=167></a>
 
 ###### Article D406-14
 
@@ -22648,7 +22566,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L42-1 (V)
 
 
-#### Chapitre II : Numérotation et adressage.<a id=169></a>
+#### Chapitre II : Numérotation et adressage.<a id=168></a>
 
 ###### Article D406-18
 
@@ -22761,9 +22679,9 @@ _Créé par_:
   - Décret n°2006-82 du 27 janvier 2006 - art. 1 () JORF 28 janvier 2006
 
 
-#### CHAPITRE III : Etablissement de lignes<a id=170></a>
+#### CHAPITRE III : Etablissement de lignes<a id=169></a>
 
-##### Section 1 : Dispositions générales.<a id=171></a>
+##### Section 1 : Dispositions générales.<a id=170></a>
 
 ###### Article D407-1
 
@@ -22837,9 +22755,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
-## LIVRE IV : Dispositions communes et finales<a id=172></a>
+## LIVRE IV : Dispositions communes et finales<a id=171></a>
 
-### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=173></a>
+### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=172></a>
 
 ###### Article D570
 
@@ -22983,7 +22901,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-6 (T)
 
 
-### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=174></a>
+### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=173></a>
 
 ###### Article D576
 
@@ -23290,7 +23208,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-17 (T)
 
 
-### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=175></a>
+### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=174></a>
 
 ###### Article D587
 
