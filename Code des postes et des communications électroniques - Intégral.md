@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2009-08-01
+Version Consolidée au 2009-12-19
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -19,7 +19,7 @@ Version Consolidée au 2009-08-01
           - [Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques. (art. L34-1 à L34-6)](#16)
           - [Section 4 : Interconnexion et accès au réseau. (art. L34-8 à L34-8-3)](#17)
           - [Section 5 : Equipements radioélectriques et terminaux. (art. L34-9 à L34-9-1)](#18)
-          - [Section 6 : Dispositions particulières aux prestations d'itinérance intranationale. (art. L34-10)](#19)
+          - [Section 6 : Dispositions particulières aux prestations d'itinérance ultramarine. (art. L34-10)](#19)
         - [Chapitre III : Les obligations de service public. (art. L35 à L35-8)](#20)
         - [Chapitre IV : La régulation des communications électroniques. (art. L36-5 à L38-4)](#21)
           - [Section 1 : Autorité de régulation des communications électroniques et des postes. (art. L36-5 à L36-13)](#22)
@@ -1957,6 +1957,16 @@ On entend par prestation d'itinérance locale celle qui est fournie par un opér
 opérateur de radiocommunications mobiles en vue de permettre, sur une zone qui n'est couverte, à l'origine, par aucun
 opérateur de radiocommunications mobiles de deuxième génération, l'accueil, sur le réseau du premier, des clients du second.
 
+17° bis Itinérance ultramarine.
+
+On entend par prestation d'itinérance ultramarine celle qui est fournie par un opérateur de radiocommunications mobiles
+déclaré sur le territoire de la France métropolitaine, d'un département d'outre-mer, de Mayotte, de Saint-Barthélemy, de
+Saint-Martin ou de Saint-Pierre-et-Miquelon à un autre opérateur de radiocommunications mobiles fournissant des services de
+communications mobiles sur réseau public terrestre dans un autre de ces territoires, en vue de permettre l'utilisation du
+réseau du premier, dit "opérateur du réseau visité", par les clients du second, dit "opérateur du réseau d'origine", pour
+émettre ou recevoir des communications à destination de l'un de ces territoires ou d'un Etat membre de la Communauté
+européenne.
+
 18° Données relatives au trafic.
 
 On entend par données relatives au trafic toutes les données traitées en vue de l'acheminement d'une communication par un
@@ -1966,7 +1976,7 @@ réseau de communications électroniques ou en vue de sa facturation.
 
 _Cite_:
 
-  - Loi n°86-1067 1986-09-30
+  - Loi n°86-1067 du 30 septembre 1986
 
 _Cité par_:
 
@@ -2035,11 +2045,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-669 du 9 juillet 2004 - art. 2 () JORF 10 juillet 2004
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
+  - Loi n°2009-1572 du 17 décembre 2009 - art. 26
 
 _Anciens textes_:
 
@@ -3362,36 +3368,35 @@ _Codifié par_:
 
 ###### Article L34-8
 
-I. - L'interconnexion ou l'accès font l'objet d'une convention de droit privé entre les parties concernées. Cette convention
+I.-L'interconnexion ou l'accès font l'objet d'une convention de droit privé entre les parties concernées. Cette convention
 détermine, dans le respect des dispositions du présent code et des décisions prises pour son application, les conditions
 techniques et financières de l'interconnexion ou de l'accès. Elle est communiquée à l'Autorité de régulation des
-communications électroniques et des postes à sa demande.
+communications électroniques et des postes à sa demande. 
 
-Lorsque cela est indispensable pour respecter les objectifs définis à l'article L. 32-1, l'autorité peut imposer, de manière
-objective, transparente, non discriminatoire et proportionnée, les modalités de l'accès ou de l'interconnexion :
+Pour réaliser les objectifs définis à l'article L. 32-1, l'autorité peut imposer, de manière objective, transparente, non
+discriminatoire et proportionnée, les modalités de l'accès ou de l'interconnexion : 
 
 a) Soit de sa propre initiative, après avis de l'Autorité de la concurrence, consultation publique et notification à la
 Commission européenne et aux autorités compétentes des autres Etats membres de la Communauté européenne ; la décision est
-adoptée dans des conditions de procédure préalablement publiées par l'autorité ;
+adoptée dans des conditions de procédure préalablement publiées par l'autorité ; 
 
-b) Soit à la demande d'une des parties, dans les conditions prévues à l'article L. 36-8.
+b) Soit à la demande d'une des parties, dans les conditions prévues à l'article L. 36-8. 
 
 Les décisions adoptées en application des a et b sont motivées et précisent les conditions équitables d'ordre technique et
-financier dans lesquelles l'interconnexion ou l'accès doivent être assurés. Les dispositions du IV de l'article L. 36-8 sont
-applicables aux décisions prises en application du a.
+financier dans lesquelles l'interconnexion ou l'accès doivent être assurés. 
 
-II. - Les exploitants de réseaux ouverts au public font droit aux demandes d'interconnexion des autres exploitants de réseaux
+II.-Les exploitants de réseaux ouverts au public font droit aux demandes d'interconnexion des autres exploitants de réseaux
 ouverts au public, y compris ceux qui sont établis dans un autre Etat membre de la Communauté européenne ou dans un autre
 Etat partie à l'accord sur l'Espace économique européen, présentées en vue de fournir au public des services de
-communications électroniques.
+communications électroniques. 
 
 La demande d'interconnexion ne peut être refusée si elle est justifiée au regard, d'une part, des besoins du demandeur,
-d'autre part, des capacités de l'exploitant à la satisfaire. Tout refus d'interconnexion opposé par l'exploitant est motivé.
+d'autre part, des capacités de l'exploitant à la satisfaire. Tout refus d'interconnexion opposé par l'exploitant est motivé. 
 
-III. - Les opérateurs qui contrôlent l'accès aux utilisateurs finals peuvent se voir imposer des obligations en vue d'assurer
-le bon fonctionnement et l'interconnexion de leurs réseaux ainsi que l'accès aux services fournis sur d'autres réseaux.
+III.-Les opérateurs qui contrôlent l'accès aux utilisateurs finals peuvent se voir imposer des obligations en vue d'assurer
+le bon fonctionnement et l'interconnexion de leurs réseaux ainsi que l'accès aux services fournis sur d'autres réseaux. 
 
-IV. - Un décret fixe les modalités d'application du présent article, notamment les conditions générales et les principes de
+IV.-Un décret fixe les modalités d'application du présent article, notamment les conditions générales et les principes de
 tarification auxquels les accords d'interconnexion et d'accès doivent satisfaire.
 
 **Liens relatifs à cet article**
@@ -3431,12 +3436,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
+  - Loi n°2009-1572 du 17 décembre 2009 - art. 18
+  - Loi n°2009-1572 du 17 décembre 2009 - art. 19
 
 _Cite_:
 
-  - Code des postes et des communications électronique - art. L32-1 (M)
-  - Code des postes et des communications électronique - art. L36-8 (M)
+  - Code des postes et des communications électroniques - art. L32-1
+  - Code des postes et des communications électroniques - art. L36-8
 
 
 ###### Article L34-8-1
@@ -3496,20 +3502,28 @@ _Cite_:
 
 ###### Article L34-8-3
 
-Toute personne ayant établi dans un immeuble bâti ou exploitant une ligne de communications électroniques à très haut débit
-en fibre optique permettant de desservir un utilisateur final fait droit aux demandes raisonnables d'accès à ladite ligne
-émanant d'opérateurs, en vue de fournir des services de communications électroniques à cet utilisateur final.
+Toute personne établissant ou ayant établi dans un immeuble bâti ou exploitant une ligne de communications électroniques à
+très haut débit en fibre optique permettant de desservir un utilisateur final fait droit aux demandes raisonnables d'accès à
+ladite ligne et aux moyens qui y sont associés émanant d'opérateurs, en vue de fournir des services de communications
+électroniques à cet utilisateur final.
 
 L'accès est fourni dans des conditions transparentes et non discriminatoires en un point situé, sauf dans les cas définis par
 l'Autorité de régulation des communications électroniques et des postes, hors des limites de propriété privée et permettant
-le raccordement effectif d'opérateurs tiers, à des conditions économiques, techniques et d'accessibilité raisonnables. Tout
-refus d'accès est motivé. 
+le raccordement effectif d'opérateurs tiers, à des conditions économiques, techniques et d'accessibilité raisonnables. Dans
+les cas définis par l'Autorité de régulation des communications électroniques et des postes, l'accès peut consister en la
+mise à disposition d'installations et d'éléments de réseau spécifiques demandés par un opérateur antérieurement à
+l'équipement de l'immeuble en lignes de communications électroniques à très haut débit en fibre optique, moyennant la prise
+en charge d'une part équitable des coûts par cet opérateur. Tout refus d'accès est motivé. 
 
 Il fait l'objet d'une convention entre les personnes concernées. Celle-ci détermine les conditions techniques et financières
 de l'accès. Elle est communiquée à l'Autorité de régulation des communications électroniques et des postes à sa demande. 
 
 Les différends relatifs à la conclusion ou à l'exécution de la convention prévue au présent article sont soumis à l'Autorité
-de régulation des communications électroniques et des postes conformément à l'article L. 36-8.
+de régulation des communications électroniques et des postes conformément à l'article L. 36-8. 
+
+Pour réaliser les objectifs définis à l'article L. 32-1, et notamment en vue d'assurer la cohérence des déploiements et une
+couverture homogène des zones desservies, l'autorité peut préciser, de manière objective, transparente, non discriminatoire
+et proportionnée, les modalités de l'accès prévu au présent article.
 
 **Liens relatifs à cet article**
 
@@ -3527,7 +3541,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 109 (V)
+  - Loi n°2009-1572 du 17 décembre 2009 - art. 18
+  - Loi n°2009-1572 du 17 décembre 2009 - art. 20
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L32-1
 
 
 ##### Section 5 : Equipements radioélectriques et terminaux.<a id=18></a>
@@ -3650,28 +3669,13 @@ _Cite_:
   - Code des postes et des communications électronique - art. L33-3 (M)
 
 
-##### Section 6 : Dispositions particulières aux prestations d'itinérance intranationale.<a id=19></a>
+##### Section 6 : Dispositions particulières aux prestations d'itinérance ultramarine.<a id=19></a>
 
 ###### Article L34-10
 
-Tout opérateur de radiocommunications mobiles autorisé sur le territoire de la France métropolitaine, d'un département
-d'outre-mer, de Mayotte, de Saint-Barthélemy, de Saint-Martin ou de Saint-Pierre-et-Miquelon et accueillant sur son réseau le
-client d'un opérateur de radiocommunications mobiles autorisé dans un autre de ces territoires respecte les dispositions
-tarifaires de l'article 3 du règlement (CE) n° 717 / 2007 du Parlement européen et du Conseil, du 27 juin 2007, concernant
-l'itinérance sur les réseaux publics de téléphonie mobile à l'intérieur de la Communauté et modifiant la directive 2002 /
-21 / CE dans sa rédaction applicable à la date d'entrée en vigueur de la loi n° 2007-1774 du 17 décembre 2007 portant
-diverses dispositions d'adaptation au droit communautaire dans les domaines économique et financier, pour la rémunération de
-la prestation fournie au titre des communications téléphoniques. 
-
-Les tarifs des appels téléphoniques reçus ou émis à destination du territoire d'un Etat membre de la Communauté européenne,
-de Mayotte ou de Saint-Pierre-et-Miquelon par un client d'un opérateur de radiocommunications mobiles autorisé sur le
-territoire de la France métropolitaine, d'un département d'outre-mer, de Mayotte, de Saint-Barthélemy, de Saint-Martin ou de
-Saint-Pierre-et-Miquelon accueilli sur le réseau d'un opérateur de radiocommunications mobiles autorisé dans un autre de ces
-territoires respectent les dispositions tarifaires de l'article 4 du règlement (CE) n° 717 / 2007 du Parlement européen et du
-Conseil, du 27 juin 2007, précité dans sa rédaction applicable à la date d'entrée en vigueur de la loi n° 2007-1774 du 17
-décembre 2007 précitée. 
-
-Le présent article cesse d'être applicable le 1er juillet 2010.
+Les obligations imposées aux opérateurs par le règlement (CE) n° 717/2007 du Parlement européen et du Conseil du 27 juin 2007
+concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de la Communauté s'appliquent aux
+prestations d'itinérance ultramarine.
 
 **Liens relatifs à cet article**
 
@@ -3693,13 +3697,13 @@ _Cité par_:
   - Code des postes et des communications électronique - art. D97-1 (T)
   - Code des postes et des communications électronique - art. D97-2 (T)
 
-_Cite_:
-
-  - Loi n°2007-1774 du 17 décembre 2007
-
 _Modifié par_:
 
-  - Loi n°2007-1774 du 17 décembre 2007 - art. 4
+  - Loi n°2009-1572 du 17 décembre 2009 - art. 26
+
+_Cite_:
+
+  - règlement (CE) n°717/2007
 
 
 #### Chapitre III : Les obligations de service public.<a id=20></a>
@@ -4311,10 +4315,9 @@ L'Autorité de régulation des communications électroniques et des postes :
 2° Désigne les organismes intervenant dans la procédure d'évaluation de conformité prévue à l'article L. 34-9 ; 
 
 3° Contrôle le respect par les opérateurs des obligations résultant des dispositions législatives et réglementaires qui leur
-sont applicables en vertu du présent code, du règlement (CE) n° 717 / 2007 du Parlement européen et du Conseil, du 27 juin
-2007, concernant l'itinérance sur les réseaux publics de téléphonie mobile à l'intérieur de la Communauté et modifiant la
-directive 2002 / 21 / CE et des autorisations dont ils bénéficient et sanctionne les manquements constatés dans les
-conditions prévues aux articles L. 36-10 et L. 36-11 ; 
+sont applicables en vertu du présent code, du règlement (CE) n° 717/2007 du Parlement européen et du Conseil du 27 juin 2007
+concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de la Communauté et des autorisations
+dont ils bénéficient et sanctionne les manquements constatés dans les conditions prévues aux articles L. 36-10 et L. 36-11 ; 
 
 4° Détermine, selon les principes et les méthodes élaborés dans les conditions prévues à l'article L. 35-3, les montants des
 contributions au financement des obligations de service universel et assure la surveillance des mécanismes de ce
@@ -4378,21 +4381,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-1774 du 17 décembre 2007 - art. 5
+  - Loi n°2009-1572 du 17 décembre 2009 - art. 26
 
 _Cite_:
 
-  - Code des postes et des communications électroni... - art. L33-1 (V)
-  - Code des postes et des communications électroni... - art. L34-9 (V)
-  - Code des postes et des communications électroni... - art. L35-2 (V)
-  - Code des postes et des communications électroni... - art. L35-3 (V)
-  - Code des postes et des communications électroni... - art. L36-10 (V)
-  - Code des postes et des communications électroni... - art. L36-11 (V)
-  - Code des postes et des communications électroni... - art. L37-1 (V)
-  - Code des postes et des communications électroni... - art. L37-2 (V)
-  - Code des postes et des communications électroni... - art. L38-1 (V)
-  - Code des postes et des communications électroni... - art. L42-1 (V)
-  - Code des postes et des communications électroni... - art. L44 (V)
+  - Code des postes et des communications électroniques - art. L33-1
+  - Code des postes et des communications électroniques - art. L34-9
+  - Code des postes et des communications électroniques - art. L35-2
+  - Code des postes et des communications électroniques - art. L35-3
+  - Code des postes et des communications électroniques - art. L36-10
+  - Code des postes et des communications électroniques - art. L36-11
+  - Code des postes et des communications électroniques - art. L37-1
+  - Code des postes et des communications électroniques - art. L37-2
+  - Code des postes et des communications électroniques - art. L38-1
+  - Code des postes et des communications électroniques - art. L42-1
+  - Code des postes et des communications électroniques - art. L44
 
 
 ###### Article L36-8
@@ -4553,15 +4556,14 @@ leur activité ou aux décisions prises pour en assurer la mise en oeuvre. Ce po
 conditions ci-après : 
 
 1° En cas d'infraction d'un exploitant de réseau ou d'un fournisseur de services aux dispositions du présent code et des
-textes et décisions pris pour son application ou du règlement (CE) n° 717 / 2007 du Parlement européen et du Conseil, du 27
-juin 2007, concernant l'itinérance sur les réseaux publics de téléphonie mobile à l'intérieur de la Communauté et modifiant
-la directive 2002 / 21 / CE, ainsi qu'aux prescriptions d'une décision d'attribution ou d'assignation de fréquence prise par
-l'autorité en application de l'article 26 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication,
-l'exploitant ou le fournisseur est mis en demeure par le directeur des services de l'Autorité de régulation des
-communications électroniques et des postes de s'y conformer dans un délai déterminé. Cette mise en demeure peut être assortie
-d'obligations de se conformer à des étapes intermédiaires dans le même délai. Ce délai ne peut être inférieur à un mois sauf
-en cas d'infractions graves et répétées ou si l'exploitant ou le fournisseur en est d'accord.L'autorité peut rendre publique
-cette mise en demeure ; 
+textes et décisions pris pour son application ou du règlement (CE) n° 717/2007 du Parlement européen et du Conseil du 27 juin
+2007 concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de la Communauté, ainsi qu'aux
+prescriptions d'une décision d'attribution ou d'assignation de fréquence prise par l'autorité en application de l'article 26
+de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, l'exploitant ou le fournisseur est mis en
+demeure par le directeur des services de l'Autorité de régulation des communications électroniques et des postes de s'y
+conformer dans un délai déterminé. Cette mise en demeure peut être assortie d'obligations de se conformer à des étapes
+intermédiaires dans le même délai. Ce délai ne peut être inférieur à un mois sauf en cas d'infractions graves et répétées ou
+si l'exploitant ou le fournisseur en est d'accord.L'autorité peut rendre publique cette mise en demeure ; 
 
 2° Lorsqu'un exploitant de réseau ou un fournisseur de services ne se conforme pas dans les délais fixés à une décision prise
 en application de l'article L. 36-8, à la mise en demeure prévue au 1° du présent article ou aux obligations intermédiaires
@@ -4645,7 +4647,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 112
+  - Loi n°2009-1572 du 17 décembre 2009 - art. 26
 
 
 ###### Article L36-13
@@ -5779,10 +5781,26 @@ Le ministre chargé des communications électroniques fixe, sur proposition de l
 électroniques et des postes, les conditions d'attribution et de modification des autorisations d'utilisation correspondant à
 ces fréquences ainsi que la durée de la procédure d'attribution, qui ne peut excéder un délai fixé par décret. 
 
+Par dérogation au deuxième alinéa, s'agissant des fréquences affectées aux services de communications électroniques dans le
+cadre du schéma national de réutilisation des fréquences libérées par l'arrêt de la diffusion analogique institué par
+l'article 21 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, le ministre chargé des
+communications électroniques fixe, sur proposition de l'Autorité de régulation des communications électroniques et des postes
+et après avis de la Commission du dividende numérique instituée par le même article 21, les conditions d'attribution et de
+modification des autorisations d'utilisation correspondant à ces fréquences. Celles-ci tiennent prioritairement compte des
+impératifs d'aménagement numérique du territoire. 
+
+Le ministre fixe également, dans les mêmes conditions, la durée de la procédure d'attribution, qui ne peut excéder un délai
+fixé par décret. 
+
 La sélection des titulaires de ces autorisations se fait par appel à candidatures sur des critères portant sur les conditions
 d'utilisation mentionnées au II de l'article L. 42-1 ou sur la contribution à la réalisation des objectifs mentionnés à
 l'article L. 32-1, ou par une procédure d'enchères dans le respect de ces objectifs et après définition de ces conditions par
-le ministre sur proposition de l'Autorité de régulation des communications électroniques et des postes. 
+le ministre sur proposition de l'Autorité de régulation des communications électroniques et des postes. Par dérogation à ce
+qui précède, s'agissant des fréquences affectées aux services de communications électroniques dans le cadre du schéma
+national de réutilisation des fréquences libérées par l'arrêt de la diffusion analogique institué par le même article 21, ces
+conditions sont définies par le ministre chargé des communications électroniques sur proposition de l'Autorité de régulation
+des communications électroniques et des postes et après avis de la Commission du dividende numérique instituée par ledit
+article 21. Elles tiennent prioritairement compte des impératifs d'aménagement numérique du territoire. 
 
 Le ministre peut prévoir qu'un dépôt de garantie peut être demandé et qu'un dédit peut être dû si le candidat retire sa
 candidature avant la délivrance de l'autorisation.
@@ -5798,6 +5816,12 @@ Le montant et les modalités de versement des redevances dues pour les fréquenc
 article peuvent déroger aux dispositions de l'article L. 2125-4 du code général de la propriété des personnes publiques.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°86-1067 du 30 septembre 1986 - art. 21
+  - Code général de la propriété des personnes publiques. - art. L2125-4
+  - Code des postes et des communications électroniques - art. L32-1
 
 _Cité par_:
 
@@ -5827,12 +5851,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 114
-
-_Cite_:
-
-  - Code général de la propriété des personnes publiques. - art. L2125-4
-  - Code des postes et des communications électroniques - art. L32-1
+  - Loi n°2009-1572 du 17 décembre 2009 - art. 22
 
 
 ###### Article L42-3
@@ -6152,6 +6171,25 @@ _Nouveaux textes_:
   - Code des postes et des communications électronique - art. L39-8 (V)
 
 
+###### Article L44-1
+
+Les fournisseurs d'accès à internet qui attribuent à leurs clients une adresse de courrier électronique dans le cadre de leur
+offre sont tenus de proposer à ces derniers, lorsqu'ils changent de fournisseur, une offre leur permettant de continuer, pour
+une durée de six mois à compter de la résiliation, à avoir accès gratuitement au courrier électronique reçu sur l'adresse
+électronique attribuée sous son nom de domaine par ledit fournisseur d'accès à internet.
+
+**Nota:**
+
+LOI n° 2009-1572 du 17 décembre 2009 art 30 II : l'article L44-1 du code des postes et des communications électroniques
+s'applique aux contrats en cours à la date de promulgation de la présente loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1572 du 17 décembre 2009 - art. 30
+
+
 ###### Article L45
 
 I.-Le ministre chargé des communications électroniques désigne, après consultation publique, les organismes chargés
@@ -6420,21 +6458,23 @@ _Cite_:
 ###### Article L48
 
 La servitude mentionnée à l'article L. 45-1 est instituée en vue de permettre l'installation et l'exploitation des
-équipements du réseau :
+équipements du réseau, y compris les équipements des réseaux à très haut débit fixes et mobiles : 
 
-a) Dans les parties des immeubles collectifs et des lotissements affectées à un usage commun ;
+a) Sur et dans les parties des immeubles collectifs et des lotissements affectées à un usage commun, y compris celles pouvant
+accueillir des installations ou équipements radioélectriques ; 
 
-b) Sur le sol et dans le sous-sol des propriétés non bâties ;
+b) Sur le sol et dans le sous-sol des propriétés non bâties, y compris celles pouvant accueillir des installations ou
+équipements radioélectriques ; 
 
 c) Au-dessus des propriétés privées dans la mesure où l'exploitant se borne à utiliser l'installation d'un tiers bénéficiant
-de servitudes sans compromettre, le cas échéant, la mission propre de service public confiée à ce tiers.
+de servitudes sans compromettre, le cas échéant, la mission propre de service public confiée à ce tiers. 
 
 La mise en oeuvre de la servitude est subordonnée à une autorisation délivrée au nom de l'Etat par le maire après que les
 propriétaires ou, en cas de copropriété, le syndicat représenté par le syndic ont été informés des motifs qui justifient
 l'institution de la servitude et le choix de son emplacement, et mis à même, dans un délai qui ne peut pas être inférieur à
 trois mois, de présenter leurs observations sur le projet. Les travaux ne peuvent commencer avant l'expiration de ce délai.
 En cas de contestation, les modalités de mise en oeuvre de la servitude sont fixées par le président du tribunal de grande
-instance.
+instance. 
 
 Lorsqu'il est constaté que la servitude de l'opérateur sur une propriété privée peut être assurée, dans des conditions
 équivalentes à celles qui résulteraient du bénéfice de cette servitude, par l'utilisation de l'installation existante d'un
@@ -6445,24 +6485,24 @@ des installations en cause. Dans ce cas, et sauf accord contraire, le propriéta
 autorisé assume, dans la limite du contrat conclu entre les parties, l'entretien des infrastructures et des équipements qui
 empruntent ses installations et qui sont placés sous sa responsabilité, moyennant paiement d'une contribution négociée avec
 l'opérateur. En cas de litige entre opérateurs, l'Autorité de régulation des communications électroniques et des postes peut
-être saisie, dans les conditions fixées à l'article L. 36-8. Dès lors  qu'elle résulte du partage d'une installation déjà
-autorisée au titre d'une  autre servitude et qu'elle n'accroît pas l'atteinte portée à la propriété  privée, la servitude
-prévue à l'article L. 45-1 est exonérée de la procédure  prévue au cinquième alinéa. Elle fait l'objet d'une indemnisation
-dans les  conditions prévues au neuvième alinéa.
+être saisie, dans les conditions fixées à l'article L. 36-8. Dès lors qu'elle résulte du partage d'une installation déjà
+autorisée au titre d'une autre servitude et qu'elle n'accroît pas l'atteinte portée à la propriété privée, la servitude
+prévue à l'article L. 45-1 est exonérée de la procédure prévue au cinquième alinéa. Elle fait l'objet d'une indemnisation
+dans les conditions prévues au neuvième alinéa.
 
 L'installation des ouvrages prévus au premier alinéa ne peut faire obstacle au droit des propriétaires ou copropriétaires de
 démolir, réparer, modifier ou clore leur propriété. Toutefois, les propriétaires ou copropriétaires doivent, au moins trois
-mois avant d'entreprendre des travaux de nature à affecter les ouvrages, prévenir le bénéficiaire de la servitude.
+mois avant d'entreprendre des travaux de nature à affecter les ouvrages, prévenir le bénéficiaire de la servitude. 
 
 Lorsque, pour l'étude, la réalisation et l'exploitation des installations, l'introduction des agents des exploitants
 autorisés dans les propriétés privées définies au premier alinéa est nécessaire, elle est, à défaut d'accord amiable,
 autorisée par le président du tribunal de grande instance, statuant comme en matière de référé, qui s'assure que la présence
-des agents est nécessaire.
+des agents est nécessaire. 
 
 Le bénéficiaire de la servitude est responsable de tous les dommages qui trouvent leur origine dans les équipements du
 réseau. Il est tenu d'indemniser l'ensemble des préjudices directs et certains causés tant par les travaux d'installation et
-d'entretien que par l'existence ou le fonctionnement des ouvrages. A défaut d'accord amiable, l'indemnité est fixée par la
-juridiction de l'expropriation saisie par la partie la plus diligente.
+d'entretien que par l'existence ou le fonctionnement des ouvrages.A défaut d'accord amiable, l'indemnité est fixée par la
+juridiction de l'expropriation saisie par la partie la plus diligente. 
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
@@ -6495,7 +6535,76 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-179 du 17 février 2009 - art. 24
+  - Loi n°2009-1572 du 17 décembre 2009 - art. 14
+
+
+###### Article L49
+
+Le maître d'ouvrage d'une opération de travaux d'installation ou de renforcement d'infrastructures de réseaux d'une longueur
+significative sur le domaine public est tenu d'informer la collectivité ou le groupement de collectivités désigné par le
+schéma directeur territorial d'aménagement numérique prévu à l'article L. 1425-2 du code général des collectivités
+territoriales ou, en l'absence de schéma directeur, le représentant de l'Etat dans la région, dès la programmation de ces
+travaux :
+
+- pour les aménagements de surface, lorsque l'opération nécessite un décapage du revêtement et sa réfection ultérieure ;
+
+- pour les réseaux aériens, lorsque l'opération nécessite la mise en place ou le remplacement d'appuis ;
+
+- pour les réseaux souterrains, lorsque l'opération nécessite la réalisation de tranchées. 
+
+Le destinataire de l'information assure sans délai la publicité de celle-ci auprès des collectivités territoriales ou
+groupements de collectivités territoriales concernés ainsi que des opérateurs de réseaux de communications électroniques au
+sens du 15° de l'article L. 32 du présent code. 
+
+Sur demande motivée d'une collectivité territoriale, d'un groupement de collectivités territoriales ou d'un opérateur de
+communications électroniques, le maître d'ouvrage de l'opération est tenu d'accueillir dans ses tranchées les infrastructures
+d'accueil de câbles de communications électroniques réalisées par eux ou pour leur compte, ou de dimensionner ses appuis de
+manière à permettre l'accroche de câbles de communications électroniques, sous réserve de la compatibilité de l'opération
+avec les règles de sécurité et le fonctionnement normal du réseau pour lequel les travaux sont initialement prévus. 
+
+Sauf accord du maître d'ouvrage de l'opération initiale sur un mode de prise en charge différent, le demandeur prend en
+charge les coûts supplémentaires supportés par le maître d'ouvrage de l'opération initiale à raison de la réalisation de ces
+infrastructures et une part équitable des coûts communs. 
+
+Les conditions techniques, organisationnelles et financières de réalisation de ces infrastructures sont définies par une
+convention entre le maître d'ouvrage de l'opération et le demandeur. 
+
+Les infrastructures souterraines ainsi réalisées deviennent, à la fin de l'opération de travaux, la propriété du demandeur.
+Dans le cas d'infrastructures aériennes, le demandeur dispose d'un droit d'usage de l'appui pour l'accroche de câbles de
+communications électroniques. 
+
+Un décret détermine les modalités d'application du présent article, notamment la longueur significative des opérations visées
+au premier alinéa, le délai dans lequel doit intervenir la demande visée au sixième alinéa et les modalités de détermination,
+en fonction de la nature de l'opération, de la quote-part des coûts communs visés au septième alinéa.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2009-1572 du 17 décembre 2009 - art. 27
+
+_Cité par_:
+
+  - Arrêté du 4 juillet 2018 (V)
+  - Arrêté du 4 juillet 2018 - art. 12
+  - Arrêté du 4 juillet 2018 - art. 2
+  - Arrêté du 4 juillet 2018 - art. 4
+  - Code des postes et des communications électroni... - art. D407-4 (V)
+  - Code des postes et des communications électroni... - art. D407-5 (V)
+  - Code des postes et des communications électroni... - art. D407-6 (V)
+  - Code des postes et des communications électroni... - art. L50 (VD)
+  - Code des postes et des communications électroni... - art. R11-1 (V)
+  - Code des postes et des communications électroni... - art. R42-2 (V)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L1425-2
+  - Code des postes et des communications électroniques - art. L32
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L87
+  - Loi n°1885-07-28 art. 4
 
 
 ###### Article L53
