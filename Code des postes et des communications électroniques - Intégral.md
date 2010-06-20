@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2010-01-13
+Version Consolidée au 2010-06-21
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -10252,37 +10252,6 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R11 (T)
 
 
-###### Article R10-10
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies aux articles R. 10-1, R. 10-4 et R. 10-9.
-
-La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par l'article 131-41 du code pénal.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2005-606 2005-05-27 art. 1 I, IV JORF 29 mai 2005
-  - Décret n°2005-606 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
-
-_Abrogé par_:
-
-  - Décret n°2010-671 du 18 juin 2010 - art. 5
-
-_Cite_:
-
-  - Code pénal - art. 121-2
-  - Code pénal - art. 131-41
-  - Code des postes et des communications électroniques - art. R10-1
-  - Code des postes et des communications électroniques - art. R10-4
-  - Code des postes et des communications électroniques - art. R10-9
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
 ###### Article R10-11
 
 Ainsi que le prévoit l'article R. 48-1 du code de procédure pénale, les dispositions de l'article 529 du code de procédure
@@ -11819,34 +11788,21 @@ _Cité par_:
 
 ###### Article R20-27
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des contraventions définies à l'article R. 20-25.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 du code pénal ;
-
-2° La confiscation des équipements, dans les cas prévus au I et aux 1° et 2° du II de l'article R. 20-25.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies à l'article R. 20-25 encourent, outre l'amende suivant les modalités prévues par l'article 131-41 du
+code pénal, la peine de confiscation des équipements, dans les cas prévus au I et aux 1° et 2° du II de l'article R. 20-25.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
-
 _Modifié par_:
 
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+  - Décret n°2010-671 du 18 juin 2010 - art. 5
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-41 (V)
-  - Code des postes et des communications électronique - art. R20-25 (M)
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-41
+  - Code des postes et des communications électroniques - art. R20-25
 
 _Cité par_:
 
