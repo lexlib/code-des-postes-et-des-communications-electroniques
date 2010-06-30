@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2010-06-21
+Version Consolidée au 2010-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -148,7 +148,7 @@ Version Consolidée au 2010-06-21
         - [Chapitre Ier : Distribution à domicile. (art. D90 à D92)](#145)
         - [Chapitre II : Distribution au guichet. (art. D93)](#146)
       - [TITRE VII : Poste maritime. (art. D94-1 à D95-3)](#147)
-    - [LIVRE II : Les communications électroniques (art. D98 à D407-3)](#148)
+    - [LIVRE II : Les communications électroniques (art. D98 à D407-6)](#148)
       - [TITRE Ier : Dispositions générales (art. D98 à D377)](#149)
         - [Chapitre II : Régime juridique (art. D98 à D101)](#150)
           - [Section 1 : Réseaux et services (art. D98 à D99-3)](#151)
@@ -164,17 +164,18 @@ Version Consolidée au 2010-06-21
           - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#161)
           - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#162)
           - [Section 3 : Liaisons louées. (art. D369 à D377)](#163)
-      - [TITRE II : Ressources et police (art. D406-5 à D407-3)](#164)
+      - [TITRE II : Ressources et police (art. D406-5 à D407-6)](#164)
         - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17)](#165)
           - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#166)
           - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17)](#167)
         - [Chapitre II : Numérotation et adressage. (art. D406-18 à D406-19)](#168)
-        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-3)](#169)
+        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-6)](#169)
           - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#170)
-    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#171)
-      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#172)
-      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#173)
-      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#174)
+          - [Section 2 : Accueil des installations de communications électroniques lors de travaux sur le domaine public. (art. D407-4 à D407-6)](#171)
+    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#172)
+      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#173)
+      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#174)
+      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#175)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -22849,20 +22850,15 @@ _Créé par_:
 
 ###### Article D407-1
 
-Les réseaux téléphoniques intérieurs aux immeubles groupant plusieurs logements sont construits par les promoteurs jusqu'aux
-dispositifs de connexion placés dans chaque logement conformément à l'article R. 111-14 du code de la construction et de
-l'habitation.
+Les réseaux de communications électroniques intérieurs aux immeubles groupant plusieurs logements sont construits par les
+promoteurs jusqu'aux dispositifs de connexion placés dans chaque logement conformément à l'article R. 111-14 du code de la
+construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°62-275 1962-03-12
-
 _Modifié par_:
 
-  - Décret n°2005-399 2005-04-27 art. 8 I, II JORF 30 avril 2005
-  - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
+  - Décret n°2010-726 du 28 juin 2010 - art. 3
 
 _Cité par_:
 
@@ -22870,7 +22866,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la construction et de l'habitation R111-14
+  - Code de la construction et de l'habitation. - art. R111-14
 
 
 ###### Article D407-2
@@ -22919,9 +22915,85 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
-## LIVRE IV : Dispositions communes et finales<a id=171></a>
+##### Section 2 : Accueil des installations de communications électroniques lors de travaux sur le domaine public.<a id=171></a>
 
-### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=172></a>
+###### Article D407-4
+
+La longueur significative des opérations de travaux, mentionnée à l'article L. 49 est fixée : 
+
+― à 150 mètres pour les réseaux situés en totalité ou partiellement dans les agglomérations ; 
+
+― à 1 000 mètres pour les réseaux situés en dehors des agglomérations. 
+
+Pour les réseaux aériens, on entend par longueur significative la somme des portions continues du réseau qui font l'objet des
+travaux.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-726 du 28 juin 2010 - art. 2
+
+_Cité par_:
+
+  - Décret n°2017-111 du 30 janvier 2017 (V)
+  - Arrêté du 4 juillet 2018 - art. 2
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L49
+
+
+###### Article D407-5
+
+La demande motivée mentionnée au sixième alinéa de l'article L. 49 doit être formulée auprès du maître d'ouvrage de
+l'opération dans un délai de six semaines à compter de la publicité prévue au cinquième alinéa dudit article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-726 du 28 juin 2010 - art. 2
+
+_Cité par_:
+
+  - Décret n°2017-111 du 30 janvier 2017 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L49
+
+
+###### Article D407-6
+
+Sauf lorsque la convention entre le maître d'ouvrage et le demandeur prévue à l'article L. 49 en décide autrement, les coûts
+communs, notamment les coûts de terrassement pour les réseaux enterrés et les coûts de fourniture et de pose des appuis pour
+les réseaux aériens ainsi que les coûts d'études, sont partagés par le maître d'ouvrage et le demandeur à proportion de
+l'utilisation de l'ouvrage par leurs installations respectives, à savoir :
+
+– pour les réseaux enterrés, au prorata de la somme des surfaces des sections des conduites ou des câbles en pleine terre de
+chaque propriétaire ;
+
+– pour les réseaux aériens :
+
+50 % au prorata du poids linéaire des câbles de chaque propriétaire ;
+
+50 % au prorata du nombre de câbles de chaque propriétaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-726 du 28 juin 2010 - art. 2
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L49
+
+
+## LIVRE IV : Dispositions communes et finales<a id=172></a>
+
+### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=173></a>
 
 ###### Article D570
 
@@ -23065,7 +23137,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-6 (T)
 
 
-### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=173></a>
+### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=174></a>
 
 ###### Article D576
 
@@ -23372,7 +23444,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-17 (T)
 
 
-### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=174></a>
+### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=175></a>
 
 ###### Article D587
 
