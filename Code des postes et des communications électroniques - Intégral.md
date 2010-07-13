@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2010-07-11
+Version Consolidée au 2010-07-14
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -2098,7 +2098,10 @@ européen ;
 
 12° A un niveau élevé de protection des consommateurs, grâce notamment à la fourniture d'informations claires, notamment par
 la transparence des tarifs et des conditions d'utilisation des services de communications électroniques accessibles au
-public ; 
+public ;
+
+12° bis. ― A un niveau élevé de protection de l'environnement et de la santé de la population, conjointement avec les
+ministres chargés de la santé et de l'environnement ;
 
 13° Au respect de la plus grande neutralité possible, d'un point de vue technologique, des mesures qu'ils prennent ; 
 
@@ -2118,10 +2121,6 @@ _Cite_:
 
   - Loi n°86-1067 du 30 septembre 1986
   - Code des postes et des communications électroniques - art. L47
-
-_Modifié par_:
-
-  - Loi n°2008-776 du 4 août 2008 - art. 114
 
 _Cité par_:
 
@@ -2160,6 +2159,10 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R20-44-9-6 (V)
   - Code des postes et des communications électroni... - art. R20-44-9-9 (V)
   - Code des postes et des communications électronique - art. L36-14 (T)
+
+_Modifié par_:
+
+  - Loi n°2010-788 du 12 juillet 2010 - art. 183 (V)
 
 
 ###### Article L32-3
@@ -3622,16 +3625,26 @@ _Codifié par_:
 
 Un décret définit les valeurs que ne doivent pas dépasser les champs électromagnétiques émis par les équipements utilisés
 dans les réseaux de communications électroniques ou par les installations mentionnées à l'article L. 33-3, lorsque le public
-y est exposé.
+y est exposé. 
 
 Le respect de ces valeurs peut être vérifié sur place par des organismes répondant aux exigences de qualité fixées par un
-décret.
+décret. 
+
+Le résultat des mesures est transmis par les organismes mentionnés au deuxième alinéa à l'Agence nationale des fréquences,
+qui en assure la mise à disposition du public, et à l'Agence française de sécurité sanitaire de l'environnement et du
+travail. Un recensement national des points atypiques du territoire dans lesquels les taux d'exposition dépassent
+sensiblement la moyenne observée à l'échelle nationale est établi en vue de sa publication au plus tard le 31 décembre 2012. 
+
+Lorsque la mesure est réalisée dans des locaux d'habitation, les résultats sont transmis aux propriétaires et aux occupants.
+Les occupants des locaux peuvent s'opposer à la mise à disposition du public de ces résultats. Ces résultats doivent
+mentionner le nom du bureau de contrôle. Tout occupant d'un logement peut avoir accès, auprès de l'Agence nationale des
+fréquences, à l'ensemble des mesures réalisées dans le logement.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-669 du 9 juillet 2004 - art. 12 () JORF 10 juillet 2004
+  - Loi n°2010-788 du 12 juillet 2010 - art. 183 (V)
 
 _Cité par_:
 
@@ -3653,13 +3666,9 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R20-44-11 (V)
   - Code des postes et des communications électroni... - art. R20-44-28-1 (V)
 
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
 _Cite_:
 
-  - Code des postes et des communications électronique - art. L33-3 (M)
+  - Code des postes et des communications électroni... - art. L33-3 (V)
 
 
 ##### Section 6 : Dispositions particulières aux prestations d'itinérance ultramarine.<a id=19></a>
@@ -6703,10 +6712,10 @@ propagation des ondes.
 2° Un plan de protection contre les perturbations radioélectriques définit pour chaque station les servitudes
 radioélectriques et détermine les terrains sur lesquels s'exercent ces servitudes.
 
-Le plan est soumis pour avis à l'Agence nationale des fréquences et à enquête publique. Il est approuvé par le préfet, après
-avis des conseils municipaux concernés et après que les propriétaires ont été informés des motifs qui justifient
-l'institution de la servitude et le choix de l'emplacement, et mis à même, dans un délai qui ne peut être inférieur à trois
-mois, de présenter leurs observations.
+Le plan est soumis pour avis à l'Agence nationale des fréquences et à enquête publique réalisée conformément au chapitre III
+du titre II du livre Ier du code de l'environnement . Il est approuvé par le préfet, après avis des conseils municipaux
+concernés et après que les propriétaires ont été informés des motifs qui justifient l'institution de la servitude et le choix
+de l'emplacement, et mis à même, dans un délai qui ne peut être inférieur à trois mois, de présenter leurs observations.
 
 3° Les servitudes comportent l'obligation de tenir le terrain, les plantations et les superstructures à un niveau au plus
 égal à celui prévu par le plan de protection mentionné au 2° ci-dessus et l'interdiction de construire et de faire des
@@ -6727,11 +6736,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+  - Loi n°2010-788 du 12 juillet 2010 - art. 240
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°62-273 1962-03-12
+  - Ordonnance n°2016-492 du 21 avril 2016 - art. 1
 
 
 ##### Section 3 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.<a id=34></a>
