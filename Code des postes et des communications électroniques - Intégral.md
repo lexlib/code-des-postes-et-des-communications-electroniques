@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-14
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -3480,6 +3480,10 @@ l'objet d'une évaluation de leur conformité aux exigences essentielles. Les or
 procédure d'évaluation de conformité sont désignés de façon à offrir aux industriels concernés un choix préservant leur
 indépendance par rapport à des entreprises offrant des biens ou services dans le domaine des communications électroniques.
 
+Les terminaux radioélectriques destinés à être connectés à un réseau ouvert au public pour la fourniture du service de
+téléphonie ne peuvent être commercialisés sans un accessoire permettant de limiter l'exposition de la tête aux émissions
+radioélectriques lors des communications.
+
 Un décret en Conseil d'Etat détermine :
 
 1° Les équipements qui sont dispensés de l'évaluation de conformité ;
@@ -3538,11 +3542,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-669 du 9 juillet 2004 - art. 12 () JORF 10 juillet 2004
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
+  - Loi n°2010-788 du 12 juillet 2010 - art. 183 (V)
 
 
 ###### Article L34-9-1
