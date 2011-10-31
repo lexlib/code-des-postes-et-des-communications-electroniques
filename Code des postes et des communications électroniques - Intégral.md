@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2011-08-27
+Version Consolidée au 2011-11-01
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -14348,26 +14348,25 @@ _Anciens textes_:
 
 ###### Article R20-44-19
 
-Le personnel de l'agence comprend des fonctionnaires et des agents contractuels.
+Le personnel de l'agence comprend des fonctionnaires et des agents contractuels. 
 
-Il est institué au sein de l'agence un comité technique paritaire, des commissions administratives paritaires et des
-instances paritaires de concertation dont l'organisation, la composition, les attributions et le fonctionnement sont précisés
-par arrêté conjoint du ministre chargé des communications électroniques et du ministre chargé de la fonction publique.
+Il est institué au sein de l'agence un  comité technique, des commissions administratives paritaires et des instances
+paritaires de concertation dont l'organisation, la composition, les attributions et le fonctionnement sont précisés par
+arrêté conjoint du ministre chargé des communications électroniques et du ministre chargé de la fonction publique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+  - Décret n°2011-184 du 15 février 2011 - art. 55 (V)
 
 _Codifié par_:
 
-  - Décret n°62-274 1962-03-12
+  - Décret n°62-274 du 12 mars 1962
 
 _Anciens textes_:
 
   - Code des postes et des communications électronique - art. R*52-2-9 (T)
-  - Code des postes et des communications électroniques R52-2-9
 
 
 ##### Paragraphe III : Dispositions financières<a id=94></a>
