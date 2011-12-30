@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2011-12-30
+Version Consolidée au 2011-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -6667,6 +6667,22 @@ _Cite_:
 
   - Code des postes et des communications électroniques - art. L45-1
   - Code des postes et des communications électroniques - art. L45-7
+
+
+###### Article L45-3
+
+Peuvent demander l'enregistrement d'un nom de domaine, dans chacun des domaines de premier niveau :
+
+― les personnes physiques résidant sur le territoire de l'Union européenne ;
+
+― les personnes morales ayant leur siège social ou leur établissement principal sur le territoire de l'un des Etats membres
+de l'Union européenne.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-302 du 22 mars 2011 - art. 19 (V)
 
 
 ###### Article L45-4
