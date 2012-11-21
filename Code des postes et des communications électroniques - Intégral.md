@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2012-11-18
+Version Consolidée au 2012-11-22
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -3895,8 +3895,8 @@ _Anciens textes_:
 
 ###### Article L34-10
 
-Les obligations imposées aux opérateurs par le règlement (CE) n° 717/2007 du Parlement européen et du Conseil du 27 juin 2007
-concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de la Communauté s'appliquent aux
+Les obligations imposées aux opérateurs par le règlement (UE) n° 531/2012 du Parlement européen et du Conseil, du 13 juin
+2012, concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de l'Union s'appliquent aux
 prestations d'itinérance ultramarine.
 
 **Liens relatifs à cet article**
@@ -3921,11 +3921,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1572 du 17 décembre 2009 - art. 26
-
-_Cite_:
-
-  - règlement (CE) n°717/2007
+  - Loi n°2012-1270 du 20 novembre 2012 - art. 14
 
 
 #### Chapitre III : Les obligations de service public.<a id=20></a>
@@ -4498,8 +4494,8 @@ L'Autorité de régulation des communications électroniques et des postes :
 2° Désigne les organismes intervenant dans la procédure d'évaluation de conformité prévue à l'article L. 34-9 ;
 
 3° Contrôle le respect par les opérateurs des obligations résultant des dispositions législatives et réglementaires qui leur
-sont applicables en vertu du présent code, du règlement (CE) n° 717/2007 du Parlement européen et du Conseil du 27 juin 2007
-concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de la Communauté et des autorisations
+sont applicables en vertu du présent code, du règlement (UE) n° 531/2012 du Parlement européen et du Conseil, du 13 juin
+2012, concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de l'Union et des autorisations
 dont ils bénéficient et sanctionne les manquements constatés dans les conditions prévues aux articles L. 36-10 et L. 36-11 ;
 
 4° Détermine, selon les principes et les méthodes élaborés dans les conditions prévues à l'article L. 35-3, les montants des
@@ -4564,7 +4560,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1572 du 17 décembre 2009 - art. 26
+  - Loi n°2012-1270 du 20 novembre 2012 - art. 14
 
 _Cite_:
 
@@ -4744,8 +4740,8 @@ leur activité ou aux décisions prises pour en assurer la mise en oeuvre. Ce po
 conditions ci-après : 
 
 1° En cas d'infraction d'un exploitant de réseau ou d'un fournisseur de services aux dispositions du présent code et des
-textes et décisions pris pour son application ou du règlement (CE) n° 717/2007 du Parlement européen et du Conseil du 27 juin
-2007 concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de la Communauté, ainsi qu'aux
+textes et décisions pris pour son application ou du règlement (UE) n° 531/2012 du Parlement européen et du Conseil, du 13
+juin 2012, concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de l'Union, ainsi qu'aux
 prescriptions d'une décision d'attribution ou d'assignation de fréquence prise par l'autorité en application de l'article 26
 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, l'exploitant ou le fournisseur est mis en
 demeure par le directeur général de l'Autorité de régulation des communications électroniques et des postes de s'y conformer
@@ -4763,7 +4759,7 @@ a) Soit, en fonction de la gravité du manquement :
 fournir un service de communications électroniques, ou le retrait de ce droit, dans la limite de trois ans ;
 
 - la suspension totale ou partielle, pour un mois au plus, la réduction de la durée, dans la limite d'une année, ou le
-retrait de la décision d'attribution ou d'assignation prise en application des articles L. 42-1 ou L. 44.L'autorité peut
+retrait de la décision d'attribution ou d'assignation prise en application des articles L. 42-1 ou L. 44. L'autorité peut
 notamment retirer les droits d'utilisation sur une partie de la zone géographique sur laquelle porte la décision, une partie
 des fréquences ou bandes de fréquences, préfixes, numéros ou blocs de numéros attribués ou assignés, ou une partie de la
 durée restant à courir de la décision. 
@@ -4772,7 +4768,7 @@ b) Soit, si le manquement n'est pas constitutif d'une infraction pénale :
 
 - une sanction pécuniaire dont le montant est proportionné à la gravité du manquement et aux avantages qui en sont tirés,
 sans pouvoir excéder 3 % du chiffre d'affaires hors taxes du dernier exercice clos, taux porté à 5 % en cas de nouvelle
-violation de la même obligation.A défaut d'activité permettant de déterminer ce plafond, le montant de la sanction ne peut
+violation de la même obligation. A défaut d'activité permettant de déterminer ce plafond, le montant de la sanction ne peut
 excéder 150 000 euros, porté à 375 000 euros en cas de nouvelle violation de la même obligation ;
 
 - ou, lorsque l'opérateur ne s'est pas conformé à une mise en demeure portant sur le respect d'obligations de couverture de
@@ -4846,7 +4842,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2011-1012 du 24 août 2011 - art. 18
+  - Loi n°2012-1270 du 20 novembre 2012 - art. 14
 
 
 ###### Article L36-13
