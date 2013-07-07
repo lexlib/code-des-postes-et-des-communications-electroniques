@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2013-05-24
+Version Consolidée au 2013-07-08
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -4811,7 +4811,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-1270 du 20 novembre 2012 - art. 14
+  - Décision n°2013-331 QPC du 5 juillet 2013, v. init.
 
 
 ###### Article L36-13
