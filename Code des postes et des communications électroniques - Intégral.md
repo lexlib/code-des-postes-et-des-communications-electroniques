@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2013-07-08
+Version Consolidée au 2013-11-04
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -18166,9 +18166,9 @@ _Codifié par_:
 
 ###### Article D1
 
-L'insertion de billets de banque, de pièces et de métaux précieux est interdite dans les envois postaux, y compris dans les
-envois à valeur déclarée, les envois recommandés et les envois faisant l'objet de formalités attestant leur dépôt et leur
-distribution.
+L'insertion de billets de banque, de pièces métalliques ayant cours légal et pouvoir libératoire destinées à la circulation
+en France et de métaux précieux est interdite dans les envois postaux, y compris dans les envois à valeur déclarée, les
+envois recommandés et les envois faisant l'objet de formalités attestant leur dépôt et leur distribution.
 
 **Liens relatifs à cet article**
 
@@ -18178,7 +18178,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-417 du 21 mai 2013 - art. 3
+  - Décret n°2013-981 du 30 octobre 2013 - art. 1
 
 
 ###### Article D2
