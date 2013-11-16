@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2013-11-04
+Version Consolidée au 2013-11-17
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -6162,14 +6162,6 @@ Le ministre chargé des communications électroniques fixe, sur proposition de l
 électroniques et des postes, les conditions d'attribution et de modification des autorisations d'utilisation correspondant à
 ces fréquences ainsi que la durée de la procédure d'attribution, qui ne peut excéder un délai fixé par décret. 
 
-Par dérogation au deuxième alinéa, s'agissant des fréquences affectées aux services de communications électroniques dans le
-cadre du schéma national de réutilisation des fréquences libérées par l'arrêt de la diffusion analogique institué par
-l'article 21 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, le ministre chargé des
-communications électroniques fixe, sur proposition de l'Autorité de régulation des communications électroniques et des postes
-et après avis de la Commission du dividende numérique instituée par le même article 21, les conditions d'attribution et de
-modification des autorisations d'utilisation correspondant à ces fréquences. Celles-ci tiennent prioritairement compte des
-impératifs d'aménagement numérique du territoire. 
-
 Le ministre fixe également, dans les mêmes conditions, la durée de la procédure d'attribution, qui ne peut excéder un délai
 fixé par décret. 
 
@@ -6197,12 +6189,6 @@ Le montant et les modalités de versement des redevances dues pour les fréquenc
 article peuvent déroger aux dispositions de l'article L. 2125-4 du code général de la propriété des personnes publiques.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°86-1067 du 30 septembre 1986 - art. 21
-  - Code général de la propriété des personnes publiques. - art. L2125-4
-  - Code des postes et des communications électroniques - art. L32-1
 
 _Cité par_:
 
@@ -6235,7 +6221,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1572 du 17 décembre 2009 - art. 22
+  - Loi n°2013-1028 du 15 novembre 2013 - art. 18
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. L2125-4
+  - Code des postes et des communications électroniques - art. L32-1
 
 
 ###### Article L42-3
