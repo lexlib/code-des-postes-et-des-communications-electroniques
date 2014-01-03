@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2013-12-20
+Version Consolidée au 2014-01-04
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -12858,65 +12858,66 @@ _Cite_:
 
 ###### Article R20-30-1
 
-I. - Tout opérateur chargé, en application de l'article L. 35-2, de fournir la composante ou un des éléments de la composante
+I. – Tout opérateur chargé, en application de l'article L. 35-2, de fournir la composante ou un des éléments de la composante
 du service universel mentionné au 1° de l'article L. 35-1 fournit dans la zone géographique pour laquelle il a été désigné à
 toute personne relevant du champ d'application défini à l'article R. 20-30 qui en fait la demande celles des prestations
-suivantes pour lesquelles il a été désigné : 
+suivantes pour lesquelles il a été désigné :
 
-― un raccordement à un réseau fixe ouvert au public permettant d'émettre et de recevoir des communications téléphoniques, des
+– un raccordement à un réseau fixe ouvert au public permettant d'émettre et de recevoir des communications téléphoniques, des
 communications par télécopie et des communications de données à un débit suffisant pour permettre un accès à internet ; le
-débit suffisant correspond à celui normalement offert par une ligne téléphonique ; 
+débit suffisant correspond à celui normalement offert par une ligne téléphonique ;
 
-― et une offre de service téléphonique au public en provenance et à destination de la métropole, de la Guadeloupe, de la
+– et une offre de service téléphonique au public en provenance et à destination de la métropole, de la Guadeloupe, de la
 Guyane, de La Réunion, de la Martinique, de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon, de
 la Nouvelle-Calédonie, de la Polynésie française, des îles Wallis et Futuna et des Terres australes et antarctiques
-françaises, ainsi que des pays étrangers. 
+françaises, ainsi que des pays étrangers.
 
 L'opérateur chargé, en application de l'article L. 35-2, de fournir la composante prévue au 1° de l'article L. 35-1 ou un des
-éléments de cette composante du service universel permet le règlement prépayé de ces prestations. 
+éléments de cette composante du service universel permet le règlement prépayé de ces prestations.
 
 Il fournit les services complémentaires au service universel qu'il est tenu d'assurer dans les conditions prévues par son
-cahier des charges. 
-
-II. ― L'opérateur chargé, en application de l'article L. 35-2, de fournir le raccordement à un réseau fixe ouvert au public
-mentionné au I effectue cette prestation dans les meilleurs délais, conformément aux objectifs de qualité de service définis
-en application de l'article R. 20-30-7, et moyennant, le cas échéant, des paiements échelonnés. Lorsque cette obligation
-n'est pas respectée, l'abonné bénéficie d'une compensation financière ou commerciale. 
-
-III. ― L'opérateur chargé, en application de l'article L. 35-2, de fournir l'offre de service téléphonique au public fournit
-gratuitement aux abonnés, sur leur demande, une facturation détaillée ainsi que les services énumérés ci-après d'interdiction
-sélective des appels sortants ou des messages textuels ou messages multimédias à taux majorés ou, lorsque cela est
-techniquement possible, d'autres applications de type similaire proposés dans le cadre de son offre de service
-téléphonique : 
-
-― interdiction des appels internationaux ; 
-
-― interdiction des appels interurbains ; 
-
-― interdiction des appels nationaux vers les mobiles ; 
-
-― interdiction des appels vers les numéros du plan national de numérotation mettant en œuvre des mécanismes de reversement au
-destinataire final de la communication ou partiellement payés par celui-ci ; 
-
-― interdiction des messages textuels ou messages multimédias à taux majorés ou d'autres applications de type similaire. 
+cahier des charges.
 
 Cet opérateur fournit l'offre de tarifs spécifiques à certaines catégories de personnes rencontrant des difficultés
 particulières dans l'accès au service téléphonique en raison de leur revenu prévue à l'article R. 20-34.
+
+II. – L'opérateur chargé, en application de l'article L. 35-2, de fournir le raccordement à un réseau fixe ouvert au public
+mentionné au I effectue cette prestation dans les meilleurs délais, conformément aux objectifs de qualité de service définis
+en application de l'article R. 20-30-7, et moyennant, le cas échéant, des paiements échelonnés. Lorsque cette obligation
+n'est pas respectée, l'abonné bénéficie d'une compensation financière ou commerciale.
+
+III. – L'opérateur chargé, en application de l'article L. 35-2, de fournir l'offre de service téléphonique au public fournit
+gratuitement aux abonnés, sur leur demande, une facturation détaillée ainsi que les services énumérés ci-après d'interdiction
+sélective des appels sortants ou des messages textuels ou messages multimédias à taux majorés ou, lorsque cela est
+techniquement possible, d'autres applications de type similaire proposés dans le cadre de son offre de service téléphonique :
+
+– interdiction des appels internationaux ;
+
+– interdiction des appels interurbains ;
+
+– interdiction des appels nationaux vers les mobiles ;
+
+– interdiction des appels vers les numéros du plan national de numérotation mettant en œuvre des mécanismes de reversement au
+destinataire final de la communication ou partiellement payés par celui-ci ;
+
+– interdiction des messages textuels ou messages multimédias à taux majorés ou d'autres applications de type similaire.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-436 du 30 mars 2012 - art. 9
+  - Décret n°2013-1331 du 31 décembre 2013 - art. 1
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. L35-1 (V)
+  - Code des postes et des communications électroni... - art. R20-30 (V)
+  - Code des postes et des communications électroniques - art. L35-2
+  - Code des postes et des communications électroniques - art. R20-30-7
 
 _Cité par_:
 
   - Code des postes et des communications électroni... - art. R20-34 (V)
-
-_Cite_:
-
-  - Code des postes et des communications électroniques - art. L35-2
-  - Code des postes et des communications électroniques - art. R20-30-7
 
 
 ###### Article R20-30-2
@@ -13482,13 +13483,11 @@ _Cite_:
 I.-Les personnes physiques qui ont droit au revenu de solidarité active et dont les ressources annuelles du foyer, prises en
 compte pour le calcul du revenu de solidarité active conformément à l'article L. 262-3 du code de l'action sociale et des
 familles, n'excèdent pas le montant forfaitaire mentionné au 2° de l'article L. 262-2 du même code ou qui perçoivent
-l'allocation de solidarité spécifique ou l'allocation aux adultes handicapés et qui ont souscrit un abonnement au service
-téléphonique fixe auprès de l'opérateur qui les dessert, autorisé selon les conditions fixées au II, bénéficient, sur leur
-demande, d'une réduction de leur facture téléphonique.A cette fin, l'organisme gestionnaire de la prestation au titre de
-laquelle le droit à réduction tarifaire est ouvert leur délivre chaque année une attestation.L'intéressé transmet ladite
-attestation accompagnée du nom de l'opérateur qui le dessert et du numéro de sa ligne téléphonique au prestataire, chargé par
-les opérateurs de la gestion du dispositif de réduction tarifaire, et autorise ce prestataire à communiquer les informations
-suivantes aux opérateurs concernés : nom, prénom, adresse et numéro de téléphone. 
+l'allocation de solidarité spécifique ou l'allocation aux adultes handicapés et qui ont souscrit un contrat pour la
+fourniture d'une des prestations décrites au I de l'article R. 20-30-1 auprès du ou des opérateurs autorisés à fournir la
+réduction tarifaire, bénéficient, sur leur demande, d'une réduction de leur facture téléphonique. A cette fin, l'organisme
+gestionnaire de la prestation au titre de laquelle le droit à réduction tarifaire est ouvert leur délivre chaque année une
+attestation. L'intéressé transmet ladite attestation accompagnée du nom de chacun des opérateurs qui le dessert. 
 
 Peuvent également bénéficier de cette même réduction, majorée de 4 euros hors taxes par mois, les invalides de guerre
 cumulant le bénéfice des articles L. 16 et L. 18 du code des pensions militaires d'invalidité et des victimes de la guerre
@@ -13496,8 +13495,8 @@ dont les invalidités supplémentaires sont évaluées à 10 % pour le calcul du
 dudit code, les aveugles de guerre bénéficiaires de l'article L. 18 du code précité et les aveugles de la Résistance
 bénéficiaires de l'article L. 189 du même code. 
 
-Le montant mensuel de la réduction tarifaire accordée est fixé par arrêté du ministre chargé des communications électroniques
-pris après avis de l'Autorité de régulation des communications électroniques et des postes. 
+Le montant mensuel accordé au titre de la réduction tarifaire est fixé par arrêté du ministre chargé des communications
+électroniques pris après avis de l'Autorité de régulation des communications électroniques et des postes. 
 
 Le montant de la compensation versée à chaque opérateur par le fonds de service universel des communications électroniques
 est égal au coût net de l'offre tarifaire auquel s'ajoutent les coûts de gestion exposés par les organismes gestionnaires et
@@ -13510,11 +13509,11 @@ simultanément au ministre chargé des communications électroniques et à l'Aut
 électroniques et des postes qui peuvent lui demander de la compléter. Le ministre se prononce dans un délai de deux mois
 suivant la réception de la demande complète, après avis de l'Autorité de régulation des communications électroniques et des
 postes. Si l'Autorité de régulation des communications électroniques et des postes ne se prononce pas dans le délai d'un mois
-à compter de la réception de la demande complète, son avis est réputé positif.A défaut de réponse du ministre dans le délai
+à compter de la réception de la demande complète, son avis est réputé positif. A défaut de réponse du ministre dans le délai
 de deux mois, la demande est considérée comme acceptée. 
 
 Le montant total des réductions tarifaires accordées au titre du I ainsi que des frais de gestion considérés au I est au plus
-égal à 0, 8 % du chiffre d'affaires du service téléphonique au public.
+égal à 0,8 % du chiffre d'affaires du service téléphonique au public.
 
 **Liens relatifs à cet article**
 
@@ -13530,11 +13529,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-760 du 6 juillet 2010 - art. 1
+  - Décret n°2013-1331 du 31 décembre 2013 - art. 2
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et de... - art. L16 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L189 (V)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L16
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L18
   - Code de l'action sociale et des familles - art. L262-2
   - Code de l'action sociale et des familles - art. L262-3
