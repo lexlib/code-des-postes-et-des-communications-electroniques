@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2014-03-19
+Version Consolidée au 2014-05-30
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -15740,9 +15740,9 @@ _Cité par_:
 
 ###### Article R20-44-36
 
-Les redevances mentionnées aux articles R. 20-44-32 et R. 20-44-33 sont recouvrées par les comptables du Trésor selon les
-modalités fixées aux articles 112 à 124 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
-comptable publique.
+Les redevances mentionnées aux articles R. 20-44-32 et R. 20-44-33 sont recouvrées par les  comptables de la direction
+générale des finances publiques selon les modalités fixées aux articles 112 à 124 du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
@@ -15758,7 +15758,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 16
+  - Décret n°2014-551 du 27 mai 2014 - art. 22
 
 _Codifié par_:
 
@@ -17339,8 +17339,8 @@ _Codifié par_:
 
 ###### Article R*42
 
-Les astreintes prévues à l'article L. 63 sont recouvrées par les comptables directs du Trésor, sur réquisition du ministre
-intéressé ou de son délégué.
+Les astreintes prévues à l'article L. 63 sont recouvrées par les   comptables de la direction générale des finances
+publiques, sur réquisition du ministre intéressé ou de son délégué.
 
 **Liens relatifs à cet article**
 
@@ -17350,20 +17350,23 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+  - Décret n°2014-551 du 27 mai 2014 - art. 22
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-229 du 25 mars 2019 - art. 1
 
 _Codifié par_:
 
-  - Décret n°62-274 1962-03-12
-
-_Cite_:
-
-  - Code des postes et des communications électroni... - art. L63 (V)
+  - Décret n°62-274 du 12 mars 1962
 
 _Nouveaux textes_:
 
   - Code des postes et des communications électroni... - art. R31 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L63
 
 
 ###### Article R40
@@ -18200,22 +18203,23 @@ _Cite_:
 
 ###### Article R52-3-20
 
-Le recouvrement et le contentieux des redevances mentionnées à l'article R. 52-3-4 ressortissent aux comptables du Trésor,
-selon les modalités applicables en matière de créances de l'Etat étrangères à l'impôt et au domaine.
+Le recouvrement et le contentieux des redevances mentionnées à l'article R. 52-3-4 ressortissent aux  comptables de la
+direction générale des finances publiques, selon les modalités applicables en matière de créances de l'Etat étrangères à
+l'impôt et au domaine.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2006-1015 du 11 août 2006 - art. 1 () JORF 12 août 2006
+  - Décret n°2014-551 du 27 mai 2014 - art. 22
 
 _Codifié par_:
 
-  - Décret n°62-274 1962-03-12
+  - Décret n°62-274 du 12 mars 1962
 
 _Cite_:
 
-  - Code des postes et des communications électroni... - art. R52-3-4 (V)
+  - Code des postes et des communications électroniques - art. R52-3-4
 
 
 #### Chapitre VI : Dispositions particulières.<a id=123></a>
