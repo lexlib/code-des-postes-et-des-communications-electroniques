@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-08-04
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -124,7 +124,7 @@ Version Consolidée au 2014-05-30
         - [Chapitre IV : Modification et caducité de l'autorisation. (art. R52-3-13 à R52-3-15)](#121)
         - [Chapitre V : Dispositions financières. (art. R52-3-16 à R52-3-20)](#122)
         - [Chapitre VI : Dispositions particulières. (art. R52-3-21)](#123)
-  - [Partie réglementaire - Décrets simples (art. D1 à D593)](#124)
+  - [Partie réglementaire - Décrets simples (art. D1 à D599)](#124)
     - [LIVRE Ier : Le service postal (art. D1 à D90)](#125)
       - [TITRE Ier : Dispositions générales (art. D1 à D28)](#126)
         - [Chapitre Ier : Le service universel postal et les obligations du service postal (art. D1 à D2)](#127)
@@ -157,10 +157,11 @@ Version Consolidée au 2014-05-30
         - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-6)](#154)
           - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#155)
           - [Section 2 : Accueil des installations de communications électroniques lors de travaux sur le domaine public. (art. D407-4 à D407-6)](#156)
-    - [LIVRE IV : Dispositions communes et finales (art. D570 à D593)](#157)
+    - [LIVRE IV : Dispositions communes et finales (art. D570 à D599)](#157)
       - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#158)
       - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#159)
       - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#160)
+      - [Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes (art. D594 à D599)](#161)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -22561,5 +22562,198 @@ _Créé par_:
 _Anciens textes_:
 
   - Code des postes et des communications électronique - art. D96-24 (T)
+
+
+### Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes<a id=161></a>
+
+###### Article D594
+
+Lorsque l'Autorité se saisit d'office ou lorsqu'elle considère qu'il y a lieu de donner suite à la demande de sanction dont
+elle a été saisie en application du premier alinéa des articles L. 5-3 ou L. 36-11, elle notifie la décision d'ouverture
+d'une instruction préalable à la mise en demeure à la personne en cause et désigne, parmi les agents des services, un
+rapporteur et un rapporteur adjoint.
+
+Le rapporteur ou son adjoint procède à l'instruction préalable à la mise en demeure avec le concours des agents des services
+de l'Autorité. Il peut entendre, s'il l'estime nécessaire, la personne en cause qui peut se faire assister ou représenter par
+toute personne de son choix, ainsi que toute autre personne susceptible de contribuer à son information. Les auditions
+donnent lieu à l'établissement d'un procès-verbal signé par les personnes entendues et les rapporteurs. En cas de refus de
+signer, il en est fait mention dans le procès-verbal. Une copie du procès-verbal est remise aux intéressés.
+
+Le rapporteur fixe les délais et conditions dans lesquels sont produites les pièces ou informations qu'il demande. Elles lui
+sont transmises par lettre recommandée avec avis de réception ou par tout moyen permettant d'attester de la date de réception
+et de l'identité du destinataire, y compris par voie électronique.
+
+Le rapporteur ou son adjoint rédige un rapport d'instruction préalable à la mise en demeure.
+
+Il transmet le dossier d'instruction, y compris le rapport mentionné à l'alinéa précédent, à la formation de règlement des
+différends, de poursuite et d'instruction de l'Autorité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-867 du 1er août 2014 - art. 1
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. D595 (V)
+  - Code des postes et des communications électroni... - art. D598 (VT)
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L36-11
+  - Code des postes et des communications électroniques - art. L5-3
+
+
+###### Article D595
+
+I. – Au vu du dossier d'instruction, l'Autorité, après en avoir délibéré en formation de règlement des différends, de
+poursuite et d'instruction, peut mettre en demeure la personne en cause :
+
+1° En cas de manquement aux dispositions mentionnées au I de l'article L. 5-3, dans un délai qui ne peut être inférieur à un
+mois, sauf en cas de manquement grave et répété ;
+
+2° En cas de manquement aux dispositions mentionnées au I de l'article L. 36-11, dans un délai qu'elle détermine.
+
+La mise en demeure expose les faits et rappelle les règles applicables à la personne en cause. Elle mentionne les voies et
+délais de recours.
+
+II. – Lorsque la personne en cause ne se conforme pas dans les délais fixés à la mise en demeure ou aux obligations
+intermédiaires dont elle est assortie, l'Autorité peut, au vu notamment d'une instruction menée par les rapporteurs dans les
+mêmes conditions que celles définies à l'article D. 594, après en avoir délibéré en formation de règlement des différends, de
+poursuite et d'instruction, lui notifier les griefs ainsi que les sanctions encourues.
+
+La formation de règlement des différends, de poursuite et d'instruction de l'Autorité transmet le dossier d'instruction ainsi
+que la notification des griefs à la formation restreinte.
+
+III. – Lorsque la formation de règlement des différends, de poursuite et d'instruction décide, au vu de l'instruction, qu'il
+n'y a pas lieu d'adresser une mise en demeure ou de notifier des griefs, elle notifie cette décision à la personne en cause,
+et, le cas échéant, à l'auteur de la demande mentionnée au premier alinéa de l'article D. 594, dans le respect des secrets
+protégés par la loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-867 du 1er août 2014 - art. 1
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. D594
+  - Code des postes et des communications électroniques - art. L36-11
+  - Code des postes et des communications électroniques - art. L5-3
+
+
+###### Article D596
+
+La formation restreinte désigne en son sein un président pour chaque procédure dont elle est saisie.
+
+La formation restreinte fixe les délais et conditions dans lesquels la personne en cause, qui peut se faire assister ou
+représenter par la personne de son choix, peut consulter le dossier d'instruction et prendre copie des pièces. Elle fixe
+également le délai dont dispose la personne en cause pour lui transmettre ses observations écrites. Les délais mentionnés au
+présent alinéa ne peuvent être inférieurs à dix jours.
+
+La personne en cause transmet ses observations écrites par lettre recommandée avec avis de réception ou par tout moyen
+permettant d'attester de la date de réception, y compris par voie électronique.
+
+Ces observations sont communiquées à la formation de règlement des différends, de poursuite et d'instruction de l'Autorité.
+
+La formation restreinte peut, à tout moment, demander à la personne en cause de lui communiquer les informations nécessaires
+au calcul de l'éventuelle sanction.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-867 du 1er août 2014 - art. 1
+
+
+###### Article D597
+
+I. – A la demande du président de la formation restreinte, un secrétaire de séance est désigné parmi les agents des services
+de l'Autorité n'ayant pas participé à la préparation des actes de poursuite et d'instruction pour assister la formation
+restreinte. D'autres agents n'ayant pas participé à la préparation des actes de poursuite et d'instruction peuvent être
+désignés, en tant que de besoin, pour assister la formation restreinte. Les agents qui assistent la formation restreinte
+relèvent de la seule autorité du président de la formation restreinte dans le cadre de ces fonctions.
+
+II. – La formation restreinte convoque à une audition, vingt jours au moins avant la date prévue, la personne en cause.
+
+La convocation à l'audition mentionne la faculté d'être entendu et de se faire assister ou représenter par la personne de son
+choix.
+
+Le président de la formation restreinte peut, d'office ou à la demande de la personne en cause, restreindre la publicité de
+l'audition dans l'intérêt de l'ordre public, ou lorsque la protection de secrets protégés par la loi l'exige.
+
+III. – Lors de l'audition, la personne en cause et, le cas échéant, la personne qui l'assiste ou la représente, sont invitées
+à présenter des observations orales à l'appui de leurs observations écrites et à répondre aux questions des membres de la
+formation restreinte. Le cas échéant, elles peuvent fournir des observations écrites complémentaires dans un délai,
+raisonnable, fixé lors de l'audition par la formation restreinte.
+
+Un représentant de la formation de règlement des différends, de poursuite et d'instruction est invité à présenter des
+observations orales et à répondre aux questions de la formation restreinte. La formation restreinte peut également entendre
+toute personne dont l'audition lui paraît utile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-867 du 1er août 2014 - art. 1
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. D598 (V)
+
+
+###### Article D598
+
+La formation restreinte statue en la seule présence de ses membres, du secrétaire de séance et, le cas échéant, des autres
+agents désignés pour l'assister, en application de l'article D. 597. Seuls les membres de la formation restreinte prennent
+part au délibéré. 
+
+Le membre de la formation restreinte, qui suppose en sa personne une cause de récusation ou estime en conscience devoir
+s'abstenir, renonce à siéger en application du chapitre Ier du décret n° 2014-90 du 31 janvier 2014 portant application de
+l'article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique. 
+
+La décision de la formation restreinte est signée par le président et mentionne les noms des membres qui ont siégé. Elle est
+motivée, notifiée et comporte les voies et délais de recours. 
+
+L'auteur de la demande mentionnée au premier alinéa de l'article D. 594 est informé de la décision de la formation
+restreinte, dans le respect des secrets protégés par la loi.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2013-907 du 11 octobre 2013 - art. 2
+  - Décret n°2014-90 du 31 janvier 2014 (V)
+  - Code des postes et des communications électroniques - art. D594
+  - Code des postes et des communications électroniques - art. D597
+
+_Créé par_:
+
+  - Décret n°2014-867 du 1er août 2014 - art. 1
+
+
+###### Article D599
+
+La notification d'un acte relatif à la procédure de sanction est effectuée par lettre recommandée avec avis de réception ou
+par tout autre moyen permettant d'attester de leur date de réception, y compris par voie électronique.
+
+La publicité d'un acte relatif à la procédure de sanction peut intervenir après que cet acte a été notifié à la personne en
+cause et qu'elle a été mise à même de demander la protection des secrets protégés par la loi.
+
+Cette demande doit parvenir à l'Autorité ou à la formation restreinte, le cas échéant, conjointement aux pièces ou
+informations demandées et indiquer, pour chaque information, document ou partie de document en cause, l'objet et les motifs
+de sa demande. La personne qui demande la protection du secret des affaires à l'égard de tout ou partie des éléments
+communiqués par elle ou figurant au dossier fournit séparément une version non confidentielle par lettre recommandée avec
+avis de réception ou par tout autre moyen permettant d'attester de leur date de réception, y compris par voie électronique.
+Les informations, documents ou parties de documents pour lesquels une demande de protection au titre du secret des affaires
+n'a pas été présentée sont réputés ne pas mettre en jeu le secret des affaires.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-867 du 1er août 2014 - art. 1
 
 
