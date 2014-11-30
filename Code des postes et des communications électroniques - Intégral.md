@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2014-10-03
+Version Consolidée au 2014-12-01
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -18185,9 +18185,8 @@ _Modifié par_:
 
 ###### Article D2
 
-Les bijoux définis au III de l'article 1er du décret n° 2000-376 du 28 avril 2000 
-modifié relatif à la protection des transports de fonds ne peuvent être transportés que par envoi à valeur déclarée, par
-envoi recommandé ou par envoi faisant l'objet de formalités attestant leur dépôt et leur distribution. 
+Les bijoux définis à l'article R. 613-27 du code de la sécurité intérieure ne peuvent être transportés que par envoi à valeur
+déclarée, par envoi recommandé ou par envoi faisant l'objet de formalités attestant leur dépôt et leur distribution. 
 
 Dans le cadre de l'offre de service universel postal définie à l'article R. 1, les bijoux ne peuvent être transportés que par
 envoi en valeur déclarée ou par colis recommandé. 
@@ -18200,22 +18199,18 @@ leur distribution ne doit pas dépasser le niveau de garantie choisi par l'expé
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°62-275 du 12 mars 1962
-
-_Cite_:
-
-  - Décret n°2000-376 du 28 avril 2000 - art. 1
-  - Code des postes et des communications électroniques - art. R1
-
 _Cité par_:
 
   - Code de la sécurité intérieure - art. R613-25 (VD)
 
+_Cite_:
+
+  - Code de la sécurité intérieure - art. R613-27 (VD)
+  - Code des postes et des communications électroniques - art. R1
+
 _Modifié par_:
 
-  - Décret n°2013-417 du 21 mai 2013 - art. 4
+  - Décret n°2014-1253 du 27 octobre 2014 - art. 2 (VD)
 
 
 #### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=128></a>
