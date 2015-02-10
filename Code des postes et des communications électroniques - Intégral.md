@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-02-11
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -2038,6 +2038,8 @@ des services de communications électroniques accessibles au public ;
 12° bis. ― A un niveau élevé de protection de l'environnement et de la santé de la population, conjointement avec les
 ministres chargés de la santé et de l'environnement ; 
 
+12° ter A la sobriété de l'exposition du public aux champs électromagnétiques ; 
+
 13° Au respect de la plus grande neutralité possible, d'un point de vue technologique, des mesures qu'ils prennent ; 
 
 14° A l'intégrité et la sécurité des réseaux de communications électroniques ouverts au public ; 
@@ -2109,7 +2111,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-344 du 17 mars 2014 - art. 146
+  - Loi n°2015-136 du 9 février 2015 - art. 1
 
 
 ###### Article L32-3
@@ -3748,28 +3750,79 @@ _Modifié par_:
 
 ###### Article L34-9-1
 
-Un décret définit les valeurs que ne doivent pas dépasser les champs électromagnétiques émis par les équipements utilisés
-dans les réseaux de communications électroniques ou par les installations mentionnées à l'article L. 33-3, lorsque le public
-y est exposé. 
+I.-Un décret définit les valeurs limites des champs électromagnétiques émis par les équipements utilisés dans les réseaux de
+communications électroniques ou par les installations mentionnées à l'article L. 33-3, lorsque le public y est exposé. 
 
-Le respect de ces valeurs peut être vérifié sur place par des organismes répondant aux exigences de qualité fixées par un
+Le respect de ces valeurs peut être vérifié sur place par des organismes répondant aux exigences de qualité fixées par
 décret. 
 
-Le résultat des mesures est transmis par les organismes mentionnés au deuxième alinéa à l'Agence nationale des fréquences,
-qui en assure la mise à disposition du public, et à l'Agence française de sécurité sanitaire de l'environnement et du
-travail. Un recensement national des points atypiques du territoire dans lesquels les taux d'exposition dépassent
-sensiblement la moyenne observée à l'échelle nationale est établi en vue de sa publication au plus tard le 31 décembre 2012. 
+Le résultat des mesures est transmis par les organismes mentionnés au deuxième alinéa du présent I à l'Agence nationale des
+fréquences, qui en assure la mise à la disposition du public. 
 
-Lorsque la mesure est réalisée dans des locaux d'habitation, les résultats sont transmis aux propriétaires et aux occupants.
-Les occupants des locaux peuvent s'opposer à la mise à disposition du public de ces résultats. Ces résultats doivent
-mentionner le nom du bureau de contrôle. Tout occupant d'un logement peut avoir accès, auprès de l'Agence nationale des
-fréquences, à l'ensemble des mesures réalisées dans le logement.
+Lorsqu'une mesure est réalisée dans des immeubles d'habitation, les résultats sont transmis aux propriétaires et aux
+occupants. Ces résultats mentionnent le nom de l'organisme ayant réalisé la mesure. Tout occupant d'un logement peut avoir
+accès, auprès de l'Agence nationale des fréquences, à l'ensemble des mesures réalisées dans le logement. 
+
+II.-A.-Toute personne qui exploite, sur le territoire d'une commune, une ou plusieurs installations radioélectriques soumises
+à accord ou à avis de l'Agence nationale des fréquences transmet au maire ou au président de l'intercommunalité, à sa
+demande, un dossier établissant l'état des lieux de ces installations. Le contenu et les modalités de transmission de ce
+dossier sont définis par arrêté conjoint des ministres chargés des communications électroniques et de l'environnement. 
+
+B.-Toute personne souhaitant exploiter, sur le territoire d'une commune, une ou plusieurs installations radioélectriques
+soumises à accord ou à avis de l'Agence nationale des fréquences en informe par écrit le maire ou le président de
+l'intercommunalité dès la phase de recherche et lui transmet un dossier d'information deux mois avant le dépôt de la demande
+d'autorisation d'urbanisme ou de la déclaration préalable. 
+
+Toute modification substantielle d'une installation radioélectrique existante nécessitant une nouvelle demande d'accord ou
+d'avis auprès de l'Agence nationale des fréquences et susceptible d'avoir un impact sur le niveau de champs
+électromagnétiques émis par celle-ci fait également l'objet d'un dossier d'information remis au maire ou au président de
+l'intercommunalité au moins deux mois avant le début des travaux. 
+
+Le contenu et les modalités de ces transmissions sont définis par arrêté conjoint des ministres chargés des communications
+électroniques et de l'environnement. 
+
+C.-Le dossier d'information mentionné au premier alinéa du B du présent II comprend, à la demande du maire, une simulation de
+l'exposition aux champs électromagnétiques générée par l'installation. 
+
+D.-Le maire ou le président de l'établissement public de coopération intercommunale mettent à disposition des habitants les
+informations prévues aux B et C du présent II par tout moyen qu'ils jugent approprié et peuvent leur donner la possibilité de
+formuler des observations, dans les conditions définies par décret en Conseil d'Etat. 
+
+E.-Lorsqu'il estime qu'une médiation est requise concernant une installation radioélectrique existante ou projetée, le
+représentant de l'État dans le département réunit une instance de concertation, le cas échéant à la demande du maire ou du
+président de l'établissement public de coopération intercommunale. La composition et les modalités de fonctionnement de cette
+instance sont précisées par décret. 
+
+F.-Il est créé au sein de l'Agence nationale des fréquences un comité national de dialogue relatif aux niveaux d'exposition
+du public aux champs électromagnétiques. Ce comité participe à l'information des parties prenantes sur les questions
+d'exposition du public aux champs électromagnétiques. L'agence présente au comité le recensement annuel des résultats de
+l'ensemble des mesures de champs électromagnétiques ainsi que les dispositions techniques de nature à réduire le niveau de
+champs dans les points atypiques. 
+
+La composition et le fonctionnement de ce comité sont définis par décret en Conseil d'Etat. 
+
+G.-Les points atypiques sont définis comme les lieux où le niveau d'exposition du public aux champs électromagnétiques
+dépasse substantiellement celui généralement observé à l'échelle nationale, conformément aux critères déterminés par l'Agence
+nationale des fréquences et révisés régulièrement en fonction des résultats des mesures qui lui sont communiqués. 
+
+Un recensement national des points atypiques du territoire est établi chaque année par l'Agence nationale des fréquences.
+L'agence informe les administrations et les autorités affectataires concernées des points atypiques identifiés. Les
+bénéficiaires des accords ou des avis mentionnés au cinquième alinéa du I de l'article L. 43 impliqués prennent, dans un
+délai de six mois, sous réserve de faisabilité technique, des mesures permettant de réduire le niveau de champs émis dans les
+lieux en cause, tout en garantissant la couverture et la qualité des services rendus. L'Agence nationale des fréquences
+établit un rapport périodique sur les modalités de traitement et la trajectoire de résorption des points atypiques. 
+
+H.-Un décret définit les modalités d'application de l'objectif de sobriété, en ce qui concerne les établissements accueillant
+des personnes vulnérables, et de rationalisation et de mutualisation des installations lors du déploiement de nouvelles
+technologies et du développement de la couverture du territoire.
+
+**Nota:**
+
+Conformément au III de l'article 1er de la loi n° 2015-136 du 9 février 2015, les B à E du II de l'article L. 34-9-1 du code
+des postes et des communications électroniques, dans sa rédaction résultant de la présente loi, entrent en vigueur le 9 août
+2015.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2010-788 du 12 juillet 2010 - art. 183 (V)
 
 _Cité par_:
 
@@ -3791,9 +3844,13 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R20-44-11 (V)
   - Code des postes et des communications électroni... - art. R20-44-28-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2015-136 du 9 février 2015 - art. 1
+
 _Cite_:
 
-  - Code des postes et des communications électroni... - art. L33-3 (V)
+  - Code des postes et des communications électroniques - art. L33-3
 
 
 ###### Article L34-9-2
@@ -6237,9 +6294,10 @@ autorité affectataire concernée.
 
 Elle coordonne l'implantation sur le territoire national des stations radioélectriques de toute nature afin d'assurer la
 meilleure utilisation des sites disponibles et veille au respect des valeurs limites d'exposition du public aux champs
-électromagnétiques prévues à l'article L. 34-9-1. A cet effet, les décisions d'implantation ne peuvent être prises qu'avec
-son accord ou, lorsqu'elles relèvent de la compétence du Conseil supérieur de l'audiovisuel, qu'après son avis. Le conseil
-est tenu par cet avis lorsqu'il est fondé sur un motif tiré du respect des valeurs limites d'exposition. 
+électromagnétiques prévues à l'article L. 34-9-1 ainsi que le recensement et le suivi des points atypiques conformément à
+l'objectif mentionné au 12° ter du II de l'article L. 32-1. A cet effet, les décisions d'implantation ne peuvent être prises
+qu'avec son accord ou, lorsqu'elles relèvent de la compétence du Conseil supérieur de l'audiovisuel, qu'après son avis. Le
+conseil est tenu par cet avis lorsqu'il est fondé sur un motif tiré du respect des valeurs limites d'exposition. 
 
 Elle instruit pour le compte de l'Etat les demandes d'autorisation présentées en application de l'article L. 97-2. 
 
@@ -6345,15 +6403,6 @@ des statuts qui les régissent.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Ordonnance n°59-147 du 7 janvier 1959
-  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6
-  - Code des postes et des communications électroniques - art. L40
-  - Code des postes et des communications électroniques - art. L41
-  - Code des postes et des communications électroniques - art. L97-2
-  - Code de la défense. - art. L1111-2
-
 _Cité par_:
 
   - Arrêté du 24 octobre 2007 - art. 6-2 (V)
@@ -6378,7 +6427,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 90
+  - Loi n°2015-136 du 9 février 2015 - art. 1
 
 _Anciens textes_:
 
@@ -6390,6 +6439,13 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°62-273 du 12 mars 1962
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. L41 (V)
+  - Code des postes et des communications électroniques - art. L40
+  - Code des postes et des communications électroniques - art. L97-2
+  - Code de la défense. - art. L1111-2
 
 _Nouveaux textes_:
 
