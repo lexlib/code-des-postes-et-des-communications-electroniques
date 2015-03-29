@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2015-02-11
+Version Consolidée au 2015-03-30
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -11257,6 +11257,30 @@ _Cite_:
 
   - Code des postes et des communications électroniques - art. L34-1
   - Code de procédure pénale - art. R213-1
+
+
+###### Article R10-13-1
+
+En application du III de l'article L. 34-1 et pour les besoins de la sécurité des systèmes d'information de l'Etat et des
+opérateurs mentionnés aux articles L. 1332-1 et L. 1332-2 du code de la défense, les opérateurs de communications
+électroniques conservent les données mentionnées au a et au c du I de l'article R. 10-13. 
+
+Les surcoûts identifiables et spécifiques supportés par les opérateurs pour communiquer les informations mentionnées à
+l'article L. 2321-3 du code de la défense à l'Agence nationale de la sécurité des systèmes d'information sont remboursés par
+l'Etat selon des tarifs fixés par arrêté du Premier ministre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-349 du 27 mars 2015 - art. 3
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. L34-1 (V)
+  - Code de la défense. - art. L1332-1
+  - Code de la défense. - art. L1332-2
+  - Code de la défense. - art. L2321-3 (V)
 
 
 ###### Article R10-14
