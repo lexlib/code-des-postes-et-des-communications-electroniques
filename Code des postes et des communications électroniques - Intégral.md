@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2016-07-01
+Version Consolidée au 2016-08-14
 ## Contenu: 
   - [Partie législative (art. L1 à L141)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -136,29 +136,30 @@ Version Consolidée au 2016-07-01
         - [Chapitre Ier : Distribution à domicile. (art. D90)](#133)
     - [LIVRE II : Les communications électroniques (art. D98 à D407-6)](#134)
       - [TITRE Ier : Dispositions générales (art. D98 à D315)](#135)
-        - [Chapitre II : Régime juridique (art. D98 à D101)](#136)
+        - [Chapitre II : Régime juridique (art. D98 à D102)](#136)
           - [Section 1 : Réseaux et services (art. D98 à D99-3)](#137)
             - [Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public. (art. D98 à D98-2)](#138)
             - [Paragraphe 2 : Obligations des opérateurs. (art. D98-3 à D98-13)](#139)
             - [Paragraphe 3 : Conditions d'exploitation des réseaux indépendants. (art. D99 à D99-3)](#140)
           - [section 3 : Interconnexion et accès (art. D99-6 à D99-11)](#141)
           - [Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques. (art. D100 à D101)](#142)
-        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D315)](#143)
-          - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#144)
-          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#145)
-      - [TITRE II : Ressources et police (art. D406-5 à D407-6)](#146)
-        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17)](#147)
-          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#148)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17)](#149)
-        - [Chapitre II : Numérotation et adressage. (art. D406-18 à D406-19)](#150)
-        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-6)](#151)
-          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#152)
-          - [Section 2 : Accueil des installations de communications électroniques lors de travaux sur le domaine public. (art. D407-4 à D407-6)](#153)
-    - [LIVRE IV : Dispositions communes et finales (art. D570 à D599)](#154)
-      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#155)
-      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#156)
-      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#157)
-      - [Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes (art. D594 à D599)](#158)
+          - [Section 5 : Instance de concertation départementale réunie pour une médiation concernant une installation radioélectrique existante ou projetée (art. D102)](#143)
+        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D315)](#144)
+          - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#145)
+          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#146)
+      - [TITRE II : Ressources et police (art. D406-5 à D407-6)](#147)
+        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17)](#148)
+          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#149)
+          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17)](#150)
+        - [Chapitre II : Numérotation et adressage. (art. D406-18 à D406-19)](#151)
+        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-6)](#152)
+          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#153)
+          - [Section 2 : Accueil des installations de communications électroniques lors de travaux sur le domaine public. (art. D407-4 à D407-6)](#154)
+    - [LIVRE IV : Dispositions communes et finales (art. D570 à D599)](#155)
+      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#156)
+      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#157)
+      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#158)
+      - [Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes (art. D594 à D599)](#159)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -20611,9 +20612,122 @@ _Créé par_:
   - Décret n°2006-61 du 18 janvier 2006 - art. 1 () JORF 20 janvier 2006
 
 
-#### Chapitre IV : La régulation des communications électroniques.<a id=143></a>
+##### Section 5 : Instance de concertation départementale réunie pour une médiation concernant une installation radioélectrique existante ou projetée<a id=143></a>
 
-##### Section 1 : Autorité de régulation des communications électroniques et des postes<a id=144></a>
+###### Article D102
+
+I. – Le préfet du département où sont implantées ou projetées des installations radioélectriques peut réunir, de sa propre
+initiative ou à la demande du maire ou du président de l'établissement public de coopération intercommunale lorsque celui-ci
+bénéficie d'une délégation de compétence conformément à l'article L. 422-3 du code de l'urbanisme, l'instance de concertation
+départementale prévue au E du II de l'article L. 34-9-1 du code des postes et des communications électroniques lorsqu'il
+estime qu'une médiation est requise concernant une installation radioélectrique existante ou projetée. 
+
+II. – L'instance de concertation départementale est présidée par le préfet de département et comprend les membres suivants
+qu'il nomme en nombre égal : 
+
+1° Des représentants des services déconcentrés de l'Etat chargés de l'aménagement du territoire, et de l'environnement ; 
+
+2° Des représentants de l'agence régionale de santé nommés sur proposition de celle-ci ; 
+
+3° Des représentants de l'Agence nationale des fréquences nommés sur proposition de celle-ci ; 
+
+4° Des représentants des collectivités territoriales concernées ou de leurs groupements nommés sur proposition de l'organe
+délibérant ; 
+
+5° Des représentants des exploitants des installations radioélectriques concernées ; 
+
+6° Des représentants des associations agréées de protection de l'environnement ; 
+
+7° Des représentants des associations agréées en application de l'article L. 1114-1 du code de la santé publique ; 
+
+8° Des représentants des associations d'usagers du système de santé et les fédérations d'associations familiales mentionnées
+à l'article L. 211-2 du code de l'action sociale et des familles ; 
+
+9° Des représentants des associations de bailleurs et de propriétaires ; 
+
+10° Des représentants des syndicats mixtes des parcs naturels régionaux sur proposition de l'organe délibérant. 
+
+L'instance de concertation départementale peut, sur décision de son président, entendre toute personne extérieure ayant une
+connaissance spécifique ou un intérêt particulier concernant les sujets abordés lors de ses réunions. 
+
+III. – L'instance de concertation départementale se réunit sur convocation de son président, adressée par tout moyen. La
+convocation fixe l'ordre du jour de la réunion. 
+
+IV. – Dans le cadre de son rôle de médiation, l'instance de concertation examine les cas d'installations radioélectriques
+existantes ou projetées en application du E du II de l'article L. 34-9-1 du code des postes et des communications
+électroniques en veillant à : 
+
+1° Etablir un état des lieux partagé à partir d'une synthèse des différentes observations et propositions d'actions en ce qui
+concerne ces installations ; 
+
+2° Faciliter la résolution amiable d'un différend relatif aux installations radioélectriques existantes ou projetées. 
+
+Dans le cadre de cet examen, l'instance de concertation départementale prend notamment en compte : 
+
+1° L'évaluation de l'insertion de l'installation dans son environnement ; 
+
+2° L'état des connaissances sanitaires sur les radiofréquences établi par l'Agence nationale de sécurité sanitaire de
+l'alimentation, de l'environnement et du travail ; 
+
+3° Les valeurs limites d'exposition du public aux champs électromagnétiques fixées par le décret prévu au I de l'article L.
+34-9-1 du code des postes et des communications électroniques ; 
+
+4° Les mesures de niveaux de champs électromagnétiques mises à disposition du public par l'Agence nationale des fréquences en
+application du I de l'article L. 34-9-1 du code des postes et des communications électroniques, y compris celles prescrites à
+la demande du préfet en application de l'article L. 1333-21 du code de la santé publique ; 
+
+5° Les informations rendues publiques par le comité national de dialogue relatif aux niveaux d'exposition du public aux
+champs électromagnétiques prévu par le F du II de l'article L. 34-9-1 du code des postes et des communications
+électroniques ; 
+
+6° Le cas échéant, le recensement national des points atypiques du territoire établi annuellement par l'Agence nationale des
+fréquences en application du G du II de l'article L. 34-9-1 du code précité et les informations transmises au maire ou au
+président du groupement de communes dans le cadre de la concertation locale prévue conformément au B du II de l'article L.
+34-9-1. 
+
+V. – 1° Pour l'application du présent article en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-
+Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, les mots :
+
+- " instance de concertation départementale " sont remplacés par les mots : " instance de concertation locale " ;
+
+- " préfet du département ", " préfet de département " ou " préfet " sont remplacés par les mots : " représentant de l'Etat
+dans la collectivité " ; 
+
+2° En Guadeloupe, à Saint-Barthélemy et à Saint-Martin, les mots : " agence régionale de santé " sont remplacés par les
+mots : " agence de santé de la Guadeloupe, de Saint-Barthélemy et de Saint-Martin " ; 
+
+3° A La Réunion et à Mayotte, les mots : " agence régionale de santé " sont remplacés par les mots : " agence de santé océan
+Indien " ; 
+
+4° A Saint-Pierre-et Miquelon, les mots : " agence régionale de santé " sont remplacés par les mots : " administration
+territoriale de santé ".
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-275 du 12 mars 1962
+
+_Modifié par_:
+
+  - Décret n°2016-1106 du 11 août 2016 - art. 1
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. L34-9-1 (V)
+  - Code de la santé publique - art. L1114-1 (V)
+  - Code de la santé publique - art. L1333-21 (V)
+  - Code de l'action sociale et des familles - art. L211-2 (V)
+  - Code de l'urbanisme - art. L422-3 (V)
+
+
+#### Chapitre IV : La régulation des communications électroniques.<a id=144></a>
+
+##### Section 1 : Autorité de régulation des communications électroniques et des postes<a id=145></a>
 
 ###### Article D288
 
@@ -20806,7 +20920,7 @@ _Modifié par_:
   - Ordonnance n°2011-1012 du 24 août 2011 - art. 1
 
 
-##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=145></a>
+##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=146></a>
 
 ###### Article D301
 
@@ -21506,11 +21620,11 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L38-1 (V)
 
 
-### TITRE II : Ressources et police<a id=146></a>
+### TITRE II : Ressources et police<a id=147></a>
 
-#### Chapitre Ier : Fréquences radioélectriques.<a id=147></a>
+#### Chapitre Ier : Fréquences radioélectriques.<a id=148></a>
 
-##### Section 1 : Dispositions générales<a id=148></a>
+##### Section 1 : Dispositions générales<a id=149></a>
 
 ###### Article D406-5
 
@@ -21774,7 +21888,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D487 (M)
 
 
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=149></a>
+##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=150></a>
 
 ###### Article D406-14
 
@@ -21905,7 +22019,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L42-1 (V)
 
 
-#### Chapitre II : Numérotation et adressage.<a id=150></a>
+#### Chapitre II : Numérotation et adressage.<a id=151></a>
 
 ###### Article D406-18
 
@@ -22004,9 +22118,9 @@ _Modifié par_:
   - Décret n°2012-488 du 13 avril 2012 - art. 20
 
 
-#### CHAPITRE III : Etablissement de lignes<a id=151></a>
+#### CHAPITRE III : Etablissement de lignes<a id=152></a>
 
-##### Section 1 : Dispositions générales.<a id=152></a>
+##### Section 1 : Dispositions générales.<a id=153></a>
 
 ###### Article D407-1
 
@@ -22075,7 +22189,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
-##### Section 2 : Accueil des installations de communications électroniques lors de travaux sur le domaine public.<a id=153></a>
+##### Section 2 : Accueil des installations de communications électroniques lors de travaux sur le domaine public.<a id=154></a>
 
 ###### Article D407-4
 
@@ -22151,9 +22265,9 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L49
 
 
-## LIVRE IV : Dispositions communes et finales<a id=154></a>
+## LIVRE IV : Dispositions communes et finales<a id=155></a>
 
-### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=155></a>
+### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=156></a>
 
 ###### Article D570
 
@@ -22297,7 +22411,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-6 (T)
 
 
-### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=156></a>
+### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=157></a>
 
 ###### Article D576
 
@@ -22589,7 +22703,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-17 (T)
 
 
-### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=157></a>
+### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=158></a>
 
 ###### Article D587
 
@@ -22756,7 +22870,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-24 (T)
 
 
-### Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes<a id=158></a>
+### Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes<a id=159></a>
 
 ###### Article D594
 
