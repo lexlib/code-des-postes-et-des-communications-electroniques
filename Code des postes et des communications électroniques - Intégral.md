@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2017-03-01
+Version Consolidée au 2017-03-02
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -180,7 +180,7 @@ postaux dans le cadre de tournées régulières.
 Constitue un envoi postal tout objet destiné à être remis à l'adresse indiquée par l'expéditeur sur l'objet lui-même ou sur
 son conditionnement, y compris sous forme de coordonnées géographiques codées, et présenté dans la forme définitive dans
 laquelle il doit être acheminé. Sont notamment considérés comme des envois postaux les livres, les catalogues, les journaux,
-les périodiques et les colis postaux contenant des marchandises avec ou sans valeur commerciale.
+les périodiques et les colis postaux contenant des marchandises avec ou sans valeur commerciale. 
 
 L'envoi de correspondance est un envoi postal ne dépassant pa s deux kilogrammes et comportant une communication écrite sur
 un support matériel, à l'exclusion des livres, catalogues, journaux ou périodiques. Le publipostage fait partie des envois de
@@ -199,11 +199,12 @@ déclarée.
 
 Les services d'envois postaux à l'unité fournis par le prestataire du service universel postal sont proposés au même tarif
 sur l'ensemble du territoire métropolitain. Le tarif appliqué aux envois de correspondance à l'unité en provenance et à
-destination des départements d'outre-mer, de Mayotte, de Saint-Pierre-et-Miquelon, de Saint-Barthélemy, de Saint-Martin, des
-îles Wallis et Futuna et des Terres australes et antarctiques françaises est celui en vigueur sur le territoire métropolitain
-lorsque ces envois relèvent de la première tranche de poids. Il en va de même des envois de correspondance à l'unité relevant
-de la première tranche de poids en provenance du territoire métropolitain ou des collectivités précédemment mentionnées et à
-destination de la Polynésie française et de la Nouvelle-Calédonie. 
+destination des collectivités régies par l'article 73 de la Constitution, de Saint-Pierre-et-Miquelon, de Saint-Barthélemy,
+de Saint-Martin, des îles Wallis et Futuna et des Terres australes et antarctiques françaises est celui en vigueur sur le
+territoire métropolitain lorsque ces envois sont d'un poids inférieur à 100 grammes. Le tarif appliqué aux envois de
+correspondance à l'unité relevant de la première tranche de poids en provenance du territoire métropolitain ou des
+collectivités précédemment mentionnées et à destination de la Polynésie française et de la Nouvelle-Calédonie est celui en
+vigueur sur le territoire métropolitain. 
 
 Les services de levée et de distribution relevant du service universel postal sont assurés tous les jours ouvrables, sauf
 circonstances exceptionnelles. 
@@ -221,6 +222,10 @@ _Anciens textes_:
 
 _Cité par_:
 
+  - Code de l'environnement - art. L541-10-1 (VD)
+  - Code des postes et des communications électroni... - art. L2-1 (V)
+  - Code des postes et des communications électroni... - art. L2-2 (V)
+  - Code des postes et des communications électroni... - art. L7 (VD)
   - Loi n°90-568 du 2 juillet 1990 - art. 6 (VD)
   - Loi n°90-568 du 2 juillet 1990 - art. 2 (VD)
   - Loi n°90-568 du 2 juillet 1990 - art. 20 (VD)
@@ -228,12 +233,8 @@ _Cité par_:
   - Ordonnance n°2016-65 du 29 janvier 2016 - art. 11 (VT)
   - Décret n°2016-1064 du 3 août 2016 - art. 1 (V)
   - Décret n°2016-1523 du 10 novembre 2016 - art. 2
-  - Code de l'environnement - art. L541-10-1 (VD)
   - Code de la commande publique - art. L1212-3 (VD)
   - Code des postes et des communications électroni... - art. L135 (V)
-  - Code des postes et des communications électroni... - art. L2-1 (V)
-  - Code des postes et des communications électroni... - art. L2-2 (V)
-  - Code des postes et des communications électroni... - art. L7 (VD)
   - Code des postes et des communications électroni... - art. L8 (VD)
   - Code des postes et des communications électronique - art. R1 (M)
   - Code général des impôts, CGI. - art. 261 (V)
@@ -243,9 +244,13 @@ _Cité par_:
   - Code monétaire et financier - art. R761-6 (VD)
   - Code monétaire et financier - art. R771-1 (VD)
 
+_Cite_:
+
+  - Constitution du 4 octobre 1958 - art. 73 (V)
+
 _Modifié par_:
 
-  - Loi n°2010-123 du 9 février 2010 - art. 18
+  - Loi n°2017-256 du 28 février 2017 - art. 45
 
 
 ###### Article L2
@@ -4227,9 +4232,10 @@ _Cité par_:
 ###### Article L34-8-6
 
 Sans préjudice de l'article L. 34-8-2-1, dans les zones de montagne au sens de la loi n° 85-30 du 9 janvier 1985 relative au
-développement et à la protection de la montagne, les exploitants de réseaux radioélectriques font droit aux demandes
-raisonnables d'accès aux infrastructures physiques d'une installation radioélectrique, à son alimentation en énergie et au
-lien de transmission utilisé pour raccorder cette installation, émanant d'autres exploitants de réseaux radioélectriques. 
+développement et à la protection de la montagne et dans les collectivités régies par l'article 73 de la Constitution, les
+exploitants de réseaux radioélectriques font droit aux demandes raisonnables d'accès aux infrastructures physiques d'une
+installation radioélectrique, à son alimentation en énergie et au lien de transmission utilisé pour raccorder cette
+installation, émanant d'autres exploitants de réseaux radioélectriques. 
 
 L'accès est fourni dans des conditions équitables et raisonnables. Lorsque l'accès demandé par un opérateur nécessite un
 aménagement des installations, les coûts induits sont pris en charge par l'opérateur en demande. Tout refus d'accès est
@@ -4247,13 +4253,14 @@ ou à l'exécution de la convention prévue au présent article sont soumis à l
 
 _Cite_:
 
-  - Loi n°85-30 du 9 janvier 1985 (V)
-  - Code des postes et des communications électroni... - art. L34-8-2-1 (V)
-  - Code des postes et des communications électroni... - art. L36-8 (V)
+  - Constitution du 4 octobre 1958 - art. 73 (V)
+  - Loi n°85-30 du 9 janvier 1985
+  - Code des postes et des communications électroniques - art. L34-8-2-1
+  - Code des postes et des communications électroniques - art. L36-8
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-1888 du 28 décembre 2016 - art. 36
+  - Loi n°2017-256 du 28 février 2017 - art. 46
 
 
 ##### Section 5 : Equipements radioélectriques et terminaux.<a id=18></a>
