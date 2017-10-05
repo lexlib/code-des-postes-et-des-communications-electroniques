@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2017-10-06
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -46,8 +46,8 @@ Version Consolidée au 2017-05-11
             - [Paragraphe II : Dispositions spéciales aux eaux territoriales. (art. L82 à L86)](#43)
       - [TITRE VIII : Assignations de fréquence relatives aux systèmes satellitaires. (art. L97-2 à L97-4)](#44)
     - [LIVRE III : Autres services, dispositions communes et finales (art. L100 à L144)](#45)
-      - [TITRE Ier : Autres services (art. L100 à L101)](#46)
-      - [TITRE II : Dispositions communes (art. L125 à L137)](#47)
+      - [TITRE Ier : Autres services (art. L100 à L103)](#46)
+      - [TITRE II : Dispositions communes (art. L125 à L135)](#47)
       - [TITRE III : Dispositions finales. (art. L140 à L144)](#48)
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R52-3-21)](#49)
     - [LIVRE Ier : Le service postal (art. R1 à R2-5)](#50)
@@ -9258,6 +9258,129 @@ _Créé par_:
   - Loi n°2016-1321 du 7 octobre 2016 - art. 93
 
 
+###### Article L102
+
+I. – L'identification électronique est un processus consistant à utiliser des données d'identification personnelle sous une
+forme électronique représentant de manière univoque une personne physique ou morale, ou une personne physique représentant
+une personne morale.
+
+Un moyen d'identification électronique est un élément matériel ou immatériel contenant des données d'identification
+personnelle et utilisé pour s'authentifier pour un service en ligne.
+
+II. – La preuve de l'identité aux fins d'accéder à un service de communication au public en ligne peut être apportée par un
+moyen d'identification électronique.
+
+III. – Ce moyen d'identification électronique est présumé fiable jusqu'à preuve du contraire lorsqu'il répond aux
+prescriptions du cahier des charges établi par l'autorité nationale de sécurité des systèmes d'information, fixé par décret
+en Conseil d'Etat.
+
+Cette autorité certifie la conformité des moyens d'identification électronique aux exigences de ce cahier des charges.
+
+IV. – Le prestataire fournissant un moyen d'identification électronique autre que celui mentionné au III et qui en fait la
+demande peut se voir délivrer par l'autorité nationale de sécurité des systèmes d'information une certification attestant du
+niveau de garantie associé à ce moyen d'identification électronique.
+
+L'autorité nationale de sécurité des systèmes d'information établit à cette fin, après avis de la Commission nationale de
+l'informatique et des libertés, les référentiels définissant les exigences de sécurité associées au moyen d'identification
+électronique. Ces exigences précisent notamment les critères retenus pour la délivrance du moyen d'identification
+électronique, pour la gestion de ce moyen, pour l'authentification, ainsi que pour la gestion et l'organisation des
+prestataires. Ces référentiels sont mis à disposition du public par voie électronique.
+
+Les modalités de cette certification sont définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code des postes, télégraphes et téléphones L172-3
+  - Loi n°55-1551 du 28 novembre 1955 - art. 1, v. init.
+  - Code des postes et des communications électroni... - art. L136 (T)
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1426 du 4 octobre 2017 - art. 1
+  - Ordonnance n°2017-1426 du 4 octobre 2017 - art. 2
+
+_Cité par_:
+
+  - Décret n°2018-284 du 18 avril 2018 - art. 13
+  - Décret n°2019-19 du 9 janvier 2019 (V)
+  - Code des postes et des communications électroni... - art. L103 (VD)
+
+_Codifié par_:
+
+  - Décret n°62-273 du 12 mars 1962
+
+
+###### Article L103
+
+Un service de coffre-fort numérique est un service qui a pour objet :
+
+1° La réception, le stockage, la suppression et la transmission de données ou documents électroniques dans des conditions
+permettant de justifier de leur intégrité et de l'exactitude de leur origine ;
+
+2° La traçabilité des opérations réalisées sur ces documents ou données et la disponibilité de cette traçabilité pour
+l'utilisateur ;
+
+3° L'identification de l'utilisateur lors de l'accès au service par un moyen d'identification électronique respectant
+l'article L. 102 ;
+
+4° De garantir l'accès exclusif aux documents électroniques, données de l'utilisateur ou données associées au fonctionnement
+du service à cet utilisateur, aux tiers autres que le prestataire de service de coffre-fort numérique, explicitement
+autorisés par l'utilisateur à accéder à ces documents et données et, le cas échéant, au prestataire de service de coffre-fort
+numérique réalisant un traitement de ces documents ou données au seul bénéfice de l'utilisateur et après avoir recueilli son
+accord exprès dans le respect de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
+
+5° De donner la possibilité à l'utilisateur de récupérer les documents et les données stockées dans un standard ouvert
+aisément réutilisable et exploitable par un système de traitement automatisé de données, sauf dans le cas des documents
+initialement déposés dans un format non ouvert ou non aisément réutilisable qui peuvent être restitués dans leur format
+d'origine, dans des conditions définies par décret.
+
+Le service de coffre-fort numérique peut également proposer des services de confiance au sens du règlement (UE) n° 910/2014
+du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour
+les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.
+
+Ce service de coffre-fort numérique peut bénéficier d'une certification établie selon un cahier des charges proposé par
+l'autorité nationale de la sécurité des systèmes d'information après avis de la Commission nationale de l'informatique et des
+libertés et approuvé par arrêté du ministre chargé du numérique.
+
+Les modalités de mise en œuvre du service de coffre-fort numérique et de sa certification par l'Etat sont définies par décret
+en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°55-1551 du 28 novembre 1955 - art. 1, v. init.
+  - Code des postes et des communications électroni... - art. L137 (T)
+  - Code des postes, télégraphes et téléphones L172-4
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 (V)
+  - Code des postes et des communications électroni... - art. L102 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1426 du 4 octobre 2017 - art. 1
+
+_Cité par_:
+
+  - Décret n°2018-418 du 30 mai 2018 (V)
+  - Arrêté du 27 juillet 2018 - art. 6 (V)
+  - Décret n°2018-853 du 5 octobre 2018 (V)
+  - Code de la consommation - art. L122-22 (V)
+  - Code des postes et des communications électroni... - art. D537 (VD)
+  - Code des postes et des communications électroni... - art. D538 (VD)
+  - Code des postes et des communications électroni... - art. R55-1 (VD)
+  - Code des postes et des communications électroni... - art. R55-2 (VD)
+  - Code des postes et des communications électroni... - art. R55-6 (VD)
+
+_Codifié par_:
+
+  - Décret n°62-273 du 12 mars 1962
+
+
 ### TITRE II : Dispositions communes<a id=47></a>
 
 ###### Article L125
@@ -9560,90 +9683,6 @@ _Cité par_:
 _Anciens textes_:
 
   - Code des postes et des communications électronique - art. L36-14 (T)
-
-
-###### Article L136
-
-La preuve de l'identité aux fins d'accéder à un service de communication au public en ligne peut être apportée par un moyen
-d'identification électronique. 
-
-Ce moyen d'identification électronique est présumé fiable jusqu'à preuve du contraire lorsqu'il répond aux prescriptions du
-cahier des charges établi par l'autorité nationale de sécurité des systèmes d'information, fixé par décret en Conseil
-d'Etat. 
-
-Cette autorité certifie la conformité des moyens d'identification électronique aux exigences de ce cahier des charges.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 86 (V)
-
-**Liens**:
-
-  - TRANSFERE: Ordonnance n°2017-1426 du 4 octobre 2017 - art. 1
-
-_Nouveaux textes_:
-
-  - Code des postes et des communications électroni... - art. L102 (V)
-
-
-###### Article L137
-
-Un service de coffre-fort numérique est un service qui a pour objet : 
-
-1° La réception, le stockage, la suppression et la transmission de données ou documents électroniques dans des conditions
-permettant de justifier de leur intégrité et de l'exactitude de leur origine ; 
-
-2° La traçabilité des opérations réalisées sur ces documents ou données et la disponibilité de cette traçabilité pour
-l'utilisateur ; 
-
-3° L'identification de l'utilisateur lors de l'accès au service par un moyen d'identification électronique respectant
-l'article L. 136 ; 
-
-4° De garantir l'accès exclusif aux documents électroniques, données de l'utilisateur ou données associées au fonctionnement
-du service à cet utilisateur, aux tiers autres que le prestataire de service de coffre-fort numérique, explicitement
-autorisés par l'utilisateur à accéder à ces documents et données et, le cas échéant, au prestataire de service de coffre-fort
-numérique réalisant un traitement de ces documents ou données au seul bénéfice de l'utilisateur et après avoir recueilli son
-accord exprès dans le respect de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; 
-
-5° De donner la possibilité à l'utilisateur de récupérer les documents et les données stockées dans un standard ouvert
-aisément réutilisable et exploitable par un système de traitement automatisé de données, sauf dans le cas des documents
-initialement déposés dans un format non ouvert ou non aisément réutilisable qui peuvent être restitués dans leur format
-d'origine, dans des conditions définies par décret. 
-
-Le service de coffre-fort numérique peut également proposer des services de confiance au sens du règlement (UE) n° 910/2014
-du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour
-les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/ CE. 
-
-Ce service de coffre-fort numérique peut bénéficier d'une certification établie selon un cahier des charges proposé par
-l'autorité nationale de la sécurité des systèmes d'information après avis de la Commission nationale de l'informatique et des
-libertés et approuvé par arrêté du ministre chargé du numérique. 
-
-Les modalités de mise en œuvre du service de coffre-fort numérique et de sa certification par l'Etat sont définies par décret
-en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°78-17 du 6 janvier 1978
-
-_Créé par_:
-
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 87
-
-**Liens**:
-
-  - TRANSFERE: Ordonnance n°2017-1426 du 4 octobre 2017 - art. 1
-
-_Cité par_:
-
-  - Code de la consommation - art. L122-22 (M)
-
-_Nouveaux textes_:
-
-  - Code des postes et des communications électroni... - art. L103 (V)
 
 
 ### TITRE III : Dispositions finales.<a id=48></a>
