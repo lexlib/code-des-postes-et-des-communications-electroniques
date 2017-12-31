@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2017-10-15
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -115,7 +115,7 @@ Version Consolidée au 2017-10-15
           - [Section 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. R*28 à R27)](#112)
           - [Section 5 : Dispositions pénales. (art. R*42 à R41)](#113)
         - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques. (art. R42-1)](#114)
-        - [Chapitre V : Guichet unique identifiant les maîtres d'ouvrage et leurs opérations de travaux d'installation ou de renforcement d'infrastructures d'accueil (art. R42-2)](#115)
+        - [Chapitre V : Guichet unique identifiant les maîtres d'ouvrage et leurs opérations de travaux d'installation ou de renforcement d'infrastructures d'accueil (art. R42-2 à R42-3)](#115)
         - [Chapitre VI : Protection des câbles sous-marins. (art. R45 à R52)](#116)
           - [Section 2 : Dispositions pénales. (art. R45 à R52)](#117)
             - [Paragraphe I : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#118)
@@ -11701,33 +11701,33 @@ _Cite_:
 I. – Le contrôle prévu par l'article L. 33-10 est effectué par l'Agence nationale de la sécurité des systèmes d'information
 (ANSSI) ou par un autre service de l'Etat compétent. Toutefois, dans le cas où aucun service de l'Etat ne peut l'effectuer et
 où aucun impératif relatif à la défense nationale ou à la sécurité nationale ne s'y oppose, le contrôle peut être effectué
-par un organisme qualifié indépendant habilité par le ministre chargé des communications électroniques. 
+par un organisme qualifié indépendant habilité par le ministre chargé des communications électroniques.
 
-Afin d'être habilité pour effectuer ces contrôles, un organisme doit satisfaire aux conditions suivantes : 
+Afin d'être habilité pour effectuer ces contrôles, un organisme doit satisfaire aux conditions suivantes :
 
 1° Justifier d'une accréditation pour la réalisation de contrôles de la sécurité et de l'intégrité des installations, réseaux
 et services des opérateurs de communications électroniques délivrée par le Comité français d'accréditation ou par un
 organisme signataire de l'accord européen multilatéral pris dans le cadre de la coordination européenne des organismes
-d'accréditation ; 
+d'accréditation ;
 
 2° Disposer de personnels titulaires de l'habilitation mentionnée à l'article R. 2311-7-1 du code de la défense permettant
 l'accès à des informations classifiées au niveau " Confidentiel Défense ” notamment pour pouvoir réaliser les contrôles des
-opérateurs mentionnés aux articles L. 1332-1 et L. 1332-2 du même code ; 
+opérateurs mentionnés aux articles L. 1332-1 et L. 1332-2 du même code ;
 
 3° Disposer de personnels autorisés à exercer le contrôle prévu au premier alinéa du présent article au terme d'une enquête
-administrative réalisée conformément à l'article L. 114-1 du code de la sécurité intérieure ; 
+administrative réalisée conformément à l'article L. 114-1 du code de la sécurité intérieure ;
 
 4° Justifier de son indépendance vis-à-vis des opérateurs de communications électroniques en démontrant qu'il n'agit pas sous
 le contrôle de l'un d'eux au sens de l'article L. 233-3 du code de commerce ou qu'il ne fournit pas de services ou
-d'équipements utilisés dans les installations, réseaux ou services de ceux-ci. 
+d'équipements utilisés dans les installations, réseaux ou services de ceux-ci.
 
-II. – Les demandes d'habilitation sont adressées au haut fonctionnaire de défense et de sécurité du ministère chargé des
-communications électroniques qui les instruit. 
+II. - Les demandes d'habilitation sont adressées à l'administrateur interministériel des communications électroniques de
+défense institué à l'article R. 1334-4 du code de la défense, qui les instruit.
 
 Au terme de l'instruction le ministre chargé des communications électroniques inscrit l'organisme remplissant les conditions
 mentionnées au I sur une liste des organismes habilités pour effectuer les contrôles mentionnés à l'article L. 33-10 du code
 des postes et des communications électroniques. L'organisme habilité doit porter sans délai à la connaissance du ministre
-toute modification des éléments au vu desquels il a été inscrit sur cette liste. 
+toute modification des éléments au vu desquels il a été inscrit sur cette liste.
 
 Le ministre chargé des communications électroniques tient à jour cette liste et peut à cet effet s'assurer à tout moment que
 l'organisme satisfait aux conditions mentionnées au I. Si tel n'est pas le cas ou en cas de manquement de l'organisme à ses
@@ -11736,18 +11736,18 @@ présenter ses observations dans un délai de quinze jours.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-1266 du 15 novembre 2012 - art. 1
+  - Décret n°2017-1870 du 29 décembre 2017 - art. 2
 
 _Cite_:
 
   - Code de commerce - art. L233-3
   - Code des postes et des communications électroniques - art. L33-10
   - Code de la défense. - art. L1332-1
-  - Code de la défense. - art. L1332-2 (V)
+  - Code de la défense. - art. L1332-2
   - Code de la défense. - art. R2311-7-1
-  - Code de la sécurité intérieure - art. L114-1 (V)
+  - Code de la sécurité intérieure - art. L114-1
 
 _Cité par_:
 
@@ -18873,6 +18873,23 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L50 (V)
   - Code de l'environnement - art. R554-20 (V)
   - Code de l'environnement - art. R554-21 (M)
+
+
+###### Article R42-3
+
+Les dispositions relatives au financement du guichet unique mentionné à l'article L. 50 figurent au II de l'article R. 554-10
+du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1557 du 10 novembre 2017 - art. 7
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L50
+  - Code de l'environnement - art. R554-10
 
 
 #### Chapitre VI : Protection des câbles sous-marins.<a id=116></a>
