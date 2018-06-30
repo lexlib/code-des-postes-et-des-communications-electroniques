@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -18,7 +18,7 @@ Version Consolidée au 2018-01-01
           - [Section 2 : Annuaires et services de renseignements. (art. L34)](#15)
           - [Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques. (art. L34-1 à L34-6)](#16)
           - [Section 4 : Interconnexion et accès au réseau. (art. L34-8 à L34-8-6)](#17)
-          - [Section 5 : Equipements radioélectriques et terminaux. (art. L34-9 à L34-9-1)](#18)
+          - [Section 5 : Equipements radioélectriques et terminaux. (art. L34-9 à L34-9-2)](#18)
           - [Section 6 : Dispositions particulières aux prestations d'itinérance ultramarine. (art. L34-10)](#19)
         - [Chapitre III : Les obligations de service public. (art. L35 à L35-7)](#20)
         - [Chapitre IV : La régulation des communications électroniques. (art. L36-5 à L38-4)](#21)
@@ -4363,6 +4363,31 @@ _Modifié par_:
 _Cite_:
 
   - Code des postes et des communications électroniques - art. L33-3
+
+
+###### Article L34-9-2
+
+Les aéronefs circulant sans personne à bord, d'une masse supérieure à un seuil fixé par voie réglementaire, qui ne peut être
+supérieur à 800 grammes, sont équipés d'un dispositif de signalement lumineux et d'un dispositif de signalement électronique
+ou numérique. 
+
+Sont exemptés de l'obligation définie au premier alinéa les aéronefs circulant sans personne à bord et qui sont opérés dans
+un cadre agréé et dans des zones identifiées à cet effet. 
+
+Un décret en Conseil d'Etat précise les objectifs des dispositifs mentionnés au même premier alinéa et les conditions dans
+lesquelles des aéronefs circulant sans personne à bord sont exemptés de l'obligation définie audit premier alinéa.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2016-1428 du 24 octobre 2016 - art. 4 (V)
+
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. L142 (V)
+  - Code des postes et des communications électroni... - art. L143 (V)
+  - Code des postes et des communications électroni... - art. L144 (V)
 
 
 ##### Section 6 : Dispositions particulières aux prestations d'itinérance ultramarine.<a id=19></a>
