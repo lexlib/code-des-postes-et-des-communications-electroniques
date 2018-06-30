@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2018-06-25
+Version Consolidée au 2018-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -4401,20 +4401,21 @@ _Cite_:
 
 ###### Article L34-9-2
 
-Toute personne qui exploite, sur le territoire d'une commune, une ou plusieurs installations radio-électriques est tenue de
-transmettre au maire de cette commune, sur sa demande, un dossier établissant l'état des lieux de cette ou de ces
-installations. Le contenu et les modalités de transmission de ce dossier sont définis par l'arrêté conjoint des ministres
-chargés des communications électroniques, de la communication, de la santé et de l'environnement.
+Les aéronefs circulant sans personne à bord, d'une masse supérieure à un seuil fixé par voie réglementaire, qui ne peut être
+supérieur à 800 grammes, sont équipés d'un dispositif de signalement lumineux et d'un dispositif de signalement électronique
+ou numérique. 
+
+Sont exemptés de l'obligation définie au premier alinéa les aéronefs circulant sans personne à bord et qui sont opérés dans
+un cadre agréé et dans des zones identifiées à cet effet. 
+
+Un décret en Conseil d'Etat précise les objectifs des dispositifs mentionnés au même premier alinéa et les conditions dans
+lesquelles des aéronefs circulant sans personne à bord sont exemptés de l'obligation définie audit premier alinéa.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1012 du 24 août 2011 - art. 55
-
-_Abrogé par_:
-
-  - Loi n°2015-136 du 9 février 2015 - art. 1
+  - Loi n°2016-1428 du 24 octobre 2016 - art. 4 (V)
 
 _Cité par_:
 
