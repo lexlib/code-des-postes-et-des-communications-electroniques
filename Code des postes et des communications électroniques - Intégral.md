@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2018-07-01
+Version Consolidée au 2018-07-15
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -14,7 +14,7 @@ Version Consolidée au 2018-07-01
       - [TITRE Ier : Dispositions générales (art. L32 à L40-1)](#11)
         - [Chapitre Ier : Définitions et principes. (art. L32 à L32-5)](#12)
         - [Chapitre II : Régime juridique. (art. L33 à L34-10)](#13)
-          - [Section 1 : Réseaux et services. (art. L33 à L33-13)](#14)
+          - [Section 1 : Réseaux et services. (art. L33 à L33-15)](#14)
           - [Section 2 : Annuaires et services de renseignements. (art. L34)](#15)
           - [Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques. (art. L34-1 à L34-6)](#16)
           - [Section 4 : Interconnexion et accès au réseau. (art. L34-8 à L34-8-6)](#17)
@@ -22,7 +22,7 @@ Version Consolidée au 2018-07-01
           - [Section 6 : Dispositions particulières aux prestations d'itinérance ultramarine. (art. L34-10)](#19)
         - [Chapitre III : Les obligations de service public. (art. L35 à L35-7)](#20)
         - [Chapitre IV : La régulation des communications électroniques. (art. L36-5 à L38-4)](#21)
-          - [Section 1 : Autorité de régulation des communications électroniques et des postes. (art. L36-5 à L36-13)](#22)
+          - [Section 1 : Autorité de régulation des communications électroniques et des postes. (art. L36-5 à L36-14)](#22)
           - [Section  2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. L37-1 à L38-4)](#23)
         - [Chapitre V : Dispositions pénales. (art. L39 à L40-1)](#24)
       - [TITRE II : Ressources et police (art. L41 à L86)](#25)
@@ -3267,6 +3267,65 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L36-11 (V)
 
 
+###### Article L33-14
+
+Pour les besoins de la sécurité et de la défense des systèmes d'information, les opérateurs de communications électroniques
+peuvent recourir, sur les réseaux de communications électroniques qu'ils exploitent, après en avoir informé l'autorité
+nationale de sécurité des systèmes d'information, à des dispositifs mettant en œuvre des marqueurs techniques aux seules fins
+de détecter des événements susceptibles d'affecter la sécurité des systèmes d'information de leurs abonnés. 
+
+A la demande de l'autorité nationale de sécurité des systèmes d'information, lorsque celle-ci a connaissance d'une menace
+susceptible de porter atteinte à la sécurité des systèmes d'information, les opérateurs de communications électroniques ayant
+mis en œuvre les dispositifs prévus au premier alinéa procèdent, aux fins de prévenir la menace, à leur exploitation, en
+recourant, le cas échéant, à des marqueurs techniques que cette autorité leur fournit. 
+
+Par dérogation au II de l'article L. 34-1, les opérateurs de communications électroniques sont autorisés à conserver, pour
+une durée maximale de six mois, les données techniques strictement nécessaires à la caractérisation d'un évènement détecté
+par les dispositifs mentionnés au premier alinéa du présent article. Les données recueillies dans le cadre de l'exploitation
+de ces dispositifs autres que celles directement utiles à la prévention et à la caractérisation des menaces sont
+immédiatement détruites. 
+
+Lorsque sont détectés des événements susceptibles d'affecter la sécurité des systèmes d'information, les opérateurs de
+communications électroniques en informent sans délai l'autorité nationale de sécurité des systèmes d'information. 
+
+A la demande de l'autorité nationale de sécurité des systèmes d'information, les opérateurs de communications électroniques
+informent leurs abonnés de la vulnérabilité de leurs systèmes d'information ou des atteintes qu'ils ont subies. 
+
+Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat. Celui-ci détermine notamment les
+catégories de données pouvant être conservées par les opérateurs de communications électroniques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-607 du 13 juillet 2018 - art. 34
+
+_Cité par_:
+
+  - Décret n°2018-1136 du 13 décembre 2018 (V)
+  - Code des postes et des communications électroni... - art. R10-15 (VD)
+  - Code des postes et des communications électroni... - art. R9-12-1 (VD)
+  - Code des postes et des communications électroni... - art. R9-12-3 (VD)
+  - Code des postes et des communications électroni... - art. R9-12-5 (VD)
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. L34-1 (V)
+
+
+###### Article L33-15
+
+L'article L. 33-14 est applicable dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie dans sa
+rédaction résultant de la loi n° 2018-607 du 13 juillet 2018 relative à la programmation militaire pour les années 2019 à
+2025 et portant diverses dispositions intéressant la défense.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-607 du 13 juillet 2018 - art. 64 (V)
+
+
 ##### Section 2 : Annuaires et services de renseignements.<a id=15></a>
 
 ###### Article L34
@@ -5113,7 +5172,7 @@ L'Autorité de régulation des communications électroniques et des postes :
 sont applicables en vertu du présent code, du règlement (UE) n° 531/2012 du Parlement européen et du Conseil, du 13 juin
 2012, concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de l'Union, du règlement (UE)
 2015/2120 du Parlement européen et du Conseil du 25 novembre 2015 établissant des mesures relatives à l'accès à un internet
-ouvert et modifiant la directive 2002/22/CE concernant le service universel et les droits des utilisateurs au regard des
+ouvert et modifiant la directive 2002/22/ CE concernant le service universel et les droits des utilisateurs au regard des
 réseaux et services de communications électroniques et le règlement (UE) n° 531/2012 concernant l'itinérance sur les réseaux
 publics de communications mobiles à l'intérieur de l'Union et des autorisations dont ils bénéficient et sanctionne les
 manquements constatés dans les conditions prévues aux articles L. 36-10 et L. 36-11 ;
@@ -5145,7 +5204,11 @@ application de l'article 119 de la loi n° 2008-776 du 4 août 2008 de modernisa
 mentionner leurs sources, les cartes numériques de couverture du territoire que les fournisseurs de services de
 communications électroniques sont tenus de publier en application du présent code et des décisions prises pour son
 application, ainsi que les données servant à les établir dont elle fixe la liste et que les fournisseurs lui transmettent
-préalablement.
+préalablement ;
+
+12° Est chargée, en application de l'article L. 2321-5 du code de la défense, de veiller au respect par l'autorité nationale
+de sécurité des systèmes d'information des conditions d'application de l'article L. 2321-2-1 et du deuxième alinéa de
+l'article L. 2321-3 du même code.
 
 **Liens relatifs à cet article**
 
@@ -5195,7 +5258,6 @@ _Cite_:
 
   - Loi n°2008-776 du 4 août 2008 - art. 119
   - Code des postes et des communications électroniques - art. L33-1
-  - Code des postes et des communications électroniques - art. L34-8-1-1
   - Code des postes et des communications électroniques - art. L35-2
   - Code des postes et des communications électroniques - art. L35-3
   - Code des postes et des communications électroniques - art. L36-10
@@ -5203,10 +5265,13 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L38-1
   - Code des postes et des communications électroniques - art. L42-1
   - Code des postes et des communications électroniques - art. L44
+  - Code de la défense. - art. L2321-2-1 (V)
+  - Code de la défense. - art. L2321-3 (V)
+  - Code de la défense. - art. L2321-5 (V)
 
 _Modifié par_:
 
-  - Loi n°2017-55 du 20 janvier 2017 - art. 30
+  - Loi n°2018-607 du 13 juillet 2018 - art. 34
 
 
 ###### Article L36-8
@@ -5608,6 +5673,63 @@ _Codifié par_:
 _Cite_:
 
   - Code des postes et des communications électroni... - art. L32-4 (V)
+
+
+###### Article L36-14
+
+La formation de règlement des différends, de poursuite et d'instruction mentionnée à l'article L. 130 est compétente pour
+exercer la mission mentionnée au 12° de l'article L. 36-7. Pour l'accomplissement de cette mission, la formation de règlement
+des différends, de poursuite et d'instruction : 
+
+1° Est informée sans délai, par l'autorité nationale de sécurité des systèmes d'information, des mesures mises en œuvre en
+application de l'article L. 2321-2-1 du code de la défense ainsi que des demandes formulées en application du deuxième alinéa
+de l'article L. 2321-3 du même code ; 
+
+2° Dispose d'un accès complet et permanent aux données recueillies ou obtenues en application des mêmes articles L. 2321-2-1
+et L. 2321-3 ainsi qu'aux dispositifs de traçabilité des données collectées et peut solliciter de l'autorité nationale de
+sécurité des systèmes d'information tous les éléments nécessaires à l'accomplissement de sa mission ; 
+
+3° Peut, à la demande de son président, se faire assister par des experts individuellement désignés et habilités au secret de
+la défense nationale ; 
+
+4° Peut adresser, à tout moment, à l'autorité nationale de sécurité des systèmes d'information toute recommandation qu'elle
+juge nécessaire aux fins d'assurer la régularité des mesures mises en œuvre en application des dispositions mentionnées au 1°
+du présent article. Elle est informée, sans délai, des suites données à ces recommandations. 
+
+Lorsque l'autorité nationale de sécurité des systèmes d'information ne donne pas suite à ces recommandations ou que la
+formation de règlement des différends, de poursuite et d'instruction estime insuffisantes les suites données à ces
+recommandations, la formation peut enjoindre à l'autorité nationale de sécurité des systèmes d'information d'interrompre les
+opérations ou de détruire les données mentionnés aux articles L. 2321-2-1 et L. 2321-3 du code de la défense. 
+
+Le Conseil d'Etat peut être saisi par le président de l'Autorité de régulation des communications électroniques et des postes
+d'un recours lorsque l'autorité nationale de sécurité des systèmes d'information ne se conforme pas à une injonction qui lui
+est adressée en vertu du présent article. 
+
+L'Autorité de régulation des communications électroniques et des postes remet chaque année au Gouvernement et au Parlement,
+dans le respect du secret de la défense nationale, un rapport d'activité sur les conditions d'exercice et les résultats du
+contrôle exercé au titre du présent article. 
+
+Elle peut adresser au Premier ministre, au président de l'Assemblée nationale et au président du Sénat, à tout moment, les
+observations qu'elle juge utiles. 
+
+Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-607 du 13 juillet 2018 - art. 34
+
+_Cité par_:
+
+  - Code de la défense. - art. R2321-1-4 (VD)
+  - Code des postes et des communications électroni... - art. L130 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. L36-7 (V)
+  - Code de la défense. - art. L2321-2-1 (V)
+  - Code de la défense. - art. L2321-3 (V)
 
 
 ##### Section  2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=23></a>
@@ -9462,7 +9584,7 @@ par décret du Président de la République. Deux membres sont nommés par décr
 sont nommés par le Président de l'Assemblée nationale et deux par le Président du Sénat. 
 
 Parmi les membres de l'autorité, l'écart entre le nombre de femmes et le nombre d'hommes ne peut être supérieur à un. Pour la
-nomination des membres autres que le président, le nouveau membre est de même sexe que celui auquel il succède.
+nomination des membres autres que le président, le nouveau membre est de même sexe que celui auquel il succède. 
 
 Les membres de l'autorité nommés par décret sont renouvelés par tiers tous les deux ans. 
 
@@ -9486,9 +9608,12 @@ quatrième alinéa de l'article L. 33-1, de l'article L. 36-8 et des I et II de 
 délibérer que si trois de ses membres sont présents. Les mêmes règles s'appliquent lors de la délibération de mesures
 conservatoires en application du IV de l'article L. 36-11. 
 
+La formation de règlement des différends, de poursuite et d'instruction est compétente pour exercer la mission mentionnée au
+12° de l'article L. 36-7, dans les conditions prévues à l'article L. 36-14. 
+
 Quelle que soit sa formation, l'Autorité délibère à la majorité des membres présents. 
 
-Le mandat des membres de l'autorité n'est pas renouvelable.  
+Le mandat des membres de l'autorité n'est pas renouvelable. 
 
 Les membres de l'autorité ne peuvent être nommés au-delà de l'âge de soixante-cinq ans.
 
@@ -9496,7 +9621,7 @@ Les membres de l'autorité ne peuvent être nommés au-delà de l'âge de soixan
 
 _Modifié par_:
 
-  - Loi n°2017-55 du 20 janvier 2017 - art. 30
+  - Loi n°2018-607 du 13 juillet 2018 - art. 34
 
 _Cité par_:
 
@@ -9504,13 +9629,9 @@ _Cité par_:
   - Code de la consommation - art. L224-30 (V)
   - Code des postes et des communications électroni... - art. L36-14 (V)
 
-_Anciens textes_:
-
-  - Code des postes et des communications électronique - art. L36-1 (M)
-  - Code des postes et des communications électronique - art. L36-1 (MMN)
-
 _Cite_:
 
+  - Code des postes et des communications électroni... - art. L36-7 (V)
   - Code des postes et des communications électroniques - art. L32-4
   - Code des postes et des communications électroniques - art. L33-1
   - Code des postes et des communications électroniques - art. L36-8
@@ -9518,13 +9639,19 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L5-4
   - Code des postes et des communications électroniques - art. L5-9
 
+_Anciens textes_:
+
+  - Code des postes et des communications électronique - art. L36-1 (M)
+  - Code des postes et des communications électronique - art. L36-1 (MMN)
+
 
 ###### Article L131
 
 Les membres de l'Autorité de régulation des communications électroniques et des postes exercent leurs fonctions à temps
 plein. Leur mandat est incompatible avec toute détention, directe ou indirecte, d'intérêts dans une entreprise du secteur
 postal ou des secteurs des communications électroniques, de l'audiovisuel ou de l'informatique. Ils ne peuvent être membres
-de la Commission supérieure du numérique et des postes.
+de la Commission supérieure du numérique et des postes. Lorsque l'accomplissement de leur mission l'exige, ces membres sont
+habilités au secret de la défense nationale.
 
 Les agents de l'Autorité de régulation des communications électroniques et des postes exercent leurs fonctions en toute
 impartialité, sans recevoir d'instruction du Gouvernement, ni d'aucune institution, personne, entreprise ou organisme.
@@ -9539,7 +9666,7 @@ au titre du code des pensions civiles et militaires de retraite.
 
 _Modifié par_:
 
-  - Loi n°2017-55 du 20 janvier 2017 - art. 30
+  - Loi n°2018-607 du 13 juillet 2018 - art. 34
 
 _Codifié par_:
 
@@ -9556,11 +9683,13 @@ _Anciens textes_:
 Les personnels des services de l'autorité sont tenus au secret professionnel pour les faits, actes et renseignements dont ils
 ont pu avoir connaissance en raison de leurs fonctions.
 
+Lorsque l'accomplissement de leur mission l'exige, ces personnels sont habilités au secret de la défense nationale.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2017-55 du 20 janvier 2017 - art. 30
+  - Loi n°2018-607 du 13 juillet 2018 - art. 34
 
 _Codifié par_:
 
