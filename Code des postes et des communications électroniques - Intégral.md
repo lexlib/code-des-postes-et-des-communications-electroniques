@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2018-07-15
+Version Consolidée au 2018-08-06
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -9478,11 +9478,11 @@ _Codifié par_:
 
 ###### Article L125
 
-La Commission supérieure du numérique et des postes comprend sept députés et sept sénateurs, désignés par leurs assemblées
-respectives, ainsi que trois personnalités qualifiées dans les secteurs des postes et des communications électroniques,
-désignées par les ministres chargés des postes et des communications électroniques parmi six personnalités proposées par le
-président de la commission. Elle est présidée par un parlementaire élu en son sein pour une durée de trois ans. L'écart entre
-le nombre de femmes et d'hommes, membres de la commission, ne peut être supérieur à un.(1)
+La Commission supérieure du numérique et des postes comprend sept députés et sept sénateurs ainsi que trois personnalités
+qualifiées dans les secteurs des postes et des communications électroniques, désignées par les ministres chargés des postes
+et des communications électroniques parmi six personnalités proposées par le président de la commission. Elle est présidée
+alternativement par un député et un sénateur élu en son sein pour une durée de trois ans. L'écart entre le nombre de femmes
+et d'hommes, membres de la commission, ne peut être supérieur à un.(1)
 
 Elle veille à l'évolution équilibrée des secteurs des postes et des communications électroniques et étudie les questions
 relatives à la neutralité de l'internet. Elle émet, à cette fin, un avis sur les projets de modification de la législation
@@ -9524,21 +9524,20 @@ code des postes et des communications électroniques.
 
 **Liens relatifs à cet article**
 
+_Cité par_:
+
+  - Code des postes et des communications électroni... - art. D578 (V)
+  - Loi n°90-568 du 2 juillet 1990 - art. 8 (M)
+
 _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L204
   - Loi n°1923-06-30 art. 70
   - Loi n°1940-10-05 art. 1
 
-_Cité par_:
-
-  - Loi n°90-568 du 2 juillet 1990 - art. 8 (M)
-  - Code des postes et des communications électroni... - art. D578 (V)
-
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 44
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 45
+  - Loi n°2018-699 du 3 août 2018 - art. 73 (V)
 
 _Codifié par_:
 
