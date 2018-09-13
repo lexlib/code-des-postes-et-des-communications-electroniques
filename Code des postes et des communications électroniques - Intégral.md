@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2018-08-31
+Version Consolidée au 2018-09-14
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -21437,53 +21437,20 @@ _Cite_:
   - Code des postes et des communications électroniques - art. D98-8
 
 
-###### Article D98-8-4
-
-Un comité national de pilotage, réunissant des représentants des ministres chargés de la sécurité civile, de la santé et des
-personnes handicapées, des représentants des services publics mentionnés à l'article D. 98-8 ainsi que des représentants des
-associations représentatives des personnes déficientes auditives définit un cahier des charges qui précise notamment les
-modalités d'organisation et de fonctionnement du centre national de relais, y compris en cas de situation de crise.
-
-Sur la base notamment du rapport mentionné à l'article D. 98-8-5, le comité national de pilotage fait toute proposition utile
-à l'amélioration de l'organisation et du fonctionnement du centre national de relais.
-
-Les membres du comité national de pilotage sont nommés par le ministre chargé des personnes handicapées sur la proposition
-des ministres et organismes représentés.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-346 du 14 avril 2008 - art. 1
-
-_Cité par_:
-
-  - Arrêté du 1er février 2010 - art. 1 (V)
-  - Code des postes et des communications électroni... - art. D98-8-5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2018-785 du 12 septembre 2018 - art. 4
-
-_Cite_:
-
-  - Code des postes et des communications électroniques - art. D98-8
-
-
 ###### Article D98-8-5
 
 Le centre national de relais élabore un rapport annuel visant notamment à évaluer son activité et à faire état des éventuels
-dysfonctionnements. Ce rapport est transmis au comité de pilotage mentionné à l'article D. 98-8-4.
+dysfonctionnements. Ce rapport est transmis au ministre chargé des personnes handicapées.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-346 du 14 avril 2008 - art. 1
+  - Décret n°2018-785 du 12 septembre 2018 - art. 4
 
-_Cite_:
+_Cité par_:
 
-  - Code des postes et des communications électroniques - art. D98-8-4
+  - Code des postes et des communications électroni... - art. D98-8-4 (Ab)
 
 
 ###### Article D98-8-6
