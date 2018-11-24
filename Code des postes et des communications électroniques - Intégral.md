@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2018-10-07
+Version Consolidée au 2018-11-25
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -3091,26 +3091,29 @@ comportant plusieurs logements ou à usage mixte appartenant au même propriéta
 lotissements régis par l'ordonnance n° 2004-632 du 1er juillet 2004 relative aux associations syndicales de propriétaires,
 permettant de desservir un ou plusieurs utilisateurs finals, font l'objet d'une convention entre cet opérateur et le
 propriétaire, le syndicat de copropriétaires ou l'association syndicale de propriétaires, que l'opérateur bénéficie ou non de
-la servitude mentionnée aux articles L. 45-9 à L. 48. 
+la servitude mentionnée aux articles L. 45-9 à L. 48.
 
 Cette convention définit les conditions de réalisation des opérations d'installation, de gestion, d'entretien et de
 remplacement des lignes mentionnées à l'alinéa précédent. Ces opérations se font aux frais de l'opérateur, sauf lorsque le
 propriétaire, le syndicat de copropriétaires ou l'association syndicale de propriétaires a refusé deux offres consécutives de
-cet opérateur dans les deux ans qui précèdent. 
+cet opérateur dans les deux ans qui précèdent.
 
 La convention mentionnée au précédent alinéa définit également les conditions et les délais dans lesquels les infrastructures
 d'accueil nécessaires au déploiement des lignes de communications électroniques à très haut débit en fibres optiques sont
 mises à disposition de l'opérateur par le propriétaire, le syndicat de copropriétaires ou l'association syndicale de
 propriétaires. Les travaux d'installation des lignes doivent s'achever au plus tard six mois à compter de la mise à
-disposition de l'opérateur des infrastructures d'accueil. 
+disposition de l'opérateur des infrastructures d'accueil.
 
 La convention autorise l'utilisation de ces infrastructures d'accueil par d'autres opérateurs dans la limite des capacités
 disponibles et dans les conditions qui ne portent pas atteinte au service fourni par l'opérateur mentionné au premier alinéa.
-Elle ne peut faire obstacle à l'application de l'article L. 34-8-3. 
+Elle ne peut faire obstacle à l'application de l'article L. 34-8-3 et garantit l'accessibilité des parties communes aux
+opérateurs pour l'exploitation des lignes mentionnées au premier alinéa du présent article, pour le raccordement du point
+d'accès lorsque celui-ci est situé à l'intérieur des limites de la propriété privée ainsi que pour la construction et la
+maintenance du raccordement des utilisateurs finals.
 
 La convention ne peut subordonner l'installation ou l'utilisation, par les opérateurs, des lignes de communications
 électroniques en fibre optique en vue de fournir des services de communications électroniques, à une contrepartie financière
-ou à la fourniture de services autres que de communications électroniques et de communication audiovisuelle. 
+ou à la fourniture de services autres que de communications électroniques et de communication audiovisuelle.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il précise les clauses de la convention,
 relatives notamment au suivi et à la réception des travaux, aux modalités d'accès aux parties communes de l'immeuble ou aux
@@ -3132,14 +3135,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°66-457 du 2 juillet 1966 (V)
+  - Loi n°66-457 du 2 juillet 1966
   - Ordonnance n°2004-632 du 1 juillet 2004
   - Code des postes et des communications électroniques - art. L34-8-3
   - Code des postes et des communications électroniques - art. L45-9
 
 _Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 116 (V)
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 226
 
 
 ###### Article L33-7
@@ -3293,20 +3296,26 @@ _Modifié par_:
 Le ministre chargé des communications électroniques peut accepter, après avis de l'Autorité de régulation des communications
 électroniques et des postes, les engagements, souscrits auprès de lui par les opérateurs, de nature à contribuer à
 l'aménagement et à la couverture des zones peu denses du territoire par les réseaux de communications électroniques et à
-favoriser l'accès des opérateurs à ces réseaux. 
+favoriser l'accès des opérateurs à ces réseaux.
 
 L'Autorité de régulation des communications électroniques et des postes en contrôle le respect et sanctionne les manquements
 constatés dans les conditions prévues à l'article L. 36-11.
 
+Cette procédure peut également concerner les déploiements prévus dans le cadre d'une convention locale qui est transmise
+conjointement par l'opérateur qui souscrit les engagements et par la collectivité ou le groupement de collectivités concerné
+au ministre chargé des communications électroniques. Ce dernier s'assure de la cohérence du projet local avec les dispositifs
+nationaux avant d'effectuer la saisine de l'Autorité de régulation des communications électroniques et des postes prévue au
+premier alinéa du présent article.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 78
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 229
 
 _Cite_:
 
-  - Code des postes et des communications électroni... - art. L36-11 (V)
+  - Code des postes et des communications électroniques - art. L36-11
 
 
 ###### Article L33-14
@@ -4437,13 +4446,19 @@ dossier sont définis par arrêté conjoint des ministres chargés des communica
 
 B. – Toute personne souhaitant exploiter, sur le territoire d'une commune, une ou plusieurs installations radioélectriques
 soumises à accord ou à avis de l'Agence nationale des fréquences en informe par écrit le maire ou le président de
-l'intercommunalité dès la phase de recherche et lui transmet un dossier d'information deux mois avant le dépôt de la demande
-d'autorisation d'urbanisme ou de la déclaration préalable.
+l'intercommunalité dès la phase de recherche et lui transmet un dossier d'information un mois avant le dépôt de la demande
+d'autorisation d'urbanisme ou de la déclaration préalable, sauf accord du maire ou du président de l'intercommunalité sur un
+délai plus court.
 
 Toute modification substantielle d'une installation radioélectrique existante nécessitant une nouvelle demande d'accord ou
 d'avis auprès de l'Agence nationale des fréquences et susceptible d'avoir un impact sur le niveau de champs
 électromagnétiques émis par celle-ci fait également l'objet d'un dossier d'information remis au maire ou au président de
-l'intercommunalité deux mois avant le début des travaux.
+l'intercommunalité un mois avant le début des travaux.
+
+Jusqu'au 31 décembre 2022, par dérogation au régime prévu aux deux premiers alinéas du présent B, les travaux ayant pour
+objectif l'installation de la quatrième génération du réseau de téléphonie mobile sur un équipement existant font l'objet
+d'une information préalable du maire, dès lors que le support ne fait pas l'objet d'une extension ou d'une rehausse
+substantielle.
 
 Le contenu et les modalités de ces transmissions sont définis par arrêté conjoint des ministres chargés des communications
 électroniques et de l'environnement.
@@ -4484,9 +4499,8 @@ accueillant des personnes vulnérables.
 
 **Nota:**
 
-Conformément au III de l'article 1er de la loi n° 2015-136 du 9 février 2015, les B à E du II de l'article L. 34-9-1 du code
-des postes et des communications électroniques, dans sa rédaction résultant de la présente loi, entrent en vigueur le 9 août
-2015.
+Conformément aux dispositions du II de l'article 219 de la loi n° 2018-1021 du 23 novembre 2018, ces dispositions
+s'appliquent aux dossiers d'information transmis à compter de la publication de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -4514,7 +4528,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1267 du 14 octobre 2015 - art. 18
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 219 (V)
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 220
 
 _Cite_:
 
@@ -5607,11 +5622,16 @@ chiffre d'affaires hors taxes du dernier exercice clos, taux porté à 10 % en c
 A défaut d'activité permettant de déterminer ce plafond, le montant de la sanction ne peut excéder 150 000 €, porté à 375 000
 € en cas de nouvelle violation de la même obligation ;
 
-- une sanction pécuniaire dont le montant est proportionné à la gravité du manquement apprécié notamment au regard du nombre
-d'habitants ou de kilomètres carrés non couverts ou de sites non couverts, sans pouvoir excéder un plafond fixé à 130 € par
-habitant non couvert ou 3 000 € par kilomètre carré non couvert ou 80 000 € par site non couvert lorsque la personne en cause
-ne s'est pas conformée à une mise en demeure portant sur le respect d'obligations de couverture de la population prévues par
-l'autorisation d'utilisation de fréquences qui lui a été attribuée ;
+- lorsque la personne en cause ne s'est pas conformée à une mise en demeure portant sur le respect d'obligations de
+déploiement prévues par l'autorisation d'utilisation de fréquences qui lui a été attribuée ou d'obligations de déploiement
+résultant d'engagements pris en application de l'article L. 33-13, une sanction pécuniaire dont le montant est proportionné à
+la gravité du manquement, appréciée notamment au regard du nombre d'habitants, de kilomètres carrés ou de sites non couverts
+pour un réseau radioélectrique ou du nombre de locaux non raccordables pour un réseau filaire, sans pouvoir excéder le plus
+élevé des plafonds suivants : soit un plafond fixé à 1 500 € par habitant non couvert ou 3 000 € par kilomètre carré non
+couvert ou 450 000 € par site non couvert pour un réseau radioélectrique, ou 1 500 € par logement non raccordable et 5 000 €
+par local à usage professionnel non raccordable ou 450 000 € par zone arrière de point de mutualisation sans complétude de
+déploiement pour un réseau filaire, soit un plafond fixé à 3 % du chiffre d'affaires hors taxes du dernier exercice clos,
+taux porté à 5 % en cas de nouvelle violation de la même obligation ;
 
 - la suspension ou l'arrêt de la commercialisation d'un service jusqu'à la mise en œuvre effective de ces obligations lorsque
 la personne en cause ne s'est pas conformée à une mise en demeure portant sur le respect d'obligations imposées en
@@ -5656,10 +5676,10 @@ de son ordonnance.
 _Cite_:
 
   - Loi n°86-1067 du 30 septembre 1986 - art. 26
-  - Code de justice administrative - art. L521-1 (V)
-  - Code des postes et des communications électroni... - art. L35-2 (V)
-  - Code des postes et des communications électroni... - art. L38 (V)
-  - Code des postes et des communications électroni... - art. L44 (V)
+  - Code de justice administrative - art. L521-1
+  - Code des postes et des communications électroniques - art. L35-2
+  - Code des postes et des communications électroniques - art. L38
+  - Code des postes et des communications électroniques - art. L44
 
 _Cité par_:
 
@@ -5680,9 +5700,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 40
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 79
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 85
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 229
 
 
 ###### Article L36-13
@@ -8147,27 +8165,26 @@ _Cite_:
 
 La servitude mentionnée à l'article L. 45-9 est instituée en vue de permettre l'installation, l'exploitation et l'entretien
 des équipements du réseau, y compris les équipements des réseaux à très haut débit fixes et mobiles, ainsi que pour permettre
-les opérations d'entretien des abords des réseaux permettant d'assurer des services fixes de communications électroniques
-ouverts au public, telles que le débroussaillage, la coupe d'herbe, l'élagage et l'abattage : 
+les opérations d'entretien des abords des réseaux déployés ou projetés permettant d'assurer des services fixes de
+communications électroniques ouverts au public, telles que le débroussaillage, la coupe d'herbe, l'élagage et l'abattage :
 
 a) Sur les bâtiments d'habitation et sur et dans les parties des immeubles collectifs et des lotissements affectées à un
-usage commun, y compris celles pouvant accueillir des installations ou équipements radioélectriques ; 
+usage commun, y compris celles pouvant accueillir des installations ou équipements radioélectriques ;
 
 b) Sur le sol et dans le sous-sol des propriétés non bâties, y compris celles pouvant accueillir des installations ou
-équipements radioélectriques ; 
+équipements radioélectriques ;
 
 c) Sur et au-dessus des propriétés privées, y compris à l'extérieur des murs ou des façades donnant sur la voie publique,
-dans la mesure où l'exploitant se borne à utiliser l'installation d'un tiers bénéficiant de servitudes ou lié par une
-convention de passage définie avec le propriétaire sans compromettre, le cas échéant, la mission propre de service public
-confiée à ce tiers. En cas de contrainte technique, l'installation est déployée à proximité de celle bénéficiant de la
-servitude ou visée par la convention de passage en suivant au mieux le cheminement de cette servitude ou de ce passage.
+dans la mesure où l'exploitant se borne à utiliser l'installation d'un tiers sans compromettre, le cas échéant, la mission
+propre de service public confiée à ce tiers. En cas de contrainte technique, l'installation est déployée à proximité de celle
+déjà existante, en suivant au mieux son cheminement.
 
 La mise en oeuvre de la servitude est subordonnée à une autorisation délivrée au nom de l'Etat par le maire après que les
 propriétaires ou, en cas de copropriété, le syndicat représenté par le syndic ont été informés des motifs qui justifient
 l'institution de la servitude et le choix de son emplacement, et mis à même, dans un délai qui ne peut pas être inférieur à
-trois mois, de présenter leurs observations sur le projet. Les travaux ne peuvent commencer avant l'expiration de ce délai.
-En cas de contestation, les modalités de mise en oeuvre de la servitude sont fixées par le président du tribunal de grande
-instance. 
+deux mois, de présenter leurs observations sur le projet. Les travaux ne peuvent commencer avant l'expiration de ce délai. En
+cas de contestation, les modalités de mise en oeuvre de la servitude sont fixées par le président du tribunal de grande
+instance.
 
 Lorsqu'il est constaté que la servitude de l'opérateur sur une propriété privée peut être assurée, dans des conditions
 équivalentes à celles qui résulteraient du bénéfice de cette servitude, par l'utilisation de l'installation existante d'un
@@ -8185,20 +8202,27 @@ dans les conditions prévues au neuvième alinéa.
 
 L'installation des ouvrages prévus au premier alinéa ne peut faire obstacle au droit des propriétaires ou copropriétaires de
 démolir, réparer, modifier ou clore leur propriété. Toutefois, les propriétaires ou copropriétaires doivent, au moins trois
-mois avant d'entreprendre des travaux de nature à affecter les ouvrages, prévenir le bénéficiaire de la servitude. 
+mois avant d'entreprendre des travaux de nature à affecter les ouvrages, prévenir le bénéficiaire de la servitude.
 
 Lorsque, pour l'étude, la réalisation, l'exploitation et l'entretien des installations ou pour les opérations d'entretien
 mentionnées au premier alinéa, l'introduction des agents des exploitants autorisés dans les propriétés privées définies au
 même alinéa est nécessaire, elle est, à défaut d'accord amiable ou de convention conclue entre le propriétaire et
 l'exploitant, autorisée par le président du tribunal de grande instance, statuant comme en matière de référé, qui s'assure
-que la présence des agents est nécessaire. 
+que la présence des agents est nécessaire.
 
 Le bénéficiaire de la servitude est responsable de tous les dommages qui trouvent leur origine dans les équipements du
 réseau. Il est tenu d'indemniser l'ensemble des préjudices directs et certains causés tant par les travaux d'installation et
 d'entretien que par l'existence ou le fonctionnement des ouvrages.A défaut d'accord amiable, l'indemnité est fixée par la
-juridiction de l'expropriation saisie par la partie la plus diligente. 
+juridiction de l'expropriation saisie par la partie la plus diligente.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Nota:**
+
+Conformément aux dispositions du II de l'article 225 de la loi n° 2018-1021 du 23 novembre 2018, les mots "deux" à la
+première phrase du cinquième alinéa telle qu'elle résulte du 3° du I dudit article s'appliquent aux demandes d'autorisation
+pour lesquelles l'information prévue au cinquième alinéa de l'article L. 48 est transmise à compter de la publication de
+ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -8218,23 +8242,22 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. L33-6 (VD)
   - Code des postes et des communications électroni... - art. L36-8 (V)
   - Code des postes et des communications électroni... - art. L45-1 (V)
-  - Code des postes et des communications électroni... - art. L51 (M)
+  - Code des postes et des communications électroni... - art. L51 (V)
   - Code des postes et des communications électroni... - art. R20-58 (V)
   - Code des postes et des communications électronique - art. L32-1 (M)
-
-_Modifié par_:
-
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 73
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 85
-
-_Cite_:
-
-  - Code des postes et des communications électroniques - art. L45-9
 
 _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L86
   - Loi n°51-1606 1951-12-31 art. 3
+
+_Modifié par_:
+
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 225 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L45-9
 
 
 ###### Article L49
@@ -8377,11 +8400,12 @@ _Cité par_:
 
 I. – Les opérations d'entretien des abords d'un réseau ouvert au public permettant d'assurer des services fixes de
 communications électroniques, telles que le débroussaillage, la coupe d'herbe, l'élagage et l'abattage, sont accomplies par
-le propriétaire du terrain, le fermier ou leurs représentants, que la propriété soit riveraine ou non du domaine public, afin
-de prévenir l'endommagement des équipements du réseau et l'interruption du service. A cette fin, l'exploitant du réseau
-ouvert au public est tenu de proposer au propriétaire du terrain, au fermier ou à leurs représentants l'établissement d'une
-convention. Sur le domaine public, les modalités de réalisation des coupes sont définies par la convention prévue au premier
-alinéa de l'article L. 46 ou par la permission de voirie prévue au troisième alinéa de l'article L. 47.
+le propriétaire du terrain, le fermier ou leurs représentants que le réseau soit implanté sur la propriété ou non et, que la
+propriété soit riveraine ou non du domaine public, afin de permettre le déploiement de réseaux et de prévenir l'endommagement
+des équipements du réseau et l'interruption du service. A cette fin, l'exploitant du réseau ouvert au public est tenu de
+proposer au propriétaire du terrain, au fermier ou à leurs représentants l'établissement d'une convention. Sur le domaine
+public, les modalités de réalisation des coupes sont définies par la convention prévue au premier alinéa de l'article L. 46
+ou par la permission de voirie prévue au troisième alinéa de l'article L. 47.
 
 Par dérogation au premier alinéa du présent I, ces opérations sont accomplies par l'exploitant du réseau ouvert au public
 assurant des services fixes de communications électroniques :
@@ -8409,15 +8433,15 @@ travaux conformément au II du présent article. Si cette notification à l'expl
 délai de quinze jours, le maire peut faire procéder lui-même à ces opérations aux frais de l'exploitant, dans le respect des
 règles régissant les interventions des exploitants.
 
-IV. – Lorsqu'un réseau d'initiative publique est déployé sur des infrastructures d'accueil partagées avec un autre réseau
-ouvert au public, l'application des dispositions prévues aux I et II du présent article incombe à l'exploitant du premier
-réseau établi, sauf si les opérateurs concernés en conviennent autrement. Lorsque l'application de ces dispositions ne permet
-pas l'entretien des abords des équipements du réseau d'initiative public dans des conditions permettant de prévenir leur
-endommagement ou les risques d'interruption du service, l'opérateur de ce réseau peut saisir le maire en vue de mettre en
-œuvre, si ce dernier le juge nécessaire, la procédure prévue au III. Si la notification à l'exploitant du premier réseau
-établi reste elle-même infructueuse dans le délai de quinze jours, le maire peut autoriser l'opérateur du réseau d'initiative
-publique à procéder aux opérations d'entretien aux frais de cet exploitant, dans le respect des règles régissant les
-interventions des exploitants.
+IV. – Lorsqu'un réseau d'initiative publique est projeté ou déployé sur des infrastructures d'accueil partagées avec un autre
+réseau ouvert au public, l'application des dispositions prévues aux I et II du présent article incombe à l'exploitant du
+premier réseau établi, sauf si les opérateurs concernés en conviennent autrement. Lorsque l'application de ces dispositions
+ne permet pas l'établissement d'un réseau d'initiative publique ou l'entretien des abords des équipements d'un réseau
+d'initiative publique dans des conditions permettant de prévenir leur endommagement ou les risques d'interruption du service,
+l'opérateur de ce réseau peut saisir le maire en vue de mettre en œuvre, si ce dernier le juge nécessaire, la procédure
+prévue au III. Si la notification à l'exploitant du premier réseau établi reste elle-même infructueuse dans le délai de
+quinze jours, le maire peut autoriser l'opérateur du réseau d'initiative publique à procéder aux opérations d'entretien aux
+frais de cet exploitant, dans le respect des règles régissant les interventions des exploitants.
 
 **Liens relatifs à cet article**
 
@@ -8428,16 +8452,16 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 85
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 225 (V)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2212-2-2 (V)
-  - Code de la voirie routière - art. L114-2 (V)
-  - Code des postes et des communications électroni... - art. L46 (V)
-  - Code des postes et des communications électroni... - art. L47 (V)
+  - Code général des collectivités territoriales - art. L2212-2-2
+  - Code de la voirie routière - art. L114-2
   - Code des postes et des communications électroni... - art. L48 (V)
-  - Code rural - art. L161-5 (V)
+  - Code des postes et des communications électroniques - art. L46
+  - Code des postes et des communications électroniques - art. L47
+  - Code rural - art. L161-5
 
 _Codifié par_:
 
