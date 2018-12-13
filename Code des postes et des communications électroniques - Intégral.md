@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2018-11-25
+Version Consolidée au 2018-12-14
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -21327,9 +21327,8 @@ de l'Etat, la collectivité territoriale ou le groupement détenteur des donnée
 obligations en matière de sécurité et de confidentialité des données prévues par la convention. Les données communiquées ne
 peuvent être utilisées à d'autres fins que celles prévues par la convention.
 
-La communication de données ne doit pas créer de discrimination entre opérateurs et ne doit pas porter atteinte au secret en
-matière commerciale et industrielle, mentionné à l'article L. 311-6 du code des relations entre le public et
-l'administration.
+La communication de données ne doit pas créer de discrimination entre opérateurs et ne doit pas porter atteinte au secret des
+affaires, mentionné à l'article L. 311-6 du code des relations entre le public et l'administration.
 
 Un arrêté du Premier ministre et des ministres chargés de l'aménagement du territoire, de l'intérieur, des collectivités
 territoriales, des communications électroniques et de l'urbanisme précise :
@@ -21392,16 +21391,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 3
 
 _Cite_:
 
   - Code pénal - art. 226-13
   - Code des postes et des communications électroniques - art. L33-1
   - Code des postes et des communications électroniques - art. L33-7
-  - Code des relations entre le public et l'adminis... - art. L300-1 (V)
-  - Code des relations entre le public et l'adminis... - art. L311-5 (V)
-  - Code des relations entre le public et l'adminis... - art. L311-6 (V)
+  - Code des relations entre le public et l'administration - art. L300-1
+  - Code des relations entre le public et l'administration - art. L311-5
+  - Code des relations entre le public et l'administration - art. L311-6
 
 
 ###### Article D98-7
