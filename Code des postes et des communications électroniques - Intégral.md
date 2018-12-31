@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2018-09-14
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -49,7 +49,7 @@ Version Consolidée au 2018-09-14
       - [TITRE Ier : Autres services (art. L100 à L103)](#46)
       - [TITRE II : Dispositions communes (art. L125 à L135)](#47)
       - [TITRE III : Dispositions finales. (art. L140 à L144)](#48)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R52-3-21)](#49)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R55-6)](#49)
     - [LIVRE Ier : Le service postal (art. R1 à R2-5)](#50)
       - [TITRE Ier : Dispositions générales (art. R1 à R1-2-17)](#51)
         - [Chapitre Ier : Le service universel postal, les obligations du service postal et le fonds de compensation du service universel postal. (art. R1 à R1-1-29)](#52)
@@ -129,42 +129,49 @@ Version Consolidée au 2018-09-14
         - [Chapitre IV : Modification et caducité de l'autorisation. (art. R52-3-13 à R52-3-15)](#126)
         - [Chapitre V : Dispositions financières. (art. R52-3-16 à R52-3-20)](#127)
         - [Chapitre VI : Dispositions particulières. (art. R52-3-21)](#128)
-  - [Partie réglementaire - Décrets simples (art. D1 à D599)](#129)
-    - [LIVRE Ier : Le service postal (art. D1 à D90)](#130)
-      - [TITRE Ier : Dispositions générales (art. D1 à D28)](#131)
-        - [Chapitre Ier : Le service universel postal et les obligations du service postal (art. D1 à D2)](#132)
-        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D18 à D28)](#133)
-          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#134)
-      - [TITRE II : Affranchissement, recommandation et chargement (art. D42)](#135)
-        - [Chapitre Ier : Affranchissement. (art. D42)](#136)
-      - [TITRE VI : Distribution postale (art. D90)](#137)
-        - [Chapitre Ier : Distribution à domicile. (art. D90)](#138)
-    - [LIVRE II : Les communications électroniques (art. D98 à D407-6)](#139)
-      - [TITRE Ier : Dispositions générales (art. D98 à D315)](#140)
-        - [Chapitre II : Régime juridique (art. D98 à D102)](#141)
-          - [Section 1 : Réseaux et services (art. D98 à D99-3)](#142)
-            - [Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public. (art. D98 à D98-2)](#143)
-            - [Paragraphe 2 : Obligations des opérateurs. (art. D98-3 à D98-14)](#144)
-            - [Paragraphe 3 : Conditions d'exploitation des réseaux indépendants. (art. D99 à D99-3)](#145)
-          - [section 3 : Interconnexion et accès (art. D99-6 à D99-11)](#146)
-          - [Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques. (art. D100 à D101)](#147)
-          - [Section 5 : Instance de concertation départementale réunie pour une médiation concernant une installation radioélectrique existante ou projetée (art. D102)](#148)
-        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D315)](#149)
-          - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#150)
-          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#151)
-      - [TITRE II : Ressources et police (art. D406-5 à D407-6)](#152)
-        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17-1)](#153)
-          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#154)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17-1)](#155)
-        - [Chapitre II : Numérotation et adressage. (art. D406-18 à D406-20)](#156)
-        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-6)](#157)
-          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#158)
-          - [Section 2 : Accueil des installations de communications électroniques lors de travaux (art. D407-4 à D407-6)](#159)
-    - [LIVRE IV : Dispositions communes et finales (art. D570 à D599)](#160)
-      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#161)
-      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#162)
-      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#163)
-      - [Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes (art. D594 à D599)](#164)
+    - [LIVRE III : Autres services, dispositions communes et finales (art. R53 à R55-6)](#129)
+      - [TITRE Ier : Autres services (art. R53 à R55-6)](#130)
+        - [Chapitre Ier : Lettre recommandée électronique (art. R53 à R53-4)](#131)
+          - [Section 1 : Définition de la lettre recommandée électronique (art. R53)](#132)
+          - [Section 2 : Exigences requises pour la lettre recommandée électronique (art. R53-1 à R53-4)](#133)
+        - [Chapitre III : Service de coffre-fort numérique (art. R55-1 à R55-6)](#134)
+          - [Section 1 : Mise en œuvre du service de coffre-fort numérique (art. R55-1 à R55-6)](#135)
+  - [Partie réglementaire - Décrets simples (art. D1 à D599)](#136)
+    - [LIVRE Ier : Le service postal (art. D1 à D90)](#137)
+      - [TITRE Ier : Dispositions générales (art. D1 à D28)](#138)
+        - [Chapitre Ier : Le service universel postal et les obligations du service postal (art. D1 à D2)](#139)
+        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D18 à D28)](#140)
+          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#141)
+      - [TITRE II : Affranchissement, recommandation et chargement (art. D42)](#142)
+        - [Chapitre Ier : Affranchissement. (art. D42)](#143)
+      - [TITRE VI : Distribution postale (art. D90)](#144)
+        - [Chapitre Ier : Distribution à domicile. (art. D90)](#145)
+    - [LIVRE II : Les communications électroniques (art. D98 à D407-6)](#146)
+      - [TITRE Ier : Dispositions générales (art. D98 à D315)](#147)
+        - [Chapitre II : Régime juridique (art. D98 à D102)](#148)
+          - [Section 1 : Réseaux et services (art. D98 à D99-3)](#149)
+            - [Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public. (art. D98 à D98-2)](#150)
+            - [Paragraphe 2 : Obligations des opérateurs. (art. D98-3 à D98-14)](#151)
+            - [Paragraphe 3 : Conditions d'exploitation des réseaux indépendants. (art. D99 à D99-3)](#152)
+          - [section 3 : Interconnexion et accès (art. D99-6 à D99-11)](#153)
+          - [Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques. (art. D100 à D101)](#154)
+          - [Section 5 : Instance de concertation départementale réunie pour une médiation concernant une installation radioélectrique existante ou projetée (art. D102)](#155)
+        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D315)](#156)
+          - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#157)
+          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#158)
+      - [TITRE II : Ressources et police (art. D406-5 à D407-6)](#159)
+        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17-1)](#160)
+          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#161)
+          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17-1)](#162)
+        - [Chapitre II : Numérotation et adressage. (art. D406-18 à D406-20)](#163)
+        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-6)](#164)
+          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#165)
+          - [Section 2 : Accueil des installations de communications électroniques lors de travaux (art. D407-4 à D407-6)](#166)
+    - [LIVRE IV : Dispositions communes et finales (art. D570 à D599)](#167)
+      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#168)
+      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#169)
+      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#170)
+      - [Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes (art. D594 à D599)](#171)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -19827,13 +19834,262 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-# Partie réglementaire - Décrets simples<a id=129></a>
+## LIVRE III : Autres services, dispositions communes et finales<a id=129></a>
 
-## LIVRE Ier : Le service postal<a id=130></a>
+### TITRE Ier : Autres services<a id=130></a>
 
-### TITRE Ier : Dispositions générales<a id=131></a>
+#### Chapitre Ier : Lettre recommandée électronique<a id=131></a>
 
-#### Chapitre Ier : Le service universel postal et les obligations du service postal<a id=132></a>
+##### Section 1 : Définition de la lettre recommandée électronique<a id=132></a>
+
+###### Article R53
+
+Une lettre recommandée électronique est un envoi recommandé électronique au sens de l'article L. 100.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-347 du 9 mai 2018 - art. 1
+
+
+##### Section 2 : Exigences requises pour la lettre recommandée électronique<a id=133></a>
+
+###### Article R53-1
+
+La vérification initiale de l'identité de l'expéditeur est réalisée par l'une des modalités prévues aux points a, b, c ou d
+du paragraphe 1 de l'article 24 du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur
+l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et
+abrogeant la directive 1999/93/ CE.
+
+La vérification initiale de l'identité du destinataire doit être assurée au minimum dans les conditions prévues, pour le
+niveau de garantie substantiel, au point 2.1. de l'annexe du règlement d'exécution (UE) 2015/1502 de la Commission du 8
+septembre 2015 fixant les spécifications techniques et procédures minimales relatives aux niveaux de garantie des moyens
+d'identification électronique visés à l'article 8, paragraphe 3, du règlement (UE) n° 910/2014 du Parlement européen et du
+Conseil sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché
+intérieur.
+
+Postérieurement à cette vérification initiale de l'identité de l'expéditeur ou du destinataire, le prestataire de lettre
+recommandée électronique peut leur attribuer un moyen d'identification électronique qu'ils utiliseront pour attester de leur
+identité à chaque envoi ou réception. Ce moyen d'identification électronique doit répondre au minimum aux exigences prévues,
+pour le niveau de garantie substantiel, aux points 2.2.1 et 2.3.1 de l'annexe du règlement d'exécution (UE) 2015/1502
+mentionné ci-dessus.
+
+Si le prestataire n'attribue pas de moyen d'identification électronique ou si le moyen d'identification électronique n'est
+pas utilisé, la vérification d'identité doit être effectuée dans les même conditions que la vérification initiale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-347 du 9 mai 2018 - art. 1
+
+
+###### Article R53-2
+
+Le prestataire de lettre recommandée électronique délivre à l'expéditeur une preuve du dépôt électronique de l'envoi. Le
+prestataire doit conserver cette preuve de dépôt pour une durée qui ne peut être inférieure à un an.
+
+Cette preuve de dépôt comporte les informations suivantes :
+
+1° Le nom et le prénom ou la raison sociale de l'expéditeur, ainsi que son adresse électronique ;
+
+2° Le nom et le prénom ou la raison sociale du destinataire ainsi que son adresse électronique ;
+
+3° Un numéro d'identification unique de l'envoi attribué par le prestataire ;
+
+4° La date et l'heure du dépôt électronique de l'envoi indiquées par un horodatage électronique qualifié tel que défini par
+l'article 3 du règlement (UE) n° 910/2014 mentionné ci-dessus ;
+
+5° La signature électronique avancée ou le cachet électronique avancé tels que définis par l'article 3 du règlement (UE) n°
+910/2014 mentionné ci-dessus, utilisé par le prestataire de services qualifié lors de l'envoi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-347 du 9 mai 2018 - art. 1
+
+
+###### Article R53-3
+
+I.-Le prestataire de lettre recommandée électronique informe le destinataire, par voie électronique, qu'une lettre
+recommandée électronique lui est destinée et qu'il a la possibilité, pendant un délai de quinze jours à compter du lendemain
+de l'envoi de cette information, d'accepter ou non sa réception.
+
+Le destinataire n'est pas informé de l'identité de l'expéditeur de la lettre recommandée électronique.
+
+II.-En cas d'acceptation par le destinataire de la lettre recommandée électronique, le prestataire procède à sa transmission.
+
+Le prestataire conserve une preuve de la réception par le destinataire des données transmises et du moment de la réception,
+pour une durée qui ne peut être inférieure à un an.
+
+Outre les informations mentionnées aux 1° à 5° de l'article R. 53-2, cette preuve de réception comporte la date et l'heure de
+réception de l'envoi, indiquées par un horodatage électronique qualifié.
+
+III.-En cas de refus de réception ou de non-réclamation par le destinataire, le prestataire met à disposition de
+l'expéditeur, au plus tard le lendemain de l'expiration du délai prévu au I, une preuve de ce refus ou de cette non-
+réclamation. Cette preuve précise la date et l'heure du refus telles qu'indiquées par un horodatage électronique qualifié, et
+fait mention des informations prévues aux 1° à 5° de l'article R. 53-2.
+
+Le prestataire conserve la preuve de refus ou de non-réclamation du destinataire pour une durée qui ne peut être inférieure à
+un an.
+
+IV.-L'expéditeur a accès aux informations mentionnées au présent article pendant un an.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-347 du 9 mai 2018 - art. 1
+
+
+###### Article R53-4
+
+En cas de retard dans la réception ou en cas de perte des données, la responsabilité du prestataire est engagée dans les
+conditions prévues au 3° de l'article R. 2-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-347 du 9 mai 2018 - art. 1
+
+
+#### Chapitre III : Service de coffre-fort numérique<a id=134></a>
+
+##### Section 1 : Mise en œuvre du service de coffre-fort numérique<a id=135></a>
+
+###### Article R55-1
+
+Le fournisseur d'un service de coffre-fort numérique est tenu à une obligation d'information claire, loyale et transparente
+sur les modalités de fonctionnement et d'utilisation du service, préalable à la conclusion d'un contrat. 
+
+Avant que l'utilisateur ne soit lié par un contrat de fourniture de service de coffre-fort numérique, le fournisseur du
+service lui communique, de manière lisible et compréhensible, les informations suivantes : 
+
+1° Le type d'espace mis à sa disposition et les conditions d'utilisation associées ; 
+
+2° Les mécanismes techniques utilisés ; 
+
+3° La politique de confidentialité ; 
+
+4° L'existence et les modalités de mise en œuvre des garanties de bon fonctionnement ; 
+
+5° Son engagement sur la conformité du service aux exigences fixées aux 1° à 5° de l'article L. 103. 
+
+Ces informations sont également mises à disposition en ligne et, le cas échéant, mises à jour.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-418 du 30 mai 2018 - art. 1
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L103
+
+
+###### Article R55-2
+
+Le fournisseur du service de coffre-fort numérique expose dans un dossier technique la façon dont il assure le respect des
+exigences fixées aux 1° à 5° de l'article L. 103, telles que précisées dans la présente section.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-418 du 30 mai 2018 - art. 1
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L103
+
+
+###### Article R55-3
+
+L'intégrité, la disponibilité et l'exactitude de l'origine des données et documents stockés dans le coffre-fort numérique
+sont garanties par des mesures de sécurité adaptées et conformes à l'état de l'art.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-418 du 30 mai 2018 - art. 1
+
+
+###### Article R55-4
+
+La traçabilité des opérations réalisées sur les données et documents stockés dans le coffre-fort numérique et la
+disponibilité de cette traçabilité pour l'utilisateur requièrent au minimum la mise en œuvre des mesures suivantes :
+
+1° L'enregistrement et l'horodatage des accès et tentatives d'accès ;
+
+2° L'enregistrement des opérations affectant le contenu ou l'organisation des données et documents de l'utilisateur ;
+
+3° L'enregistrement des opérations de maintenance affectant les données et documents stockés dans les coffres-forts
+numériques.
+
+Les durées de conservation de ces données de traçabilité constituent une mention obligatoire du contrat de fourniture de
+service de coffre-fort électronique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-418 du 30 mai 2018 - art. 1
+
+
+###### Article R55-5
+
+L'identification de l'utilisateur lors de l'accès au service de coffre-fort numérique est assurée par un moyen
+d'identification électronique adapté aux enjeux de sécurité du service.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-418 du 30 mai 2018 - art. 1
+
+
+###### Article R55-6
+
+La garantie, telle que prévue au 4° de l'article L. 103, de l'exclusivité d'accès aux documents et aux données de
+l'utilisateur ou aux données associées au fonctionnement du service requiert au minimum la mise en œuvre des mesures
+suivantes : 
+
+1° Un mécanisme de contrôle d'accès limitant l'ouverture du coffre-fort numérique aux seules personnes autorisées par
+l'utilisateur ; 
+
+2° Des mesures de sécurité destinées à garantir la confidentialité des documents et données stockés ainsi que des métadonnées
+correspondantes ; 
+
+3° Le chiffrement par le service de coffre-fort numérique de l'ensemble des documents et données stockés par le coffre-fort
+numérique ou transférés vers ou depuis celui-ci. Ce chiffrement doit être effectué à l'aide de mécanismes cryptographiques
+conformes à l'état de l'art et permettre une évolution de la taille des clés et des algorithmes utilisés. La conformité à
+l'état de l'art est présumée lorsque les mécanismes impliqués dans ces opérations de chiffrement sont conformes aux règles et
+recommandations de l'Agence nationale de sécurité des systèmes d'information concernant le choix et le dimensionnement des
+mécanismes cryptographiques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-418 du 30 mai 2018 - art. 1
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L103
+
+
+# Partie réglementaire - Décrets simples<a id=136></a>
+
+## LIVRE Ier : Le service postal<a id=137></a>
+
+### TITRE Ier : Dispositions générales<a id=138></a>
+
+#### Chapitre Ier : Le service universel postal et les obligations du service postal<a id=139></a>
 
 ###### Article D1
 
@@ -19882,9 +20138,9 @@ _Modifié par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art. 2 (VD)
 
 
-#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=133></a>
+#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=140></a>
 
-##### Section 4 : Journaux et écrits périodiques.<a id=134></a>
+##### Section 4 : Journaux et écrits périodiques.<a id=141></a>
 
 ###### Article D18
 
@@ -20392,9 +20648,9 @@ _Modifié par_:
   - Décret n°2007-787 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
 
 
-### TITRE II : Affranchissement, recommandation et chargement<a id=135></a>
+### TITRE II : Affranchissement, recommandation et chargement<a id=142></a>
 
-#### Chapitre Ier : Affranchissement.<a id=136></a>
+#### Chapitre Ier : Affranchissement.<a id=143></a>
 
 ###### Article D42
 
@@ -20413,9 +20669,9 @@ _Modifié par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 
-### TITRE VI : Distribution postale<a id=137></a>
+### TITRE VI : Distribution postale<a id=144></a>
 
-#### Chapitre Ier : Distribution à domicile.<a id=138></a>
+#### Chapitre Ier : Distribution à domicile.<a id=145></a>
 
 ###### Article D90
 
@@ -20437,15 +20693,15 @@ _Modifié par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 11
 
 
-## LIVRE II : Les communications électroniques<a id=139></a>
+## LIVRE II : Les communications électroniques<a id=146></a>
 
-### TITRE Ier : Dispositions générales<a id=140></a>
+### TITRE Ier : Dispositions générales<a id=147></a>
 
-#### Chapitre II : Régime juridique<a id=141></a>
+#### Chapitre II : Régime juridique<a id=148></a>
 
-##### Section 1 : Réseaux et services<a id=142></a>
+##### Section 1 : Réseaux et services<a id=149></a>
 
-##### Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public.<a id=143></a>
+##### Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public.<a id=150></a>
 
 ###### Article D98
 
@@ -20535,7 +20791,7 @@ _Modifié par_:
   - Décret n°2005-862 du 26 juillet 2005 - art. 1 () JORF 29 juillet 2005
 
 
-##### Paragraphe 2 : Obligations des opérateurs.<a id=144></a>
+##### Paragraphe 2 : Obligations des opérateurs.<a id=151></a>
 
 ###### Article D98-3
 
@@ -21761,7 +22017,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
-##### Paragraphe 3 : Conditions d'exploitation des réseaux indépendants.<a id=145></a>
+##### Paragraphe 3 : Conditions d'exploitation des réseaux indépendants.<a id=152></a>
 
 ###### Article D99
 
@@ -21844,7 +22100,7 @@ _Modifié par_:
   - Décret n°2005-862 du 26 juillet 2005 - art. 1 () JORF 29 juillet 2005
 
 
-##### section 3 : Interconnexion et accès<a id=146></a>
+##### section 3 : Interconnexion et accès<a id=153></a>
 
 ###### Article D99-6
 
@@ -22111,7 +22367,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L37-3 (V)
 
 
-##### Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques.<a id=147></a>
+##### Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques.<a id=154></a>
 
 ###### Article D100
 
@@ -22166,7 +22422,7 @@ _Créé par_:
   - Décret n°2006-61 du 18 janvier 2006 - art. 1 () JORF 20 janvier 2006
 
 
-##### Section 5 : Instance de concertation départementale réunie pour une médiation concernant une installation radioélectrique existante ou projetée<a id=148></a>
+##### Section 5 : Instance de concertation départementale réunie pour une médiation concernant une installation radioélectrique existante ou projetée<a id=155></a>
 
 ###### Article D102
 
@@ -22279,9 +22535,9 @@ _Cite_:
   - Code de l'urbanisme - art. L422-3 (V)
 
 
-#### Chapitre IV : La régulation des communications électroniques.<a id=149></a>
+#### Chapitre IV : La régulation des communications électroniques.<a id=156></a>
 
-##### Section 1 : Autorité de régulation des communications électroniques et des postes<a id=150></a>
+##### Section 1 : Autorité de régulation des communications électroniques et des postes<a id=157></a>
 
 ###### Article D288
 
@@ -22474,7 +22730,7 @@ _Modifié par_:
   - Ordonnance n°2011-1012 du 24 août 2011 - art. 1
 
 
-##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=151></a>
+##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=158></a>
 
 ###### Article D301
 
@@ -23174,11 +23430,11 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L38-1 (V)
 
 
-### TITRE II : Ressources et police<a id=152></a>
+### TITRE II : Ressources et police<a id=159></a>
 
-#### Chapitre Ier : Fréquences radioélectriques.<a id=153></a>
+#### Chapitre Ier : Fréquences radioélectriques.<a id=160></a>
 
-##### Section 1 : Dispositions générales<a id=154></a>
+##### Section 1 : Dispositions générales<a id=161></a>
 
 ###### Article D406-5
 
@@ -23442,7 +23698,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D487 (M)
 
 
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=155></a>
+##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=162></a>
 
 ###### Article D406-14
 
@@ -23601,7 +23857,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L42-1 (V)
 
 
-#### Chapitre II : Numérotation et adressage.<a id=156></a>
+#### Chapitre II : Numérotation et adressage.<a id=163></a>
 
 ###### Article D406-18
 
@@ -23729,9 +23985,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L44 (V)
 
 
-#### CHAPITRE III : Etablissement de lignes<a id=157></a>
+#### CHAPITRE III : Etablissement de lignes<a id=164></a>
 
-##### Section 1 : Dispositions générales.<a id=158></a>
+##### Section 1 : Dispositions générales.<a id=165></a>
 
 ###### Article D407-1
 
@@ -23800,7 +24056,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
-##### Section 2 : Accueil des installations de communications électroniques lors de travaux<a id=159></a>
+##### Section 2 : Accueil des installations de communications électroniques lors de travaux<a id=166></a>
 
 ###### Article D407-4
 
@@ -23892,9 +24148,9 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L49
 
 
-## LIVRE IV : Dispositions communes et finales<a id=160></a>
+## LIVRE IV : Dispositions communes et finales<a id=167></a>
 
-### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=161></a>
+### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=168></a>
 
 ###### Article D570
 
@@ -24034,7 +24290,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-6 (T)
 
 
-### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=162></a>
+### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=169></a>
 
 ###### Article D576
 
@@ -24318,7 +24574,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-17 (T)
 
 
-### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=163></a>
+### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=170></a>
 
 ###### Article D587
 
@@ -24485,7 +24741,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-24 (T)
 
 
-### Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes<a id=164></a>
+### Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes<a id=171></a>
 
 ###### Article D594
 
