@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-03-28
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -110,73 +110,75 @@ Version Consolidée au 2019-01-01
         - [Chapitre II : Numérotation et adressage. (art. R20-44-31 à R20-44-47)](#107)
           - [Section 1 : Numérotation. (art. R20-44-31 à R20-44-37)](#108)
           - [Section 2 : Gestion des domaines de premier niveau du système d'adressage par domaines de l'internet correspondant aux codes pays du territoire national ou d'une partie de celui-ci (art. R20-44-38 à R20-44-47)](#109)
-        - [Chapitre III : Droits de passage sur le domaine public routier et servitudes. (art. R*20-45 à R41)](#110)
+        - [Chapitre III : Droits de passage sur le domaine public routier et servitudes. (art. R*20-45 à R31)](#110)
           - [Section 1 : Droits de passage. (art. R*20-45 à R20-54)](#111)
           - [Section 2 : Servitudes. (art. R*20-60 à R20-59)](#112)
-          - [Section 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles. (art. R*21 à R*26)](#113)
-          - [Section 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. R*28 à R27)](#114)
-          - [Section 5 : Dispositions pénales. (art. R*42 à R41)](#115)
-        - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques. (art. R42-1)](#116)
-        - [Chapitre V : Guichet unique identifiant les maîtres d'ouvrage et leurs opérations de travaux d'installation ou de renforcement d'infrastructures d'accueil (art. R42-2 à R42-3)](#117)
-        - [Chapitre VI : Protection des câbles sous-marins. (art. R45 à R52)](#118)
-          - [Section 2 : Dispositions pénales. (art. R45 à R52)](#119)
-            - [Paragraphe I : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#120)
-            - [Paragraphe II : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#121)
-      - [TITRE VIII : Assignations de fréquences relatives aux systèmes satellitaires (art. R52-3-1 à R52-3-21)](#122)
-        - [Chapitre Ier : Procédure d'autorisation. (art. R52-3-1 à R52-3-6)](#123)
-          - [Section 1 : Demandes d'assignation de fréquence. (art. R52-3-1 à R52-3-2)](#124)
-          - [Section 2 : Instruction des demandes d'autorisation d'exploitation de fréquences. (art. R52-3-3 à R52-3-6)](#125)
-        - [Chapitre II : Obligations du titulaire de l'autorisation prévue à l'article L. 97-2. (art. R52-3-7 à R52-3-11)](#126)
-        - [Chapitre III : Durée et renouvellement de l'autorisation. (art. R52-3-12)](#127)
-        - [Chapitre IV : Modification et caducité de l'autorisation. (art. R52-3-13 à R52-3-15)](#128)
-        - [Chapitre V : Dispositions financières. (art. R52-3-16 à R52-3-20)](#129)
-        - [Chapitre VI : Dispositions particulières. (art. R52-3-21)](#130)
-    - [LIVRE III : Autres services, dispositions communes et finales (art. R53 à R55-6)](#131)
-      - [TITRE Ier : Autres services (art. R53 à R55-6)](#132)
-        - [Chapitre Ier : Lettre recommandée électronique (art. R53 à R53-4)](#133)
-          - [Section 1 : Définition de la lettre recommandée électronique (art. R53)](#134)
-          - [Section 2 : Exigences requises pour la lettre recommandée électronique (art. R53-1 à R53-4)](#135)
-        - [Chapitre III : Service de coffre-fort numérique (art. R55-1 à R55-6)](#136)
-          - [Section 1 : Mise en œuvre du service de coffre-fort numérique (art. R55-1 à R55-6)](#137)
-  - [Partie réglementaire - Décrets simples (art. D1 à D599)](#138)
-    - [LIVRE Ier : Le service postal (art. D1 à D90)](#139)
-      - [TITRE Ier : Dispositions générales (art. D1 à D28)](#140)
-        - [Chapitre Ier : Le service universel postal et les obligations du service postal (art. D1 à D2)](#141)
-        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D18 à D28)](#142)
-          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#143)
-      - [TITRE II : Affranchissement, recommandation et chargement (art. D42)](#144)
-        - [Chapitre Ier : Affranchissement. (art. D42)](#145)
-      - [TITRE VI : Distribution postale (art. D90)](#146)
-        - [Chapitre Ier : Distribution à domicile. (art. D90)](#147)
-    - [LIVRE II : Les communications électroniques (art. D98 à D407-6)](#148)
-      - [TITRE Ier : Dispositions générales (art. D98 à D315)](#149)
-        - [Chapitre II : Régime juridique (art. D98 à D102)](#150)
-          - [Section 1 : Réseaux et services (art. D98 à D99-3)](#151)
-            - [Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public. (art. D98 à D98-2)](#152)
-            - [Paragraphe 2 : Obligations des opérateurs. (art. D98-3 à D98-14)](#153)
-            - [Paragraphe 3 : Conditions d'exploitation des réseaux indépendants. (art. D99 à D99-3)](#154)
-          - [section 3 : Interconnexion et accès (art. D99-6 à D99-11)](#155)
-          - [Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques. (art. D100 à D101)](#156)
-          - [Section 5 : Instance de concertation départementale réunie pour une médiation concernant une installation radioélectrique existante ou projetée (art. D102)](#157)
-        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D315)](#158)
-          - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#159)
-          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#160)
-      - [TITRE II : Ressources et police (art. D406-5 à D407-6)](#161)
-        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17-1)](#162)
-          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#163)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17-1)](#164)
-        - [Chapitre II : Numérotation et adressage. (art. D406-18 à D406-20)](#165)
-        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-6)](#166)
-          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#167)
-          - [Section 2 : Accueil des installations de communications électroniques lors de travaux (art. D407-4 à D407-6)](#168)
-    - [LIVRE III : Autres services, dispositions communes et finales (art. D537 à D599)](#169)
-      - [Titre Ier : Autres services (art. D537 à D541)](#170)
-        - [Chapitre III : Service de coffre-fort numérique (art. D537 à D541)](#171)
-      - [Titre II : Dispositions communes et finales (art. D570 à D599)](#172)
-        - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#173)
-        - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#174)
-        - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#175)
-        - [Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes (art. D594 à D599)](#176)
+          - [Section 3 : Dispositions relatives aux servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles ou contre les perturbations électromagnétique (art. R21 à R29)](#113)
+            - [Sous-section 1 : Dispositions communes (art. R21 à R22)](#114)
+            - [Sous-section 2 :  Dispositions spécifiques aux servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles (art. R23 à R27)](#115)
+            - [Sous-section 3 :  Dispositions spécifiques aux servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques (art. R28 à R29)](#116)
+          - [Section 4 : Dispositions pénales (art. R30 à R31)](#117)
+        - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques. (art. R42-1)](#118)
+        - [Chapitre V : Guichet unique identifiant les maîtres d'ouvrage et leurs opérations de travaux d'installation ou de renforcement d'infrastructures d'accueil (art. R42-2 à R42-3)](#119)
+        - [Chapitre VI : Protection des câbles sous-marins. (art. R45 à R52)](#120)
+          - [Section 2 : Dispositions pénales. (art. R45 à R52)](#121)
+            - [Paragraphe I : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#122)
+            - [Paragraphe II : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#123)
+      - [TITRE VIII : Assignations de fréquences relatives aux systèmes satellitaires (art. R52-3-1 à R52-3-21)](#124)
+        - [Chapitre Ier : Procédure d'autorisation. (art. R52-3-1 à R52-3-6)](#125)
+          - [Section 1 : Demandes d'assignation de fréquence. (art. R52-3-1 à R52-3-2)](#126)
+          - [Section 2 : Instruction des demandes d'autorisation d'exploitation de fréquences. (art. R52-3-3 à R52-3-6)](#127)
+        - [Chapitre II : Obligations du titulaire de l'autorisation prévue à l'article L. 97-2. (art. R52-3-7 à R52-3-11)](#128)
+        - [Chapitre III : Durée et renouvellement de l'autorisation. (art. R52-3-12)](#129)
+        - [Chapitre IV : Modification et caducité de l'autorisation. (art. R52-3-13 à R52-3-15)](#130)
+        - [Chapitre V : Dispositions financières. (art. R52-3-16 à R52-3-20)](#131)
+        - [Chapitre VI : Dispositions particulières. (art. R52-3-21)](#132)
+    - [LIVRE III : Autres services, dispositions communes et finales (art. R53 à R55-6)](#133)
+      - [TITRE Ier : Autres services (art. R53 à R55-6)](#134)
+        - [Chapitre Ier : Lettre recommandée électronique (art. R53 à R53-4)](#135)
+          - [Section 1 : Définition de la lettre recommandée électronique (art. R53)](#136)
+          - [Section 2 : Exigences requises pour la lettre recommandée électronique (art. R53-1 à R53-4)](#137)
+        - [Chapitre III : Service de coffre-fort numérique (art. R55-1 à R55-6)](#138)
+          - [Section 1 : Mise en œuvre du service de coffre-fort numérique (art. R55-1 à R55-6)](#139)
+  - [Partie réglementaire - Décrets simples (art. D1 à D599)](#140)
+    - [LIVRE Ier : Le service postal (art. D1 à D90)](#141)
+      - [TITRE Ier : Dispositions générales (art. D1 à D28)](#142)
+        - [Chapitre Ier : Le service universel postal et les obligations du service postal (art. D1 à D2)](#143)
+        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D18 à D28)](#144)
+          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#145)
+      - [TITRE II : Affranchissement, recommandation et chargement (art. D42)](#146)
+        - [Chapitre Ier : Affranchissement. (art. D42)](#147)
+      - [TITRE VI : Distribution postale (art. D90)](#148)
+        - [Chapitre Ier : Distribution à domicile. (art. D90)](#149)
+    - [LIVRE II : Les communications électroniques (art. D98 à D407-6)](#150)
+      - [TITRE Ier : Dispositions générales (art. D98 à D315)](#151)
+        - [Chapitre II : Régime juridique (art. D98 à D102)](#152)
+          - [Section 1 : Réseaux et services (art. D98 à D99-3)](#153)
+            - [Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public. (art. D98 à D98-2)](#154)
+            - [Paragraphe 2 : Obligations des opérateurs. (art. D98-3 à D98-14)](#155)
+            - [Paragraphe 3 : Conditions d'exploitation des réseaux indépendants. (art. D99 à D99-3)](#156)
+          - [section 3 : Interconnexion et accès (art. D99-6 à D99-11)](#157)
+          - [Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques. (art. D100 à D101)](#158)
+          - [Section 5 : Instance de concertation départementale réunie pour une médiation concernant une installation radioélectrique existante ou projetée (art. D102)](#159)
+        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D315)](#160)
+          - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#161)
+          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#162)
+      - [TITRE II : Ressources et police (art. D406-5 à D407-6)](#163)
+        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17-1)](#164)
+          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#165)
+          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17-1)](#166)
+        - [Chapitre II : Numérotation et adressage. (art. D406-18 à D406-20)](#167)
+        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-6)](#168)
+          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#169)
+          - [Section 2 : Accueil des installations de communications électroniques lors de travaux (art. D407-4 à D407-6)](#170)
+    - [LIVRE III : Autres services, dispositions communes et finales (art. D537 à D599)](#171)
+      - [Titre Ier : Autres services (art. D537 à D541)](#172)
+        - [Chapitre III : Service de coffre-fort numérique (art. D537 à D541)](#173)
+      - [Titre II : Dispositions communes et finales (art. D570 à D599)](#174)
+        - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#175)
+        - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#176)
+        - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#177)
+        - [Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes (art. D594 à D599)](#178)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -18690,25 +18692,32 @@ _Cite_:
   - Code des postes et des communications électronique - art. R20-58 (M)
 
 
-##### Section 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.<a id=113></a>
+##### Section 3 : Dispositions relatives aux servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles ou contre les perturbations électromagnétique<a id=113></a>
 
-###### Article R*21
+##### Sous-section 1 : Dispositions communes<a id=114></a>
 
-Autour de chaque station émettrice ou réceptrice d'ondes radioélectriques utilisant des aériens directifs, ainsi qu'autour
-des laboratoires et centres de recherches radioélectriques, il peut être créé deux zones de servitudes respectivement dites "
-zone primaire de dégagement " et " zone secondaire de dégagement ".
+###### Article R21
 
-Entre deux centres assurant une liaison radioélectrique par ondes de fréquence supérieure à 30 mégahertz (c'est-à-dire de
-longueur d'onde inférieure à 10 mètres), il peut être créé une zone de servitudes dite " zone spéciale de dégagement ".
+Le plan d'institution des servitudes de protection d'un centre radioélectrique est approuvé par arrêté du ministre dont les
+services ou les établissements publics placés sous sa tutelle exploitent ou contrôlent ce centre radioélectrique. Dans le cas
+où les conclusions de l'enquête publique sont défavorables, la servitude est instaurée par décret en Conseil d'Etat.
 
-Il peut également être créé une zone de servitudes dite " secteur de dégagement " autour des stations de radiorepérage ou de
-radionavigation d'émission ou de réception.
+Les servitudes sont modifiées suivant la procédure prévue pour leur institution, lorsque la modification projetée entraîne
+une aggravation de l'assiette de la servitude. Dans les autres cas, elles sont modifiées, ou supprimées par arrêté du
+ministre dont les services ou les établissements publics placés sous sa tutelle exploitent ou contrôlent le centre
+radioélectrique, sans qu'il y ait lieu de procéder à enquête publique.
+
+L'arrêté approuvant ou modifiant le plan d'institution des servitudes et l'arrêté supprimant les servitudes sont publiés au
+recueil des actes administratifs de l'Etat dans chaque département concerné. Une copie de l'acte est adressée par l'autorité
+signataire à l'Agence nationale des fréquences et aux préfets concernés.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-229 du 25 mars 2019, les procédures d'institution d'une servitude dont l'arrêté
+d'ouverture d'enquête publique a été publié avant la publication du présent décret demeurent régies par les dispositions
+applicables antérieurement à cette publication.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2019-229 du 25 mars 2019 - art. 1
 
 _Cité par_:
 
@@ -18720,48 +18729,40 @@ _Cité par_:
   - Code des transports - art. L6773-8 (V)
   - Code des transports - art. L6783-9 (V)
 
-_Nouveaux textes_:
-
-  - Code des postes et des communications électroni... - art. R23 (V)
-
 _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L98
 
 _Modifié par_:
 
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+  - Décret n°2019-229 du 25 mars 2019 - art. 1
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°62-274 1962-03-12
+  - Code des postes et des communications électroni... - art. R23 (V)
 
 
-###### Article R*22
+###### Article R22
 
-La distance séparant la limite d'un centre radioélectrique de toute nature et le périmètre des zones de servitudes ne peut
-excéder :
+La limite d'un centre radioélectrique est définie comme étant le contour du polygone de surface minimum englobant toutes les
+installations techniques existantes ou projetées permettant l'émission ou la réception radioélectrique.
 
-– 2 000 mètres dans le cas d'une zone secondaire de dégagement ;
+Lorsque la distance entre deux points quelconques de ce contour excède 2 000 mètres, l'ensemble des installations techniques
+doit être fractionné en plusieurs îlots dont les limites répondent à la définition ci-dessus ; les zones de servitudes sont
+alors déterminées à partir de la limite de chacun de ces îlots. Les différentes zones ainsi déterminées peuvent faire l'objet
+d'un seul arrêté ou décret même lorsqu'elles ne se recoupent pas mutuellement.
 
-– 400 mètres dans le cas d'une zone primaire de dégagement entourant une installation de sécurité aéronautique ou un centre
-radiogoniométrique ;
+**Nota:**
 
-– 200 mètres dans le cas d'une zone primaire de dégagement entourant un centre autre que ceux précités ;
-
-– 5 000 mètres dans le cas d'un secteur de dégagement.
-
-La limite d'un centre est définie comme étant le contour du polygone de surface minimum englobant tous les éléments
-rayonnants ou collecteurs existants ou projetés. Toutefois, lorsque la distance entre deux points quelconques de ce contour
-excède 2 000 mètres, l'ensemble des éléments rayonnants ou collecteurs doit être fractionné en plusieurs îlots dont les
-limites particulières répondent à la définition ci-dessus ; les zones de servitudes sont alors déterminées à partir de la
-limite de chacun de ces îlots.
-
-Les différentes zones ainsi déterminées peuvent faire l'objet d'un seul décret de servitudes même lorsqu'elles ne se
-recoupent pas mutuellement.
+Conformément à l'article 2 du décret n° 2019-229 du 25 mars 2019, les procédures d'institution d'une servitude dont l'arrêté
+d'ouverture d'enquête publique a été publié avant la publication du présent décret demeurent régies par les dispositions
+applicables antérieurement à cette publication.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des postes et des communications électroni... - art. R24 (V)
 
 _Anciens textes_:
 
@@ -18769,33 +18770,29 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2019-229 du 25 mars 2019 - art. 1
-
-_Codifié par_:
-
-  - Décret n°62-274 du 12 mars 1962
-
-_Nouveaux textes_:
-
-  - Code des postes et des communications électroni... - art. R24 (V)
+  - Décret n°2019-229 du 25 mars 2019 - art. 1
 
 
-###### Article R*23
+##### Sous-section 2 :  Dispositions spécifiques aux servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles<a id=115></a>
 
-La largeur d'une zone spéciale de dégagement protégeant une liaison radioélectrique entre deux points fixes comptée
-perpendiculairement à la projection horizontale du trajet des ondes radioélectriques ne peut excéder 50 mètres de part et
-d'autre de cette projection. Les constructions et obstacles situés dans la zone de dégagement définie au présent alinéa
-doivent se trouver à 10 mètres au-dessous de la ligne droite joignant les aériens d'émission et de réception, sans cependant
-que la limitation de hauteur imposée à une construction puisse être inférieure à 25 mètres.
+###### Article R23
 
-La largeur d'un secteur de dégagement protégeant une station de radiorepérage ou de radionavigation ne peut excéder la
-largeur du secteur angulaire exploré par la station, augmenté, s'il y a lieu, d'une marge de sécurité d'un degré au plus au-
-delà des deux limites de ce secteur.
+Autour de chaque station émettrice ou réceptrice d'ondes radioélectriques, ainsi qu'autour des laboratoires et centres de
+recherches radioélectriques, il peut être créé, en fonction du risque d'obstruction totale ou partielle du volume de
+propagation en espace libre des antennes, deux zones de servitudes respectivement dites " zone primaire de dégagement " et "
+zone secondaire de dégagement ".
+
+Entre deux centres assurant une liaison radioélectrique par ondes de fréquence supérieure à 30 mégahertz, il peut être créé
+une zone de servitudes dite " zone spéciale de dégagement ".
+
+Il peut également être créé une zone de servitudes dite " secteur de dégagement " autour des stations de radiorepérage ou de
+radionavigation d'émission ou de réception.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-229 du 25 mars 2019, les procédures d'institution d'une servitude dont l'arrêté
+d'ouverture d'enquête publique a été publié avant la publication du présent décret demeurent régies par les dispositions
+applicables antérieurement à cette publication.
 
 **Liens relatifs à cet article**
 
@@ -18810,44 +18807,39 @@ _Nouveaux textes_:
 
 _Modifié par_:
 
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2019-229 du 25 mars 2019 - art. 1
+  - Décret n°2019-229 du 25 mars 2019 - art. 1
 
 _Codifié par_:
 
-  - Décret n°62-274 1962-03-12
+  - Décret n°62-274 du 12 mars 1962
 
 
-###### Article R*24
+###### Article R24
 
-Dans toute zone primaire, secondaire ou spéciale de dégagement, ainsi que dans tout secteur de dégagement, il est interdit,
-sauf autorisation du ministre dont les services exploitent le centre ou exercent la tutelle sur lui, de créer des obstacles
-fixes ou mobiles dont la partie la plus haute excède une cote fixée par le décret prévu à l'article R. 25. 
+La distance séparant les limites d'un centre radioélectrique de toute nature et le périmètre des zones de servitudes ne peut
+excéder :
 
-Lorsque la configuration du terrain le permet, les zones sont divisées en plusieurs parties, une cote particulière étant
-fixée pour chaque partie. 
+- 2 000 mètres dans le cas d'une zone secondaire de dégagement ;
 
-Dans la zone primaire de dégagement d'une station de sécurité aéronautique ou d'un centre radiogoniométrique, il est en outre
-interdit de créer ou de conserver tout ouvrage métallique fixe ou mobile, des étendues d'eau ou de liquides de toute nature
-pouvant perturber le fonctionnement de cette installation ou de cette station. 
+- 800 mètres dans le cas d'une zone primaire de dégagement entourant une installation de sécurité aéronautique ou un centre
+radiogoniométrique ;
 
-Dans la zone primaire de dégagement d'une station de sécurité aéronautique, il est également interdit de créer ou de
-conserver des excavations artificielles pouvant perturber le fonctionnement de cette station. 
+- 200 mètres dans le cas d'une zone primaire de dégagement entourant un centre autre que ceux mentionnés ci-dessus ;
 
-Dans les zones boisées, l'établissement des centres projetés est subordonné à une décision préalable du ministre de
-l'agriculture constatant que le maintien de l'état boisé n'est pas reconnu indispensable dans le périmètre des servitudes à
-imposer.
+- 6 000 mètres dans le cas d'un secteur de dégagement.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-229 du 25 mars 2019, les procédures d'institution d'une servitude dont l'arrêté
+d'ouverture d'enquête publique a été publié avant la publication du présent décret demeurent régies par les dispositions
+applicables antérieurement à cette publication.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Anciens textes_:
 
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+  - Code des postes, télégraphes et téléphones L99
+  - Code des postes et des communications électroni... - art. R*22 (T)
 
 _Cité par_:
 
@@ -18858,51 +18850,40 @@ _Cité par_:
   - Code des transports - art. L6773-8 (V)
   - Code des transports - art. L6783-9 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Décret n°2019-229 du 25 mars 2019 - art. 1
+  - Décret n°2019-229 du 25 mars 2019 - art. 1
 
 _Codifié par_:
 
-  - Décret n°62-274 1962-03-12
-
-_Anciens textes_:
-
-  - Code des postes et des communications électroni... - art. R*22 (T)
-  - Code des postes, télégraphes et téléphones L99
-
-_Cite_:
-
-  - Code des postes et des communications électroni... - art. R25 (V)
+  - Décret n°62-274 du 12 mars 1962
 
 _Nouveaux textes_:
 
   - Code des postes et des communications électroni... - art. R26 (V)
 
+_Cite_:
 
-###### Article R*25
+  - Code des postes et des communications électroniques - art. R*25
 
-Les zones qui sont soumises à servitudes sont fixées par un plan d'établissement des servitudes après une enquête publique
-effectuée conformément aux dispositions qui sont de droit commun applicables aux enquêtes précédant les déclarations
-d'utilité publique. Toutefois, la mission dévolue par ces dispositions, soit à une commission d'enquête, soit à un
-commissaire enquêteur, est, dans tous les cas, confiée à un commissaire enquêteur.
 
-La préparation du dossier s'effectue comme suit : sur la demande du ministre intéressé ou de l'exploitant public de
-communications électroniques, à laquelle est joint un projet de plan, le préfet désigne par arrêté les communes sur le
-territoire desquelles les agents qualifiés sont autorisés à procéder à une étude préliminaire. Ces agents ont la faculté de
-pénétrer dans les propriétés non closes de murs ou de clôtures équivalentes situées sur le territoire de ces communes.
+###### Article R25
 
-Après achèvement de l'enquête visée au premier alinéa du présent article, le plan des servitudes qui en résulte est approuvé
-par décret pris sous le contreseing du ministre dont les services exploitent le centre ou exercent la tutelle sur lui, sur
-avis de l'Agence nationale des fréquences ainsi que sous le contreseing du ministre de la construction.
+La largeur d'une zone spéciale de dégagement protégeant une liaison radioélectrique entre deux points fixes comptée
+perpendiculairement à la projection horizontale du trajet des ondes radioélectriques ne peut excéder 50 mètres de part et
+d'autre de cette projection. Les constructions et obstacles situés dans la zone de dégagement définie au présent alinéa
+doivent se trouver à 10 mètres au-dessous de la ligne droite joignant les aériens d'émission et de réception, sans cependant
+que la limitation de hauteur imposée à une construction puisse être inférieure à 25 mètres.
 
-L'accord préalable du ministre du développement industriel et scientifique et du ministre de l'agriculture est requis dans
-tous les cas. Si l'accord entre les ministres n'intervient pas, il est statué par décret en Conseil d'Etat.
+La largeur d'un secteur de dégagement protégeant une station de radiorepérage ou de radionavigation ne peut excéder la
+largeur du secteur angulaire exploré par la station, augmenté, s'il y a lieu, d'une marge de sécurité d'un degré au plus au-
+delà des deux limites de ce secteur.
 
-Les servitudes portées au plan sont instituées à dater du jour de la publication du décret. Elles sont modifiées suivant la
-procédure prévue aux alinéas précédents du présent article lorsque la modification projetée entraîne un changement d'assiette
-de la servitude ou son aggravation. Elles sont réduites ou supprimées par décret sans qu'il y ait lieu de procéder à
-l'enquête.
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-229 du 25 mars 2019, les procédures d'institution d'une servitude dont l'arrêté
+d'ouverture d'enquête publique a été publié avant la publication du présent décret demeurent régies par les dispositions
+applicables antérieurement à cette publication.
 
 **Liens relatifs à cet article**
 
@@ -18917,27 +18898,37 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+  - Décret n°2019-229 du 25 mars 2019 - art. 1
 
 _Codifié par_:
 
-  - Décret n°62-274 1962-03-12
+  - Décret n°62-274 du 12 mars 1962
 
 
-###### Article R*26
+###### Article R26
 
-Le décret de servitudes visé à l'article précédent fixe :
+Dans toute zone primaire, secondaire ou spéciale de dégagement, ainsi que dans tout secteur de dégagement, il est interdit,
+sauf autorisation du ministre dont les services exploitent le centre ou exercent la tutelle sur lui, de créer des obstacles
+fixes ou mobiles dont la partie la plus haute excède une cote fixée par l'arrêté ou le décret prévu à l'article R. 21.
 
-– le ou les points de repère matérialisant la cote que ne doit pas excéder la partie la plus haute des obstacles fixes ou
-mobiles, dans les zones primaires et secondaires de dégagement ;
+Lorsque la configuration du terrain le permet, les zones sont divisées en plusieurs parties, une cote particulière étant
+fixée pour chaque partie.
 
-– les cotes rapportées au nivellement général que ne doit pas excéder la partie la plus haute des obstacles fixes ou mobiles
-en chaque partie d'une zone spéciale de dégagement ;
+Dans la zone primaire de dégagement d'une station de sécurité aéronautique ou d'un centre radiogoniométrique, il est en outre
+interdit de créer ou de conserver tout ouvrage métallique fixe ou mobile, des étendues d'eau ou de liquides de toute nature
+pouvant perturber le fonctionnement de cette installation ou de cette station.
 
-– le ou les points de repère matérialisant la cote que ne doit pas excéder la partie la plus haute des obstacles fixes ou
-mobiles dans un secteur de dégagement.
+Dans la zone primaire de dégagement d'une station de sécurité aéronautique, il est également interdit de créer ou de
+conserver des excavations artificielles pouvant perturber le fonctionnement de cette station.
+
+Dans les zones boisées, l'établissement des centres projetés est subordonné à une décision préalable du ministre chargé de la
+forêt constatant que le maintien de l'état boisé n'est pas reconnu indispensable dans le périmètre des servitudes à imposer.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-229 du 25 mars 2019, les procédures d'institution d'une servitude dont l'arrêté
+d'ouverture d'enquête publique a été publié avant la publication du présent décret demeurent régies par les dispositions
+applicables antérieurement à cette publication.
 
 **Liens relatifs à cet article**
 
@@ -18952,29 +18943,70 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code des postes et des communications électroniques R25
+  - Code des postes et des communications électroniques
 
 _Modifié par_:
 
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2019-229 du 25 mars 2019 - art. 1
+  - Décret n°2019-229 du 25 mars 2019 - art. 1
 
 _Codifié par_:
 
-  - Décret n°62-274 1962-03-12
+  - Décret n°62-274 du 12 mars 1962
 
 
-##### Section 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.<a id=114></a>
+###### Article R27
 
-###### Article R*28
+L'arrêté ou le décret approuvant le plan d'institution des servitudes fixe :
 
-Aux abords de tout centre de réception classé comme il vient d'être dit à l'article R. 27, il est institué une zone de
-protection radioélectrique. De plus, pour les centres de première et de deuxième catégories, il est institué, à l'intérieur
-de la zone de protection, une zone de garde radioélectrique.
+– le ou les points de repère matérialisant la cote que ne doit pas excéder la partie la plus haute des obstacles fixes ou
+mobiles, dans les zones primaires et secondaires de dégagement ;
+
+– les cotes rapportées au système de référence des altitudes en vigueur que ne doit pas excéder la partie la plus haute des
+obstacles fixes ou mobiles en chaque partie d'une zone spéciale de dégagement ;
+
+– le ou les points de repère matérialisant la cote que ne doit pas excéder la partie la plus haute des obstacles fixes ou
+mobiles dans un secteur de dégagement.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-229 du 25 mars 2019, les procédures d'institution d'une servitude dont l'arrêté
+d'ouverture d'enquête publique a été publié avant la publication du présent décret demeurent régies par les dispositions
+applicables antérieurement à cette publication.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-229 du 25 mars 2019 - art. 1
+
+_Codifié par_:
+
+  - Décret n°62-274 du 12 mars 1962
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. (VD)
+  - Code des postes et des communications électroni... - art. R*33 (Ab)
+  - Code des postes et des communications électroni... - art. R28 (V)
+
+_Anciens textes_:
+
+  - Code des postes et des communications électroni... - art. R*26 (T)
+  - Code des postes, télégraphes et téléphones L107
+
+
+##### Sous-section 3 :  Dispositions spécifiques aux servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques<a id=116></a>
+
+###### Article R28
+
+La distance séparant les limites d'un centre de réception radioélectrique et le périmètre des zones de servitudes ne peut
+excéder 3 000 mètres.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-229 du 25 mars 2019, les procédures d'institution d'une servitude dont l'arrêté
+d'ouverture d'enquête publique a été publié avant la publication du présent décret demeurent régies par les dispositions
+applicables antérieurement à cette publication.
 
 **Liens relatifs à cet article**
 
@@ -18989,39 +19021,24 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+  - Décret n°2019-229 du 25 mars 2019 - art. 1
 
 _Codifié par_:
 
-  - Décret n°62-274 1962-03-12
+  - Décret n°62-274 du 12 mars 1962
 
 
-###### Article R*29
+###### Article R29
 
-La distance séparant les limites d'un centre de réception radioélectrique et le périmètre des zones de servitudes ne peut
-excéder :
+Dans les zones de servitudes, il est interdit aux propriétaires ou usagers d'installations électriques de produire ou de
+propager des perturbations se plaçant dans la gamme d'ondes radioélectriques reçues par le centre radioélectrique et
+présentant pour les appareils du centre un degré de gravité supérieure à la valeur compatible avec l'exploitation du centre.
 
-– dans le cas d'un centre de 3e catégorie : 200 mètres ;
+**Nota:**
 
-– dans le cas d'un centre de 2e catégorie : 500 mètres pour la zone de garde et 1 500 mètres pour la zone de protection ;
-
-– dans le cas d'un centre de 1re catégorie : 1 000 mètres pour la zone de garde et 3 000 mètres pour la zone de protection.
-
-La limite d'un centre de réception est définie comme étant le contour du polygone de surface minimum englobant toutes les
-installations techniques existantes ou projetées. Toutefois, lorsque la distance entre deux points quelconques de ce contour
-excède :
-
-– 2 000 mètres pour un centre de 1re catégorie ;
-
-– 1 000 mètres pour un centre de 2e catégorie ;
-
-– 100 mètres pour un centre de 3e catégorie,
-
-l'ensemble des installations techniques doit être fractionné en plusieurs îlots dont les limites répondent à la définition
-ci-dessus ; les zones de servitudes sont alors déterminées à partir de la limite de chacun de ces îlots. Les différentes
-zones ainsi déterminées peuvent faire l'objet d'un seul décret de servitudes même lorsqu'elles ne se recoupent pas
-mutuellement.
+Conformément à l'article 2 du décret n° 2019-229 du 25 mars 2019, les procédures d'institution d'une servitude dont l'arrêté
+d'ouverture d'enquête publique a été publié avant la publication du présent décret demeurent régies par les dispositions
+applicables antérieurement à cette publication.
 
 **Liens relatifs à cet article**
 
@@ -19032,31 +19049,44 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2019-229 du 25 mars 2019 - art. 1
+  - Décret n°2019-229 du 25 mars 2019 - art. 1
 
 _Codifié par_:
 
-  - Décret n°62-274 1962-03-12
+  - Décret n°62-274 du 12 mars 1962
 
 _Nouveaux textes_:
 
   - Code des postes et des communications électroni... - art. R28 (V)
 
 
-###### Article R*30
+##### Section 4 : Dispositions pénales<a id=117></a>
 
-Dans la zone de protection radioélectrique, il est interdit aux propriétaires ou usagers d'installations électriques de
-produire ou de propager des perturbations se plaçant dans la gamme d'ondes radioélectriques reçues par le centre et
-présentant pour les appareils du centre un degré de gravité supérieur à la valeur compatible avec l'exploitation du centre.
+###### Article R30
 
-En outre, dans la zone de garde radioélectrique, il est interdit de mettre en service du matériel électrique susceptible de
-perturber les réceptions radioélectriques du centre ou d'apporter des modifications à ce matériel, sans l'autorisation du
-ministre dont les services exploitent le centre ou exercent la tutelle sur lui.
+Est puni de l'amende prévue pour les contraventions de la 5e classe le fait, pour les propriétaires, titulaires de droits
+réels ou les occupants des terrains concernés par l'institution de servitudes radioélectriques, ainsi que pour les
+propriétaires ou usagers d'installations électriques, de :
+
+1° Créer des obstacles fixes ou mobiles dont la partie la plus haute excède une cote fixée dans l'arrêté ou le décret
+d'établissement de la servitude, en violation des articles R. 26 et R. 27 ;
+
+2° Créer ou conserver, dans la zone primaire de dégagement d'une station de sécurité aéronautique ou d'un centre
+radiogoniométrique, un ouvrage métallique fixe ou mobile, ou une étendue de liquide de toute nature, pouvant perturber le
+fonctionnement de l'installation ou de la station, en violation de l'article R. 26 ;
+
+3° Créer ou conserver, dans la zone primaire de dégagement d'une station de sécurité aéronautique, des excavations
+artificielles pouvant perturber le fonctionnement de cette station, en violation de l'article R. 26 ;
+
+4° Produire ou propager, dans les zones de servitudes, des perturbations se plaçant dans la gamme d'ondes radioélectriques
+reçues par le centre radioélectrique et présentant pour les appareils du centre un degré de gravité supérieur à la valeur
+compatible avec l'exploitation du centre, en violation de l'article R. 29.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-229 du 25 mars 2019, les procédures d'institution d'une servitude dont l'arrêté
+d'ouverture d'enquête publique a été publié avant la publication du présent décret demeurent régies par les dispositions
+applicables antérieurement à cette publication.
 
 **Liens relatifs à cet article**
 
@@ -19064,11 +19094,6 @@ _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L108
   - Code des postes et des communications électroni... - art. R40 (T)
-
-_Modifié par_:
-
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
 
 _Cité par_:
 
@@ -19080,117 +19105,42 @@ _Cité par_:
   - Code des transports - art. L6773-8 (V)
   - Code des transports - art. L6783-9 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Décret n°2019-229 du 25 mars 2019 - art. 1
+  - Décret n°2019-229 du 25 mars 2019 - art. 1
 
 _Codifié par_:
 
-  - Décret n°62-274 1962-03-12
+  - Décret n°62-274 du 12 mars 1962
 
 _Nouveaux textes_:
 
   - Code des postes et des communications électroni... - art. R29 (V)
 
 
-###### Article R*31
+###### Article R31
 
-Les zones qui sont soumises à servitudes sont fixées par un plan de servitudes après enquête publique effectuée conformément
-aux dispositions qui sont de droit commun applicables aux enquêtes précédant les déclarations d'utilité publique. Toutefois,
-la mission dévolue par ces dispositions soit à une commission d'enquête, soit à un commissaire enquêteur est, dans tous les
-cas, confiée à un commissaire enquêteur. 
+Les astreintes prévues à l'article L. 63 sont recouvrées par les   comptables de la direction générale des finances
+publiques, sur réquisition du ministre intéressé ou de son délégué.
 
-La préparation du dossier d'enquête s'effectue comme suit : 
+**Nota:**
 
-Sur la demande du ministre intéressé ou de l'exploitant public de communications électroniques, à laquelle est joint un
-projet de plan, le préfet désigne par arrêté les communes sur le territoire desquelles les agents qualifiés sont autorisés à
-procéder à une étude préliminaire. Ces agents ont la faculté de pénétrer dans les propriétés non closes de murs ou de
-clôtures équivalentes situées sur le territoire de ces communes, ainsi qu'à l'intérieur des propriétés même closes et des
-bâtiments, à condition, en ce qui concerne les propriétés closes et les bâtiments, qu'ils aient été expressément mentionnés
-dans ledit arrêté. Ainsi qu'il est dit à l'article L. 58, les propriétaires et usagers sont tenus de se prêter aux
-investigations nécessaires et, notamment, de faire fonctionner, à la demande des agents, les installations et appareils que
-ceux-ci considèrent comme susceptibles de produire des troubles. 
-
-Après achèvement de l'enquête, le plan des servitudes qui en résulte est approuvé par décret pris sous le contreseing du
-ministre intéressé et du ministre du développement industriel et scientifique, sur avis de l'Agence nationale des
-fréquences. 
-
-En cas d'avis défavorable de ce comité, il est statué par décret en Conseil d'Etat. 
-
-Les servitudes portées au plan sont instituées à dater du jour de la publication du décret. Elles sont modifiées suivant la
-procédure prévue aux alinéas précédents du présent article lorsque la modification projetée entraîne un changement d'assiette
-de la servitude ou son aggravation. Elles sont réduites ou supprimées par décret sans qu'il y ait lieu de procéder à
-l'enquête.
+Conformément à l'article 2 du décret n° 2019-229 du 25 mars 2019, les procédures d'institution d'une servitude dont l'arrêté
+d'ouverture d'enquête publique a été publié avant la publication du présent décret demeurent régies par les dispositions
+applicables antérieurement à cette publication.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et des communications électroni... - art. L58 (V)
 
 _Anciens textes_:
 
   - Code des postes et des communications électroni... - art. R*42 (T)
   - Code des postes, télégraphes et téléphones L109 et R5
 
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*32
-
-Les frais que motivent les modifications des installations préexistantes incombent à l'administration ou à l'exploitant
-public qui les prescrit dans la mesure où ces modifications excèdent la mise en conformité avec les lois, décrets et arrêtés
-en vigueur et, notamment, les textes concernant la protection de la radiodiffusion contre les troubles parasites industriels.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L114 al. 1
-
-_Modifié par_:
-
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-_Abrogé par_:
-
-  - Décret n°2019-229 du 25 mars 2019 - art. 1
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*33
-
-Pour les centres de réception visés à l'article R. 27 du présent code, les pouvoirs conférés par le présent chapitre sont
-dévolus aux différents ministres intéressés et les décrets d'application portent leur contreseing.
-
-**Liens relatifs à cet article**
-
 _Cite_:
 
-  - Code des postes et des communications électroniques - art. R27
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L115
+  - Code des postes et des communications électroniques - art. L58
 
 _Modifié par_:
-
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-_Abrogé par_:
 
   - Décret n°2019-229 du 25 mars 2019 - art. 1
 
@@ -19199,311 +19149,7 @@ _Codifié par_:
   - Décret n°62-274 du 12 mars 1962
 
 
-###### Article R*34
-
-Les modalités de contrôle des servitudes et obligations résultant des articles L. 61 et R. 30, les conditions dans lesquelles
-interviennent les autorisations prévues à l'article R. 30 sont celles fixées par la loi du 15 juin 1906.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et des communications électroniques - art. L61
-  - Code des postes et des communications électroniques - art. R*30
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L117
-
-_Modifié par_:
-
-  - Décret n°2005-605 2005-05-27 art. 4 I, II, IX JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-_Abrogé par_:
-
-  - Décret n°2019-229 du 25 mars 2019 - art. 1
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*35
-
-Les autorisations prévues à l'article 2 de la loi du 15 juin 1906 ne seront accordées qu'avec l'assentiment du ou des
-ministres intéressés ou de l'exploitant public dans tous les cas où, en vertu des dispositions du présent chapitre, il y a
-lieu à autorisation préalable à la mise en service.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L118
-
-_Modifié par_:
-
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-_Abrogé par_:
-
-  - Décret n°2019-229 du 25 mars 2019 - art. 1
-
-_Codifié par_:
-
-  - Décret n°62-274 du 12 mars 1962
-
-
-###### Article R*36
-
-L'avis des ministres intéressés est ajouté, le cas échéant, à ceux en conformité desquels sont accordées les autorisations
-prévues à l'article 4 de la loi du 15 juin 1906.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L119
-
-_Modifié par_:
-
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-_Abrogé par_:
-
-  - Décret n°2019-229 du 25 mars 2019 - art. 1
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-_Cite_:
-
-  - Loi n°1906-06-15 art. 4
-
-
-###### Article R*37
-
-Aux conférences prévues à l'article 14 de la loi du 15 juin 1906 prennent part, le cas échéant, les représentants des
-ministres intéressés ou de l'exploitant public.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L120
-
-_Modifié par_:
-
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-_Abrogé par_:
-
-  - Décret n°2019-229 du 25 mars 2019 - art. 1
-
-_Codifié par_:
-
-  - Décret n°62-274 du 12 mars 1962
-
-_Cite_:
-
-  - Loi n°1906-06-15 art. 14
-
-
-###### Article R*38
-
-Des arrêtés interministériels pris après avis de l'Agence nationale des fréquences et du comité technique de l'électricité,
-déterminent la liste et les caractéristiques du matériel électrique qui ne peut sans autorisation préalable :
-
-a) Etre mis en service, modifié ou transformé dans une zone de protection ou de garde radioélectriques ;
-
-b) Etre mis en service sur l'ensemble du territoire même hors des zones de servitudes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L122
-
-_Modifié par_:
-
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-_Abrogé par_:
-
-  - Décret n°2019-229 du 25 mars 2019 - art. 1
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-###### Article R*39
-
-L'exécution des dispositions des articles R.* 21 à R.* 38 ci-dessus relève d'une action concertée des ministres des armées,
-des postes et communications électroniques, des travaux publics et des transports, de l'intérieur, de l'information, de
-l'industrie, de la construction et de l'agriculture. Les modalités de cette action sont établies par l'Agence nationale des
-fréquences.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-_Abrogé par_:
-
-  - Décret n°2019-229 du 25 mars 2019 - art. 1
-
-_Codifié par_:
-
-  - Décret n°62-274 du 12 mars 1962
-
-_Cite_:
-
-  - Code des postes et des communications électroniques
-
-
-###### Article R27
-
-Les centres de réception radioélectrique exploités par les différents départements ministériels ou se trouvant sous la
-tutelle de l'un d'eux sont classés en trois catégories d'après leur importance, la nature du service qu'ils assurent et leur
-situation géographique. Le classement de tout centre est effectué sur avis de l'Agence nationale des fréquences par arrêté du
-ministre intéressé.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. (VD)
-  - Code des postes et des communications électroni... - art. R*28 (M)
-  - Code des postes et des communications électroni... - art. R*33 (Ab)
-
-_Anciens textes_:
-
-  - Code des postes et des communications électroni... - art. R*26 (T)
-  - Code des postes, télégraphes et téléphones L107
-
-_Modifié par_:
-
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-274 1962-03-12
-
-
-##### Section 5 : Dispositions pénales.<a id=115></a>
-
-###### Article R*42
-
-Les astreintes prévues à l'article L. 63 sont recouvrées par les   comptables de la direction générale des finances
-publiques, sur réquisition du ministre intéressé ou de son délégué.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L105 al. 7
-
-_Modifié par_:
-
-  - Décret n°2014-551 du 27 mai 2014 - art. 22
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2019-229 du 25 mars 2019 - art. 1
-
-_Codifié par_:
-
-  - Décret n°62-274 du 12 mars 1962
-
-_Nouveaux textes_:
-
-  - Code des postes et des communications électroni... - art. R31 (V)
-
-_Cite_:
-
-  - Code des postes et des communications électroniques - art. L63
-
-
-###### Article R40
-
-Les pénalités encourues en cas d'infraction aux dispositions du chapitre II sont celles fixées par les articles 23 et 24 de
-la loi du 15 juin 1906.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code des postes et des communications électroni... - art. R30 (V)
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L117
-
-_Modifié par_:
-
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2019-229 du 25 mars 2019 - art. 1
-
-_Codifié par_:
-
-  - Décret n°62-274 du 12 mars 1962
-
-_Cité par_:
-
-  - Code des transports - art. L6350-1 (V)
-  - Code des transports - art. L6763-7 (V)
-  - Code des transports - art. L6773-8 (V)
-  - Code des transports - art. L6783-9 (V)
-
-_Cite_:
-
-  - Loi n°1906-06-15 art. 23 et 24
-
-
-###### Article R41
-
-Les dispositions de l'article 24 de la loi du 15 juin 1906 sont applicables aux contraventions concernant le fonctionnement
-des centres de réception radioélectriques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des postes, télégraphes et téléphones L121
-
-_Modifié par_:
-
-  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-_Abrogé par_:
-
-  - Décret n°2019-229 du 25 mars 2019 - art. 1
-
-_Codifié par_:
-
-  - Décret n°62-274 du 12 mars 1962
-
-_Cite_:
-
-  - Loi n°1906-06-15 art. 24
-
-
-#### Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.<a id=116></a>
+#### Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.<a id=118></a>
 
 ###### Article R42-1
 
@@ -19528,7 +19174,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L65 (V)
 
 
-#### Chapitre V : Guichet unique identifiant les maîtres d'ouvrage et leurs opérations de travaux d'installation ou de renforcement d'infrastructures d'accueil<a id=117></a>
+#### Chapitre V : Guichet unique identifiant les maîtres d'ouvrage et leurs opérations de travaux d'installation ou de renforcement d'infrastructures d'accueil<a id=119></a>
 
 ###### Article R42-2
 
@@ -19622,11 +19268,11 @@ _Cite_:
   - Code de l'environnement - art. R554-10
 
 
-#### Chapitre VI : Protection des câbles sous-marins.<a id=118></a>
+#### Chapitre VI : Protection des câbles sous-marins.<a id=120></a>
 
-##### Section 2 : Dispositions pénales.<a id=119></a>
+##### Section 2 : Dispositions pénales.<a id=121></a>
 
-##### Paragraphe I : Dispositions applicables aux eaux non territoriales.<a id=120></a>
+##### Paragraphe I : Dispositions applicables aux eaux non territoriales.<a id=122></a>
 
 ###### Article R45
 
@@ -19781,7 +19427,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Paragraphe II : Dispositions spéciales aux eaux territoriales.<a id=121></a>
+##### Paragraphe II : Dispositions spéciales aux eaux territoriales.<a id=123></a>
 
 ###### Article R50
 
@@ -19870,11 +19516,11 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R51 (V)
 
 
-### TITRE VIII : Assignations de fréquences relatives aux systèmes satellitaires<a id=122></a>
+### TITRE VIII : Assignations de fréquences relatives aux systèmes satellitaires<a id=124></a>
 
-#### Chapitre Ier : Procédure d'autorisation.<a id=123></a>
+#### Chapitre Ier : Procédure d'autorisation.<a id=125></a>
 
-##### Section 1 : Demandes d'assignation de fréquence.<a id=124></a>
+##### Section 1 : Demandes d'assignation de fréquence.<a id=126></a>
 
 ###### Article R52-3-1
 
@@ -19925,7 +19571,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Section 2 : Instruction des demandes d'autorisation d'exploitation de fréquences.<a id=125></a>
+##### Section 2 : Instruction des demandes d'autorisation d'exploitation de fréquences.<a id=127></a>
 
 ###### Article R52-3-3
 
@@ -20044,7 +19690,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L97-2 (V)
 
 
-#### Chapitre II : Obligations du titulaire de l'autorisation prévue à l'article L. 97-2.<a id=126></a>
+#### Chapitre II : Obligations du titulaire de l'autorisation prévue à l'article L. 97-2.<a id=128></a>
 
 ###### Article R52-3-7
 
@@ -20170,7 +19816,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L97-2 (M)
 
 
-#### Chapitre III : Durée et renouvellement de l'autorisation.<a id=127></a>
+#### Chapitre III : Durée et renouvellement de l'autorisation.<a id=129></a>
 
 ###### Article R52-3-12
 
@@ -20198,7 +19844,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R52-3-14 (V)
 
 
-#### Chapitre IV : Modification et caducité de l'autorisation.<a id=128></a>
+#### Chapitre IV : Modification et caducité de l'autorisation.<a id=130></a>
 
 ###### Article R52-3-13
 
@@ -20259,7 +19905,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-#### Chapitre V : Dispositions financières.<a id=129></a>
+#### Chapitre V : Dispositions financières.<a id=131></a>
 
 ###### Article R52-3-16
 
@@ -20381,7 +20027,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. R52-3-4
 
 
-#### Chapitre VI : Dispositions particulières.<a id=130></a>
+#### Chapitre VI : Dispositions particulières.<a id=132></a>
 
 ###### Article R52-3-21
 
@@ -20406,13 +20052,13 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-## LIVRE III : Autres services, dispositions communes et finales<a id=131></a>
+## LIVRE III : Autres services, dispositions communes et finales<a id=133></a>
 
-### TITRE Ier : Autres services<a id=132></a>
+### TITRE Ier : Autres services<a id=134></a>
 
-#### Chapitre Ier : Lettre recommandée électronique<a id=133></a>
+#### Chapitre Ier : Lettre recommandée électronique<a id=135></a>
 
-##### Section 1 : Définition de la lettre recommandée électronique<a id=134></a>
+##### Section 1 : Définition de la lettre recommandée électronique<a id=136></a>
 
 ###### Article R53
 
@@ -20425,7 +20071,7 @@ _Créé par_:
   - Décret n°2018-347 du 9 mai 2018 - art. 1
 
 
-##### Section 2 : Exigences requises pour la lettre recommandée électronique<a id=135></a>
+##### Section 2 : Exigences requises pour la lettre recommandée électronique<a id=137></a>
 
 ###### Article R53-1
 
@@ -20528,9 +20174,9 @@ _Créé par_:
   - Décret n°2018-347 du 9 mai 2018 - art. 1
 
 
-#### Chapitre III : Service de coffre-fort numérique<a id=136></a>
+#### Chapitre III : Service de coffre-fort numérique<a id=138></a>
 
-##### Section 1 : Mise en œuvre du service de coffre-fort numérique<a id=137></a>
+##### Section 1 : Mise en œuvre du service de coffre-fort numérique<a id=139></a>
 
 ###### Article R55-1
 
@@ -20655,13 +20301,13 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L103
 
 
-# Partie réglementaire - Décrets simples<a id=138></a>
+# Partie réglementaire - Décrets simples<a id=140></a>
 
-## LIVRE Ier : Le service postal<a id=139></a>
+## LIVRE Ier : Le service postal<a id=141></a>
 
-### TITRE Ier : Dispositions générales<a id=140></a>
+### TITRE Ier : Dispositions générales<a id=142></a>
 
-#### Chapitre Ier : Le service universel postal et les obligations du service postal<a id=141></a>
+#### Chapitre Ier : Le service universel postal et les obligations du service postal<a id=143></a>
 
 ###### Article D1
 
@@ -20710,9 +20356,9 @@ _Modifié par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art. 2 (VD)
 
 
-#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=142></a>
+#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=144></a>
 
-##### Section 4 : Journaux et écrits périodiques.<a id=143></a>
+##### Section 4 : Journaux et écrits périodiques.<a id=145></a>
 
 ###### Article D18
 
@@ -21220,9 +20866,9 @@ _Modifié par_:
   - Décret n°2007-787 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
 
 
-### TITRE II : Affranchissement, recommandation et chargement<a id=144></a>
+### TITRE II : Affranchissement, recommandation et chargement<a id=146></a>
 
-#### Chapitre Ier : Affranchissement.<a id=145></a>
+#### Chapitre Ier : Affranchissement.<a id=147></a>
 
 ###### Article D42
 
@@ -21241,9 +20887,9 @@ _Modifié par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 
-### TITRE VI : Distribution postale<a id=146></a>
+### TITRE VI : Distribution postale<a id=148></a>
 
-#### Chapitre Ier : Distribution à domicile.<a id=147></a>
+#### Chapitre Ier : Distribution à domicile.<a id=149></a>
 
 ###### Article D90
 
@@ -21265,15 +20911,15 @@ _Modifié par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 11
 
 
-## LIVRE II : Les communications électroniques<a id=148></a>
+## LIVRE II : Les communications électroniques<a id=150></a>
 
-### TITRE Ier : Dispositions générales<a id=149></a>
+### TITRE Ier : Dispositions générales<a id=151></a>
 
-#### Chapitre II : Régime juridique<a id=150></a>
+#### Chapitre II : Régime juridique<a id=152></a>
 
-##### Section 1 : Réseaux et services<a id=151></a>
+##### Section 1 : Réseaux et services<a id=153></a>
 
-##### Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public.<a id=152></a>
+##### Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public.<a id=154></a>
 
 ###### Article D98
 
@@ -21363,7 +21009,7 @@ _Modifié par_:
   - Décret n°2005-862 du 26 juillet 2005 - art. 1 () JORF 29 juillet 2005
 
 
-##### Paragraphe 2 : Obligations des opérateurs.<a id=153></a>
+##### Paragraphe 2 : Obligations des opérateurs.<a id=155></a>
 
 ###### Article D98-3
 
@@ -22588,7 +22234,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
-##### Paragraphe 3 : Conditions d'exploitation des réseaux indépendants.<a id=154></a>
+##### Paragraphe 3 : Conditions d'exploitation des réseaux indépendants.<a id=156></a>
 
 ###### Article D99
 
@@ -22671,7 +22317,7 @@ _Modifié par_:
   - Décret n°2005-862 du 26 juillet 2005 - art. 1 () JORF 29 juillet 2005
 
 
-##### section 3 : Interconnexion et accès<a id=155></a>
+##### section 3 : Interconnexion et accès<a id=157></a>
 
 ###### Article D99-6
 
@@ -22938,7 +22584,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L37-3 (V)
 
 
-##### Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques.<a id=156></a>
+##### Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques.<a id=158></a>
 
 ###### Article D100
 
@@ -22993,7 +22639,7 @@ _Créé par_:
   - Décret n°2006-61 du 18 janvier 2006 - art. 1 () JORF 20 janvier 2006
 
 
-##### Section 5 : Instance de concertation départementale réunie pour une médiation concernant une installation radioélectrique existante ou projetée<a id=157></a>
+##### Section 5 : Instance de concertation départementale réunie pour une médiation concernant une installation radioélectrique existante ou projetée<a id=159></a>
 
 ###### Article D102
 
@@ -23106,9 +22752,9 @@ _Cite_:
   - Code de l'urbanisme - art. L422-3 (V)
 
 
-#### Chapitre IV : La régulation des communications électroniques.<a id=158></a>
+#### Chapitre IV : La régulation des communications électroniques.<a id=160></a>
 
-##### Section 1 : Autorité de régulation des communications électroniques et des postes<a id=159></a>
+##### Section 1 : Autorité de régulation des communications électroniques et des postes<a id=161></a>
 
 ###### Article D288
 
@@ -23301,7 +22947,7 @@ _Modifié par_:
   - Ordonnance n°2011-1012 du 24 août 2011 - art. 1
 
 
-##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=160></a>
+##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=162></a>
 
 ###### Article D301
 
@@ -24001,11 +23647,11 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L38-1 (V)
 
 
-### TITRE II : Ressources et police<a id=161></a>
+### TITRE II : Ressources et police<a id=163></a>
 
-#### Chapitre Ier : Fréquences radioélectriques.<a id=162></a>
+#### Chapitre Ier : Fréquences radioélectriques.<a id=164></a>
 
-##### Section 1 : Dispositions générales<a id=163></a>
+##### Section 1 : Dispositions générales<a id=165></a>
 
 ###### Article D406-5
 
@@ -24269,7 +23915,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D487 (M)
 
 
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=164></a>
+##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=166></a>
 
 ###### Article D406-14
 
@@ -24428,7 +24074,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L42-1 (V)
 
 
-#### Chapitre II : Numérotation et adressage.<a id=165></a>
+#### Chapitre II : Numérotation et adressage.<a id=167></a>
 
 ###### Article D406-18
 
@@ -24556,9 +24202,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L44 (V)
 
 
-#### CHAPITRE III : Etablissement de lignes<a id=166></a>
+#### CHAPITRE III : Etablissement de lignes<a id=168></a>
 
-##### Section 1 : Dispositions générales.<a id=167></a>
+##### Section 1 : Dispositions générales.<a id=169></a>
 
 ###### Article D407-1
 
@@ -24627,7 +24273,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
-##### Section 2 : Accueil des installations de communications électroniques lors de travaux<a id=168></a>
+##### Section 2 : Accueil des installations de communications électroniques lors de travaux<a id=170></a>
 
 ###### Article D407-4
 
@@ -24719,11 +24365,11 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L49
 
 
-## LIVRE III : Autres services, dispositions communes et finales<a id=169></a>
+## LIVRE III : Autres services, dispositions communes et finales<a id=171></a>
 
-### Titre Ier : Autres services<a id=170></a>
+### Titre Ier : Autres services<a id=172></a>
 
-#### Chapitre III : Service de coffre-fort numérique<a id=171></a>
+#### Chapitre III : Service de coffre-fort numérique<a id=173></a>
 
 ###### Article D537
 
@@ -24848,9 +24494,9 @@ _Créé par_:
   - Décret n°2018-853 du 5 octobre 2018 - art. 1
 
 
-### Titre II : Dispositions communes et finales<a id=172></a>
+### Titre II : Dispositions communes et finales<a id=174></a>
 
-#### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=173></a>
+#### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=175></a>
 
 ###### Article D570
 
@@ -24993,7 +24639,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-6 (T)
 
 
-#### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=174></a>
+#### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=176></a>
 
 ###### Article D576
 
@@ -25277,7 +24923,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L35-6
 
 
-#### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=175></a>
+#### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=177></a>
 
 ###### Article D587
 
@@ -25443,7 +25089,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-24 (T)
 
 
-#### Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes<a id=176></a>
+#### Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes<a id=178></a>
 
 ###### Article D594
 
