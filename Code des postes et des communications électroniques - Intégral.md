@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -2673,7 +2673,7 @@ définies par décret et dans le respect de conditions de qualité définies par
 électroniques et des postes.
 
 Elle garantit les conditions de neutralité et de confidentialité mentionnées au b du présent I ainsi que la prévention de la
-violation des données à caractère personnel mentionnée à l'article 34 bis de la loi n° 78-17 du 6 janvier 1978 relative à
+violation des données à caractère personnel mentionnée à l'article 83 de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés ;
 
 q) La neutralité de l'internet, qui consiste à garantir l'accès à l'internet ouvert régi par le règlement (UE) 2015/2120 du
@@ -2731,18 +2731,23 @@ de traduction mentionné au p du I fonctionne vingt-quatre heures sur vingt-quat
 Aux termes de l'article 6 I du décret n° 2017-875 du 9 mai 2017, les dispositions du I de l'article 105 de la loi du 7
 octobre 2016 entrent en vigueur deux ans après la promulgation de cette loi.
 
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 34 bis (V)
+  - Loi n°78-17 du 6 janvier 1978 - art. 34 bis
   - Code de la consommation - art. L121-83
   - Code de la consommation - art. L121-83-1
-  - Code des postes et des communications électroni... - art. L38 (V)
   - Code des postes et des communications électroniques - art. L34
   - Code des postes et des communications électroniques - art. L34-8
   - Code des postes et des communications électroniques - art. L35-2
   - Code des postes et des communications électroniques - art. L37-1
+  - Code des postes et des communications électroniques - art. L38
   - Code de la défense. - art. L1332-1
 
 _Cité par_:
@@ -2842,9 +2847,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 105
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 40
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 41
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 14
 
 
 ###### Article L33-1-1
@@ -3352,7 +3355,7 @@ _Créé par_:
 ###### Article L34
 
 La publication des listes d'abonnés ou d'utilisateurs des réseaux ou services de communications électroniques est libre, sous
-réserve de la protection des droits des personnes. 
+réserve de la protection des droits des personnes.
 
 Parmi les droits garantis figurent ceux pour toute personne d'être mentionnée sur les listes d'abonnés ou d'utilisateurs
 publiées dans les annuaires ou consultables par l'intermédiaire d'un service de renseignements ou de ne pas l'être, de
@@ -3362,12 +3365,12 @@ auxquelles sont établis, à partir de ces listes, des annuaires et services de 
 d'utilisation reposant sur des fonctions de recherche intégrées à leur version électronique, d'interdire que les informations
 nominatives la concernant soient utilisées dans des opérations commerciales, ainsi que de pouvoir obtenir communication
 desdites informations nominatives et exiger qu'elles soient rectifiées, complétées, clarifiées, mises à jour ou effacées,
-dans les conditions prévues aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
-fichiers et aux libertés. 
+dans les conditions prévues aux articles 49 et 50 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés.
 
 Le consentement préalable des abonnés à un opérateur de téléphonie mobile est requis pour toute inscription dans les listes
 d'abonnés ou d'utilisateurs établies par leur opérateur mobile, destinées à être publiées dans les annuaires ou consultables
-par l'intermédiaire d'un service de renseignements, de données à caractère personnel les concernant. 
+par l'intermédiaire d'un service de renseignements, de données à caractère personnel les concernant.
 
 Sur toute demande présentée en vue d'éditer un annuaire universel ou de fournir un service universel de renseignements, même
 limitée à une zone géographique déterminée, les opérateurs sont tenus de communiquer, dans des conditions non
@@ -3376,11 +3379,18 @@ ils ont affecté, directement ou par l'intermédiaire d'un distributeur, un ou p
 numérotation téléphonique prévu à l'article L. 44. Les données communiquées portent soit sur l'ensemble des abonnés et des
 utilisateurs de l'opérateur, soit sur ceux qui sont domiciliés dans la ou les communes de la zone géographique faisant
 l'objet de la demande. Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du numérique et des postes,
-précise les modalités d'application du présent alinéa. 
+précise les modalités d'application du présent alinéa.
 
 Les litiges relatifs aux conditions techniques et financières de la fourniture des listes d'abonnés prévue à l'alinéa
 précédent peuvent être soumis à l'Autorité de régulation des communications électroniques et des postes conformément à
 l'article L. 36-8.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -3389,7 +3399,7 @@ _Cité par_:
   - Arrêté du 18 novembre 2009 - art. Annexe (V)
   - Code de la défense. - art. R1334-1 (V)
   - Code des postes et des communications électroni... - art. L33-1 (VD)
-  - Code des postes et des communications électroni... - art. L36-8 (V)
+  - Code des postes et des communications électroni... - art. L36-8 (VD)
   - Code des postes et des communications électroni... - art. R10-3 (V)
   - Code des postes et des communications électroni... - art. R10-4 (V)
   - Code des postes et des communications électroni... - art. R10-5 (V)
@@ -3406,13 +3416,13 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L73
   - Loi n°1913-07-30 art. 25
 
-_Modifié par_:
-
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 45
-
 _Codifié par_:
 
   - Décret n°62-273 du 12 mars 1962
+
+_Modifié par_:
+
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 14
 
 
 ##### Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques.<a id=16></a>
@@ -9510,7 +9520,7 @@ l'article L. 102 ;
 du service à cet utilisateur, aux tiers autres que le prestataire de service de coffre-fort numérique, explicitement
 autorisés par l'utilisateur à accéder à ces documents et données et, le cas échéant, au prestataire de service de coffre-fort
 numérique réalisant un traitement de ces documents ou données au seul bénéfice de l'utilisateur et après avoir recueilli son
-accord exprès dans le respect de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
+consentement dans le respect de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
 
 5° De donner la possibilité à l'utilisateur de récupérer les documents et les données stockées dans un standard ouvert
 aisément réutilisable et exploitable par un système de traitement automatisé de données, sauf dans le cas des documents
@@ -9528,6 +9538,13 @@ libertés et approuvé par arrêté du ministre chargé du numérique.
 Les modalités de mise en œuvre du service de coffre-fort numérique et de sa certification par l'Etat sont définies par décret
 en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés.
 
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -9538,12 +9555,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 (V)
-  - Code des postes et des communications électroni... - art. L102 (V)
-
-_Modifié par_:
-
-  - Ordonnance n°2017-1426 du 4 octobre 2017 - art. 1
+  - Loi n°78-17 du 6 janvier 1978
+  - Code des postes et des communications électroniques - art. L102
 
 _Cité par_:
 
@@ -9556,6 +9569,10 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R55-1 (VD)
   - Code des postes et des communications électroni... - art. R55-2 (VD)
   - Code des postes et des communications électroni... - art. R55-6 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 14
 
 _Codifié par_:
 
