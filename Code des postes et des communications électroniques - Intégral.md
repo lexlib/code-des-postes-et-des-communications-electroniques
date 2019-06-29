@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2019-06-01
+Version Consolidée au 2019-06-30
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -17255,11 +17255,9 @@ budgétaire et comptable publique.
 Les opérations liées au réaménagement du spectre des fréquences radioélectriques font l'objet d'une individualisation
 budgétaire et comptable. 
 
-L'agence gère, au sein d'une comptabilité distincte, le fonds mentionné au 17° de l'article R. 20-44-11, alimenté par la
-contribution additionnelle à l'imposition forfaitaire sur les entreprises de réseaux applicable aux stations radioélectriques
-mentionnée à l'article 1609 decies du code général des impôts ainsi que par les revenus du placement de cette contribution ;
-les dépenses comprennent le coût des mesures ainsi que les coûts complets supportés par l'agence pour la gestion du
-dispositif. 
+L'agence gère, au sein d'une comptabilité distincte, le fonds mentionné au 17° de l'article R. 20-44-11. Les dépenses
+inscrites à la comptabilité de ce fonds comprennent le coût des mesures ainsi que les coûts complets supportés par l'agence
+pour la gestion du dispositif. 
 
 L'agent comptable de l'agence est nommé par arrêté du ministre chargé du budget. Des comptables secondaires peuvent être
 désignés par le directeur général après avis de l'agent comptable principal et avec l'agrément du ministre chargé du budget.
@@ -17268,12 +17266,7 @@ désignés par le directeur général après avis de l'agent comptable principal
 
 _Cite_:
 
-  - Décret n°2012-1246 du 7 novembre 2012 (V)
-  - Code général des impôts, CGI. - art. 1609 decies (V)
-
-_Modifié par_:
-
-  - Décret n°2013-1162 du 14 décembre 2013 - art. 1
+  - Décret n°2012-1246 du 7 novembre 2012
 
 _Cité par_:
 
@@ -17281,6 +17274,10 @@ _Cité par_:
   - Décret n°2013-1162 du 14 décembre 2013 - art. 3 (VD)
   - Arrêté du 21 mars 2014 (V)
   - Code des postes et des communications électroni... - art. R20-44-11 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-674 du 28 juin 2019 - art. 2
 
 _Codifié par_:
 
