@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2019-06-30
+Version Consolidée au 2019-08-01
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -17360,20 +17360,26 @@ _Anciens textes_:
 ###### Article R20-44-24
 
 Des régies de recettes et d'avances peuvent être créées après avis du contrôleur budgétaire dans les conditions fixées par le
-décret n° 92-681 du 20 juillet 1992 ou après son accord dans les conditions fixées par l'arrêté du 23 décembre 1992 relatif
+décret n° 2019-798 du 26 juillet 2019 ou après son accord dans les conditions fixées par l'arrêté du 23 décembre 1992 relatif
 aux conditions dans lesquelles les directeurs d'établissements publics nationaux peuvent instituer des régies d'avances et
 des régies de recettes.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°92-681 du 20 juillet 1992 (V)
-  - Arrêté du 23 décembre 1992 (V)
+  - Arrêté du 23 décembre 1992
+  - Décret n°2019-798 du 26 juillet 2019
 
 _Modifié par_:
 
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 _Codifié par_:
 
@@ -22824,22 +22830,28 @@ Le président de l'Autorité de régulation des communications électroniques et
 recettes de l'Autorité de régulation des communications électroniques et des postes. 
 
 Des régies de recettes et de dépenses peuvent être créées auprès de l'Autorité de régulation des communications électroniques
-et des postes, par décision du président, dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992 relatif aux
+et des postes, par décision du président, dans les conditions fixées par le décret n° 2019-798 du 26 juillet 2019 relatif aux
 régies de recettes et d'avances des organismes publics.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-275 1962-03-12
+  - Décret n°62-275 du 12 mars 1962
 
 _Cite_:
 
-  - Décret n°92-681 du 20 juillet 1992 (V)
+  - Décret n°2019-798 du 26 juillet 2019
 
 _Modifié par_:
 
-  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 _Cité par_:
 
