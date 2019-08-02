@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2019-08-01
+Version Consolidée au 2019-08-03
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -13,172 +13,173 @@ Version Consolidée au 2019-08-01
     - [LIVRE II : Les communications électroniques (art. L32 à L97-4)](#10)
       - [TITRE Ier : Dispositions générales (art. L32 à L40-1)](#11)
         - [Chapitre Ier : Définitions et principes. (art. L32 à L32-5)](#12)
-        - [Chapitre II : Régime juridique. (art. L33 à L34-10)](#13)
+        - [Chapitre II : Régime juridique. (art. L33 à L34-14)](#13)
           - [Section 1 : Réseaux et services. (art. L33 à L33-15)](#14)
           - [Section 2 : Annuaires et services de renseignements. (art. L34)](#15)
           - [Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques. (art. L34-1 à L34-6)](#16)
           - [Section 4 : Interconnexion et accès au réseau. (art. L34-8 à L34-8-6)](#17)
           - [Section 5 : Equipements radioélectriques et terminaux. (art. L34-9 à L34-9-2)](#18)
           - [Section 6 : Dispositions particulières aux prestations d'itinérance ultramarine. (art. L34-10)](#19)
-        - [Chapitre III : Les obligations de service public. (art. L35 à L35-7)](#20)
-        - [Chapitre IV : La régulation des communications électroniques. (art. L36-5 à L38-4)](#21)
-          - [Section 1 : Autorité de régulation des communications électroniques et des postes. (art. L36-5 à L36-14)](#22)
-          - [Section  2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. L37-1 à L38-4)](#23)
-        - [Chapitre V : Dispositions pénales. (art. L39 à L40-1)](#24)
-      - [TITRE II : Ressources et police (art. L41 à L86)](#25)
-        - [Chapitre Ier : Fréquences radioélectriques. (art. L41 à L43)](#26)
-          - [Section 1 : Dispositions générales. (art. L41 à L41-3)](#27)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. L42 à L42-4)](#28)
-          - [Section 3 : Agence nationale des fréquences. (art. L43)](#29)
-        - [Chapitre II : Numérotation et adressage. (art. L44 à L45-8)](#30)
-        - [Chapitre III : Droits de passage et servitudes. (art. L45-9 à L64)](#31)
-          - [Section 1 : Occupation du domaine public et servitudes sur les propriétés privées. (art. L45-9 à L53)](#32)
-          - [Section 2 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles ou les perturbations électromagnétiques. (art. L54 à L59)](#33)
-          - [Section 3 : Dispositions spécifiques à la rotection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. L61 à L62)](#34)
-          - [Section 4 : Dispositions pénales. (art. L63 à L64)](#35)
-        - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques. (art. L65 à L67)](#36)
-          - [Section 1 : Dispositions générales. (art. L65 à L65-1)](#37)
-          - [Section 2 : Dispositions pénales. (art. L66 à L67)](#38)
-        - [Chapitre V : Protection des câbles sous-marins. (art. L72 à L86)](#39)
-          - [Section 1 : Dispositions générales. (art. L72)](#40)
-          - [Section 2 : Dispositions pénales. (art. L73 à L86)](#41)
-            - [Paragraphe I : Dispositions spéciales aux eaux non territoriales. (art. L77 à L81)](#42)
-            - [Paragraphe II : Dispositions spéciales aux eaux territoriales. (art. L82 à L86)](#43)
-      - [TITRE VIII : Assignations de fréquence relatives aux systèmes satellitaires. (art. L97-2 à L97-4)](#44)
-    - [LIVRE III : Autres services, dispositions communes et finales (art. L100 à L144)](#45)
-      - [TITRE Ier : Autres services (art. L100 à L103)](#46)
-      - [TITRE II : Dispositions communes (art. L125 à L135)](#47)
-      - [TITRE III : Dispositions finales. (art. L140 à L144)](#48)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R55-6)](#49)
-    - [LIVRE Ier : Le service postal (art. R1 à R2-5)](#50)
-      - [TITRE Ier : Dispositions générales (art. R1 à R1-2-17)](#51)
-        - [Chapitre Ier : Le service universel postal, les obligations du service postal et le fonds de compensation du service universel postal. (art. R1 à R1-1-29)](#52)
-          - [Section 1 : Les caractéristiques du service universel. (art. R1 à R1-1-9)](#53)
-          - [Section 2 : Droits et obligations de La Poste au titre de ses missions de service public des envois postaux. (art. R1-1-10 à R1-1-26)](#54)
-            - [Sous-section 1 : Droits et obligations de La Poste, prestataire du service universel (art. R1-1-10 à R1-1-16)](#55)
-            - [Sous-section 2 : Le transport de la presse (art. R1-1-17)](#56)
-            - [Sous-section 3 : Dispositions diverses (art. R1-1-18 à R1-1-26)](#57)
-          - [Section 3 : Le fonds de compensation du service universel postal (art. R1-1-27 à R1-1-29)](#58)
-        - [Chapitre II : La régulation des activités postales. (art. R1-2-1 à R1-2-17)](#59)
-          - [Section 1 : Les autorisations. (art. R1-2-1 à R1-2-8)](#60)
-            - [Sous-section 1 : Les procédures d'attribution des autorisations (art. R1-2-1 à R1-2-5)](#61)
-            - [Sous-section 2 : Les obligations des prestataires autorisés (art. R1-2-6 à R1-2-8)](#62)
-          - [Section 2 : La procédure de conciliation. (art. R1-2-9 à R1-2-10)](#63)
-          - [Section 3 : Le règlement des différends. (art. R1-2-11 à R1-2-13)](#64)
-          - [Section 4 : Habilitation des agents chargés des enquêtes. (art. R1-2-14 à R1-2-17)](#65)
-      - [TITRE II : Régime de responsabilité applicable aux prestataires de services postaux. (art. R2-1 à R2-5)](#66)
-    - [LIVRE II : Les communications électroniques (art. R*9 à R52-3-21)](#67)
-      - [TITRE Ier : Dispositions générales (art. R*9 à R20-44-4-3)](#68)
-        - [Chapitre Ier : Définitions et principes. (art. R*9)](#69)
-        - [Chapitre II : Régime juridique. (art. R9-2 à R20-29)](#70)
-          - [Section 1 : Réseaux et services (art. R9-2 à R9-13)](#71)
-            - [Paragraphe Ier : Dispositions relatives aux lignes de communications électroniques à très haut débit en fibre optique dans un immeuble (art. R9-2 à R9-4)](#72)
-            - [Paragraphe II : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques (art. R9-5 à R9-6)](#73)
-            - [Paragraphe III : Dispositions relatives au contrôle de la sécurité et de l'intégrité des installations, réseaux ou services (art. R9-7 à R9-12)](#74)
-            - [Paragraphe III bis : Dispositions relatives à la prévention des menaces affectant la sécurité des systèmes d'information (art. R9-12-1 à R9-12-8)](#75)
-            - [Paragraphe IV : Dispositions relatives à l'attribution du statut de zone fibrée (art. R9-13)](#76)
-          - [Section 2 : Annuaires et services de renseignements. (art. R10 à R10-11)](#77)
-          - [Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques. (art. R10-12 à R10-22)](#78)
-          - [Section 4 : Interconnexion, accès aux réseaux et aux infrastructures d'accueil (art. R11-1 à R11-9)](#79)
-          - [Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques. (art. R20-1 à R20-29)](#80)
-            - [Sous-section 1 : Dispositions générales (art. R20-1 à R20-3)](#81)
-            - [Sous-section 2 : Evaluation de la conformité des équipements (art. R20-4 à R20-14)](#82)
-            - [Sous-section 3 : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de la conformité (art. R20-15)](#83)
-            - [Sous-section 4 : Notification des organismes d'évaluation de la conformité (art. R20-16)](#84)
-            - [Sous-section 5 : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats (art. R20-17 à R20-18)](#85)
-            - [Sous-section 6 : Conditions de mise en service, de raccordement et d'utilisation des équipements (art. R20-19 à R20-24-1)](#86)
-            - [Sous-section 7 : Dispositions pénales (art. R20-25 à R20-27)](#87)
-            - [Sous-section 8 : Equipements utilisés dans certaines activités de l'Etat (art. R20-28)](#88)
-            - [Sous-section 9 : Modalités de formulation des observations sur les nouvelles implantations ou les modifications d'installations radioélectriques soumises à avis ou accord de l'Agence nationale des fréquences (art. R20-29)](#89)
-        - [Chapitre III : Les obligations de service public. (art. R20-30 à R20-44)](#90)
-          - [Section 1 : Le service universel et les modalités de désignation des opérateurs chargés du service universel. (art. R20-30 à R20-30-13)](#91)
-          - [Section 2 : Financement du service universel des communications électroniques. (art. R*20-41 à R20-44)](#92)
-        - [Chapitre V : Pouvoirs d'enquête (art. R20-44-1 à R20-44-4-3)](#93)
-      - [TITRE II : Ressources et police (art. R20-44-5 à R52)](#94)
-        - [Chapitre Ier : Fréquences radioélectriques. (art. R20-44-5 à R20-44-30)](#95)
-          - [Section 1 : Dispositions générales. (art. R20-44-5 à R20-44-8)](#96)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. R20-44-9 à R20-44-9-12)](#97)
-            - [Paragraphe Ier : Dispositions relatives à l'attribution d'autorisations d'utilisation de fréquences. (art. R20-44-9)](#98)
-            - [Paragraphe II : Dispositions relatives aux cessions d'autorisations d'utilisation de fréquences. (art. R20-44-9-1 à R20-44-9-12)](#99)
-          - [Section 3 : Agence nationale des fréquences. (art. R20-44-10 à R20-44-30)](#100)
-            - [Paragraphe Ier : Dispositions générales et missions (art. R20-44-10 à R20-44-11)](#101)
-            - [Paragraphe II : Organisation et fonctionnement (art. R20-44-12 à R20-44-19)](#102)
-            - [Paragraphe III : Dispositions financières (art. R20-44-20 à R20-44-24)](#103)
-            - [Paragraphe IV : Modalités d'application de la taxe prévue au I bis de l'article L. 43 (art. R20-44-25 à R20-44-28)](#104)
-            - [Paragraphe V : Le comité national de dialogue de l'Agence nationale des fréquences relatif aux niveaux d'exposition du public aux champs électromagnétiques (art. R20-44-28-1 à R20-44-28-2)](#105)
-            - [Paragraphe VI : Dispositions particulières (art. R20-44-29 à R20-44-30)](#106)
-        - [Chapitre II : Numérotation et adressage. (art. R20-44-31 à R20-44-47)](#107)
-          - [Section 1 : Numérotation. (art. R20-44-31 à R20-44-37)](#108)
-          - [Section 2 : Gestion des domaines de premier niveau du système d'adressage par domaines de l'internet correspondant aux codes pays du territoire national ou d'une partie de celui-ci (art. R20-44-38 à R20-44-47)](#109)
-        - [Chapitre III : Droits de passage sur le domaine public routier et servitudes. (art. R*20-45 à R31)](#110)
-          - [Section 1 : Droits de passage. (art. R*20-45 à R20-54)](#111)
-          - [Section 2 : Servitudes. (art. R*20-60 à R20-59)](#112)
-          - [Section 3 : Dispositions relatives aux servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles ou contre les perturbations électromagnétique (art. R21 à R29)](#113)
-            - [Sous-section 1 : Dispositions communes (art. R21 à R22)](#114)
-            - [Sous-section 2 :  Dispositions spécifiques aux servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles (art. R23 à R27)](#115)
-            - [Sous-section 3 :  Dispositions spécifiques aux servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques (art. R28 à R29)](#116)
-          - [Section 4 : Dispositions pénales (art. R30 à R31)](#117)
-        - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques. (art. R42-1)](#118)
-        - [Chapitre V : Guichet unique identifiant les maîtres d'ouvrage et leurs opérations de travaux d'installation ou de renforcement d'infrastructures d'accueil (art. R42-2 à R42-3)](#119)
-        - [Chapitre VI : Protection des câbles sous-marins. (art. R45 à R52)](#120)
-          - [Section 2 : Dispositions pénales. (art. R45 à R52)](#121)
-            - [Paragraphe I : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#122)
-            - [Paragraphe II : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#123)
-      - [TITRE VIII : Assignations de fréquences relatives aux systèmes satellitaires (art. R52-3-1 à R52-3-21)](#124)
-        - [Chapitre Ier : Procédure d'autorisation. (art. R52-3-1 à R52-3-6)](#125)
-          - [Section 1 : Demandes d'assignation de fréquence. (art. R52-3-1 à R52-3-2)](#126)
-          - [Section 2 : Instruction des demandes d'autorisation d'exploitation de fréquences. (art. R52-3-3 à R52-3-6)](#127)
-        - [Chapitre II : Obligations du titulaire de l'autorisation prévue à l'article L. 97-2. (art. R52-3-7 à R52-3-11)](#128)
-        - [Chapitre III : Durée et renouvellement de l'autorisation. (art. R52-3-12)](#129)
-        - [Chapitre IV : Modification et caducité de l'autorisation. (art. R52-3-13 à R52-3-15)](#130)
-        - [Chapitre V : Dispositions financières. (art. R52-3-16 à R52-3-20)](#131)
-        - [Chapitre VI : Dispositions particulières. (art. R52-3-21)](#132)
-    - [LIVRE III : Autres services, dispositions communes et finales (art. R53 à R55-6)](#133)
-      - [TITRE Ier : Autres services (art. R53 à R55-6)](#134)
-        - [Chapitre Ier : Lettre recommandée électronique (art. R53 à R53-4)](#135)
-          - [Section 1 : Définition de la lettre recommandée électronique (art. R53)](#136)
-          - [Section 2 : Exigences requises pour la lettre recommandée électronique (art. R53-1 à R53-4)](#137)
-        - [Chapitre III : Service de coffre-fort numérique (art. R55-1 à R55-6)](#138)
-          - [Section 1 : Mise en œuvre du service de coffre-fort numérique (art. R55-1 à R55-6)](#139)
-  - [Partie réglementaire - Décrets simples (art. D1 à D599)](#140)
-    - [LIVRE Ier : Le service postal (art. D1 à D90)](#141)
-      - [TITRE Ier : Dispositions générales (art. D1 à D28)](#142)
-        - [Chapitre Ier : Le service universel postal et les obligations du service postal (art. D1 à D2)](#143)
-        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D18 à D28)](#144)
-          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#145)
-      - [TITRE II : Affranchissement, recommandation et chargement (art. D42)](#146)
-        - [Chapitre Ier : Affranchissement. (art. D42)](#147)
-      - [TITRE VI : Distribution postale (art. D90)](#148)
-        - [Chapitre Ier : Distribution à domicile. (art. D90)](#149)
-    - [LIVRE II : Les communications électroniques (art. D98 à D407-6)](#150)
-      - [TITRE Ier : Dispositions générales (art. D98 à D315)](#151)
-        - [Chapitre II : Régime juridique (art. D98 à D102)](#152)
-          - [Section 1 : Réseaux et services (art. D98 à D99-3)](#153)
-            - [Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public. (art. D98 à D98-2)](#154)
-            - [Paragraphe 2 : Obligations des opérateurs. (art. D98-3 à D98-14)](#155)
-            - [Paragraphe 3 : Conditions d'exploitation des réseaux indépendants. (art. D99 à D99-3)](#156)
-          - [section 3 : Interconnexion et accès (art. D99-6 à D99-11)](#157)
-          - [Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques. (art. D100 à D101)](#158)
-          - [Section 5 : Instance de concertation départementale réunie pour une médiation concernant une installation radioélectrique existante ou projetée (art. D102)](#159)
-        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D315)](#160)
-          - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#161)
-          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#162)
-      - [TITRE II : Ressources et police (art. D406-5 à D407-6)](#163)
-        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17-1)](#164)
-          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#165)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17-1)](#166)
-        - [Chapitre II : Numérotation et adressage. (art. D406-18 à D406-20)](#167)
-        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-6)](#168)
-          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#169)
-          - [Section 2 : Accueil des installations de communications électroniques lors de travaux (art. D407-4 à D407-6)](#170)
-    - [LIVRE III : Autres services, dispositions communes et finales (art. D537 à D599)](#171)
-      - [Titre Ier : Autres services (art. D537 à D541)](#172)
-        - [Chapitre III : Service de coffre-fort numérique (art. D537 à D541)](#173)
-      - [Titre II : Dispositions communes et finales (art. D570 à D599)](#174)
-        - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#175)
-        - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#176)
-        - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#177)
-        - [Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes (art. D594 à D599)](#178)
+          - [Section 7 : Régime d'autorisation préalable de l'exploitation des équipements de réseaux radioélectriques (art. L34-11 à L34-14)](#20)
+        - [Chapitre III : Les obligations de service public. (art. L35 à L35-7)](#21)
+        - [Chapitre IV : La régulation des communications électroniques. (art. L36-5 à L38-4)](#22)
+          - [Section 1 : Autorité de régulation des communications électroniques et des postes. (art. L36-5 à L36-14)](#23)
+          - [Section  2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. L37-1 à L38-4)](#24)
+        - [Chapitre V : Dispositions pénales. (art. L39 à L40-1)](#25)
+      - [TITRE II : Ressources et police (art. L41 à L86)](#26)
+        - [Chapitre Ier : Fréquences radioélectriques. (art. L41 à L43)](#27)
+          - [Section 1 : Dispositions générales. (art. L41 à L41-3)](#28)
+          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. L42 à L42-4)](#29)
+          - [Section 3 : Agence nationale des fréquences. (art. L43)](#30)
+        - [Chapitre II : Numérotation et adressage. (art. L44 à L45-8)](#31)
+        - [Chapitre III : Droits de passage et servitudes. (art. L45-9 à L64)](#32)
+          - [Section 1 : Occupation du domaine public et servitudes sur les propriétés privées. (art. L45-9 à L53)](#33)
+          - [Section 2 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles ou les perturbations électromagnétiques. (art. L54 à L59)](#34)
+          - [Section 3 : Dispositions spécifiques à la rotection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. L61 à L62)](#35)
+          - [Section 4 : Dispositions pénales. (art. L63 à L64)](#36)
+        - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques. (art. L65 à L67)](#37)
+          - [Section 1 : Dispositions générales. (art. L65 à L65-1)](#38)
+          - [Section 2 : Dispositions pénales. (art. L66 à L67)](#39)
+        - [Chapitre V : Protection des câbles sous-marins. (art. L72 à L86)](#40)
+          - [Section 1 : Dispositions générales. (art. L72)](#41)
+          - [Section 2 : Dispositions pénales. (art. L73 à L86)](#42)
+            - [Paragraphe I : Dispositions spéciales aux eaux non territoriales. (art. L77 à L81)](#43)
+            - [Paragraphe II : Dispositions spéciales aux eaux territoriales. (art. L82 à L86)](#44)
+      - [TITRE VIII : Assignations de fréquence relatives aux systèmes satellitaires. (art. L97-2 à L97-4)](#45)
+    - [LIVRE III : Autres services, dispositions communes et finales (art. L100 à L144)](#46)
+      - [TITRE Ier : Autres services (art. L100 à L103)](#47)
+      - [TITRE II : Dispositions communes (art. L125 à L135)](#48)
+      - [TITRE III : Dispositions finales. (art. L140 à L144)](#49)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R55-6)](#50)
+    - [LIVRE Ier : Le service postal (art. R1 à R2-5)](#51)
+      - [TITRE Ier : Dispositions générales (art. R1 à R1-2-17)](#52)
+        - [Chapitre Ier : Le service universel postal, les obligations du service postal et le fonds de compensation du service universel postal. (art. R1 à R1-1-29)](#53)
+          - [Section 1 : Les caractéristiques du service universel. (art. R1 à R1-1-9)](#54)
+          - [Section 2 : Droits et obligations de La Poste au titre de ses missions de service public des envois postaux. (art. R1-1-10 à R1-1-26)](#55)
+            - [Sous-section 1 : Droits et obligations de La Poste, prestataire du service universel (art. R1-1-10 à R1-1-16)](#56)
+            - [Sous-section 2 : Le transport de la presse (art. R1-1-17)](#57)
+            - [Sous-section 3 : Dispositions diverses (art. R1-1-18 à R1-1-26)](#58)
+          - [Section 3 : Le fonds de compensation du service universel postal (art. R1-1-27 à R1-1-29)](#59)
+        - [Chapitre II : La régulation des activités postales. (art. R1-2-1 à R1-2-17)](#60)
+          - [Section 1 : Les autorisations. (art. R1-2-1 à R1-2-8)](#61)
+            - [Sous-section 1 : Les procédures d'attribution des autorisations (art. R1-2-1 à R1-2-5)](#62)
+            - [Sous-section 2 : Les obligations des prestataires autorisés (art. R1-2-6 à R1-2-8)](#63)
+          - [Section 2 : La procédure de conciliation. (art. R1-2-9 à R1-2-10)](#64)
+          - [Section 3 : Le règlement des différends. (art. R1-2-11 à R1-2-13)](#65)
+          - [Section 4 : Habilitation des agents chargés des enquêtes. (art. R1-2-14 à R1-2-17)](#66)
+      - [TITRE II : Régime de responsabilité applicable aux prestataires de services postaux. (art. R2-1 à R2-5)](#67)
+    - [LIVRE II : Les communications électroniques (art. R*9 à R52-3-21)](#68)
+      - [TITRE Ier : Dispositions générales (art. R*9 à R20-44-4-3)](#69)
+        - [Chapitre Ier : Définitions et principes. (art. R*9)](#70)
+        - [Chapitre II : Régime juridique. (art. R9-2 à R20-29)](#71)
+          - [Section 1 : Réseaux et services (art. R9-2 à R9-13)](#72)
+            - [Paragraphe Ier : Dispositions relatives aux lignes de communications électroniques à très haut débit en fibre optique dans un immeuble (art. R9-2 à R9-4)](#73)
+            - [Paragraphe II : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques (art. R9-5 à R9-6)](#74)
+            - [Paragraphe III : Dispositions relatives au contrôle de la sécurité et de l'intégrité des installations, réseaux ou services (art. R9-7 à R9-12)](#75)
+            - [Paragraphe III bis : Dispositions relatives à la prévention des menaces affectant la sécurité des systèmes d'information (art. R9-12-1 à R9-12-8)](#76)
+            - [Paragraphe IV : Dispositions relatives à l'attribution du statut de zone fibrée (art. R9-13)](#77)
+          - [Section 2 : Annuaires et services de renseignements. (art. R10 à R10-11)](#78)
+          - [Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques. (art. R10-12 à R10-22)](#79)
+          - [Section 4 : Interconnexion, accès aux réseaux et aux infrastructures d'accueil (art. R11-1 à R11-9)](#80)
+          - [Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques. (art. R20-1 à R20-29)](#81)
+            - [Sous-section 1 : Dispositions générales (art. R20-1 à R20-3)](#82)
+            - [Sous-section 2 : Evaluation de la conformité des équipements (art. R20-4 à R20-14)](#83)
+            - [Sous-section 3 : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de la conformité (art. R20-15)](#84)
+            - [Sous-section 4 : Notification des organismes d'évaluation de la conformité (art. R20-16)](#85)
+            - [Sous-section 5 : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats (art. R20-17 à R20-18)](#86)
+            - [Sous-section 6 : Conditions de mise en service, de raccordement et d'utilisation des équipements (art. R20-19 à R20-24-1)](#87)
+            - [Sous-section 7 : Dispositions pénales (art. R20-25 à R20-27)](#88)
+            - [Sous-section 8 : Equipements utilisés dans certaines activités de l'Etat (art. R20-28)](#89)
+            - [Sous-section 9 : Modalités de formulation des observations sur les nouvelles implantations ou les modifications d'installations radioélectriques soumises à avis ou accord de l'Agence nationale des fréquences (art. R20-29)](#90)
+        - [Chapitre III : Les obligations de service public. (art. R20-30 à R20-44)](#91)
+          - [Section 1 : Le service universel et les modalités de désignation des opérateurs chargés du service universel. (art. R20-30 à R20-30-13)](#92)
+          - [Section 2 : Financement du service universel des communications électroniques. (art. R*20-41 à R20-44)](#93)
+        - [Chapitre V : Pouvoirs d'enquête (art. R20-44-1 à R20-44-4-3)](#94)
+      - [TITRE II : Ressources et police (art. R20-44-5 à R52)](#95)
+        - [Chapitre Ier : Fréquences radioélectriques. (art. R20-44-5 à R20-44-30)](#96)
+          - [Section 1 : Dispositions générales. (art. R20-44-5 à R20-44-8)](#97)
+          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. R20-44-9 à R20-44-9-12)](#98)
+            - [Paragraphe Ier : Dispositions relatives à l'attribution d'autorisations d'utilisation de fréquences. (art. R20-44-9)](#99)
+            - [Paragraphe II : Dispositions relatives aux cessions d'autorisations d'utilisation de fréquences. (art. R20-44-9-1 à R20-44-9-12)](#100)
+          - [Section 3 : Agence nationale des fréquences. (art. R20-44-10 à R20-44-30)](#101)
+            - [Paragraphe Ier : Dispositions générales et missions (art. R20-44-10 à R20-44-11)](#102)
+            - [Paragraphe II : Organisation et fonctionnement (art. R20-44-12 à R20-44-19)](#103)
+            - [Paragraphe III : Dispositions financières (art. R20-44-20 à R20-44-24)](#104)
+            - [Paragraphe IV : Modalités d'application de la taxe prévue au I bis de l'article L. 43 (art. R20-44-25 à R20-44-28)](#105)
+            - [Paragraphe V : Le comité national de dialogue de l'Agence nationale des fréquences relatif aux niveaux d'exposition du public aux champs électromagnétiques (art. R20-44-28-1 à R20-44-28-2)](#106)
+            - [Paragraphe VI : Dispositions particulières (art. R20-44-29 à R20-44-30)](#107)
+        - [Chapitre II : Numérotation et adressage. (art. R20-44-31 à R20-44-47)](#108)
+          - [Section 1 : Numérotation. (art. R20-44-31 à R20-44-37)](#109)
+          - [Section 2 : Gestion des domaines de premier niveau du système d'adressage par domaines de l'internet correspondant aux codes pays du territoire national ou d'une partie de celui-ci (art. R20-44-38 à R20-44-47)](#110)
+        - [Chapitre III : Droits de passage sur le domaine public routier et servitudes. (art. R*20-45 à R31)](#111)
+          - [Section 1 : Droits de passage. (art. R*20-45 à R20-54)](#112)
+          - [Section 2 : Servitudes. (art. R*20-60 à R20-59)](#113)
+          - [Section 3 : Dispositions relatives aux servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles ou contre les perturbations électromagnétique (art. R21 à R29)](#114)
+            - [Sous-section 1 : Dispositions communes (art. R21 à R22)](#115)
+            - [Sous-section 2 :  Dispositions spécifiques aux servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles (art. R23 à R27)](#116)
+            - [Sous-section 3 :  Dispositions spécifiques aux servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques (art. R28 à R29)](#117)
+          - [Section 4 : Dispositions pénales (art. R30 à R31)](#118)
+        - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques. (art. R42-1)](#119)
+        - [Chapitre V : Guichet unique identifiant les maîtres d'ouvrage et leurs opérations de travaux d'installation ou de renforcement d'infrastructures d'accueil (art. R42-2 à R42-3)](#120)
+        - [Chapitre VI : Protection des câbles sous-marins. (art. R45 à R52)](#121)
+          - [Section 2 : Dispositions pénales. (art. R45 à R52)](#122)
+            - [Paragraphe I : Dispositions applicables aux eaux non territoriales. (art. R45 à R49)](#123)
+            - [Paragraphe II : Dispositions spéciales aux eaux territoriales. (art. R50 à R52)](#124)
+      - [TITRE VIII : Assignations de fréquences relatives aux systèmes satellitaires (art. R52-3-1 à R52-3-21)](#125)
+        - [Chapitre Ier : Procédure d'autorisation. (art. R52-3-1 à R52-3-6)](#126)
+          - [Section 1 : Demandes d'assignation de fréquence. (art. R52-3-1 à R52-3-2)](#127)
+          - [Section 2 : Instruction des demandes d'autorisation d'exploitation de fréquences. (art. R52-3-3 à R52-3-6)](#128)
+        - [Chapitre II : Obligations du titulaire de l'autorisation prévue à l'article L. 97-2. (art. R52-3-7 à R52-3-11)](#129)
+        - [Chapitre III : Durée et renouvellement de l'autorisation. (art. R52-3-12)](#130)
+        - [Chapitre IV : Modification et caducité de l'autorisation. (art. R52-3-13 à R52-3-15)](#131)
+        - [Chapitre V : Dispositions financières. (art. R52-3-16 à R52-3-20)](#132)
+        - [Chapitre VI : Dispositions particulières. (art. R52-3-21)](#133)
+    - [LIVRE III : Autres services, dispositions communes et finales (art. R53 à R55-6)](#134)
+      - [TITRE Ier : Autres services (art. R53 à R55-6)](#135)
+        - [Chapitre Ier : Lettre recommandée électronique (art. R53 à R53-4)](#136)
+          - [Section 1 : Définition de la lettre recommandée électronique (art. R53)](#137)
+          - [Section 2 : Exigences requises pour la lettre recommandée électronique (art. R53-1 à R53-4)](#138)
+        - [Chapitre III : Service de coffre-fort numérique (art. R55-1 à R55-6)](#139)
+          - [Section 1 : Mise en œuvre du service de coffre-fort numérique (art. R55-1 à R55-6)](#140)
+  - [Partie réglementaire - Décrets simples (art. D1 à D599)](#141)
+    - [LIVRE Ier : Le service postal (art. D1 à D90)](#142)
+      - [TITRE Ier : Dispositions générales (art. D1 à D28)](#143)
+        - [Chapitre Ier : Le service universel postal et les obligations du service postal (art. D1 à D2)](#144)
+        - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur. (art. D18 à D28)](#145)
+          - [Section 4 : Journaux et écrits périodiques. (art. D18 à D28)](#146)
+      - [TITRE II : Affranchissement, recommandation et chargement (art. D42)](#147)
+        - [Chapitre Ier : Affranchissement. (art. D42)](#148)
+      - [TITRE VI : Distribution postale (art. D90)](#149)
+        - [Chapitre Ier : Distribution à domicile. (art. D90)](#150)
+    - [LIVRE II : Les communications électroniques (art. D98 à D407-6)](#151)
+      - [TITRE Ier : Dispositions générales (art. D98 à D315)](#152)
+        - [Chapitre II : Régime juridique (art. D98 à D102)](#153)
+          - [Section 1 : Réseaux et services (art. D98 à D99-3)](#154)
+            - [Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public. (art. D98 à D98-2)](#155)
+            - [Paragraphe 2 : Obligations des opérateurs. (art. D98-3 à D98-14)](#156)
+            - [Paragraphe 3 : Conditions d'exploitation des réseaux indépendants. (art. D99 à D99-3)](#157)
+          - [section 3 : Interconnexion et accès (art. D99-6 à D99-11)](#158)
+          - [Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques. (art. D100 à D101)](#159)
+          - [Section 5 : Instance de concertation départementale réunie pour une médiation concernant une installation radioélectrique existante ou projetée (art. D102)](#160)
+        - [Chapitre IV : La régulation des communications électroniques. (art. D288 à D315)](#161)
+          - [Section 1 : Autorité de régulation des communications électroniques et des postes (art. D288 à D295)](#162)
+          - [Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques. (art. D301 à D315)](#163)
+      - [TITRE II : Ressources et police (art. D406-5 à D407-6)](#164)
+        - [Chapitre Ier : Fréquences radioélectriques. (art. D406-5 à D406-17-1)](#165)
+          - [Section 1 : Dispositions générales (art. D406-5 à D406-13)](#166)
+          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art. D406-14 à D406-17-1)](#167)
+        - [Chapitre II : Numérotation et adressage. (art. D406-18 à D406-20)](#168)
+        - [CHAPITRE III : Etablissement de lignes (art. D407-1 à D407-6)](#169)
+          - [Section 1 : Dispositions générales. (art. D407-1 à D407-3)](#170)
+          - [Section 2 : Accueil des installations de communications électroniques lors de travaux (art. D407-4 à D407-6)](#171)
+    - [LIVRE III : Autres services, dispositions communes et finales (art. D537 à D599)](#172)
+      - [Titre Ier : Autres services (art. D537 à D541)](#173)
+        - [Chapitre III : Service de coffre-fort numérique (art. D537 à D541)](#174)
+      - [Titre II : Dispositions communes et finales (art. D570 à D599)](#175)
+        - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques. (art. D570 à D575)](#176)
+        - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques. (art. D576 à D586)](#177)
+        - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques. (art. D587 à D593)](#178)
+        - [Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes (art. D594 à D599)](#179)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Le service postal<a id=2></a>
@@ -4637,7 +4638,144 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L36-8 (V)
 
 
-#### Chapitre III : Les obligations de service public.<a id=20></a>
+##### Section 7 : Régime d'autorisation préalable de l'exploitation des équipements de réseaux radioélectriques<a id=20></a>
+
+###### Article L34-11
+
+I.-Est soumise à une autorisation du Premier ministre, dans le but de préserver les intérêts de la défense et de la sécurité
+nationale, l'exploitation sur le territoire national des appareils, à savoir tous dispositifs matériels ou logiciels,
+permettant de connecter les terminaux des utilisateurs finaux au réseau radioélectrique mobile, à l'exception des réseaux de
+quatrième génération et des générations antérieures, qui, par leurs fonctions, présentent un risque pour la permanence,
+l'intégrité, la sécurité, la disponibilité du réseau, ou pour la confidentialité des messages transmis et des informations
+liées aux communications, à l'exclusion des appareils installés chez les utilisateurs finaux ou dédiés exclusivement à un
+réseau indépendant, des appareils électroniques passifs ou non configurables et des dispositifs matériels informatiques non
+spécialisés incorporés aux appareils.
+
+L'autorisation mentionnée au premier alinéa du présent I n'est requise que pour l'exploitation, directe ou par
+l'intermédiaire de tiers fournisseurs, d'appareils par les opérateurs mentionnés à l'article L. 1332-1 du code de la défense,
+ainsi désignés en vertu de leur activité d'exploitant d'un réseau de communications électroniques ouvert au public.
+
+La liste des appareils dont l'exploitation est soumise à l'autorisation mentionnée au premier alinéa du présent I est fixée
+par arrêté du Premier ministre, pris après avis de l'Autorité de régulation des communications électroniques et des postes.
+Cette liste énumère les différents appareils concernés en référence à la terminologie utilisée dans les standards
+internationaux associés aux réseaux radioélectriques mobiles de cinquième génération et des générations ultérieures.
+
+II.-L'autorisation d'exploitation d'un appareil peut être octroyée après examen d'un dossier de demande d'autorisation remis
+par l'opérateur. Le dossier précise les modèles et les versions des appareils pour lesquels l'autorisation est sollicitée.
+
+L'autorisation est octroyée, le cas échéant sous conditions, pour une durée maximale de huit ans. Le renouvellement de
+l'autorisation fait l'objet d'un dossier de demande de renouvellement, qui est remis au moins deux mois avant l'expiration de
+l'autorisation en vigueur.
+
+Les modalités d'octroi de l'autorisation, les conditions dont elle peut être assortie ainsi que la composition du dossier de
+demande d'autorisation et du dossier de demande de renouvellement sont fixées par décret en Conseil d'Etat, pris après avis
+de l'Autorité de régulation des communications électroniques et des postes et de la Commission supérieure du numérique et des
+postes, qui se prononcent dans un délai d'un mois à compter de leur saisine.
+
+**Nota:**
+
+Conformément à l'article 3 de de la loi n° 2019-810 du 1er août 2019 : Le présent article est applicable à l'exploitation des
+appareils mentionnés au I de l'article L. 34-11 du code des postes et des communications électroniques installés depuis le
+1er février 2019.
+
+Les opérateurs qui, à la date de publication de la présente loi, exploitent des appareils soumis à autorisation en vertu du
+même article L. 34-11 disposent d'un délai de deux mois pour déposer la demande d'autorisation préalable prévue audit article
+L. 34-11. Ce délai court à compter de la date de publication la plus tardive de l'arrêté mentionné au I ou du décret
+mentionné au II du même article L. 34-11, et au plus tard à compter de la fin du deuxième mois suivant la publication de la
+présente loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-810 du 1er août 2019 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 6 décembre 2019 - art. 1 (V)
+  - Décret n°2019-1300 du 6 décembre 2019 - art. 2
+
+
+###### Article L34-12
+
+Le Premier ministre refuse l'octroi de l'autorisation prévue à l'article L. 34-11 s'il estime qu'il existe un risque sérieux
+d'atteinte aux intérêts de la défense et de la sécurité nationale résultant du manque de garantie du respect des règles
+mentionnées aux a, b, e, f et f bis du I de l'article L. 33-1 relatives à la permanence, à l'intégrité, à la sécurité, à la
+disponibilité du réseau, ou à la confidentialité des messages transmis et des informations liées aux communications. Sa
+décision est motivée sauf lorsque la communication des motifs pourrait être de nature à porter atteinte à l'un des secrets ou
+intérêts protégés par les dispositions des a à f du 2° de l'article L. 311-5 du code des relations entre le public et
+l'administration.
+
+Le Premier ministre prend en considération, pour l'appréciation de ce risque, le niveau de sécurité des appareils, leurs
+modalités de déploiement et d'exploitation envisagées par l'opérateur et le fait que l'opérateur ou ses prestataires, y
+compris par sous-traitance, est sous le contrôle ou soumis à des actes d'ingérence d'un Etat non membre de l'Union
+européenne.
+
+**Nota:**
+
+Conformément à l'article 3 de de la loi n° 2019-810 du 1er août 2019 : Le présent article est applicable à l'exploitation des
+appareils mentionnés au I de l'article L. 34-11 du code des postes et des communications électroniques installés depuis le
+1er février 2019.
+
+Les opérateurs qui, à la date de publication de la présente loi, exploitent des appareils soumis à autorisation en vertu du
+même article L. 34-11 disposent d'un délai de deux mois pour déposer la demande d'autorisation préalable prévue audit article
+L. 34-11. Ce délai court à compter de la date de publication la plus tardive de l'arrêté mentionné au I ou du décret
+mentionné au II du même article L. 34-11, et au plus tard à compter de la fin du deuxième mois suivant la publication de la
+présente loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-810 du 1er août 2019 - art. 1
+
+
+###### Article L34-13
+
+I.-Si l'exploitation des appareils mentionnés au I de l'article L. 34-11 est réalisée sur le territoire national sans
+autorisation préalable ou sans respecter les conditions fixées par l'autorisation, le Premier ministre peut enjoindre à
+l'opérateur de déposer une demande d'autorisation ou de renouvellement ou de faire rétablir à ses frais la situation
+antérieure, dans un délai qu'il fixe.
+
+Ces injonctions ne peuvent intervenir qu'après que l'opérateur a été mis en demeure de présenter des observations dans un
+délai de quinze jours, sauf en cas d'urgence, de circonstances exceptionnelles ou d'atteinte imminente à la sécurité
+nationale.
+
+II.-Est nul tout engagement, convention ou clause contractuelle prévoyant l'exploitation des appareils mentionnés au I de
+l'article L. 34-11 lorsque cette activité n'a pas fait l'objet de l'autorisation préalable exigée sur le fondement du même
+article L. 34-11 ou d'une régularisation dans les délais impartis.
+
+**Nota:**
+
+Conformément à l'article 3 de de la loi n° 2019-810 du 1er août 2019 : Le présent article est applicable à l'exploitation des
+appareils mentionnés au I de l'article L. 34-11 du code des postes et des communications électroniques installés depuis le
+1er février 2019.
+
+Les opérateurs qui, à la date de publication de la présente loi, exploitent des appareils soumis à autorisation en vertu du
+même article L. 34-11 disposent d'un délai de deux mois pour déposer la demande d'autorisation préalable prévue audit article
+L. 34-11. Ce délai court à compter de la date de publication la plus tardive de l'arrêté mentionné au I ou du décret
+mentionné au II du même article L. 34-11, et au plus tard à compter de la fin du deuxième mois suivant la publication de la
+présente loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-810 du 1er août 2019 - art. 1
+
+
+###### Article L34-14
+
+La présente section est applicable dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-810 du 1er août 2019 - art. 1
+
+
+#### Chapitre III : Les obligations de service public.<a id=21></a>
 
 ###### Article L35
 
@@ -5110,9 +5248,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L35-2 (V)
 
 
-#### Chapitre IV : La régulation des communications électroniques.<a id=21></a>
+#### Chapitre IV : La régulation des communications électroniques.<a id=22></a>
 
-##### Section 1 : Autorité de régulation des communications électroniques et des postes.<a id=22></a>
+##### Section 1 : Autorité de régulation des communications électroniques et des postes.<a id=23></a>
 
 ###### Article L36-5
 
@@ -5822,7 +5960,7 @@ _Cite_:
   - Code de la défense. - art. L2321-3 (V)
 
 
-##### Section  2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=23></a>
+##### Section  2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=24></a>
 
 ###### Article L37-1
 
@@ -6256,7 +6394,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L32-1
 
 
-#### Chapitre V : Dispositions pénales.<a id=24></a>
+#### Chapitre V : Dispositions pénales.<a id=25></a>
 
 ###### Article L39
 
@@ -6349,6 +6487,24 @@ _Modifié par_:
 _Codifié par_:
 
   - Décret n°62-273 du 12 mars 1962
+
+
+###### Article L39-1-1
+
+Est puni de cinq ans d'emprisonnement et de 300 000 euros d'amende le fait :
+
+1° D'exploiter des appareils mentionnés au I de l'article L. 34-11 sans autorisation préalable ou sans respecter les
+conditions fixées par l'autorisation ;
+
+2° De ne pas exécuter, totalement ou partiellement, les injonctions prises sur le fondement du I de l'article L. 34-13.
+
+Le présent article est applicable dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-810 du 1er août 2019 - art. 2
 
 
 ###### Article L39-2
@@ -6482,24 +6638,24 @@ _Cité par_:
 
 ###### Article L39-6
 
-En cas de condamnation pour l'une des infractions prévues aux articles L. 39 et L. 39-1, le tribunal pourra, en outre,
-prononcer la confiscation des matériels et installations constituant le réseau ou permettant la fourniture du service ou en
-ordonner la destruction aux frais du condamné et prononcer l'interdiction, pour une durée de trois années au plus, d'établir
-un réseau ouvert au public ou de fournir au public un service de communications électroniques.
+En cas de condamnation pour l'une des infractions prévues aux articles L. 39, L. 39-1 et L. 39-1-1, le tribunal pourra, en
+outre, prononcer la confiscation des matériels et installations constituant le réseau ou permettant la fourniture du service
+ou en ordonner la destruction aux frais du condamné et prononcer l'interdiction, pour une durée de trois années au plus,
+d'établir un réseau ouvert au public ou de fournir au public un service de communications électroniques.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2004-669 du 9 juillet 2004 - art. 19 () JORF 10 juillet 2004
+  - Loi n°2019-810 du 1er août 2019 - art. 2
 
 _Codifié par_:
 
-  - Décret n°62-273 1962-03-12
+  - Décret n°62-273 du 12 mars 1962
 
 _Cite_:
 
-  - Code des postes et des communications électroni... - art. L39 (V)
+  - Code des postes et des communications électroniques - art. L39
 
 
 ###### Article L39-7
@@ -6580,14 +6736,14 @@ _Anciens textes_:
 ###### Article L39-10
 
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
-infractions définies aux articles L. 39, L. 39-1 et L. 39-3 encourent, outre l'amende suivant les modalités prévues par
-l'article 131-38 du code pénal : 
+infractions définies aux articles L. 39, L. 39-1, L. 39-1-1 et L. 39-3 encourent, outre l'amende suivant les modalités
+prévues par l'article 131-38 du code pénal :
 
-1° (Abrogé) ; 
+1° (Abrogé) ;
 
-2° La peine mentionnée au 2° de l'article 131-39 du code pénal, pour une durée de cinq ans au plus ; 
+2° La peine mentionnée au 2° de l'article 131-39 du code pénal, pour une durée de cinq ans au plus ;
 
-3° La peine mentionnée au 9° de l'article 131-39 du code pénal. 
+3° La peine mentionnée au 9° de l'article 131-39 du code pénal.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité professionnelle dans l'exercice ou à
 l'occasion de l'exercice de laquelle l'infraction a été commise.
@@ -6596,14 +6752,14 @@ l'occasion de l'exercice de laquelle l'infraction a été commise.
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 125
+  - Loi n°2019-810 du 1er août 2019 - art. 2
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (V)
-  - Code pénal - art. 131-38 (V)
-  - Code pénal - art. 131-39 (V)
-  - Code des postes et des communications électroni... - art. L39 (V)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+  - Code des postes et des communications électroniques - art. L39
 
 
 ###### Article L40
@@ -6705,11 +6861,11 @@ _Codifié par_:
   - Décret n°62-273 du 12 mars 1962
 
 
-### TITRE II : Ressources et police<a id=25></a>
+### TITRE II : Ressources et police<a id=26></a>
 
-#### Chapitre Ier : Fréquences radioélectriques.<a id=26></a>
+#### Chapitre Ier : Fréquences radioélectriques.<a id=27></a>
 
-##### Section 1 : Dispositions générales.<a id=27></a>
+##### Section 1 : Dispositions générales.<a id=28></a>
 
 ###### Article L41
 
@@ -6863,7 +7019,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L41 (M)
 
 
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=28></a>
+##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=29></a>
 
 ###### Article L42
 
@@ -6970,7 +7126,8 @@ d'aménagement du territoire. Ces autorisations ne peuvent être refusées par l
 3° L'incapacité technique ou financière du demandeur à faire face durablement aux obligations résultant des conditions
 d'exercice de son activité ;
 
-4° La condamnation du demandeur à l'une des sanctions mentionnées aux articles L. 36-11, L. 39, L. 39-1 et L. 39-4. 
+4° La condamnation du demandeur à l'une des sanctions mentionnées aux articles L. 36-11, L. 39, L. 39-1, L. 39-1-1 et L.
+39-4. 
 
 II. – L'autorisation précise les conditions d'utilisation de la fréquence ou de la bande de fréquences qui portent sur :
 
@@ -7083,7 +7240,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 92
+  - Loi n°2019-810 du 1er août 2019 - art. 2
 
 _Codifié par_:
 
@@ -7261,7 +7418,7 @@ _Anciens textes_:
   - Code des postes et télécommunications L90
 
 
-##### Section 3 : Agence nationale des fréquences.<a id=29></a>
+##### Section 3 : Agence nationale des fréquences.<a id=30></a>
 
 ###### Article L43
 
@@ -7528,7 +7685,7 @@ _Nouveaux textes_:
   - Code des postes et des communications électronique - art. L39-7 (V)
 
 
-#### Chapitre II : Numérotation et adressage.<a id=30></a>
+#### Chapitre II : Numérotation et adressage.<a id=31></a>
 
 ###### Article L44
 
@@ -8017,9 +8174,9 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L45
 
 
-#### Chapitre III : Droits de passage et servitudes.<a id=31></a>
+#### Chapitre III : Droits de passage et servitudes.<a id=32></a>
 
-##### Section 1 : Occupation du domaine public et servitudes sur les propriétés privées.<a id=32></a>
+##### Section 1 : Occupation du domaine public et servitudes sur les propriétés privées.<a id=33></a>
 
 ###### Article L45-9
 
@@ -8535,7 +8692,7 @@ _Codifié par_:
   - Décret n°62-273 1962-03-12
 
 
-##### Section 2 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles ou les perturbations électromagnétiques.<a id=33></a>
+##### Section 2 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles ou les perturbations électromagnétiques.<a id=34></a>
 
 ###### Article L54
 
@@ -8694,7 +8851,7 @@ _Créé par_:
   - Ordonnance n°2016-492 du 21 avril 2016 - art. 1
 
 
-##### Section 3 : Dispositions spécifiques à la rotection des centres de réception radioélectriques contre les perturbations électromagnétiques.<a id=34></a>
+##### Section 3 : Dispositions spécifiques à la rotection des centres de réception radioélectriques contre les perturbations électromagnétiques.<a id=35></a>
 
 ###### Article L61
 
@@ -8749,7 +8906,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. L64 (V)
 
 
-##### Section 4 : Dispositions pénales.<a id=35></a>
+##### Section 4 : Dispositions pénales.<a id=36></a>
 
 ###### Article L63
 
@@ -8829,9 +8986,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L57 (V)
 
 
-#### Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.<a id=36></a>
+#### Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.<a id=37></a>
 
-##### Section 1 : Dispositions générales.<a id=37></a>
+##### Section 1 : Dispositions générales.<a id=38></a>
 
 ###### Article L65
 
@@ -8881,7 +9038,7 @@ _Anciens textes_:
   - Code des postes et télécommunications L95
 
 
-##### Section 2 : Dispositions pénales.<a id=38></a>
+##### Section 2 : Dispositions pénales.<a id=39></a>
 
 ###### Article L66
 
@@ -8935,9 +9092,9 @@ _Anciens textes_:
   - Décret-loi 1851-12-27 art. 4
 
 
-#### Chapitre V : Protection des câbles sous-marins.<a id=39></a>
+#### Chapitre V : Protection des câbles sous-marins.<a id=40></a>
 
-##### Section 1 : Dispositions générales.<a id=40></a>
+##### Section 1 : Dispositions générales.<a id=41></a>
 
 ###### Article L72
 
@@ -8968,7 +9125,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R51 (V)
 
 
-##### Section 2 : Dispositions pénales.<a id=41></a>
+##### Section 2 : Dispositions pénales.<a id=42></a>
 
 ###### Article L73
 
@@ -9033,7 +9190,7 @@ _Codifié par_:
   - Décret n°62-273 du 12 mars 1962
 
 
-##### Paragraphe I : Dispositions spéciales aux eaux non territoriales.<a id=42></a>
+##### Paragraphe I : Dispositions spéciales aux eaux non territoriales.<a id=43></a>
 
 ###### Article L77
 
@@ -9133,14 +9290,11 @@ _Codifié par_:
 
 ###### Article L81
 
-Est punie d'une amende de 3 750 euros et  d'un emprisonnement de cinq ans : toute personne qui rompt volontairement un câble
+Est punie d'une amende de 75 000 euros et d'un emprisonnement de cinq ans : toute personne qui rompt volontairement un câble
 sous-marin ou lui cause une détérioration qui pourrait interrompre ou entraver, en tout ou partie, les communications
-électroniques.
-
-Les mêmes peines sont prononcées contre les auteurs des tentatives des mêmes faits.
-
-Toutefois, ces dispositions ne s'appliquent pas aux personnes qui auraient été contraintes de rompre un câble sous-marin ou
-de lui causer une détérioration par la nécessité actuelle de protéger leur vie ou d'assurer la sécurité de leur navire.
+électroniques. Les mêmes peines sont prononcées contre les auteurs des tentatives des mêmes faits. Toutefois, ces
+dispositions ne s'appliquent pas aux personnes qui auraient été contraintes de rompre un câble sous-marin ou de lui causer
+une détérioration par la nécessité actuelle de protéger leur vie ou d'assurer la sécurité de leur navire.
 
 **Liens relatifs à cet article**
 
@@ -9155,16 +9309,16 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L144
   - Loi n°1884-12-20 art. 10
 
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
 _Modifié par_:
 
-  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+  - Loi n°2019-810 du 1er août 2019 - art. 2
+
+_Codifié par_:
+
+  - Décret n°62-273 du 12 mars 1962
 
 
-##### Paragraphe II : Dispositions spéciales aux eaux territoriales.<a id=43></a>
+##### Paragraphe II : Dispositions spéciales aux eaux territoriales.<a id=44></a>
 
 ###### Article L82
 
@@ -9288,7 +9442,7 @@ _Codifié par_:
   - Décret n°62-273 du 12 mars 1962
 
 
-### TITRE VIII : Assignations de fréquence relatives aux systèmes satellitaires.<a id=44></a>
+### TITRE VIII : Assignations de fréquence relatives aux systèmes satellitaires.<a id=45></a>
 
 ###### Article L97-2
 
@@ -9465,9 +9619,9 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 
-## LIVRE III : Autres services, dispositions communes et finales<a id=45></a>
+## LIVRE III : Autres services, dispositions communes et finales<a id=46></a>
 
-### TITRE Ier : Autres services<a id=46></a>
+### TITRE Ier : Autres services<a id=47></a>
 
 ###### Article L100
 
@@ -9666,7 +9820,7 @@ _Codifié par_:
   - Décret n°62-273 du 12 mars 1962
 
 
-### TITRE II : Dispositions communes<a id=47></a>
+### TITRE II : Dispositions communes<a id=48></a>
 
 ###### Article L125
 
@@ -9978,7 +10132,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. L36-14 (T)
 
 
-### TITRE III : Dispositions finales.<a id=48></a>
+### TITRE III : Dispositions finales.<a id=49></a>
 
 ###### Article L140
 
@@ -10245,15 +10399,15 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L34-9-2 (VD)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=49></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=50></a>
 
-## LIVRE Ier : Le service postal<a id=50></a>
+## LIVRE Ier : Le service postal<a id=51></a>
 
-### TITRE Ier : Dispositions générales<a id=51></a>
+### TITRE Ier : Dispositions générales<a id=52></a>
 
-#### Chapitre Ier : Le service universel postal, les obligations du service postal et le fonds de compensation du service universel postal.<a id=52></a>
+#### Chapitre Ier : Le service universel postal, les obligations du service postal et le fonds de compensation du service universel postal.<a id=53></a>
 
-##### Section 1 : Les caractéristiques du service universel.<a id=53></a>
+##### Section 1 : Les caractéristiques du service universel.<a id=54></a>
 
 ###### Article R1
 
@@ -10521,9 +10675,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R1-1-18 (V)
 
 
-##### Section 2 : Droits et obligations de La Poste au titre de ses missions de service public des envois postaux.<a id=54></a>
+##### Section 2 : Droits et obligations de La Poste au titre de ses missions de service public des envois postaux.<a id=55></a>
 
-##### Sous-section 1 : Droits et obligations de La Poste, prestataire du service universel<a id=55></a>
+##### Sous-section 1 : Droits et obligations de La Poste, prestataire du service universel<a id=56></a>
 
 ###### Article R1-1-10
 
@@ -10666,7 +10820,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Sous-section 2 : Le transport de la presse<a id=56></a>
+##### Sous-section 2 : Le transport de la presse<a id=57></a>
 
 ###### Article R1-1-17
 
@@ -10697,7 +10851,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R1-1-26 (V)
 
 
-##### Sous-section 3 : Dispositions diverses<a id=57></a>
+##### Sous-section 3 : Dispositions diverses<a id=58></a>
 
 ###### Article R1-1-18
 
@@ -10937,7 +11091,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R1-1-17 (V)
 
 
-##### Section 3 : Le fonds de compensation du service universel postal<a id=58></a>
+##### Section 3 : Le fonds de compensation du service universel postal<a id=59></a>
 
 ###### Article R1-1-27
 
@@ -11018,11 +11172,11 @@ _Créé par_:
   - Décret n°2012-1072 du 20 septembre 2012 - art. 9
 
 
-#### Chapitre II : La régulation des activités postales.<a id=59></a>
+#### Chapitre II : La régulation des activités postales.<a id=60></a>
 
-##### Section 1 : Les autorisations.<a id=60></a>
+##### Section 1 : Les autorisations.<a id=61></a>
 
-##### Sous-section 1 : Les procédures d'attribution des autorisations<a id=61></a>
+##### Sous-section 1 : Les procédures d'attribution des autorisations<a id=62></a>
 
 ###### Article R1-2-1
 
@@ -11177,7 +11331,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R1-2-4 (V)
 
 
-##### Sous-section 2 : Les obligations des prestataires autorisés<a id=62></a>
+##### Sous-section 2 : Les obligations des prestataires autorisés<a id=63></a>
 
 ###### Article R1-2-6
 
@@ -11272,7 +11426,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R1-2-3 (V)
 
 
-##### Section 2 : La procédure de conciliation.<a id=63></a>
+##### Section 2 : La procédure de conciliation.<a id=64></a>
 
 ###### Article R1-2-9
 
@@ -11313,7 +11467,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Section 3 : Le règlement des différends.<a id=64></a>
+##### Section 3 : Le règlement des différends.<a id=65></a>
 
 ###### Article R1-2-11
 
@@ -11386,7 +11540,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R11-8 (V)
 
 
-##### Section 4 : Habilitation des agents chargés des enquêtes.<a id=65></a>
+##### Section 4 : Habilitation des agents chargés des enquêtes.<a id=66></a>
 
 ###### Article R1-2-14
 
@@ -11499,7 +11653,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R1-2-14 (V)
 
 
-### TITRE II : Régime de responsabilité applicable aux prestataires de services postaux.<a id=66></a>
+### TITRE II : Régime de responsabilité applicable aux prestataires de services postaux.<a id=67></a>
 
 ###### Article R2-1
 
@@ -11614,11 +11768,11 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-## LIVRE II : Les communications électroniques<a id=67></a>
+## LIVRE II : Les communications électroniques<a id=68></a>
 
-### TITRE Ier : Dispositions générales<a id=68></a>
+### TITRE Ier : Dispositions générales<a id=69></a>
 
-#### Chapitre Ier : Définitions et principes.<a id=69></a>
+#### Chapitre Ier : Définitions et principes.<a id=70></a>
 
 ###### Article R*9
 
@@ -11725,11 +11879,11 @@ _Codifié par_:
   - Décret n°62-274 du 12 mars 1962
 
 
-#### Chapitre II : Régime juridique.<a id=70></a>
+#### Chapitre II : Régime juridique.<a id=71></a>
 
-##### Section 1 : Réseaux et services<a id=71></a>
+##### Section 1 : Réseaux et services<a id=72></a>
 
-##### Paragraphe Ier : Dispositions relatives aux lignes de communications électroniques à très haut débit en fibre optique dans un immeuble<a id=72></a>
+##### Paragraphe Ier : Dispositions relatives aux lignes de communications électroniques à très haut débit en fibre optique dans un immeuble<a id=73></a>
 
 ###### Article R9-2
 
@@ -11933,7 +12087,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L34-8-3
 
 
-##### Paragraphe II : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques<a id=73></a>
+##### Paragraphe II : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques<a id=74></a>
 
 ###### Article R9-5
 
@@ -12030,7 +12184,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L38-2-1
 
 
-##### Paragraphe III : Dispositions relatives au contrôle de la sécurité et de l'intégrité des installations, réseaux ou services<a id=74></a>
+##### Paragraphe III : Dispositions relatives au contrôle de la sécurité et de l'intégrité des installations, réseaux ou services<a id=75></a>
 
 ###### Article R9-7
 
@@ -12213,7 +12367,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L33-10
 
 
-##### Paragraphe III bis : Dispositions relatives à la prévention des menaces affectant la sécurité des systèmes d'information<a id=75></a>
+##### Paragraphe III bis : Dispositions relatives à la prévention des menaces affectant la sécurité des systèmes d'information<a id=76></a>
 
 ###### Article R9-12-1
 
@@ -12422,7 +12576,7 @@ _Créé par_:
   - Décret n°2018-1136 du 13 décembre 2018 - art. 4
 
 
-##### Paragraphe IV : Dispositions relatives à l'attribution du statut de zone fibrée<a id=76></a>
+##### Paragraphe IV : Dispositions relatives à l'attribution du statut de zone fibrée<a id=77></a>
 
 ###### Article R9-13
 
@@ -12441,7 +12595,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L33-11
 
 
-##### Section 2 : Annuaires et services de renseignements.<a id=77></a>
+##### Section 2 : Annuaires et services de renseignements.<a id=78></a>
 
 ###### Article R10
 
@@ -12830,7 +12984,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. R11 (T)
 
 
-##### Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques.<a id=78></a>
+##### Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques.<a id=79></a>
 
 ###### Article R10-12
 
@@ -13051,7 +13205,7 @@ _Codifié par_:
   - Décret n°62-274 du 12 mars 1962
 
 
-##### Section 4 : Interconnexion, accès aux réseaux et aux infrastructures d'accueil<a id=79></a>
+##### Section 4 : Interconnexion, accès aux réseaux et aux infrastructures d'accueil<a id=80></a>
 
 ###### Article R11-1
 
@@ -13284,9 +13438,9 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R1-2-13 (M)
 
 
-##### Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques.<a id=80></a>
+##### Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques.<a id=81></a>
 
-##### Sous-section 1 : Dispositions générales<a id=81></a>
+##### Sous-section 1 : Dispositions générales<a id=82></a>
 
 ###### Article R20-1
 
@@ -13406,7 +13560,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. R20-25
 
 
-##### Sous-section 2 : Evaluation de la conformité des équipements<a id=82></a>
+##### Sous-section 2 : Evaluation de la conformité des équipements<a id=83></a>
 
 ###### Article R20-4
 
@@ -14318,7 +14472,7 @@ _Codifié par_:
   - Décret n°62-274 du 12 mars 1962
 
 
-##### Sous-section 3 : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de la conformité<a id=83></a>
+##### Sous-section 3 : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de la conformité<a id=84></a>
 
 ###### Article R20-15
 
@@ -14343,7 +14497,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L36-6
 
 
-##### Sous-section 4 : Notification des organismes d'évaluation de la conformité<a id=84></a>
+##### Sous-section 4 : Notification des organismes d'évaluation de la conformité<a id=85></a>
 
 ###### Article R20-16
 
@@ -14400,7 +14554,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R20-7 (V)
 
 
-##### Sous-section 5 : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats<a id=85></a>
+##### Sous-section 5 : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats<a id=86></a>
 
 ###### Article R20-17
 
@@ -14459,7 +14613,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. R20-4
 
 
-##### Sous-section 6 : Conditions de mise en service, de raccordement et d'utilisation des équipements<a id=86></a>
+##### Sous-section 6 : Conditions de mise en service, de raccordement et d'utilisation des équipements<a id=87></a>
 
 ###### Article R20-19
 
@@ -14722,7 +14876,7 @@ _Codifié par_:
   - Décret n°62-274 du 12 mars 1962
 
 
-##### Sous-section 7 : Dispositions pénales<a id=87></a>
+##### Sous-section 7 : Dispositions pénales<a id=88></a>
 
 ###### Article R20-25
 
@@ -14818,7 +14972,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R20-30-1 (M)
 
 
-##### Sous-section 8 : Equipements utilisés dans certaines activités de l'Etat<a id=88></a>
+##### Sous-section 8 : Equipements utilisés dans certaines activités de l'Etat<a id=89></a>
 
 ###### Article R20-28
 
@@ -14848,7 +15002,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R20-30-1 (M)
 
 
-##### Sous-section 9 : Modalités de formulation des observations sur les nouvelles implantations ou les modifications d'installations radioélectriques soumises à avis ou accord de l'Agence nationale des fréquences<a id=89></a>
+##### Sous-section 9 : Modalités de formulation des observations sur les nouvelles implantations ou les modifications d'installations radioélectriques soumises à avis ou accord de l'Agence nationale des fréquences<a id=90></a>
 
 ###### Article R20-29
 
@@ -14886,9 +15040,9 @@ _Anciens textes_:
   - Code des postes et des communications électroni... - art. R20-13-1 (T)
 
 
-#### Chapitre III : Les obligations de service public.<a id=90></a>
+#### Chapitre III : Les obligations de service public.<a id=91></a>
 
-##### Section 1 : Le service universel et les modalités de désignation des opérateurs chargés du service universel.<a id=91></a>
+##### Section 1 : Le service universel et les modalités de désignation des opérateurs chargés du service universel.<a id=92></a>
 
 ###### Article R20-30
 
@@ -15330,7 +15484,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L35-2-1
 
 
-##### Section 2 : Financement du service universel des communications électroniques.<a id=92></a>
+##### Section 2 : Financement du service universel des communications électroniques.<a id=93></a>
 
 ###### Article R*20-41
 
@@ -15896,7 +16050,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-#### Chapitre V : Pouvoirs d'enquête<a id=93></a>
+#### Chapitre V : Pouvoirs d'enquête<a id=94></a>
 
 ###### Article R20-44-1
 
@@ -16097,11 +16251,11 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L32-4 (V)
 
 
-### TITRE II : Ressources et police<a id=94></a>
+### TITRE II : Ressources et police<a id=95></a>
 
-#### Chapitre Ier : Fréquences radioélectriques.<a id=95></a>
+#### Chapitre Ier : Fréquences radioélectriques.<a id=96></a>
 
-##### Section 1 : Dispositions générales.<a id=96></a>
+##### Section 1 : Dispositions générales.<a id=97></a>
 
 ###### Article R20-44-5
 
@@ -16269,9 +16423,9 @@ _Créé par_:
   - Décret n°2015-1489 du 17 novembre 2015 - art. 1
 
 
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=97></a>
+##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=98></a>
 
-##### Paragraphe Ier : Dispositions relatives à l'attribution d'autorisations d'utilisation de fréquences.<a id=98></a>
+##### Paragraphe Ier : Dispositions relatives à l'attribution d'autorisations d'utilisation de fréquences.<a id=99></a>
 
 ###### Article R20-44-9
 
@@ -16301,7 +16455,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L42-2 (V)
 
 
-##### Paragraphe II : Dispositions relatives aux cessions d'autorisations d'utilisation de fréquences.<a id=99></a>
+##### Paragraphe II : Dispositions relatives aux cessions d'autorisations d'utilisation de fréquences.<a id=100></a>
 
 ###### Article R20-44-9-1
 
@@ -16723,9 +16877,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L42-1 (V)
 
 
-##### Section 3 : Agence nationale des fréquences.<a id=100></a>
+##### Section 3 : Agence nationale des fréquences.<a id=101></a>
 
-##### Paragraphe Ier : Dispositions générales et missions<a id=101></a>
+##### Paragraphe Ier : Dispositions générales et missions<a id=102></a>
 
 ###### Article R20-44-10
 
@@ -16956,7 +17110,7 @@ _Anciens textes_:
   - Code des postes et des communications électroniques R52-2-1
 
 
-##### Paragraphe II : Organisation et fonctionnement<a id=102></a>
+##### Paragraphe II : Organisation et fonctionnement<a id=103></a>
 
 ###### Article R20-44-12
 
@@ -17291,7 +17445,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. R*52-2-9 (T)
 
 
-##### Paragraphe III : Dispositions financières<a id=103></a>
+##### Paragraphe III : Dispositions financières<a id=104></a>
 
 ###### Article R20-44-20
 
@@ -17433,7 +17587,7 @@ _Anciens textes_:
   - Code des postes et des communications électroniques R52-2-14
 
 
-##### Paragraphe IV : Modalités d'application de la taxe prévue au I bis de l'article L. 43<a id=104></a>
+##### Paragraphe IV : Modalités d'application de la taxe prévue au I bis de l'article L. 43<a id=105></a>
 
 ###### Article R20-44-25
 
@@ -17562,7 +17716,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L43
 
 
-##### Paragraphe V : Le comité national de dialogue de l'Agence nationale des fréquences relatif aux niveaux d'exposition du public aux champs électromagnétiques<a id=105></a>
+##### Paragraphe V : Le comité national de dialogue de l'Agence nationale des fréquences relatif aux niveaux d'exposition du public aux champs électromagnétiques<a id=106></a>
 
 ###### Article R20-44-28-1
 
@@ -17644,7 +17798,7 @@ _Créé par_:
   - Décret n°2016-1211 du 9 septembre 2016 - art. 3
 
 
-##### Paragraphe VI : Dispositions particulières<a id=106></a>
+##### Paragraphe VI : Dispositions particulières<a id=107></a>
 
 ###### Article R20-44-29
 
@@ -17737,9 +17891,9 @@ _Anciens textes_:
   - Code des postes et des communications électroni... - art. R20-44-26 (T)
 
 
-#### Chapitre II : Numérotation et adressage.<a id=107></a>
+#### Chapitre II : Numérotation et adressage.<a id=108></a>
 
-##### Section 1 : Numérotation.<a id=108></a>
+##### Section 1 : Numérotation.<a id=109></a>
 
 ###### Article R20-44-31
 
@@ -17955,7 +18109,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L44
 
 
-##### Section 2 : Gestion des domaines de premier niveau du système d'adressage par domaines de l'internet correspondant aux codes pays du territoire national ou d'une partie de celui-ci<a id=109></a>
+##### Section 2 : Gestion des domaines de premier niveau du système d'adressage par domaines de l'internet correspondant aux codes pays du territoire national ou d'une partie de celui-ci<a id=110></a>
 
 ###### Article R20-44-38
 
@@ -18266,9 +18420,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R20-44-38 (V)
 
 
-#### Chapitre III : Droits de passage sur le domaine public routier et servitudes.<a id=110></a>
+#### Chapitre III : Droits de passage sur le domaine public routier et servitudes.<a id=111></a>
 
-##### Section 1 : Droits de passage.<a id=111></a>
+##### Section 1 : Droits de passage.<a id=112></a>
 
 ###### Article R*20-45
 
@@ -18546,7 +18700,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R20-51 (V)
 
 
-##### Section 2 : Servitudes.<a id=112></a>
+##### Section 2 : Servitudes.<a id=113></a>
 
 ###### Article R*20-60
 
@@ -18742,9 +18896,9 @@ _Cite_:
   - Code des postes et des communications électronique - art. R20-58 (M)
 
 
-##### Section 3 : Dispositions relatives aux servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles ou contre les perturbations électromagnétique<a id=113></a>
+##### Section 3 : Dispositions relatives aux servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles ou contre les perturbations électromagnétique<a id=114></a>
 
-##### Sous-section 1 : Dispositions communes<a id=114></a>
+##### Sous-section 1 : Dispositions communes<a id=115></a>
 
 ###### Article R21
 
@@ -18823,7 +18977,7 @@ _Modifié par_:
   - Décret n°2019-229 du 25 mars 2019 - art. 1
 
 
-##### Sous-section 2 :  Dispositions spécifiques aux servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles<a id=115></a>
+##### Sous-section 2 :  Dispositions spécifiques aux servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles<a id=116></a>
 
 ###### Article R23
 
@@ -19045,7 +19199,7 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L107
 
 
-##### Sous-section 3 :  Dispositions spécifiques aux servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques<a id=116></a>
+##### Sous-section 3 :  Dispositions spécifiques aux servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques<a id=117></a>
 
 ###### Article R28
 
@@ -19110,7 +19264,7 @@ _Nouveaux textes_:
   - Code des postes et des communications électroni... - art. R28 (V)
 
 
-##### Section 4 : Dispositions pénales<a id=117></a>
+##### Section 4 : Dispositions pénales<a id=118></a>
 
 ###### Article R30
 
@@ -19199,7 +19353,7 @@ _Codifié par_:
   - Décret n°62-274 du 12 mars 1962
 
 
-#### Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.<a id=118></a>
+#### Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.<a id=119></a>
 
 ###### Article R42-1
 
@@ -19224,7 +19378,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L65 (V)
 
 
-#### Chapitre V : Guichet unique identifiant les maîtres d'ouvrage et leurs opérations de travaux d'installation ou de renforcement d'infrastructures d'accueil<a id=119></a>
+#### Chapitre V : Guichet unique identifiant les maîtres d'ouvrage et leurs opérations de travaux d'installation ou de renforcement d'infrastructures d'accueil<a id=120></a>
 
 ###### Article R42-2
 
@@ -19318,11 +19472,11 @@ _Cite_:
   - Code de l'environnement - art. R554-10
 
 
-#### Chapitre VI : Protection des câbles sous-marins.<a id=120></a>
+#### Chapitre VI : Protection des câbles sous-marins.<a id=121></a>
 
-##### Section 2 : Dispositions pénales.<a id=121></a>
+##### Section 2 : Dispositions pénales.<a id=122></a>
 
-##### Paragraphe I : Dispositions applicables aux eaux non territoriales.<a id=122></a>
+##### Paragraphe I : Dispositions applicables aux eaux non territoriales.<a id=123></a>
 
 ###### Article R45
 
@@ -19477,7 +19631,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Paragraphe II : Dispositions spéciales aux eaux territoriales.<a id=123></a>
+##### Paragraphe II : Dispositions spéciales aux eaux territoriales.<a id=124></a>
 
 ###### Article R50
 
@@ -19566,11 +19720,11 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R51 (V)
 
 
-### TITRE VIII : Assignations de fréquences relatives aux systèmes satellitaires<a id=124></a>
+### TITRE VIII : Assignations de fréquences relatives aux systèmes satellitaires<a id=125></a>
 
-#### Chapitre Ier : Procédure d'autorisation.<a id=125></a>
+#### Chapitre Ier : Procédure d'autorisation.<a id=126></a>
 
-##### Section 1 : Demandes d'assignation de fréquence.<a id=126></a>
+##### Section 1 : Demandes d'assignation de fréquence.<a id=127></a>
 
 ###### Article R52-3-1
 
@@ -19621,7 +19775,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Section 2 : Instruction des demandes d'autorisation d'exploitation de fréquences.<a id=127></a>
+##### Section 2 : Instruction des demandes d'autorisation d'exploitation de fréquences.<a id=128></a>
 
 ###### Article R52-3-3
 
@@ -19740,7 +19894,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L97-2 (V)
 
 
-#### Chapitre II : Obligations du titulaire de l'autorisation prévue à l'article L. 97-2.<a id=128></a>
+#### Chapitre II : Obligations du titulaire de l'autorisation prévue à l'article L. 97-2.<a id=129></a>
 
 ###### Article R52-3-7
 
@@ -19866,7 +20020,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L97-2 (M)
 
 
-#### Chapitre III : Durée et renouvellement de l'autorisation.<a id=129></a>
+#### Chapitre III : Durée et renouvellement de l'autorisation.<a id=130></a>
 
 ###### Article R52-3-12
 
@@ -19894,7 +20048,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R52-3-14 (V)
 
 
-#### Chapitre IV : Modification et caducité de l'autorisation.<a id=130></a>
+#### Chapitre IV : Modification et caducité de l'autorisation.<a id=131></a>
 
 ###### Article R52-3-13
 
@@ -19955,7 +20109,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-#### Chapitre V : Dispositions financières.<a id=131></a>
+#### Chapitre V : Dispositions financières.<a id=132></a>
 
 ###### Article R52-3-16
 
@@ -20078,7 +20232,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. R52-3-4
 
 
-#### Chapitre VI : Dispositions particulières.<a id=132></a>
+#### Chapitre VI : Dispositions particulières.<a id=133></a>
 
 ###### Article R52-3-21
 
@@ -20103,13 +20257,13 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-## LIVRE III : Autres services, dispositions communes et finales<a id=133></a>
+## LIVRE III : Autres services, dispositions communes et finales<a id=134></a>
 
-### TITRE Ier : Autres services<a id=134></a>
+### TITRE Ier : Autres services<a id=135></a>
 
-#### Chapitre Ier : Lettre recommandée électronique<a id=135></a>
+#### Chapitre Ier : Lettre recommandée électronique<a id=136></a>
 
-##### Section 1 : Définition de la lettre recommandée électronique<a id=136></a>
+##### Section 1 : Définition de la lettre recommandée électronique<a id=137></a>
 
 ###### Article R53
 
@@ -20126,7 +20280,7 @@ _Cité par_:
   - Décret n°2020-834 du 2 juillet 2020 - art. 48
 
 
-##### Section 2 : Exigences requises pour la lettre recommandée électronique<a id=137></a>
+##### Section 2 : Exigences requises pour la lettre recommandée électronique<a id=138></a>
 
 ###### Article R53-1
 
@@ -20237,9 +20391,9 @@ _Créé par_:
   - Décret n°2018-347 du 9 mai 2018 - art. 1
 
 
-#### Chapitre III : Service de coffre-fort numérique<a id=138></a>
+#### Chapitre III : Service de coffre-fort numérique<a id=139></a>
 
-##### Section 1 : Mise en œuvre du service de coffre-fort numérique<a id=139></a>
+##### Section 1 : Mise en œuvre du service de coffre-fort numérique<a id=140></a>
 
 ###### Article R55-1
 
@@ -20364,13 +20518,13 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L103
 
 
-# Partie réglementaire - Décrets simples<a id=140></a>
+# Partie réglementaire - Décrets simples<a id=141></a>
 
-## LIVRE Ier : Le service postal<a id=141></a>
+## LIVRE Ier : Le service postal<a id=142></a>
 
-### TITRE Ier : Dispositions générales<a id=142></a>
+### TITRE Ier : Dispositions générales<a id=143></a>
 
-#### Chapitre Ier : Le service universel postal et les obligations du service postal<a id=143></a>
+#### Chapitre Ier : Le service universel postal et les obligations du service postal<a id=144></a>
 
 ###### Article D1
 
@@ -20419,9 +20573,9 @@ _Modifié par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art. 2 (VD)
 
 
-#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=144></a>
+#### Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.<a id=145></a>
 
-##### Section 4 : Journaux et écrits périodiques.<a id=145></a>
+##### Section 4 : Journaux et écrits périodiques.<a id=146></a>
 
 ###### Article D18
 
@@ -20931,9 +21085,9 @@ _Modifié par_:
   - Décret n°2007-787 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
 
 
-### TITRE II : Affranchissement, recommandation et chargement<a id=146></a>
+### TITRE II : Affranchissement, recommandation et chargement<a id=147></a>
 
-#### Chapitre Ier : Affranchissement.<a id=147></a>
+#### Chapitre Ier : Affranchissement.<a id=148></a>
 
 ###### Article D42
 
@@ -20952,9 +21106,9 @@ _Modifié par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 
-### TITRE VI : Distribution postale<a id=148></a>
+### TITRE VI : Distribution postale<a id=149></a>
 
-#### Chapitre Ier : Distribution à domicile.<a id=149></a>
+#### Chapitre Ier : Distribution à domicile.<a id=150></a>
 
 ###### Article D90
 
@@ -20976,15 +21130,15 @@ _Modifié par_:
   - Décret n°2013-417 du 21 mai 2013 - art. 11
 
 
-## LIVRE II : Les communications électroniques<a id=150></a>
+## LIVRE II : Les communications électroniques<a id=151></a>
 
-### TITRE Ier : Dispositions générales<a id=151></a>
+### TITRE Ier : Dispositions générales<a id=152></a>
 
-#### Chapitre II : Régime juridique<a id=152></a>
+#### Chapitre II : Régime juridique<a id=153></a>
 
-##### Section 1 : Réseaux et services<a id=153></a>
+##### Section 1 : Réseaux et services<a id=154></a>
 
-##### Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public.<a id=154></a>
+##### Paragraphe 1 : Déclaration des réseaux ouverts au public et des services fournis au public.<a id=155></a>
 
 ###### Article D98
 
@@ -21074,7 +21228,7 @@ _Modifié par_:
   - Décret n°2005-862 du 26 juillet 2005 - art. 1 () JORF 29 juillet 2005
 
 
-##### Paragraphe 2 : Obligations des opérateurs.<a id=155></a>
+##### Paragraphe 2 : Obligations des opérateurs.<a id=156></a>
 
 ###### Article D98-3
 
@@ -22299,7 +22453,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
-##### Paragraphe 3 : Conditions d'exploitation des réseaux indépendants.<a id=156></a>
+##### Paragraphe 3 : Conditions d'exploitation des réseaux indépendants.<a id=157></a>
 
 ###### Article D99
 
@@ -22382,7 +22536,7 @@ _Modifié par_:
   - Décret n°2005-862 du 26 juillet 2005 - art. 1 () JORF 29 juillet 2005
 
 
-##### section 3 : Interconnexion et accès<a id=157></a>
+##### section 3 : Interconnexion et accès<a id=158></a>
 
 ###### Article D99-6
 
@@ -22649,7 +22803,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L37-3 (V)
 
 
-##### Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques.<a id=158></a>
+##### Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques.<a id=159></a>
 
 ###### Article D100
 
@@ -22704,7 +22858,7 @@ _Créé par_:
   - Décret n°2006-61 du 18 janvier 2006 - art. 1 () JORF 20 janvier 2006
 
 
-##### Section 5 : Instance de concertation départementale réunie pour une médiation concernant une installation radioélectrique existante ou projetée<a id=159></a>
+##### Section 5 : Instance de concertation départementale réunie pour une médiation concernant une installation radioélectrique existante ou projetée<a id=160></a>
 
 ###### Article D102
 
@@ -22817,9 +22971,9 @@ _Cite_:
   - Code de l'urbanisme - art. L422-3 (V)
 
 
-#### Chapitre IV : La régulation des communications électroniques.<a id=160></a>
+#### Chapitre IV : La régulation des communications électroniques.<a id=161></a>
 
-##### Section 1 : Autorité de régulation des communications électroniques et des postes<a id=161></a>
+##### Section 1 : Autorité de régulation des communications électroniques et des postes<a id=162></a>
 
 ###### Article D288
 
@@ -23018,7 +23172,7 @@ _Modifié par_:
   - Ordonnance n°2011-1012 du 24 août 2011 - art. 1
 
 
-##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=162></a>
+##### Section 2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.<a id=163></a>
 
 ###### Article D301
 
@@ -23718,11 +23872,11 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L38-1 (V)
 
 
-### TITRE II : Ressources et police<a id=163></a>
+### TITRE II : Ressources et police<a id=164></a>
 
-#### Chapitre Ier : Fréquences radioélectriques.<a id=164></a>
+#### Chapitre Ier : Fréquences radioélectriques.<a id=165></a>
 
-##### Section 1 : Dispositions générales<a id=165></a>
+##### Section 1 : Dispositions générales<a id=166></a>
 
 ###### Article D406-5
 
@@ -23986,7 +24140,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D487 (M)
 
 
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=166></a>
+##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=167></a>
 
 ###### Article D406-14
 
@@ -24145,7 +24299,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L42-1 (V)
 
 
-#### Chapitre II : Numérotation et adressage.<a id=167></a>
+#### Chapitre II : Numérotation et adressage.<a id=168></a>
 
 ###### Article D406-18
 
@@ -24273,9 +24427,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L44 (V)
 
 
-#### CHAPITRE III : Etablissement de lignes<a id=168></a>
+#### CHAPITRE III : Etablissement de lignes<a id=169></a>
 
-##### Section 1 : Dispositions générales.<a id=169></a>
+##### Section 1 : Dispositions générales.<a id=170></a>
 
 ###### Article D407-1
 
@@ -24344,7 +24498,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
-##### Section 2 : Accueil des installations de communications électroniques lors de travaux<a id=170></a>
+##### Section 2 : Accueil des installations de communications électroniques lors de travaux<a id=171></a>
 
 ###### Article D407-4
 
@@ -24436,11 +24590,11 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L49
 
 
-## LIVRE III : Autres services, dispositions communes et finales<a id=171></a>
+## LIVRE III : Autres services, dispositions communes et finales<a id=172></a>
 
-### Titre Ier : Autres services<a id=172></a>
+### Titre Ier : Autres services<a id=173></a>
 
-#### Chapitre III : Service de coffre-fort numérique<a id=173></a>
+#### Chapitre III : Service de coffre-fort numérique<a id=174></a>
 
 ###### Article D537
 
@@ -24565,9 +24719,9 @@ _Créé par_:
   - Décret n°2018-853 du 5 octobre 2018 - art. 1
 
 
-### Titre II : Dispositions communes et finales<a id=174></a>
+### Titre II : Dispositions communes et finales<a id=175></a>
 
-#### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=175></a>
+#### Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.<a id=176></a>
 
 ###### Article D570
 
@@ -24710,7 +24864,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-6 (T)
 
 
-#### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=176></a>
+#### Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.<a id=177></a>
 
 ###### Article D576
 
@@ -24994,7 +25148,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L35-6
 
 
-#### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=177></a>
+#### Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.<a id=178></a>
 
 ###### Article D587
 
@@ -25160,7 +25314,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. D96-24 (T)
 
 
-#### Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes<a id=178></a>
+#### Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes<a id=179></a>
 
 ###### Article D594
 
