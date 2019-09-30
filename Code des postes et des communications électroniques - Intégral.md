@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2019-08-03
+Version Consolidée au 2019-10-01
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -4012,48 +4012,47 @@ _Cite_:
 I. – Sans préjudice du droit de propriété des tiers, les gestionnaires d'infrastructure d'accueil font droit aux demandes
 raisonnables d'accès à leurs infrastructures émanant d'un exploitant de réseau ouvert au public à très haut débit, y compris
 lorsqu'il est établi dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace
-économique européen.
+économique européen. 
 
 La demande d'accès indique de manière détaillée les infrastructures d'accueil auxquelles l'accès est demandé et comprend un
-échéancier de déploiement précis du réseau ouvert au public à très haut débit.
+échéancier de déploiement précis du réseau ouvert au public à très haut débit. 
 
 II. – L'accès est fourni selon des modalités et dans des conditions, y compris tarifaires, équitables et raisonnables. Ces
 conditions garantissent que le gestionnaire d'infrastructure a une possibilité équitable de récupérer ses coûts et tiennent
 compte de l'incidence de l'accès demandé sur le plan d'affaires propre à l'infrastructure concernée du gestionnaire de
 l'infrastructure d'accueil, y compris les investissements réalisés par ce dernier pour l'utilisation de l'infrastructure pour
-la fourniture de services de communications électroniques à très haut débit.
+la fourniture de services de communications électroniques à très haut débit. 
 
 La demande d'accès ne peut être refusée que si le refus est fondé sur des critères objectifs, transparents et proportionnés,
-tels que :
+tels que : 
 
 – la capacité technique des infrastructures à accueillir des éléments du réseau ouvert au public à très haut débit, en raison
 notamment du manque d'espace disponible, y compris pour des besoins futurs d'espace qui ont été démontrés de manière
-suffisante ;
+suffisante ; 
 
-– la sécurité nationale, la sécurité publique, la santé publique ou la sécurité des personnes ;
+– la sécurité nationale, la sécurité publique, la santé publique ou la sécurité des personnes ; 
 
-– l'intégrité et la sécurité du réseau ;
+– l'intégrité et la sécurité du réseau ; 
 
-– les risques de perturbation grave du réseau d'accueil ;
+– les risques de perturbation grave du réseau d'accueil ; 
 
 – la disponibilité d'autres offres de gros d'accès à des infrastructures d'accueil du gestionnaire, adaptées à la fourniture
 de réseaux de communications électroniques à très haut débit, auxquelles l'accès est offert selon des modalités et conditions
-équitables et raisonnables ;
+équitables et raisonnables ; 
 
-– les obligations issues de réglementations particulières applicables au gestionnaire d'infrastructure d'accueil.
+– les obligations issues de réglementations particulières applicables au gestionnaire d'infrastructure d'accueil. 
 
 Le gestionnaire d'infrastructure d'accueil communique sa réponse au demandeur dans un délai maximal de deux mois à compter de
-la réception d'une demande complète et motive, le cas échéant, sa décision de refus.
+la réception d'une demande complète et motive, le cas échéant, sa décision de refus. 
 
 III. – En cas de refus d'accès ou en l'absence d'accord sur les modalités d'accès, y compris tarifaires, dans le délai prévu
 à l'alinéa précédent, l'Autorité de régulation des communications électroniques et des postes peut être saisie du différend
 relatif à cet accès par l'opérateur de réseau ouvert au public à très haut débit demandeur d'accès ou le gestionnaire
-d'infrastructure d'accueil. Sa décision est rendue dans les conditions prévues à l'article L. 36-8.
+d'infrastructure d'accueil. Sa décision est rendue dans les conditions prévues à l'article L. 36-8. 
 
-Lorsque l'activité du gestionnaire d'infrastructure d'accueil relève de la compétence de l'Autorité de régulation des
-activités ferroviaires et routières ou de la Commission de régulation de l'énergie, l'Autorité de régulation des
-communications électroniques et des postes saisit, avant de se prononcer, l'autorité concernée pour avis, dans un délai fixé
-par décret en Conseil d'Etat.
+Lorsque l'activité du gestionnaire d'infrastructure d'accueil relève de la compétence de l'       Autorité de régulation des
+transports ou de la Commission de régulation de l'énergie, l'Autorité de régulation des communications électroniques et des
+postes saisit, avant de se prononcer, l'autorité concernée pour avis, dans un délai fixé par décret en Conseil d'Etat. 
 
 IV. – Lorsque le gestionnaire d'infrastructure d'accueil est soumis à l'obligation de faire droit aux demandes raisonnables
 d'accès à ses infrastructures d'accueil conformément à une décision de l'Autorité de régulation des communications
@@ -4061,10 +4060,6 @@ d'accès à ses infrastructures d'accueil conformément à une décision de l'Au
 article ne sont pas applicables.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2016-526 du 28 avril 2016 - art. 3
 
 _Cité par_:
 
@@ -4074,6 +4069,10 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. L34-8-6 (V)
   - Code des postes et des communications électroni... - art. L36-8 (M)
   - Code des postes et des communications électroni... - art. R11-1 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 
 ###### Article L34-8-2-1-1
@@ -4101,54 +4100,53 @@ _Cite_:
 
 I. – Dans la zone envisagée pour le déploiement d'un réseau ouvert au public à très haut débit, l'exploitant d'un tel réseau
 a accès aux informations suivantes relatives aux infrastructures d'accueil auxquelles l'accès peut être demandé en
-application de l'article L. 34-8-2-1 :
+application de l'article L. 34-8-2-1 : 
 
-– l'emplacement et le tracé ;
+– l'emplacement et le tracé ; 
 
-– le type et l'utilisation actuelle des infrastructures ;
+– le type et l'utilisation actuelle des infrastructures ; 
 
-– un point de contact.
+– un point de contact. 
 
 L'exploitant d'un réseau ouvert au public à très haut débit respecte le secret des affaires dans l'utilisation de ces
-informations.
+informations. 
 
 II. – L'exploitant d'un réseau ouvert au public à très haut débit peut obtenir communication des informations mentionnées au
 I auprès du gestionnaire d'infrastructure d'accueil. Il peut également demander la communication de ces informations auprès
-des personnes publiques qui les détiennent sous forme électronique dans le cadre de leurs missions.
+des personnes publiques qui les détiennent sous forme électronique dans le cadre de leurs missions. 
 
 III. – Les gestionnaires d'infrastructure d'accueil et les personnes publiques communiquent les informations mentionnées au I
 aux exploitants de réseau ouvert au public dans un délai de deux mois à compter de la réception de la demande écrite, selon
-des modalités proportionnées, non discriminatoires et transparentes.
+des modalités proportionnées, non discriminatoires et transparentes. 
 
-La communication de ces informations peut être limitée ou refusée pour les motifs suivants :
+La communication de ces informations peut être limitée ou refusée pour les motifs suivants : 
 
-– la sécurité et l'intégrité des réseaux ;
+– la sécurité et l'intégrité des réseaux ; 
 
-– la sécurité nationale, la sécurité publique, la santé publique ou la sécurité des personnes ;
+– la sécurité nationale, la sécurité publique, la santé publique ou la sécurité des personnes ; 
 
-– la confidentialité de ces informations ou la protection du secret des affaires.
+– la confidentialité de ces informations ou la protection du secret des affaires. 
 
 IV. – Sans préjudice des I à III, le gestionnaire d'infrastructure d'accueil fait droit aux demandes raisonnables de visite
 technique sur place sur les éléments spécifiés de ses infrastructures éventuellement concernées par le déploiement d'éléments
-d'un réseau ouvert au public à très haut débit.
+d'un réseau ouvert au public à très haut débit. 
 
 La demande est formulée par écrit et l'autorisation de visite est accordée selon des modalités proportionnées, non
-discriminatoires et transparentes, dans un délai d'un mois à compter de la réception de la demande écrite.
+discriminatoires et transparentes, dans un délai d'un mois à compter de la réception de la demande écrite. 
 
 V. – En cas de limitation ou de refus de communication des informations mentionnées au I ou de visite technique prévue au IV,
 l'Autorité de régulation des communications électroniques et des postes peut être saisie du différend relatif à cet accès par
 le demandeur ou le détenteur de ces informations sollicitées. Sa décision est rendue dans les conditions prévues à l'article
-L. 36-8.
+L. 36-8. 
 
-Lorsque l'activité de l'une des parties au différend relève de la compétence de l'Autorité de régulation des activités
-ferroviaires et routières ou de la Commission de régulation de l'énergie, l'Autorité de régulation des communications
-électroniques et des postes saisit, avant de se prononcer, l'autorité concernée pour avis dans un délai fixé par décret en
-Conseil d'Etat.
+Lorsque l'activité de l'une des parties au différend relève de la compétence de l'       Autorité de régulation des
+transports ou de la Commission de régulation de l'énergie, l'Autorité de régulation des communications électroniques et des
+postes saisit, avant de se prononcer, l'autorité concernée pour avis dans un délai fixé par décret en Conseil d'Etat. 
 
 VI. – Lorsque le gestionnaire d'infrastructure d'accueil est soumis à l'obligation de communiquer les informations
 mentionnées au I conformément à une décision de l'Autorité de régulation des communications électroniques et des postes prise
 en application des dispositions du présent livre, les dispositions des II et III, en tant qu'elles imposent des obligations
-aux gestionnaires d'infrastructure d'accueil, ainsi que les dispositions du V ne sont pas applicables.
+aux gestionnaires d'infrastructure d'accueil, ainsi que les dispositions du V ne sont pas applicables. 
 
 Lorsque le gestionnaire d'infrastructure d'accueil est soumis à l'obligation de faire droit aux demandes raisonnables de
 visite technique mentionnée au IV conformément à une décision de l'Autorité de régulation des communications électroniques et
@@ -4156,19 +4154,19 @@ des postes prise en application des dispositions du présent livre, les disposit
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Ordonnance n°2016-526 du 28 avril 2016 - art. 3
-
 _Cité par_:
 
   - Arrêté du 4 juillet 2018 (V)
   - Code des postes et des communications électroni... - art. R11-1 (VD)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
+
 _Cite_:
 
   - Code des postes et des communications électroni... - art. L34-8-2-1 (VD)
-  - Code des postes et des communications électroni... - art. L36-8 (VT)
+  - Code des postes et des communications électroniques - art. L36-8
 
 
 ###### Article L34-8-3
@@ -13194,35 +13192,35 @@ I. – Le délai dans lequel l'Autorité de régulation des communications élec
 différends mentionnés au I de l'article L. 36-8 est fixé à quatre mois, sauf en cas de circonstances exceptionnelles où il
 peut être porté à six mois, à compter de sa saisine par l'une des parties. Lorsqu'il est saisi par l'Autorité de régulation
 des communications électroniques et des postes en application du deuxième alinéa du I de cet article, le Conseil supérieur de
-l'audiovisuel se prononce dans un délai de six semaines suivant la date de cette saisine.
+l'audiovisuel se prononce dans un délai de six semaines suivant la date de cette saisine. 
 
 Par dérogation à l'alinéa précédent, le délai dans lequel l'Autorité de régulation des communications électroniques et des
 postes doit se prononcer est fixé à deux mois lorsqu'il porte sur les différends relatifs aux possibilités et conditions
 d'accès aux informations relatives aux infrastructures d'accueil, mentionnés au 2° ter du II de l'article L. 36-8, sauf en
-cas de circonstances exceptionnelles.
+cas de circonstances exceptionnelles. 
 
 II. – Le délai dans lequel l'Autorité de régulation des communications électroniques et des postes doit se prononcer sur les
 différends mentionnés au III de l'article L. 49 est fixé à deux mois, sauf en cas de circonstances exceptionnelles où il peut
-être porté à quatre mois, à compter de sa saisine par l'une des parties.
+être porté à quatre mois, à compter de sa saisine par l'une des parties. 
 
 III. – La décision de l'Autorité de régulation des communications électroniques et des postes est notifiée aux parties par
-lettre recommandée avec demande d'avis de réception.
+lettre recommandée avec demande d'avis de réception. 
 
 IV. – L'Autorité de régulation des communications électroniques et des postes donne à chacune des parties connaissance des
 observations et pièces déposées par les autres parties et fixe s'il y a lieu le délai dans lequel il devra y être répondu.
-Elle peut entendre les parties.
+Elle peut entendre les parties. 
 
 Une demande de mesures conservatoires ne peut être formée qu'accessoirement à une saisine au fond de l'Autorité de régulation
-des communications électroniques et des postes. Elle peut être présentée à tout moment de la procédure et doit être motivée.
+des communications électroniques et des postes. Elle peut être présentée à tout moment de la procédure et doit être motivée. 
 
-Lorsqu'elles sont saisies par l'Autorité de régulation des communications électroniques et des postes, l'Autorité de
-régulation des activités ferroviaires et routières et la Commission de régulation de l'énergie se prononcent dans un délai :
+Lorsqu'elles sont saisies par l'Autorité de régulation des communications électroniques et des postes, l'       Autorité de
+régulation des transports et la Commission de régulation de l'énergie se prononcent dans un délai : 
 
 – de six semaines suivant la date de cette saisine lorsqu'elle a trait aux différends relatifs aux possibilités et conditions
-d'accès aux infrastructures d'accueil mentionnés au III de l'article L. 34-8-2-1 ;
+d'accès aux infrastructures d'accueil mentionnés au III de l'article L. 34-8-2-1 ; 
 
 – de trois semaines suivant la date de cette saisine lorsqu'elle a trait aux différends relatifs aux possibilités et
-conditions d'accès aux informations concernant les infrastructures d'accueil mentionnés au V de l'article L. 34-8-2-2.
+conditions d'accès aux informations concernant les infrastructures d'accueil mentionnés au V de l'article L. 34-8-2-2. 
 
 Lorsqu'il est saisi par l'Autorité de régulation des communications électroniques et des postes en application du III de
 l'article L. 49, le préfet de région se prononce dans un délai de trois semaines suivant la date de cette saisine.
@@ -13235,7 +13233,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-110 du 30 janvier 2017 - art. 1
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Codifié par_:
 
