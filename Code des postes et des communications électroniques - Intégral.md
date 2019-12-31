@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2019-10-20
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -29,69 +29,69 @@ Version Consolidée au 2019-10-20
       - [TITRE II : Ressources et police (art. L41 à L86)](#26)
         - [Chapitre Ier : Fréquences radioélectriques. (art. L41 à L43)](#27)
           - [Section 1 : Dispositions générales. (art. L41 à L41-3)](#28)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes. (art.  à L41-3)](#29)
-          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (art. L42 à L42-4)](#30)
-          - [Section 3 : Agence nationale des fréquences. (art. L43)](#31)
-        - [Chapitre II : Numérotation et adressage. (art. L44 à L45-8)](#32)
-        - [Chapitre III : Droits de passage et servitudes. (art. L45-9 à L64)](#33)
-          - [Section 1 : Occupation du domaine public et servitudes sur les propriétés privées. (art. L45-9 à L53)](#34)
-          - [Section 2 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles ou les perturbations électromagnétiques. (art. L54 à L59)](#35)
-          - [Section 3 : Dispositions spécifiques à la rotection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. L61 à L62)](#36)
-          - [Section 4 : Dispositions pénales. (art. L63 à L64)](#37)
-        - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques. (art. L65 à L67)](#38)
-          - [Section 1 : Dispositions générales. (art. L65 à L65-1)](#39)
-          - [Section 2 : Dispositions pénales. (art. L66 à L67)](#40)
-        - [Chapitre V : Protection des câbles sous-marins. (art. L72 à L86)](#41)
-          - [Section 1 : Dispositions générales. (art. L72)](#42)
-          - [Section 2 : Dispositions pénales. (art. L73 à L86)](#43)
-            - [Paragraphe I : Dispositions spéciales aux eaux non territoriales. (art. L77 à L81)](#44)
-            - [Paragraphe II : Dispositions spéciales aux eaux territoriales. (art. L82 à L86)](#45)
-      - [TITRE VIII : Assignations de fréquence relatives aux systèmes satellitaires. (art. L97-2 à L97-4)](#46)
-    - [LIVRE III : Autres services, dispositions communes et finales (art. L100 à L144)](#47)
-      - [TITRE Ier : Autres services (art. L100 à L103)](#48)
-      - [TITRE II : Dispositions communes (art. L125 à L135)](#49)
-      - [TITRE III : Dispositions finales. (art. L140 à L144)](#50)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R55-6)](#51)
-    - [LIVRE Ier : Le service postal (art. R1 à R2-5)](#52)
-      - [TITRE Ier : Dispositions générales (art. R1 à R1-2-17)](#53)
-        - [Chapitre Ier : Le service universel postal, les obligations du service postal et le fonds de compensation du service universel postal. (art. R1 à R1-1-29)](#54)
-          - [Section 1 : Les caractéristiques du service universel. (art. R1 à R1-1-9)](#55)
-          - [Section 2 : Droits et obligations de La Poste au titre de ses missions de service public des envois postaux. (art. R1-1-10 à R1-1-26)](#56)
-            - [Sous-section 1 : Droits et obligations de La Poste, prestataire du service universel (art. R1-1-10 à R1-1-16)](#57)
-            - [Sous-section 2 : Le transport de la presse (art. R1-1-17)](#58)
-            - [Sous-section 3 : Dispositions diverses (art. R1-1-18 à R1-1-26)](#59)
-          - [Section 3 : Le fonds de compensation du service universel postal (art. R1-1-27 à R1-1-29)](#60)
-        - [Chapitre II : La régulation des activités postales. (art. R1-2-1 à R1-2-17)](#61)
-          - [Section 1 : Les autorisations. (art. R1-2-1 à R1-2-8)](#62)
-            - [Sous-section 1 : Les procédures d'attribution des autorisations (art. R1-2-1 à R1-2-5)](#63)
-            - [Sous-section 2 : Les obligations des prestataires autorisés (art. R1-2-6 à R1-2-8)](#64)
-          - [Section 2 : La procédure de conciliation. (art. R1-2-9 à R1-2-10)](#65)
-          - [Section 3 : Le règlement des différends. (art. R1-2-11 à R1-2-13)](#66)
-          - [Section 4 : Habilitation des agents chargés des enquêtes. (art. R1-2-14 à R1-2-17)](#67)
-      - [TITRE II : Régime de responsabilité applicable aux prestataires de services postaux. (art. R2-1 à R2-5)](#68)
-    - [LIVRE II : Les communications électroniques (art. R*9 à R52-3-21)](#69)
-      - [TITRE Ier : Dispositions générales (art. R*9 à R20-44-4-3)](#70)
-        - [Chapitre Ier : Définitions et principes. (art. R*9)](#71)
-        - [Chapitre II : Régime juridique. (art. R9-2 à R20-29)](#72)
-          - [Section 1 : Réseaux et services (art. R9-2 à R9-13)](#73)
-            - [Paragraphe Ier : Dispositions relatives aux lignes de communications électroniques à très haut débit en fibre optique dans un immeuble (art. R9-2 à R9-4)](#74)
-            - [Paragraphe II : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques (art. R9-5 à R9-6)](#75)
-            - [Paragraphe III : Dispositions relatives au contrôle de la sécurité et de l'intégrité des installations, réseaux ou services (art. R9-7 à R9-12)](#76)
-            - [Paragraphe III bis : Dispositions relatives à la prévention des menaces affectant la sécurité des systèmes d'information (art. R9-12-1 à R9-12-8)](#77)
-            - [Paragraphe IV : Dispositions relatives à l'attribution du statut de zone fibrée (art. R9-13)](#78)
-          - [Section 2 : Annuaires et services de renseignements. (art. R10 à R10-11)](#79)
-          - [Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques. (art. R10-12 à R10-22)](#80)
-          - [Section 4 : Interconnexion, accès aux réseaux et aux infrastructures d'accueil (art. R11-1 à R11-9)](#81)
-          - [Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques. (art. R20-1 à R20-29)](#82)
-            - [Sous-section 1 : Dispositions générales (art. R20-1 à R20-3)](#83)
-            - [Sous-section 2 : Evaluation de la conformité des équipements (art. R20-4 à R20-14)](#84)
-            - [Sous-section 3 : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de la conformité (art. R20-15)](#85)
-            - [Sous-section 4 : Notification des organismes d'évaluation de la conformité (art. R20-16)](#86)
-            - [Sous-section 5 : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats (art. R20-17 à R20-18)](#87)
-            - [Sous-section 6 : Conditions de mise en service, de raccordement et d'utilisation des équipements (art. R20-19 à R20-24-1)](#88)
-            - [Sous-section 7 : Dispositions pénales (art. R20-25 à R20-27)](#89)
-            - [Sous-section 8 : Equipements utilisés dans certaines activités de l'Etat (art. R20-28)](#90)
-            - [Sous-section 9 : Modalités de formulation des observations sur les nouvelles implantations ou les modifications d'installations radioélectriques soumises à avis ou accord de l'Agence nationale des fréquences (art. R20-29)](#91)
+          - [Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (art. L42 à L42-4)](#29)
+          - [Section 3 : Agence nationale des fréquences. (art. L43)](#30)
+        - [Chapitre II : Numérotation et adressage. (art. L44 à L45-8)](#31)
+        - [Chapitre III : Droits de passage et servitudes. (art. L45-9 à L64)](#32)
+          - [Section 1 : Occupation du domaine public et servitudes sur les propriétés privées. (art. L45-9 à L53)](#33)
+          - [Section 2 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles ou les perturbations électromagnétiques. (art. L54 à L59)](#34)
+          - [Section 3 : Dispositions spécifiques à la rotection des centres de réception radioélectriques contre les perturbations électromagnétiques. (art. L61 à L62)](#35)
+          - [Section 4 : Dispositions pénales. (art. L63 à L64)](#36)
+        - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques. (art. L65 à L67)](#37)
+          - [Section 1 : Dispositions générales. (art. L65 à L65-1)](#38)
+          - [Section 2 : Dispositions pénales. (art. L66 à L67)](#39)
+        - [Chapitre V : Protection des câbles sous-marins. (art. L72 à L86)](#40)
+          - [Section 1 : Dispositions générales. (art. L72)](#41)
+          - [Section 2 : Dispositions pénales. (art. L73 à L86)](#42)
+            - [Paragraphe I : Dispositions spéciales aux eaux non territoriales. (art. L77 à L81)](#43)
+            - [Paragraphe II : Dispositions spéciales aux eaux territoriales. (art. L82 à L86)](#44)
+      - [TITRE VIII : Assignations de fréquence relatives aux systèmes satellitaires. (art. L97-2 à L97-4)](#45)
+    - [LIVRE III : Autres services, dispositions communes et finales (art. L100 à L144)](#46)
+      - [TITRE Ier : Autres services (art. L100 à L103)](#47)
+      - [TITRE II : Dispositions communes (art. L125 à L135)](#48)
+      - [TITRE III : Dispositions finales. (art. L140 à L144)](#49)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R55-6)](#50)
+    - [LIVRE Ier : Le service postal (art. R1 à R2-5)](#51)
+      - [TITRE Ier : Dispositions générales (art. R1 à R1-2-17)](#52)
+        - [Chapitre Ier : Le service universel postal, les obligations du service postal et le fonds de compensation du service universel postal. (art. R1 à R1-1-29)](#53)
+          - [Section 1 : Les caractéristiques du service universel. (art. R1 à R1-1-9)](#54)
+          - [Section 2 : Droits et obligations de La Poste au titre de ses missions de service public des envois postaux. (art. R1-1-10 à R1-1-26)](#55)
+            - [Sous-section 1 : Droits et obligations de La Poste, prestataire du service universel (art. R1-1-10 à R1-1-16)](#56)
+            - [Sous-section 2 : Le transport de la presse (art. R1-1-17)](#57)
+            - [Sous-section 3 : Dispositions diverses (art. R1-1-18 à R1-1-26)](#58)
+          - [Section 3 : Le fonds de compensation du service universel postal (art. R1-1-27 à R1-1-29)](#59)
+        - [Chapitre II : La régulation des activités postales. (art. R1-2-1 à R1-2-17)](#60)
+          - [Section 1 : Les autorisations. (art. R1-2-1 à R1-2-8)](#61)
+            - [Sous-section 1 : Les procédures d'attribution des autorisations (art. R1-2-1 à R1-2-5)](#62)
+            - [Sous-section 2 : Les obligations des prestataires autorisés (art. R1-2-6 à R1-2-8)](#63)
+          - [Section 2 : La procédure de conciliation. (art. R1-2-9 à R1-2-10)](#64)
+          - [Section 3 : Le règlement des différends. (art. R1-2-11 à R1-2-13)](#65)
+          - [Section 4 : Habilitation des agents chargés des enquêtes. (art. R1-2-14 à R1-2-17)](#66)
+      - [TITRE II : Régime de responsabilité applicable aux prestataires de services postaux. (art. R2-1 à R2-5)](#67)
+    - [LIVRE II : Les communications électroniques (art. R*9 à R52-3-21)](#68)
+      - [TITRE Ier : Dispositions générales (art. R*9 à R20-44-4-3)](#69)
+        - [Chapitre Ier : Définitions et principes. (art. R*9)](#70)
+        - [Chapitre II : Régime juridique. (art. R9-2 à R20-29-8)](#71)
+          - [Section 1 : Réseaux et services (art. R9-2 à R9-13)](#72)
+            - [Paragraphe Ier : Dispositions relatives aux lignes de communications électroniques à très haut débit en fibre optique dans un immeuble (art. R9-2 à R9-4)](#73)
+            - [Paragraphe II : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques (art. R9-5 à R9-6)](#74)
+            - [Paragraphe III : Dispositions relatives au contrôle de la sécurité et de l'intégrité des installations, réseaux ou services (art. R9-7 à R9-12)](#75)
+            - [Paragraphe III bis : Dispositions relatives à la prévention des menaces affectant la sécurité des systèmes d'information (art. R9-12-1 à R9-12-8)](#76)
+            - [Paragraphe IV : Dispositions relatives à l'attribution du statut de zone fibrée (art. R9-13)](#77)
+          - [Section 2 : Annuaires et services de renseignements. (art. R10 à R10-11)](#78)
+          - [Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques. (art. R10-12 à R10-22)](#79)
+          - [Section 4 : Interconnexion, accès aux réseaux et aux infrastructures d'accueil (art. R11-1 à R11-9)](#80)
+          - [Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques. (art. R20-1 à R20-29-8)](#81)
+            - [Sous-section 1 : Dispositions générales (art. R20-1 à R20-3)](#82)
+            - [Sous-section 2 : Evaluation de la conformité des équipements (art. R20-4 à R20-14)](#83)
+            - [Sous-section 3 : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de la conformité (art. R20-15)](#84)
+            - [Sous-section 4 : Notification des organismes d'évaluation de la conformité (art. R20-16)](#85)
+            - [Sous-section 5 : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats (art. R20-17 à R20-18)](#86)
+            - [Sous-section 6 : Conditions de mise en service, de raccordement et d'utilisation des équipements (art. R20-19 à R20-24-1)](#87)
+            - [Sous-section 7 : Dispositions pénales (art. R20-25 à R20-27)](#88)
+            - [Sous-section 8 : Equipements utilisés dans certaines activités de l'Etat (art. R20-28)](#89)
+            - [Sous-section 9 : Modalités de formulation des observations sur les nouvelles implantations ou les modifications d'installations radioélectriques soumises à avis ou accord de l'Agence nationale des fréquences (art. R20-29)](#90)
+            - [Sous-section 10 : Dispositions relatives aux aéronefs sans personne à bord (art. R20-29-8)](#91)
         - [Chapitre III : Les obligations de service public. (art. R20-30 à R20-44)](#92)
           - [Section 1 : Le service universel et les modalités de désignation des opérateurs chargés du service universel. (art. R20-30 à R20-30-13)](#93)
           - [Section 2 : Financement du service universel des communications électroniques. (art. R*20-41 à R20-44)](#94)
@@ -1153,81 +1153,87 @@ _Anciens textes_:
 
 ###### Article L5-9-1
 
-I. – La visite est autorisée par ordonnance du juge des libertés et de la détention du tribunal de grande instance dans le
-ressort duquel sont situés les lieux à visiter.
+I. – La visite est autorisée par ordonnance du juge des libertés et de la détention du   tribunal judiciaire dans le ressort
+duquel sont situés les lieux à visiter. 
 
 L'ordonnance comporte l'adresse des lieux à visiter, le nom et la qualité du ou des fonctionnaires habilités à procéder aux
-opérations de visite et de saisie ainsi que les heures auxquelles ils sont autorisés à se présenter.
+opérations de visite et de saisie ainsi que les heures auxquelles ils sont autorisés à se présenter. 
 
-L'ordonnance est exécutoire au seul vu de la minute.
+L'ordonnance est exécutoire au seul vu de la minute. 
 
 II. – L'ordonnance est notifiée sur place, au moment de la visite, à l'occupant des lieux ou à son représentant qui en reçoit
 copie intégrale contre récépissé ou émargement au procès-verbal de visite. En l'absence de l'occupant des lieux ou de son
 représentant, l'ordonnance est notifiée, après la visite, par lettre recommandée avec demande d'avis de réception. La
-notification est réputée faite à la date de réception figurant sur l'avis.A défaut de réception, il est procédé à la
-signification de l'ordonnance par acte d'huissier de justice.
+notification est réputée faite à la date de réception figurant sur l'avis. A défaut de réception, il est procédé à la
+signification de l'ordonnance par acte d'huissier de justice. 
 
 L'acte de notification comporte mention des voies et délais de recours contre l'ordonnance ayant autorisé la visite et contre
 déroulement des opérations de visite. Il mentionne également que le juge ayant autorisé la visite peut être saisi d'une
-demande de suspension ou d'arrêt de cette visite.
+demande de suspension ou d'arrêt de cette visite. 
 
 III. – La visite et la saisie de documents s'effectuent sous l'autorité et le contrôle du juge des libertés et de la
 détention qui les a autorisées. Le juge des libertés et de la détention peut, s'il l'estime utile, se rendre dans les locaux
-pendant l'intervention.A tout moment, il peut décider la suspension ou l'arrêt de la visite. La saisine du juge des libertés
-et de la détention aux fins de suspension ou d'arrêt des opérations de visite et de saisie n'a pas d'effet suspensif.
+pendant l'intervention. A tout moment, il peut décider la suspension ou l'arrêt de la visite. La saisine du juge des libertés
+et de la détention aux fins de suspension ou d'arrêt des opérations de visite et de saisie n'a pas d'effet suspensif. 
 
 IV. – La visite ne peut commencer avant 6 heures et après 21 heures. Elle est effectuée en présence de l'occupant des lieux
 ou de son représentant, qui peut se faire assister de l'avocat de son choix. En l'absence de l'occupant des lieux, les agents
-chargés de la visite ne peuvent procéder à celle-ci qu'en présence de deux témoins qui ne sont pas placés sous leur autorité.
+chargés de la visite ne peuvent procéder à celle-ci qu'en présence de deux témoins qui ne sont pas placés sous leur
+autorité. 
 
 Les agents habilités, l'occupant des lieux ou son représentant peuvent seuls prendre connaissance des pièces et documents
-avant leur saisie.
+avant leur saisie. 
 
 Un procès-verbal relatant les modalités et le déroulement de l'opération et consignant les constatations effectuées est
 dressé sur-le-champ par les agents habilités à procéder à la visite. Un inventaire des pièces et documents saisis lui est
 annexé s'il y a lieu. Le procès-verbal et l'inventaire sont signés par les agents habilités et par l'occupant des lieux ou,
-le cas échéant, son représentant et les témoins. En cas de refus de signer, mention en est faite au procès-verbal.
+le cas échéant, son représentant et les témoins. En cas de refus de signer, mention en est faite au procès-verbal. 
 
 Les originaux du procès-verbal et de l'inventaire sont, dès qu'ils ont été établis, adressés au juge qui a autorisé la
 visite. Une copie de ces mêmes documents est remise ou adressée par lettre recommandée avec demande d'avis de réception à
-l'occupant des lieux ou à son représentant.
+l'occupant des lieux ou à son représentant. 
 
-Le procès-verbal et l'inventaire mentionnent le délai et les voies de recours.
+Le procès-verbal et l'inventaire mentionnent le délai et les voies de recours. 
 
 Les pièces saisies sont conservées pour les besoins de la procédure, à moins qu'une décision insusceptible de pourvoi en
-cassation par les parties n'en ordonne la restitution.
+cassation par les parties n'en ordonne la restitution. 
 
 V. – L'ordonnance autorisant la visite peut faire l'objet d'un appel devant le premier président de la cour d'appel suivant
-les règles prévues par le code de procédure civile. Les parties ne sont pas tenues de constituer avocat.
+les règles prévues par le code de procédure civile. Les parties ne sont pas tenues de constituer avocat. 
 
 Cet appel est formé par déclaration remise ou adressée par pli recommandé au greffe de la cour dans un délai de quinze jours.
-Ce délai court à compter de la notification de l'ordonnance. Cet appel n'est pas suspensif.
+Ce délai court à compter de la notification de l'ordonnance. Cet appel n'est pas suspensif. 
 
-Le greffe du tribunal de grande instance transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les
-parties peuvent le consulter.
+Le greffe du   tribunal judiciaire transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les parties
+peuvent le consulter. 
 
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par
-le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours.
+le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours. 
 
 VI. – Le premier président de la cour d'appel connaît des recours contre le déroulement des opérations de visite ou de saisie
 autorisées par le juge des libertés et de la détention suivant les règles prévues par le code de procédure civile. Les
-parties ne sont pas tenues de constituer avocat.
+parties ne sont pas tenues de constituer avocat. 
 
 Le recours est formé par déclaration remise ou adressée par pli recommandé au greffe de la cour dans un délai de quinze
 jours. Ce délai court à compter de la remise ou de la réception soit du procès-verbal, soit de l'inventaire, mentionnés au
-premier alinéa. Ce recours n'est pas suspensif.
+premier alinéa. Ce recours n'est pas suspensif. 
 
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation selon les règles prévues par
-le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours.
+le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours. 
 
 VII. – Le présent article est reproduit dans l'acte de notification de l'ordonnance du juge des libertés et de la détention
 autorisant la visite.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-94 du 25 janvier 2011 - art. 31
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -1595,8 +1601,8 @@ agents ne peuvent accéder aux locaux qu'entre 6 heures et 21 heures ou pendant 
 public. 
 
 II.-Les fonctionnaires et agents mentionnés à l'article L. 5-9 ne peuvent effectuer les visites prévues au présent article et
-la saisie des matériels et de documents que sur autorisation judiciaire donnée par ordonnance du président du tribunal de
-grande instance dans le ressort duquel sont situés les matériels, ou d'un juge délégué par lui. 
+la saisie des matériels et de documents que sur autorisation judiciaire donnée par ordonnance du président du   tribunal
+judiciaire dans le ressort duquel sont situés les matériels, ou d'un juge délégué par lui. 
 
 Lorsque ces lieux sont situés dans le ressort de plusieurs juridictions et qu'une action simultanée doit être menée dans
 chacun d'eux, une ordonnance unique peut être délivrée par l'un des présidents compétents. 
@@ -1607,8 +1613,8 @@ nature à justifier la visite.
 La visite et la saisie s'effectuent sous l'autorité et le contrôle du juge qui les a autorisées. Le juge désigne un ou
 plusieurs officiers de police judiciaire chargés d'assister à ces opérations et de le tenir informé de leur déroulement. Il
 peut se rendre dans les locaux pendant l'intervention, dont il peut à tout moment décider la suspension ou l'arrêt. Lorsque
-l'intervention a lieu en dehors du ressort de son tribunal de grande instance, il délivre une commission rogatoire pour
-exercer ce contrôle au président de tribunal de grande instance dans le ressort duquel s'effectue la visite. 
+l'intervention a lieu en dehors du ressort de son   tribunal judiciaire, il délivre une commission rogatoire pour exercer ce
+contrôle au président de   tribunal judiciaire dans le ressort duquel s'effectue la visite. 
 
 L'ordonnance est notifiée verbalement et sur place au moment de la visite à l'occupant des lieux ou à son représentant qui en
 reçoit copie intégrale contre récépissé ou émargement au procès-verbal. En l'absence de l'occupant des lieux ou de son
@@ -1636,6 +1642,11 @@ notification de l'ordonnance les ayant autorisées, d'un recours auprès du juge
 Le juge se prononce sur ce recours par une ordonnance qui n'est susceptible que d'un pourvoi en cassation selon les règles
 prévues au code de procédure pénale. Ce pourvoi n'est pas suspensif.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -1644,23 +1655,23 @@ _Anciens textes_:
   - Code des postes, télégraphes et téléphones L5
   - Loi n°1854-06-22 art. 20
 
-_Modifié par_:
-
-  - Loi n°2005-516 du 20 mai 2005 - art. 11 () JORF 21 mai 2005
-
-_Codifié par_:
-
-  - Décret n°62-273 1962-03-12
-
-_Cite_:
-
-  - Code des postes et des communications électroni... - art. L5-9 (V)
-  - Code de procédure pénale - art. 56 (V)
-
 _Cité par_:
 
   - Code des postes et des communications électroni... - art. R1-2-14 (VD)
   - Code des postes et des communications électronique - art. L24 (Ab)
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L5-9
+  - Code de procédure pénale - art. 56
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
+
+_Codifié par_:
+
+  - Décret n°62-273 du 12 mars 1962
 
 
 ###### Article L26
@@ -2485,90 +2496,95 @@ _Cite_:
 ###### Article L32-5
 
 I. – Les visites mentionnées au III de l'article L. 32-4 sont autorisées par ordonnance du juge des libertés et de la
-détention du tribunal de grande instance dans le ressort duquel sont situés les lieux à visiter. Lorsque ces lieux sont
-situés dans le ressort de plusieurs juridictions et qu'une action simultanée doit être menée dans chacun d'eux, une
-ordonnance unique peut être délivrée par l'un des juges des libertés et de la détention compétents.
+détention du   tribunal judiciaire dans le ressort duquel sont situés les lieux à visiter. Lorsque ces lieux sont situés dans
+le ressort de plusieurs juridictions et qu'une action simultanée doit être menée dans chacun d'eux, une ordonnance unique
+peut être délivrée par l'un des juges des libertés et de la détention compétents. 
 
 Le juge vérifie que la demande d'autorisation est fondée ; cette demande doit comporter tous les éléments d'information en
-possession du demandeur de nature à justifier la visite et la saisie.
+possession du demandeur de nature à justifier la visite et la saisie. 
 
 L'ordonnance comporte l'adresse des lieux à visiter, le nom et la qualité du ou des fonctionnaires habilités à procéder aux
-opérations de visite et de saisie ainsi que les heures auxquelles ils sont autorisés à se présenter.
+opérations de visite et de saisie ainsi que les heures auxquelles ils sont autorisés à se présenter. 
 
-L'ordonnance est exécutoire au seul vu de la minute.
+L'ordonnance est exécutoire au seul vu de la minute. 
 
 II. – L'ordonnance est notifiée sur place, au moment de la visite, à l'occupant des lieux ou à son représentant qui en reçoit
 copie intégrale contre récépissé ou émargement au procès-verbal de visite. En l'absence de l'occupant des lieux ou de son
 représentant, l'ordonnance est notifiée, après la visite, par lettre recommandée avec demande d'avis de réception. La
-notification est réputée faite à la date de réception figurant sur l'avis.A défaut de réception, il est procédé à la
+notification est réputée faite à la date de réception figurant sur l'avis. A défaut de réception, il est procédé à la
 signification de l'ordonnance par acte d'huissier de justice. L'ordonnance comporte la mention de la faculté pour l'occupant
 des lieux ou son représentant de faire appel à un conseil de son choix. L'exercice de cette faculté n'entraîne pas la
-suspension des opérations de visite et de saisie.
+suspension des opérations de visite et de saisie. 
 
 L'acte de notification comporte mention des voies et délais de recours contre l'ordonnance ayant autorisé la visite et contre
 le déroulement des opérations de visite. Il mentionne également que le juge ayant autorisé la visite peut être saisi d'une
-demande de suspension ou d'arrêt de cette visite.
+demande de suspension ou d'arrêt de cette visite. 
 
 III. – La visite et la saisie de documents s'effectuent sous l'autorité et le contrôle du juge des libertés et de la
 détention qui les a autorisées. Le juge des libertés et de la détention peut, s'il l'estime utile, se rendre dans les locaux
-pendant l'intervention.A tout moment, il peut décider la suspension ou l'arrêt de la visite. La saisine du juge des libertés
-et de la détention aux fins de suspension ou d'arrêt des opérations de visite et de saisie n'a pas d'effet suspensif.
+pendant l'intervention. A tout moment, il peut décider la suspension ou l'arrêt de la visite. La saisine du juge des libertés
+et de la détention aux fins de suspension ou d'arrêt des opérations de visite et de saisie n'a pas d'effet suspensif. 
 
 IV. – La visite ne peut commencer avant 6 heures et après 21 heures. Elle est effectuée en présence de l'occupant des lieux
 ou de son représentant, qui peut se faire assister par le conseil de son choix. En l'absence de l'occupant des lieux, les
 agents chargés de la visite ne peuvent procéder à celle-ci qu'en présence de deux témoins qui ne sont pas placés sous leur
-autorité.
+autorité. 
 
 Les agents habilités, l'occupant des lieux ou son représentant peuvent seuls prendre connaissance des pièces et documents
-avant leur saisie.
+avant leur saisie. 
 
 Un procès-verbal relatant les modalités et le déroulement de l'opération et consignant les constatations effectuées est
 dressé sur-le-champ par les agents habilités à procéder à la visite. Un inventaire des pièces et documents saisis lui est
 annexé s'il y a lieu. Le procès-verbal et l'inventaire sont signés par les agents habilités et l'occupant des lieux ou, le
 cas échéant, par son représentant et les témoins. En cas de refus de signer, mention en est faite au procès-verbal. Si
 l'inventaire sur place présente des difficultés, les pièces et les documents saisis sont placés sous scellés. L'occupant des
-lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés ; l'inventaire est alors établi.
+lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés ; l'inventaire est alors établi. 
 
 Les originaux du procès-verbal et de l'inventaire sont, dès qu'ils ont été établis, adressés au juge qui a autorisé la
 visite. Une copie de ces mêmes documents est remise ou adressée par lettre recommandée avec demande d'avis de réception à
-l'occupant des lieux ou à son représentant.
+l'occupant des lieux ou à son représentant. 
 
-Le procès-verbal et l'inventaire mentionnent le délai et les voies de recours.
+Le procès-verbal et l'inventaire mentionnent le délai et les voies de recours. 
 
 Les pièces saisies sont conservées pour les besoins de la procédure, à moins qu'une décision insusceptible de pourvoi en
-cassation par les parties n'en ordonne la restitution.
+cassation par les parties n'en ordonne la restitution. 
 
 V. – L'ordonnance autorisant la visite peut faire l'objet d'un appel devant le premier président de la cour d'appel suivant
-les règles prévues par le code de procédure civile. Les parties ne sont pas tenues de constituer avocat.
+les règles prévues par le code de procédure civile. Les parties ne sont pas tenues de constituer avocat. 
 
 Cet appel est formé par déclaration remise ou adressée par pli recommandé au greffe de la cour dans un délai de quinze jours.
-Ce délai court à compter de la notification de l'ordonnance. Cet appel n'est pas suspensif.
+Ce délai court à compter de la notification de l'ordonnance. Cet appel n'est pas suspensif. 
 
-Le greffe du tribunal de grande instance transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les
-parties peuvent le consulter.
+Le greffe du   tribunal judiciaire transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les parties
+peuvent le consulter. 
 
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par
-le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours.
+le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours. 
 
 VI. – Le premier président de la cour d'appel connaît des recours contre le déroulement des opérations de visite ou de saisie
 autorisées par le juge des libertés et de la détention suivant les règles prévues par le code de procédure civile. Les
-parties ne sont pas tenues de constituer avocat.
+parties ne sont pas tenues de constituer avocat. 
 
 Le recours est formé par déclaration remise ou adressée par pli recommandé au greffe de la cour dans un délai de quinze
 jours. Ce délai court à compter de la remise ou de la réception soit du procès-verbal, soit de l'inventaire, mentionnés au
-premier alinéa. Ce recours n'est pas suspensif.
+premier alinéa. Ce recours n'est pas suspensif. 
 
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation selon les règles prévues par
-le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours.
+le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours. 
 
 VII. – Le présent article est reproduit dans l'acte de notification de l'ordonnance du juge des libertés et de la détention
 autorisant la visite.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 43
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -7026,9 +7042,7 @@ _Cite_:
   - Code des postes et des communications électronique - art. L41 (M)
 
 
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.<a id=29></a>
-
-##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse<a id=30></a>
+##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse<a id=29></a>
 
 ###### Article L42
 
@@ -7433,7 +7447,7 @@ _Anciens textes_:
   - Code des postes et télécommunications L90
 
 
-##### Section 3 : Agence nationale des fréquences.<a id=31></a>
+##### Section 3 : Agence nationale des fréquences.<a id=30></a>
 
 ###### Article L43
 
@@ -7688,7 +7702,7 @@ _Nouveaux textes_:
   - Code des postes et des communications électronique - art. L39-7 (V)
 
 
-#### Chapitre II : Numérotation et adressage.<a id=32></a>
+#### Chapitre II : Numérotation et adressage.<a id=31></a>
 
 ###### Article L44
 
@@ -7891,17 +7905,21 @@ _Créé par_:
 
 ###### Article L44-3
 
-L'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse participe à la lutte
-contre les services frauduleux ou abusifs et les numéros qui permettent d'y accéder. A ce titre, le président de l'Autorité
-peut saisir le président du tribunal de grande instance de Paris aux fins d'ordonner aux opérateurs, sous la forme des
-référés, le blocage de l'accès aux numéros et services frauduleux ou abusifs et la retenue des recettes provenant du
-raccordement ou d'autres services.
+L'Autorité de régulation des communications électroniques et des postes participe à la lutte contre les services frauduleux
+ou abusifs et les numéros qui permettent d'y accéder. A ce titre, le président de l'Autorité peut saisir le président du
+tribunal de grande instance de Paris aux fins d'ordonner aux opérateurs, en référé, le blocage de l'accès aux numéros et
+services frauduleux ou abusifs et la retenue des recettes provenant du raccordement ou d'autres services.
+
+**Nota:**
+
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes
+introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2019-1063 du 18 octobre 2019 - art. 3
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 9
 
 
 ###### Article L45
@@ -8177,9 +8195,9 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L45
 
 
-#### Chapitre III : Droits de passage et servitudes.<a id=33></a>
+#### Chapitre III : Droits de passage et servitudes.<a id=32></a>
 
-##### Section 1 : Occupation du domaine public et servitudes sur les propriétés privées.<a id=34></a>
+##### Section 1 : Occupation du domaine public et servitudes sur les propriétés privées.<a id=33></a>
 
 ###### Article L45-9
 
@@ -8380,11 +8398,11 @@ dans la mesure où l'exploitant se borne à utiliser l'installation d'un tiers s
 propre de service public confiée à ce tiers. En cas de contrainte technique, l'installation est déployée à proximité de celle
 déjà existante, en suivant au mieux son cheminement.
 
-La mise en œuvre de la servitude est subordonnée à une autorisation délivrée au nom de l'Etat par le maire après que les
+La mise en oeuvre de la servitude est subordonnée à une autorisation délivrée au nom de l'Etat par le maire après que les
 propriétaires ou, en cas de copropriété, le syndicat représenté par le syndic ont été informés des motifs qui justifient
 l'institution de la servitude et le choix de son emplacement, et mis à même, dans un délai qui ne peut pas être inférieur à
 deux mois, de présenter leurs observations sur le projet. Les travaux ne peuvent commencer avant l'expiration de ce délai. En
-cas de contestation, les modalités de mise en œuvre de la servitude sont fixées par le président du tribunal de grande
+cas de contestation, les modalités de mise en oeuvre de la servitude sont fixées par le président du tribunal de grande
 instance.
 
 Lorsqu'il est constaté que la servitude de l'opérateur sur une propriété privée peut être assurée, dans des conditions
@@ -8396,10 +8414,10 @@ rapprocher pour convenir des conditions techniques et financières d'une utilisa
 ce cas, et sauf accord contraire, le propriétaire des installations accueillant l'opérateur autorisé assume, dans la limite
 du contrat conclu entre les parties, l'entretien des infrastructures et des équipements qui empruntent ses installations et
 qui sont placés sous sa responsabilité, moyennant paiement d'une contribution négociée avec l'opérateur. En cas de litige
-entre opérateurs, l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse
-peut être saisie, dans les conditions fixées à l'article L. 36-8. Dès lors qu'elle n'accroît pas l'atteinte portée à la
-propriété privée, la servitude prévue au c du présent article est exonérée de la procédure prévue au cinquième alinéa. Elle
-fait l'objet d'une indemnisation dans les conditions prévues au neuvième alinéa.
+entre opérateurs, l'Autorité de régulation des communications électroniques et des postes peut être saisie, dans les
+conditions fixées à l'article L. 36-8. Dès lors qu'elle n'accroît pas l'atteinte portée à la propriété privée, la servitude
+prévue au c du présent article est exonérée de la procédure prévue au cinquième alinéa. Elle fait l'objet d'une indemnisation
+dans les conditions prévues au neuvième alinéa.
 
 L'installation des ouvrages prévus au premier alinéa ne peut faire obstacle au droit des propriétaires ou copropriétaires de
 démolir, réparer, modifier ou clore leur propriété. Toutefois, les propriétaires ou copropriétaires doivent, au moins trois
@@ -8408,22 +8426,20 @@ mois avant d'entreprendre des travaux de nature à affecter les ouvrages, préve
 Lorsque, pour l'étude, la réalisation, l'exploitation et l'entretien des installations ou pour les opérations d'entretien
 mentionnées au premier alinéa, l'introduction des agents des exploitants autorisés dans les propriétés privées définies au
 même alinéa est nécessaire, elle est, à défaut d'accord amiable ou de convention conclue entre le propriétaire et
-l'exploitant, autorisée par le président du tribunal de grande instance, statuant comme en matière de référé, qui s'assure
-que la présence des agents est nécessaire.
+l'exploitant, autorisée par le président du tribunal judiciaire, statuant en référé, qui s'assure que la présence des agents
+est nécessaire.
 
 Le bénéficiaire de la servitude est responsable de tous les dommages qui trouvent leur origine dans les équipements du
 réseau. Il est tenu d'indemniser l'ensemble des préjudices directs et certains causés tant par les travaux d'installation et
-d'entretien que par l'existence ou le fonctionnement des ouvrages. A défaut d'accord amiable, l'indemnité est fixée par la
+d'entretien que par l'existence ou le fonctionnement des ouvrages.A défaut d'accord amiable, l'indemnité est fixée par la
 juridiction de l'expropriation saisie par la partie la plus diligente.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
 **Nota:**
 
-Conformément aux dispositions du II de l'article 225 de la loi n° 2018-1021 du 23 novembre 2018, les mots "deux" à la
-première phrase du cinquième alinéa telle qu'elle résulte du 3° du I dudit article s'appliquent aux demandes d'autorisation
-pour lesquelles l'information prévue au cinquième alinéa de l'article L. 48 est transmise à compter de la publication de
-ladite loi.
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes
+introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -8449,7 +8465,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1063 du 18 octobre 2019 - art. 3
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 9
 
 _Cite_:
 
@@ -8691,7 +8707,7 @@ _Codifié par_:
   - Décret n°62-273 1962-03-12
 
 
-##### Section 2 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles ou les perturbations électromagnétiques.<a id=35></a>
+##### Section 2 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles ou les perturbations électromagnétiques.<a id=34></a>
 
 ###### Article L54
 
@@ -8843,7 +8859,7 @@ _Créé par_:
   - Ordonnance n°2016-492 du 21 avril 2016 - art. 1
 
 
-##### Section 3 : Dispositions spécifiques à la rotection des centres de réception radioélectriques contre les perturbations électromagnétiques.<a id=36></a>
+##### Section 3 : Dispositions spécifiques à la rotection des centres de réception radioélectriques contre les perturbations électromagnétiques.<a id=35></a>
 
 ###### Article L61
 
@@ -8898,7 +8914,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. L64 (V)
 
 
-##### Section 4 : Dispositions pénales.<a id=37></a>
+##### Section 4 : Dispositions pénales.<a id=36></a>
 
 ###### Article L63
 
@@ -8978,9 +8994,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L57 (V)
 
 
-#### Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.<a id=38></a>
+#### Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.<a id=37></a>
 
-##### Section 1 : Dispositions générales.<a id=39></a>
+##### Section 1 : Dispositions générales.<a id=38></a>
 
 ###### Article L65
 
@@ -9030,7 +9046,7 @@ _Anciens textes_:
   - Code des postes et télécommunications L95
 
 
-##### Section 2 : Dispositions pénales.<a id=40></a>
+##### Section 2 : Dispositions pénales.<a id=39></a>
 
 ###### Article L66
 
@@ -9084,9 +9100,9 @@ _Anciens textes_:
   - Décret-loi 1851-12-27 art. 4
 
 
-#### Chapitre V : Protection des câbles sous-marins.<a id=41></a>
+#### Chapitre V : Protection des câbles sous-marins.<a id=40></a>
 
-##### Section 1 : Dispositions générales.<a id=42></a>
+##### Section 1 : Dispositions générales.<a id=41></a>
 
 ###### Article L72
 
@@ -9117,7 +9133,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R51 (V)
 
 
-##### Section 2 : Dispositions pénales.<a id=43></a>
+##### Section 2 : Dispositions pénales.<a id=42></a>
 
 ###### Article L73
 
@@ -9182,7 +9198,7 @@ _Codifié par_:
   - Décret n°62-273 du 12 mars 1962
 
 
-##### Paragraphe I : Dispositions spéciales aux eaux non territoriales.<a id=44></a>
+##### Paragraphe I : Dispositions spéciales aux eaux non territoriales.<a id=43></a>
 
 ###### Article L77
 
@@ -9310,7 +9326,7 @@ _Codifié par_:
   - Décret n°62-273 du 12 mars 1962
 
 
-##### Paragraphe II : Dispositions spéciales aux eaux territoriales.<a id=45></a>
+##### Paragraphe II : Dispositions spéciales aux eaux territoriales.<a id=44></a>
 
 ###### Article L82
 
@@ -9434,7 +9450,7 @@ _Codifié par_:
   - Décret n°62-273 du 12 mars 1962
 
 
-### TITRE VIII : Assignations de fréquence relatives aux systèmes satellitaires.<a id=46></a>
+### TITRE VIII : Assignations de fréquence relatives aux systèmes satellitaires.<a id=45></a>
 
 ###### Article L97-2
 
@@ -9611,9 +9627,9 @@ _Codifié par_:
   - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 
-## LIVRE III : Autres services, dispositions communes et finales<a id=47></a>
+## LIVRE III : Autres services, dispositions communes et finales<a id=46></a>
 
-### TITRE Ier : Autres services<a id=48></a>
+### TITRE Ier : Autres services<a id=47></a>
 
 ###### Article L100
 
@@ -9803,7 +9819,7 @@ _Codifié par_:
   - Décret n°62-273 du 12 mars 1962
 
 
-### TITRE II : Dispositions communes<a id=49></a>
+### TITRE II : Dispositions communes<a id=48></a>
 
 ###### Article L125
 
@@ -9954,27 +9970,28 @@ _Anciens textes_:
 
 ###### Article L131
 
-Les membres de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse
-exercent leurs fonctions à temps plein. Leur mandat est incompatible avec toute détention, directe ou indirecte, d'intérêts
-dans une entreprise du secteur postal ou des secteurs des communications électroniques, de l'audiovisuel, de la presse ou de
-l'informatique. Ils ne peuvent être membres de la Commission supérieure du numérique et des postes. Lorsque l'accomplissement
-de leur mission l'exige, ces membres sont habilités au secret de la défense nationale.
+Les membres de l'Autorité de régulation des communications électroniques et des postes exercent leurs fonctions à temps
+plein. Leur mandat est incompatible avec toute détention, directe ou indirecte, d'intérêts dans une entreprise du secteur
+postal ou des secteurs des communications électroniques, de l'audiovisuel ou de l'informatique. Ils ne peuvent être membres
+de la Commission supérieure du numérique et des postes. Lorsque l'accomplissement de leur mission l'exige, ces membres sont
+habilités au secret de la défense nationale.
 
-Les agents de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse
-exercent leurs fonctions en toute impartialité, sans recevoir d'instruction du Gouvernement, ni d'aucune institution,
-personne, entreprise ou organisme.
-
-Le président et les membres de l'autorité reçoivent respectivement un traitement égal à celui afférent à la première et à la
-seconde des deux catégories supérieures des emplois de l'Etat classés hors échelle.
+Les agents de l'Autorité de régulation des communications électroniques et des postes exercent leurs fonctions en toute
+impartialité, sans recevoir d'instruction du Gouvernement, ni d'aucune institution, personne, entreprise ou organisme.
 
 Lorsqu'il est occupé par un fonctionnaire, l'emploi permanent de membre de l'autorité est un emploi ouvrant droit à pension
 au titre du code des pensions civiles et militaires de retraite.
+
+**Nota:**
+
+Conformément aux dispositions du VI de l'article 38 de la loi n° 2019-828 du 6 août 2019, ces dispositions entrent en vigueur
+le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2019-1063 du 18 octobre 2019 - art. 2
+  - Loi n°2019-828 du 6 août 2019 - art. 38 (V)
 
 _Codifié par_:
 
@@ -10127,7 +10144,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L35-1
 
 
-### TITRE III : Dispositions finales.<a id=50></a>
+### TITRE III : Dispositions finales.<a id=49></a>
 
 ###### Article L140
 
@@ -10394,15 +10411,15 @@ _Cite_:
   - Code des postes et des communications électroni... - art. L34-9-2 (VD)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=51></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=50></a>
 
-## LIVRE Ier : Le service postal<a id=52></a>
+## LIVRE Ier : Le service postal<a id=51></a>
 
-### TITRE Ier : Dispositions générales<a id=53></a>
+### TITRE Ier : Dispositions générales<a id=52></a>
 
-#### Chapitre Ier : Le service universel postal, les obligations du service postal et le fonds de compensation du service universel postal.<a id=54></a>
+#### Chapitre Ier : Le service universel postal, les obligations du service postal et le fonds de compensation du service universel postal.<a id=53></a>
 
-##### Section 1 : Les caractéristiques du service universel.<a id=55></a>
+##### Section 1 : Les caractéristiques du service universel.<a id=54></a>
 
 ###### Article R1
 
@@ -10670,9 +10687,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R1-1-18 (V)
 
 
-##### Section 2 : Droits et obligations de La Poste au titre de ses missions de service public des envois postaux.<a id=56></a>
+##### Section 2 : Droits et obligations de La Poste au titre de ses missions de service public des envois postaux.<a id=55></a>
 
-##### Sous-section 1 : Droits et obligations de La Poste, prestataire du service universel<a id=57></a>
+##### Sous-section 1 : Droits et obligations de La Poste, prestataire du service universel<a id=56></a>
 
 ###### Article R1-1-10
 
@@ -10815,7 +10832,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Sous-section 2 : Le transport de la presse<a id=58></a>
+##### Sous-section 2 : Le transport de la presse<a id=57></a>
 
 ###### Article R1-1-17
 
@@ -10846,7 +10863,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R1-1-26 (V)
 
 
-##### Sous-section 3 : Dispositions diverses<a id=59></a>
+##### Sous-section 3 : Dispositions diverses<a id=58></a>
 
 ###### Article R1-1-18
 
@@ -11086,7 +11103,7 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R1-1-17 (V)
 
 
-##### Section 3 : Le fonds de compensation du service universel postal<a id=60></a>
+##### Section 3 : Le fonds de compensation du service universel postal<a id=59></a>
 
 ###### Article R1-1-27
 
@@ -11167,11 +11184,11 @@ _Créé par_:
   - Décret n°2012-1072 du 20 septembre 2012 - art. 9
 
 
-#### Chapitre II : La régulation des activités postales.<a id=61></a>
+#### Chapitre II : La régulation des activités postales.<a id=60></a>
 
-##### Section 1 : Les autorisations.<a id=62></a>
+##### Section 1 : Les autorisations.<a id=61></a>
 
-##### Sous-section 1 : Les procédures d'attribution des autorisations<a id=63></a>
+##### Sous-section 1 : Les procédures d'attribution des autorisations<a id=62></a>
 
 ###### Article R1-2-1
 
@@ -11326,7 +11343,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R1-2-4 (V)
 
 
-##### Sous-section 2 : Les obligations des prestataires autorisés<a id=64></a>
+##### Sous-section 2 : Les obligations des prestataires autorisés<a id=63></a>
 
 ###### Article R1-2-6
 
@@ -11421,7 +11438,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R1-2-3 (V)
 
 
-##### Section 2 : La procédure de conciliation.<a id=65></a>
+##### Section 2 : La procédure de conciliation.<a id=64></a>
 
 ###### Article R1-2-9
 
@@ -11462,7 +11479,7 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-##### Section 3 : Le règlement des différends.<a id=66></a>
+##### Section 3 : Le règlement des différends.<a id=65></a>
 
 ###### Article R1-2-11
 
@@ -11535,15 +11552,15 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R11-8 (V)
 
 
-##### Section 4 : Habilitation des agents chargés des enquêtes.<a id=67></a>
+##### Section 4 : Habilitation des agents chargés des enquêtes.<a id=66></a>
 
 ###### Article R1-2-14
 
 Un arrêté du ministre chargé des postes habilite, parmi les fonctionnaires et les agents du ministère chargé des postes et de
 l'Autorité de régulation des communications électroniques et des postes ayant les compétences techniques et juridiques
-nécessaires, après avis du procureur de la République auprès du tribunal de grande instance de leur résidence administrative,
-les personnes chargées de procéder aux enquêtes prévues à l'article L. 5-9 et de rechercher et constater les infractions
-entrant dans le champ d'application de l'article L. 20.
+nécessaires, après avis du procureur de la République auprès du   tribunal judiciaire de leur résidence administrative, les
+personnes chargées de procéder aux enquêtes prévues à l'article L. 5-9 et de rechercher et constater les infractions entrant
+dans le champ d'application de l'article L. 20. 
 
 Le président de l'Autorité de régulation des communications électroniques et des postes désigne, à cet effet, les personnes
 placées sous son autorité qu'il souhaite faire habiliter. 
@@ -11551,32 +11568,37 @@ placées sous son autorité qu'il souhaite faire habiliter.
 L'arrêté mentionné au premier alinéa précise l'objet de l'habilitation et la durée pendant laquelle le fonctionnaire ou
 l'agent a vocation à rechercher et constater les infractions.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Codifié par_:
 
-  - Décret n°62-274 1962-03-12
-
-_Cite_:
-
-  - Code des postes et des communications électroni... - art. L20 (V)
-  - Code des postes et des communications électroni... - art. L5-9 (V)
+  - Décret n°62-274 du 12 mars 1962
 
 _Cité par_:
 
   - Code des postes et des communications électroni... - art. R1-2-15 (VD)
   - Code des postes et des communications électroni... - art. R1-2-16 (V)
-  - Code des postes et des communications électroni... - art. R1-2-17 (V)
+  - Code des postes et des communications électroni... - art. R1-2-17 (VD)
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L20
+  - Code des postes et des communications électroniques - art. L5-9
 
 
 ###### Article R1-2-15
 
-Les fonctionnaires et agents habilités en application de l'article R. 1-2-14 prêtent serment devant le tribunal de grande
-instance de leur résidence administrative. 
+Les fonctionnaires et agents habilités en application de l'article R. 1-2-14 prêtent serment devant le   tribunal judiciaire
+de leur résidence administrative. 
 
 La formule du serment est la suivante : 
 
@@ -11584,19 +11606,24 @@ La formule du serment est la suivante :
 jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes
 fonctions. "
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Codifié par_:
 
-  - Décret n°62-274 1962-03-12
+  - Décret n°62-274 du 12 mars 1962
 
 _Cite_:
 
-  - Code des postes et des communications électroni... - art. R1-2-14 (V)
+  - Code des postes et des communications électroniques - art. R1-2-14
 
 
 ###### Article R1-2-16
@@ -11629,26 +11656,31 @@ assuré, par le ministre chargé des postes, ou par le président de l'Autorité
 et des postes, chacun pour ce qui le concerne, aux fonctionnaires et agents placés sous leur autorité mentionnés à l'article
 R. 1-2-14. 
 
-Mention de la prestation de serment est portée sur cette carte par les soins du greffier du tribunal de grande instance. 
+Mention de la prestation de serment est portée sur cette carte par les soins du greffier du   tribunal judiciaire. 
 
 Le modèle de la carte professionnelle est établi par les autorités susmentionnées, chacune pour ce qui la concerne.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Codifié par_:
 
-  - Décret n°62-274 1962-03-12
+  - Décret n°62-274 du 12 mars 1962
 
 _Cite_:
 
-  - Code des postes et des communications électroni... - art. R1-2-14 (V)
+  - Code des postes et des communications électroni... - art. R1-2-14 (VD)
 
 
-### TITRE II : Régime de responsabilité applicable aux prestataires de services postaux.<a id=68></a>
+### TITRE II : Régime de responsabilité applicable aux prestataires de services postaux.<a id=67></a>
 
 ###### Article R2-1
 
@@ -11761,11 +11793,11 @@ _Codifié par_:
   - Décret n°62-274 1962-03-12
 
 
-## LIVRE II : Les communications électroniques<a id=69></a>
+## LIVRE II : Les communications électroniques<a id=68></a>
 
-### TITRE Ier : Dispositions générales<a id=70></a>
+### TITRE Ier : Dispositions générales<a id=69></a>
 
-#### Chapitre Ier : Définitions et principes.<a id=71></a>
+#### Chapitre Ier : Définitions et principes.<a id=70></a>
 
 ###### Article R*9
 
@@ -11868,11 +11900,11 @@ _Codifié par_:
   - Décret n°62-274 du 12 mars 1962
 
 
-#### Chapitre II : Régime juridique.<a id=72></a>
+#### Chapitre II : Régime juridique.<a id=71></a>
 
-##### Section 1 : Réseaux et services<a id=73></a>
+##### Section 1 : Réseaux et services<a id=72></a>
 
-##### Paragraphe Ier : Dispositions relatives aux lignes de communications électroniques à très haut débit en fibre optique dans un immeuble<a id=74></a>
+##### Paragraphe Ier : Dispositions relatives aux lignes de communications électroniques à très haut débit en fibre optique dans un immeuble<a id=73></a>
 
 ###### Article R9-2
 
@@ -12076,7 +12108,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L34-8-3
 
 
-##### Paragraphe II : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques<a id=75></a>
+##### Paragraphe II : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques<a id=74></a>
 
 ###### Article R9-5
 
@@ -12173,7 +12205,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L38-2-1
 
 
-##### Paragraphe III : Dispositions relatives au contrôle de la sécurité et de l'intégrité des installations, réseaux ou services<a id=76></a>
+##### Paragraphe III : Dispositions relatives au contrôle de la sécurité et de l'intégrité des installations, réseaux ou services<a id=75></a>
 
 ###### Article R9-7
 
@@ -12356,7 +12388,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L33-10
 
 
-##### Paragraphe III bis : Dispositions relatives à la prévention des menaces affectant la sécurité des systèmes d'information<a id=77></a>
+##### Paragraphe III bis : Dispositions relatives à la prévention des menaces affectant la sécurité des systèmes d'information<a id=76></a>
 
 ###### Article R9-12-1
 
@@ -12565,7 +12597,7 @@ _Créé par_:
   - Décret n°2018-1136 du 13 décembre 2018 - art. 4
 
 
-##### Paragraphe IV : Dispositions relatives à l'attribution du statut de zone fibrée<a id=78></a>
+##### Paragraphe IV : Dispositions relatives à l'attribution du statut de zone fibrée<a id=77></a>
 
 ###### Article R9-13
 
@@ -12584,7 +12616,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L33-11
 
 
-##### Section 2 : Annuaires et services de renseignements.<a id=79></a>
+##### Section 2 : Annuaires et services de renseignements.<a id=78></a>
 
 ###### Article R10
 
@@ -12973,7 +13005,7 @@ _Anciens textes_:
   - Code des postes et des communications électronique - art. R11 (T)
 
 
-##### Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques.<a id=80></a>
+##### Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques.<a id=79></a>
 
 ###### Article R10-12
 
@@ -13194,7 +13226,7 @@ _Codifié par_:
   - Décret n°62-274 du 12 mars 1962
 
 
-##### Section 4 : Interconnexion, accès aux réseaux et aux infrastructures d'accueil<a id=81></a>
+##### Section 4 : Interconnexion, accès aux réseaux et aux infrastructures d'accueil<a id=80></a>
 
 ###### Article R11-1
 
@@ -13427,9 +13459,9 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R1-2-13 (M)
 
 
-##### Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques.<a id=82></a>
+##### Section 5 : Equipements terminaux de communications électroniques et équipements radioélectriques.<a id=81></a>
 
-##### Sous-section 1 : Dispositions générales<a id=83></a>
+##### Sous-section 1 : Dispositions générales<a id=82></a>
 
 ###### Article R20-1
 
@@ -13548,7 +13580,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. R20-25
 
 
-##### Sous-section 2 : Evaluation de la conformité des équipements<a id=84></a>
+##### Sous-section 2 : Evaluation de la conformité des équipements<a id=83></a>
 
 ###### Article R20-4
 
@@ -14460,7 +14492,7 @@ _Codifié par_:
   - Décret n°62-274 du 12 mars 1962
 
 
-##### Sous-section 3 : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de la conformité<a id=85></a>
+##### Sous-section 3 : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de la conformité<a id=84></a>
 
 ###### Article R20-15
 
@@ -14485,7 +14517,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L36-6
 
 
-##### Sous-section 4 : Notification des organismes d'évaluation de la conformité<a id=86></a>
+##### Sous-section 4 : Notification des organismes d'évaluation de la conformité<a id=85></a>
 
 ###### Article R20-16
 
@@ -14542,7 +14574,7 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R20-7 (V)
 
 
-##### Sous-section 5 : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats<a id=87></a>
+##### Sous-section 5 : Reconnaissance en France de l'évaluation de conformité effectuée dans d'autres Etats<a id=86></a>
 
 ###### Article R20-17
 
@@ -14601,7 +14633,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. R20-4
 
 
-##### Sous-section 6 : Conditions de mise en service, de raccordement et d'utilisation des équipements<a id=88></a>
+##### Sous-section 6 : Conditions de mise en service, de raccordement et d'utilisation des équipements<a id=87></a>
 
 ###### Article R20-19
 
@@ -14864,7 +14896,7 @@ _Codifié par_:
   - Décret n°62-274 du 12 mars 1962
 
 
-##### Sous-section 7 : Dispositions pénales<a id=89></a>
+##### Sous-section 7 : Dispositions pénales<a id=88></a>
 
 ###### Article R20-25
 
@@ -14960,7 +14992,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R20-30-1 (M)
 
 
-##### Sous-section 8 : Equipements utilisés dans certaines activités de l'Etat<a id=90></a>
+##### Sous-section 8 : Equipements utilisés dans certaines activités de l'Etat<a id=89></a>
 
 ###### Article R20-28
 
@@ -14990,7 +15022,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. R20-30-1 (M)
 
 
-##### Sous-section 9 : Modalités de formulation des observations sur les nouvelles implantations ou les modifications d'installations radioélectriques soumises à avis ou accord de l'Agence nationale des fréquences<a id=91></a>
+##### Sous-section 9 : Modalités de formulation des observations sur les nouvelles implantations ou les modifications d'installations radioélectriques soumises à avis ou accord de l'Agence nationale des fréquences<a id=90></a>
 
 ###### Article R20-29
 
@@ -15026,6 +15058,27 @@ _Cite_:
 _Anciens textes_:
 
   - Code des postes et des communications électroni... - art. R20-13-1 (T)
+
+
+##### Sous-section 10 : Dispositions relatives aux aéronefs sans personne à bord<a id=91></a>
+
+###### Article R20-29-8
+
+Est punie de l'amende prévue pour les contraventions de la cinquième classe l'émission volontaire d'un signalement
+électronique ou numérique, mentionné au premier alinéa de l'article L. 34-9-2, n'émanant pas d'un aéronef circulant sans
+personne à bord enregistré sur le registre mentionné à l'article R. 124-2 du code de l'aviation civile ou ne correspondant
+pas à un vol effectif, en cours au moment de l'émission de ce signalement électronique ou numérique.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2019-1114 du 30 octobre 2019, ces dispositions entrent en vigueur douze mois après
+leur publication.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1114 du 30 octobre 2019 - art. 1
 
 
 #### Chapitre III : Les obligations de service public.<a id=92></a>
@@ -16045,7 +16098,7 @@ _Codifié par_:
 Un arrêté du ministre chargé des communications électroniques habilite, parmi les fonctionnaires et agents placés sous son
 autorité, celle du président de l'Autorité de régulation des communications électroniques et des postes ou celle du directeur
 général de l'Agence nationale des fréquences, ayant les connaissances techniques et juridiques nécessaires, après avis du
-procureur de la République auprès du tribunal de grande instance de leur résidence administrative, les personnes qui peuvent
+procureur de la République auprès du   tribunal judiciaire de leur résidence administrative, les personnes qui peuvent
 rechercher et constater par procès-verbal les infractions entrant dans le champ d'application de l'article L. 40 du code des
 postes et communications électroniques. 
 
@@ -16055,27 +16108,31 @@ nationale des fréquences désignent, à cet effet, les personnes placées sous 
 L'arrêté mentionné au premier alinéa précise l'objet de l'habilitation et la durée pendant laquelle le fonctionnaire ou
 l'agent a vocation à rechercher et constater les infractions.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Codifié par_:
 
-  - Décret n°62-274 1962-03-12
-
-_Cite_:
-
-  - Code des postes et des communications électroni... - art. L40 (V)
+  - Décret n°62-274 du 12 mars 1962
 
 _Cité par_:
 
   - Code des postes et des communications électroni... - art. R*9-1 (Ab)
   - Code des postes et des communications électroni... - art. R20-44-2 (VD)
   - Code des postes et des communications électroni... - art. R20-44-3 (V)
-  - Code des postes et des communications électroni... - art. R20-44-4 (V)
+  - Code des postes et des communications électroni... - art. R20-44-4 (VD)
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L40
 
 _Anciens textes_:
 
@@ -16085,7 +16142,7 @@ _Anciens textes_:
 ###### Article R20-44-2
 
 Les fonctionnaires et agents habilités par arrêté du ministre chargé des communications électroniques au titre de l'article
-R. 20-44-1 prêtent serment devant le tribunal de grande instance de leur résidence administrative. 
+R. 20-44-1 prêtent serment devant le   tribunal judiciaire de leur résidence administrative. 
 
 La formule du serment est la suivante : 
 
@@ -16093,27 +16150,28 @@ La formule du serment est la suivante :
 jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes
 fonctions. "
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Code des postes et télécommunications R11-11
 
-_Créé par_:
-
-  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
 _Modifié par_:
 
-  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Codifié par_:
 
-  - Décret n°62-274 1962-03-12
+  - Décret n°62-274 du 12 mars 1962
 
 _Cite_:
 
-  - Code des postes et des communications électroni... - art. R20-44-1 (V)
+  - Code des postes et des communications électroniques - art. R20-44-1
 
 
 ###### Article R20-44-3
@@ -16149,17 +16207,22 @@ _Cite_:
 Une carte professionnelle portant mention de l'habilitation, de son objet et de sa durée est délivrée, ou son renouvellement
 assuré, par le ministre chargé des communications électroniques, par le président de l'Autorité de régulation des
 communications électroniques et des postes ou par le directeur général de l'Agence nationale des fréquences, chacun pour ce
-qui le concerne, aux fonctionnaires et agents placés sous leur autorité mentionnés à l'article R. 20-44-1.
+qui le concerne, aux fonctionnaires et agents placés sous leur autorité mentionnés à l'article R. 20-44-1. 
 
-Mention de la prestation de serment est portée sur cette carte par les soins du greffier du tribunal de grande instance. 
+Mention de la prestation de serment est portée sur cette carte par les soins du greffier du   tribunal judiciaire. 
 
 Le modèle de la carte professionnelle est établi par les autorités susmentionnées, chacune pour ce qui la concerne.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code des postes et des communications électroni... - art. R20-44-1 (V)
+  - Code des postes et des communications électroni... - art. R20-44-1 (VD)
 
 _Anciens textes_:
 
@@ -16167,11 +16230,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Codifié par_:
 
-  - Décret n°62-274 1962-03-12
+  - Décret n°62-274 du 12 mars 1962
 
 
 ###### Article R20-44-4-1
