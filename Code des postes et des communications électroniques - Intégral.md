@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2019-10-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -7820,14 +7820,19 @@ _Créé par_:
 
 L'Autorité de régulation des communications électroniques et des postes participe à la lutte contre les services frauduleux
 ou abusifs et les numéros qui permettent d'y accéder. A ce titre, le président de l'Autorité peut saisir le président du
-tribunal de grande instance de Paris aux fins d'ordonner aux opérateurs, sous la forme des référés, le blocage de l'accès aux
-numéros et services frauduleux ou abusifs et la retenue des recettes provenant du raccordement ou d'autres services.
+tribunal de grande instance de Paris aux fins d'ordonner aux opérateurs, en référé, le blocage de l'accès aux numéros et
+services frauduleux ou abusifs et la retenue des recettes provenant du raccordement ou d'autres services.
+
+**Nota:**
+
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes
+introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1012 du 24 août 2011 - art. 28
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 9
 
 
 ###### Article L45
@@ -8334,8 +8339,8 @@ mois avant d'entreprendre des travaux de nature à affecter les ouvrages, préve
 Lorsque, pour l'étude, la réalisation, l'exploitation et l'entretien des installations ou pour les opérations d'entretien
 mentionnées au premier alinéa, l'introduction des agents des exploitants autorisés dans les propriétés privées définies au
 même alinéa est nécessaire, elle est, à défaut d'accord amiable ou de convention conclue entre le propriétaire et
-l'exploitant, autorisée par le président du tribunal de grande instance, statuant comme en matière de référé, qui s'assure
-que la présence des agents est nécessaire.
+l'exploitant, autorisée par le président du tribunal judiciaire, statuant en référé, qui s'assure que la présence des agents
+est nécessaire.
 
 Le bénéficiaire de la servitude est responsable de tous les dommages qui trouvent leur origine dans les équipements du
 réseau. Il est tenu d'indemniser l'ensemble des préjudices directs et certains causés tant par les travaux d'installation et
@@ -8346,10 +8351,8 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 **Nota:**
 
-Conformément aux dispositions du II de l'article 225 de la loi n° 2018-1021 du 23 novembre 2018, les mots "deux" à la
-première phrase du cinquième alinéa telle qu'elle résulte du 3° du I dudit article s'appliquent aux demandes d'autorisation
-pour lesquelles l'information prévue au cinquième alinéa de l'article L. 48 est transmise à compter de la publication de
-ladite loi.
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes
+introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -8369,22 +8372,22 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. L33-6 (VD)
   - Code des postes et des communications électroni... - art. L36-8 (VD)
   - Code des postes et des communications électroni... - art. L45-1 (V)
-  - Code des postes et des communications électroni... - art. L51 (V)
+  - Code des postes et des communications électroni... - art. L51 (M)
   - Code des postes et des communications électroni... - art. R20-58 (V)
   - Code des postes et des communications électronique - art. L32-1 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 9
+
+_Cite_:
+
+  - Code des postes et des communications électroniques - art. L45-9
 
 _Anciens textes_:
 
   - Code des postes, télégraphes et téléphones L86
   - Loi n°51-1606 1951-12-31 art. 3
-
-_Modifié par_:
-
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 225 (V)
-
-_Cite_:
-
-  - Code des postes et des communications électroniques - art. L45-9
 
 
 ###### Article L49
@@ -9880,17 +9883,19 @@ habilités au secret de la défense nationale.
 Les agents de l'Autorité de régulation des communications électroniques et des postes exercent leurs fonctions en toute
 impartialité, sans recevoir d'instruction du Gouvernement, ni d'aucune institution, personne, entreprise ou organisme.
 
-Le président et les membres de l'autorité reçoivent respectivement un traitement égal à celui afférent à la première et à la
-seconde des deux catégories supérieures des emplois de l'Etat classés hors échelle.
-
 Lorsqu'il est occupé par un fonctionnaire, l'emploi permanent de membre de l'autorité est un emploi ouvrant droit à pension
 au titre du code des pensions civiles et militaires de retraite.
+
+**Nota:**
+
+Conformément aux dispositions du VI de l'article 38 de la loi n° 2019-828 du 6 août 2019, ces dispositions entrent en vigueur
+le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2018-607 du 13 juillet 2018 - art. 34
+  - Loi n°2019-828 du 6 août 2019 - art. 38 (V)
 
 _Codifié par_:
 
