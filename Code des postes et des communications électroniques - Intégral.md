@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2020-07-26
+Version Consolidée au 2020-10-25
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -7869,6 +7869,34 @@ technique ou commercial, sous réserve que soit le chiffre d'affaires de l'activ
 nombre d'utilisateurs de la technologie ou du service demeure inférieur à un seuil fixé par décret pendant toute la durée de
 l'expérimentation.
 
+V.- (1)
+
+VI.- Les opérateurs sont tenus d'empêcher l'émission, par leurs clients utilisateurs finals situés en dehors du territoire de
+l'Union européenne, d'appels et de messages présentant comme identifiant d'appelant des numéros issus du plan de numérotation
+établi par l'autorité.
+
+Les opérateurs sont tenus d'interrompre l'acheminement des appels et messages présentant comme identifiant d'appelant des
+numéros issus du plan de numérotation établi par l'autorité qui leur sont transmis au travers d'une interconnexion avec un
+opérateur ne fournissant pas de service téléphonique au public à des utilisateurs finals situés sur le territoire de l'Union
+européenne.
+
+Les deux premiers alinéas du présent VI ne s'appliquent pas à l'acheminement des appels et messages émis par les utilisateurs
+finals d'opérateurs mobiles français en situation d'itinérance internationale.
+
+L'autorité peut définir une catégorie de numéros à tarification gratuite pour l'appelant pour laquelle les opérateurs
+dérogent aux mêmes deux premiers alinéas.
+
+**Nota:**
+
+Conformément au IV de l’article 10 de la loi n° 2020-901 du 24 juillet 2020 :
+
+Le VI de l'article L. 44 du code des postes et des communications électroniques, dans sa rédaction résultant de la présente
+loi, entre en vigueur trois mois après la promulgation de la présente loi et est abrogé trois ans après la promulgation de la
+présente loi.
+
+(1) Le V de l'article L. 44 du code des postes et des communications électroniques, dans sa rédaction résultant de la
+présente loi, entre en vigueur trois ans après la promulgation de la présente loi.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -7896,12 +7924,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1063 du 18 octobre 2019 - art. 3
-
-_Cite_:
-
-  - Code de la consommation
-  - Code des postes et des communications électroniques - art. L32-1
+  - Loi n°2020-901 du 24 juillet 2020 - art. 10 (V)
 
 _Nouveaux textes_:
 
