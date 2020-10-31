@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2020-05-01
+Version Consolidée au 2020-11-01
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -15228,6 +15228,34 @@ publication.
 Toutefois, entrent en vigueur douze mois après la publication du décret précité, les dispositions pour les aéronefs circulant
 sans personne à bord enregistrés en application de l'article L. 6111-1 du code des transports avant la date d'entrée en
 vigueur mentionnée au premier alinéa.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1114 du 30 octobre 2019 - art. 1
+
+
+###### Article R20-29-7
+
+Est puni de l'amende prévue pour les contraventions de la quatrième classe :
+
+1° Le fait de faire circuler un aéronef circulant sans personne à bord en l'absence de dispositif de signalement électronique
+ou numérique mentionné au premier alinéa de l'article L. 34-9-2 ou en l'absence de dispositif de signalement électronique ou
+numérique en état de fonctionnement ;
+
+2° Le fait de faire circuler un aéronef circulant sans personne à bord en l'absence de dispositif de signalement lumineux
+mentionné au premier alinéa de l'article L. 34-9-2 ou en l'absence de dispositif de signalement lumineux en état de
+fonctionnement.
+
+Le propriétaire d'un aéronef circulant sans personne à bord est redevable pécuniairement de l'amende encourue pour les
+infractions mentionnées aux 1° et 2°, à moins qu'il n'établisse l'existence d'un vol ou de tout autre événement de force
+majeure ou qu'il n'apporte tous éléments permettant d'établir qu'il n'est pas l'auteur véritable de l'infraction.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2019-1114 du 30 octobre 2019, ces dispositions entrent en vigueur douze mois après
+leur publication.
 
 **Liens relatifs à cet article**
 
