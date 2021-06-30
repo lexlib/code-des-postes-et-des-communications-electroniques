@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2020-11-01
+Version Consolidée au 2021-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L144)](#1)
     - [LIVRE Ier : Le service postal (art. L1 à L31)](#2)
@@ -521,32 +521,37 @@ _Cité par_:
 
 ###### Article L3-2
 
-Toute prestation de services postaux est soumise aux règles suivantes : 
+Toute prestation de services postaux est soumise aux règles suivantes :
 
-a) Garantir la sécurité des usagers, des personnels et des installations du prestataire de service ; 
+a) Garantir la sécurité des usagers, des personnels et des installations du prestataire de service ;
 
-b) Garantir la confidentialité des envois de correspondance et l'intégrité de leur contenu ; 
+b) Garantir la confidentialité des envois de correspondance et l'intégrité de leur contenu ;
 
 b bis) Garantir le secret des correspondances, ainsi que la neutralité des services postaux au regard de l'identité de
-l'expéditeur et de la nature des envois postaux ; 
+l'expéditeur et de la nature des envois postaux ;
 
 c) Assurer la protection des données à caractère personnel dont peuvent être dépositaires le prestataire du service universel
 ou les titulaires de l'autorisation prévue à l'article L. 3, ainsi que la protection de la vie privée des usagers de ces
-services ; 
+services ;
 
-d) Etre fournie dans les conditions techniques respectant l'objectif de préservation de l'environnement ; 
+d) Etre fournie dans les conditions techniques respectant l'objectif de préservation de l'environnement ;
 
 e) Mettre en place des procédures simples, transparentes et gratuites de traitement des réclamations et respecter les
-intérêts des usagers au regard des obligations fixées à l'article L. 7 ; 
+intérêts des usagers au regard des obligations fixées à l'article L. 7 ;
 
 f) Garantir l'accès aux services et aux installations aux personnes handicapées dans les conditions prévues à l'article L.
-111-7-3 du code de la construction et de l'habitation ; 
+161-1 du code de la construction et de l'habitation ;
 
 g) Respecter les obligations légales et conventionnelles applicables en matière de droit du travail et la législation de
 sécurité sociale en vigueur, sans préjudice des dispositions spécifiques applicables aux personnels ayant, le cas échéant, le
-statut de fonctionnaire ; 
+statut de fonctionnaire ;
 
 h) Respecter l'ordre public et les obligations liées à la défense nationale.
+
+**Nota:**
+
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
 
 **Liens relatifs à cet article**
 
@@ -557,7 +562,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2010-123 du 9 février 2010 - art. 23
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 4
 
 _Cité par_:
 
@@ -12261,33 +12266,33 @@ _Cite_:
 I. – Le contrôle prévu par l'article L. 33-10 est effectué par l'Agence nationale de la sécurité des systèmes d'information
 (ANSSI) ou par un autre service de l'Etat compétent. Toutefois, dans le cas où aucun service de l'Etat ne peut l'effectuer et
 où aucun impératif relatif à la défense nationale ou à la sécurité nationale ne s'y oppose, le contrôle peut être effectué
-par un organisme qualifié indépendant habilité par le ministre chargé des communications électroniques.
+par un organisme qualifié indépendant habilité par le ministre chargé des communications électroniques. 
 
-Afin d'être habilité pour effectuer ces contrôles, un organisme doit satisfaire aux conditions suivantes :
+Afin d'être habilité pour effectuer ces contrôles, un organisme doit satisfaire aux conditions suivantes : 
 
 1° Justifier d'une accréditation pour la réalisation de contrôles de la sécurité et de l'intégrité des installations, réseaux
 et services des opérateurs de communications électroniques délivrée par le Comité français d'accréditation ou par un
 organisme signataire de l'accord européen multilatéral pris dans le cadre de la coordination européenne des organismes
-d'accréditation ;
+d'accréditation ; 
 
-2° Disposer de personnels titulaires de l'habilitation mentionnée à l'article R. 2311-7-1 du code de la défense permettant
-l'accès à des informations classifiées au niveau " Confidentiel Défense ” notamment pour pouvoir réaliser les contrôles des
-opérateurs mentionnés aux articles L. 1332-1 et L. 1332-2 du même code ;
+2° Disposer de personnels titulaires de l'habilitation mentionnée à l'article R. 2311-7 du code de la défense permettant
+l'accès à des informations classifiées au niveau " Secret ” notamment pour pouvoir réaliser les contrôles des opérateurs
+mentionnés aux articles L. 1332-1 et L. 1332-2 du même code ; 
 
 3° Disposer de personnels autorisés à exercer le contrôle prévu au premier alinéa du présent article au terme d'une enquête
-administrative réalisée conformément à l'article L. 114-1 du code de la sécurité intérieure ;
+administrative réalisée conformément à l'article L. 114-1 du code de la sécurité intérieure ; 
 
 4° Justifier de son indépendance vis-à-vis des opérateurs de communications électroniques en démontrant qu'il n'agit pas sous
 le contrôle de l'un d'eux au sens de l'article L. 233-3 du code de commerce ou qu'il ne fournit pas de services ou
-d'équipements utilisés dans les installations, réseaux ou services de ceux-ci.
+d'équipements utilisés dans les installations, réseaux ou services de ceux-ci. 
 
-II. - Les demandes d'habilitation sont adressées à l'administrateur interministériel des communications électroniques de
-défense institué à l'article R. 1334-4 du code de la défense, qui les instruit.
+II.-Les demandes d'habilitation sont adressées à l'administrateur interministériel des communications électroniques de
+défense institué à l'article R. 1334-4 du code de la défense, qui les instruit. 
 
 Au terme de l'instruction le ministre chargé des communications électroniques inscrit l'organisme remplissant les conditions
 mentionnées au I sur une liste des organismes habilités pour effectuer les contrôles mentionnés à l'article L. 33-10 du code
 des postes et des communications électroniques. L'organisme habilité doit porter sans délai à la connaissance du ministre
-toute modification des éléments au vu desquels il a été inscrit sur cette liste.
+toute modification des éléments au vu desquels il a été inscrit sur cette liste. 
 
 Le ministre chargé des communications électroniques tient à jour cette liste et peut à cet effet s'assurer à tout moment que
 l'organisme satisfait aux conditions mentionnées au I. Si tel n'est pas le cas ou en cas de manquement de l'organisme à ses
@@ -12298,7 +12303,7 @@ présenter ses observations dans un délai de quinze jours.
 
 _Modifié par_:
 
-  - Décret n°2017-1870 du 29 décembre 2017 - art. 2
+  - Décret n°2019-1271 du 2 décembre 2019 - art. 3
 
 _Cite_:
 
@@ -12306,7 +12311,7 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L33-10
   - Code de la défense. - art. L1332-1
   - Code de la défense. - art. L1332-2
-  - Code de la défense. - art. R2311-7-1
+  - Code de la défense. - art. R2311-7
   - Code de la sécurité intérieure - art. L114-1
 
 _Cité par_:
